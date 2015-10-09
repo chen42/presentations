@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Building websites with Node &amp; Express</title>
+  <meta charset="utf-8">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <link rel="stylesheet" href="css/reveal.css">
+  <link rel="stylesheet" href="css/theme/black.css" id="theme">
+<!-- ====================== STYLE ====================== -->
+  <style>
+    .showhead #myHead {
+      display: block;
+    }
+    #myHead {
+      display: none;
+    }
+  </style>
+<!-- ====================== STYLE ====================== -->
+</head>
+<body>
+<div class="reveal">
+<!-- ====================== BETWEEN REVEAL AND SLIDES ====================== -->
+<header id="myHead"></header>
+<!-- ====================== BETWEEN REVEAL AND SLIDES ====================== -->
+<div class="slides">
+
+<section class="title">
+  <div>
+    <h1>Node & Express.js</h1>
+  </div>
+</section>
+
+<!-- Slide -->
+<section data-state="showhead">
+<h1>Slide w/Header</h1>
+<ul>
+  <li class="fragment">Bullet 1</li>
+  <li class="fragment">Bullet 2</li>
+  <li class="fragment">Bullet 3</li>
+</ul>
+</section>
+
+<!-- Slide -->
+<section>
+<h1>Another Slide</h1>
+<ul>
+  <li class="fragment">Bullet 1</li>
+  <li class="fragment">Bullet 2</li>
+  <li class="fragment">Bullet 3</li>
+</ul>
+</section>
+
+</div><!-- slides -->
+</div><!-- reveal -->
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script src="js/reveal_defaults.js"></script>
+
+<!-- ====================== SCRIPT ====================== -->
+<script>
+  var myHead = document.querySelector('#myHead');
+  Reveal.addEventListener( 'showhead', function() {
+    myHead.innerHTML="Some Text";
+  }, false );
+</script>
+<!-- ====================== SCRIPT ====================== -->
+</html>

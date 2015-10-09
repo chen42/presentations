@@ -1,0 +1,161 @@
+RatID,BreedingSerial,Sex,CoatColor,EarPunch,ExpTrack,DOT,ScheduleDelay,Note,Batch
+#00077E76C6,53.0,F,BlackHood,LT,LCM,,0,,2
+#00077E8DFA,53.0,F,BrownHood,LM,Behavior,,0,,2
+#00077E8163,53.0,F,BrownHood,,Behavior,,0,,2
+#00077E8E43,53.0,M,BlackHood,RT,LCM,,0,,2
+#00077E9969,53.0,M,BrownHood,RM,Behavior,,0,,2
+#00077E7731,53.0,M,BrownHood,RB,Behavior,,0,,2
+#00077E90EA,55.0,F,Albino,LT,Behavior,,0,,2
+#00077E8223,55.0,F,Brown,LM,LCM,,0,,2
+#00077E993B,55.0,F,Brown,LB,Behavior,,0,,2
+#00077E8278,55.0,F,Brown,LC,Menthol,,0,Menthol U01,2
+#00077E829F,55.0,M,Albino,RT,Behavior,,0,,2
+#00077E76AB,55.0,M,Albino,RM,Menthol,,0,Menthol U01,2
+#00077E90D8,55.0,M,BrownHood,RB,LCM,,0,,2
+#00077E9A30,55.0,M,Black,,Behavior,,0,,2
+#00077E911B,50.0,M,Blackhood,RT,Menthol,,0,Menthol U01,2
+#00077E79D8,50.0,M,Brown,RM,Behavior,,0,,2
+#00077E8FF8,50.0,M,Brownhood,RB,Behavior,,0,,2
+#00077E8336,50.0,M,Brownhood,RC RT,LCM,,0,,2
+#00077E7880,50.0,F,Brownhood,LT,Behavior,,0,,2
+#00077E76EB,50.0,F,Brown,LM,LCM,,0,,2
+#00077E8116,50.0,F,Black,LBLT,Menthol,,0,Menthol U01. implant two RFIDs. the other  number is #00077e8391. discard the other RFID on 5/20/2015.,2
+#00077E76DA,50.0,F,Black,LCLT,Behavior,,0,,2
+#00077E78A1,52.0,M,Blackhood,RT,Behavior,,0,,2
+#00077E7879,52.0,M,Brownhood,RM,LCM,,0,,2
+#00077E81B5,52.0,M,Brownhood,RB,Behavior,,0,,2
+#00077EAF7D,52.0,F,Blackhood,LT,Behavior,,0,,2
+#00077E7673,52.0,F,Brownhood,LM,Behavior,,0,,2
+#00077E76FE,52.0,F,Brownhood,LB,LCM,,0,,2
+#00078A251E,51.0,M,Blackhood,RT,Behavior,,0,,2
+#00078A1065,51.0,M,Brownhood,RM,Behavior,,0,,2
+#00078A19B7,51.0,M,Brown,RC,LCM,,0,,2
+#00078A0841,51.0,F,Blackhood,LT,LCM,,0,,2
+#00078A1083,51.0,F,Brownhood,LM,Behavior,,0,,2
+#00078A0794,51.0,F,Brownhood,LC,Behavior,,0,,2
+#00077EAB4C,54.0,M,Blackhood,RT,Behavior,,0,,2
+#00077EA898,54.0,M,Brownhood,RM,Behavior,,0,,2
+#00077EA7E6,54.0,M,Brown,RC,LCM,,0,,2
+#00077EAD3C,54.0,F,Brown,LT,LCM,,0,,2
+#00077EAE42,54.0,F,Blackhood,LM,Behavior,,0,,2
+#00077EAD25,54.0,F,Brownhood,LC,Behavior,,0,,2
+#00077E67B5,56.0,M,Black,RT,LCM,,0,,2
+#00077E75D9,56.0,M,Blackhood,RM,Behavior,,0,,2
+#00077EA871,56.0,M,Blackhood,RC,Behavior,,0,,2
+#00077EA94E,56.0,F,Black,LT,LCM,,0,,2
+#00077E6705,56.0,F,Blackhood,LM,Behavior,,0,,2
+#00078A0530,56.0,F,Blackhood,LC,Behavior,,0,,2
+#00078A0FB7,57.0,M,Blackhood,RT,Behavior,,0,,2
+#00078A1168,57.0,M,Brownhood,RC,Behavior,,0,,2
+#00078A11D9,57.0,F,Albino,LT,Behavior,,0,,2
+#00078A0A81,57.0,F,Brownhood,LM,Behavior,,0,,2
+#00078A2315,57.0,F,Brownhood,LC,LCM,,0,,2
+#00078A0FD0,58.0,M,Brownhood,RC,Behavior,,0,,2
+#00078A24FA,58.0,F,Brownhood,LT,Behavior,,0,,2
+#00078A22EF,58.0,F,Blackhood,LM,Behavior,,0,,2
+#00078A2648,58.0,F,Black,LC,LCM,,0,,2
+#00078A22CE,59.0,F,Brown,LT,LCM,,0,,2
+#00078A23FA,59.0,F,Brownhood,LM,Behavior,,0,,2
+#00078A0981,59.0,F,Blackhood,LC,Behavior,,0,,2
+#00078A1B05,59.0,M,Brown,RT,LCM,,0,,2
+#00078A0FE1,59.0,M,Brownhood,RM,Behavior,,0,,2
+#00078A0AED,59.0,M,Blackhood,RC,Behavior,,0,,2
+#00078A177E,60.0,M,Brownhood,RT,Behavior,,0,,2
+#00078A020C,60.0,M,Brownhood,RM,LCM,,0,,2
+#00078A17AA,60.0,M,Brownhood,RB,Behavior,,0,,2
+#00077EAEDE,60.0,F,Brownhood,LT,Behavior,,0,,2
+#00078A0057,60.0,F,Brownhood,LM,LCM,,0,,2
+#00078A1014,60.0,F,Brownhood,LC,Behavior,,0,,2
+#00078A18A7,61.0,M,Brown,RT,LCM,,0,,2
+#00077EAF43,61.0,M,Brown,RT RB,Behavior,,0,,2
+#00077EADF0,61.0,M,Brown,RC RT,Behavior,,0,,2
+#00077EAE86,61.0,F,Black,LT,Behavior,,0,,2
+#00077EAE6F,61.0,F,Brown,LM,Behavior,,0,,2
+#00077E669E,61.0,F,Brownhood,LC,LCM,,0,,2
+#00077E66E0,62.0,M,Brownhood,RT,Behavior,,0,,2
+#00077EAEF6,62.0,M,Brownhood,RM,,,0,discard because it escaped from cage and stuck on the cockroach sticker,2
+#00077E77AB,62.0,M,Brownhood,RC,Behavior,,0,"since #00077EADB5 RFID was lost after behavior test, new RFID was implanted",2
+#00077E679B,62.0,F,Brownhood,LT,Behavior,,0,,2
+#00078A1D8B,62.0,F,Brownhood,LC,Behavior,,0,,2
+#00078A0A43,64.0,M,Black,RT,LCM,,0,,2
+#00078A0F5E,64.0,M,Black,RM,Behavior,,0,,2
+#00078A22B5,64.0,M,Black,RB,Behavior,,0,,2
+#00078A261D,64.0,F,Black,LT,Behavior,,0,,2
+#00078A233D,64.0,F,Black,LM,LCM,,0,,2
+#00078A07EC,64.0,F,Black,LC,Behavior,,0,,2
+#00078A260C,68.0,F,Albino,LT,Behavior,,0,,2
+#00078A0A00,68.0,F,Albino,LM,Behavior,,0,,2
+#00078A097C,68.0,F,Blackhood,LC,LCM,,0,,2
+#00078A23F4,68.0,M,Albino,RT,Behavior,,0,,2
+#00078A072B,68.0,M,Albino,RM,Behavior,,0,,2
+#00078A25CF,68.0,M,Brown,RC,LCM,,0,,2
+#00078A2439,65.0,M,Brownhood,RT,Behavior,,0,,2
+#00078A042E,65.0,M,Brownhood,RM,Behavior,,0,,2
+#00078A1F34,65.0,M,Brown,RC,LCM,,0,,2
+#00078A072C,65.0,F,Brown,LT,LCM,,0,,2
+#00078A1594,65.0,F,Brownhood,LM,Behavior,,0,,2
+#00078A264D,65.0,F,Blackhood,LC,Behavior,,0,,2
+#00078A07C5,66.0,F,Albino,RT,Behavior,,0,,2
+#00078A254C,66.0,F,Blackhood,RM,Behavior,,0,,2
+#00078A1C54,66.0,F,Brownhood,RC,LCM,,0,,2
+#00078A23B1,66.0,M,Albino,LT,Behavior,,0,,2
+#00078A2478,66.0,M,Blackhood,LM,LCM,,0,,2
+#00078A0887,66.0,M,Brownhood,LC,Behavior,,0,,2
+#00078A07BB,67.0,M,Blackhood,RT,Behavior,,0,,2
+#00078A2463,67.0,M,Blackhood,RM,LCM,,0,,2
+#00078A251B,67.0,M,Brownhood,RC,Behavior,,0,,2
+#00078A1A6F,67.0,F,Blackhood,LT,Behavior,,0,,2
+#00078A24CA,67.0,F,Brownhood,LC,Behavior,,0,,2
+#00078A1A77,63.0,M,Blackhood,RT,Behavior,,0,,2
+#00078A17E1,63.0,M,Brownhood,RM,Behavior,,0,,2
+#00078A02CB,63.0,M,Brown,RC,LCM,,0,,2
+#00078A0253,63.0,F,Blackhood,LT,Behavior,,0,,2
+#00078A015A,63.0,F,Brownhood,LM,Behavior,,0,,2
+#00078A0039,63.0,F,Brown,LC,LCM,,0,,2
+#00078A0026,74.0,F,Brown,RT,Behavior,,0,,2
+#00078A0332,74.0,F,Brown,RC,Behavior,,0,,2
+#00078A002B,74.0,M,Brown,LT,Behavior,,0,,2
+#00078A0031,74.0,M,Brownhood,LM,LCM,,0,,2
+#00078A0144,74.0,M,Brownhood,LC,Behavior,,0,,2
+#00078A0024,73.0,M,Black,LT,Behavior,,0,,2
+#00078A1A59,73.0,M,Blackhood,LM,LCM,,0,,2
+#00078A02EE,73.0,M,brownhood,LC,Behavior,,0,,2
+#00078A19AD,73.0,F,Brown,RT,Behavior,,0,,2
+#00078A0224,73.0,F,Black,RM,LCM,,0,,2
+#00078A190F,73.0,F,Black,RC,Behavior,,0,,2
+#00078A17FB,71.0,M,Brown,LT,Behavior,,0,,2
+#00078A1963,71.0,M,Brown,LM,Behavior,,0,,2
+#000789FFB2,71.0,F,Brown,RT,Behavior,,0,,2
+#00078A0089,71.0,F,Black,RC,Behavior,,0,,2
+#00078A17A8,70.0,M,Blackhood,RT,LCM,,0,,2
+#00078A013A,70.0,M,Brownhood,RM,Behavior,,0,,2
+#00078A006D,70.0,M,Brown,RC,Behavior,,0,,2
+#00078A17A7,70.0,F,Brownhood,LM,LCM,,0,,2
+#00078A031A,70.0,F,Black,LT,Behavior,,0,,2
+#00078A1855,70.0,F,Brown,LC,Behavior,,0,,2
+#00078A1832,69.0,M,Brown,RT,Behavior,,0,,2
+#00078A1852,69.0,M,Black,RM,Behavior,,0,,2
+#00078A1905,69.0,M,Albino,RC,LCM,,0,,2
+#00078A191F,69.0,F,Blackhood,LT,Behavior,,0,,2
+#00078A00DA,69.0,F,Brown,LM,Behavior,,0,,2
+#00078A1936,69.0,F,Albino,LC,LCM,,0,,2
+#00078A02BE,62.1,M,Brownhood,RT,,,0,"second litter, did not use",2
+#00078A02F9,62.1,M,Brownhood,RM,,,0,"second litter, did not use",2
+#00078A19A7,62.1,M,Brownhood,RC,LCM,,0,,2
+#00078A19AE,62.1,F,Brownhood,LT,LCM,,0,,2
+#00078A0147,62.1,F,Brownhood,LM,,,0,"second litter, did not use",2
+#00078A0118,62.1,F,Brownhood,LC,,,0,"second litter, did not use",2
+#00078A00E2,58.1,M,Brown,RT,,,0,"second litter, did not use",2
+#00078A02C3,58.1,M,Blackhood,RM,LCM,,0,,2
+#00078A1AAB,58.1,M,Black,RC,,,0,"second litter, did not use",2
+#00078A0012,58.1,F,Black,LT,,,0,"second litter, did not use",2
+#00078A004F,58.1,F,Black,LM,,,0,"second litter, did not use",2
+#00078A030F,58.1,F,Blackhood,LC,,,0,"second litter, did not use",2
+#00078A17AE,71.1,F,Black,LTRT,LCM,,0,,2
+#00078A193E,71.1,M,Brownhood,LCRC,LCM,,0,,2
+#00078A0173,72.0,M,Brownhood,RT,Behavior,,0,,2
+#00078A17A5,72.0,M,Brownhood,RM,LCM,,0,,2
+#00078A1716,72.0,M,Blackhood,RB,Behavior,,0,,2
+#00078A0195,72.0,F,Brownhood,LT,Behavior,,0,,2
+#00078A01E8,72.0,F,Brownhood,LM,Behavior,,0,,2
+#00078A0222,72.0,F,Brownhood,LB,LCM,,0,,2
