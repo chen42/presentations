@@ -64,9 +64,6 @@ body {
   color:grey;
   }
 
-.reveal h2{
-   }
-
 /*********************************************
  * OTHER
  *********************************************/
@@ -240,7 +237,7 @@ body {
   margin: 5px 0px;
   background: rgba(255, 255, 255, 0.12);
   border: 1px solid #333;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+  box-shadow: 0 0 20px rgba(50, 10, 10, 0.25); }
 
 .reveal a img {
   -webkit-transition: all 0.15s linear;
