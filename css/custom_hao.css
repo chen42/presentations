@@ -38,10 +38,9 @@
   width:50%;
 }
 
-#drug
 
 #drug{
-	color: darkblue;
+	color: darkorange;
 	font-style:italic;
 	text-transform:capitalize;
 }
