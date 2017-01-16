@@ -219,12 +219,12 @@ Prevents virus from entering the host cell <br>
 	* In combination for patients failing other antiretroviral drugs
 * Adverse effects
 	* Elevated hepatic enzyme, hepatitis 
-	* Systemic allergic reaction, cough, fever  
+	* Systemic allergic reaction, cough, fever 
 	* Myocardial infarction or ischemia (1.3%) 
 * Drug interactions
 	* CYP3A inhibitors or inducers
-		* Reduce  dosage  when <span id="drug">  ritonavir </span>  or <span id="drug">  cobicistat </span> is coadministered 
-		* Increase  dosage with <span id="drug"> efavirenz </span> 
+		* Reduce dosage when <span id="drug"> ritonavir </span> or <span id="drug"> cobicistat </span> is coadministered 
+		* Increase dosage with <span id="drug"> efavirenz </span> 
 
 ---
 ### [Nucleoside Reverse Transcriptase Inhibitors (NRTIs)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455702824000435?scrollTo=%23hl0000874)
@@ -304,12 +304,12 @@ Prevents virus from entering the host cell <br>
 
 | Parameter | Zidovudine | Lamivudine | Stavudine | Dadanosine | Abacavir |
 |---|---|---|---|---|---|
-|Oral bioavailability, %| 60 | 80 | 80-90| 40 | > 70 |  
-|Effect of meals on AUC| &darr; 24 (high fat) | &mdash;  | &mdash; | &darr; 50% (acidity) | &mdash; | 
+|Oral bioavailability, %| 60 | 80 | 80-90| 40 | > 70 | 
+|Effect of meals on AUC| &darr; 24 (high fat) | &mdash; | &mdash; | &darr; 50% (acidity) | &mdash; | 
 |Plasma t&frac12; emlim, h| 0.8-1.9 | 5-7 | 1.4 | 1.0 | 0.8-1.5| 
-|Intracellular t&frac12; elim, triphosphate, h| 3-4 | 12 | 3.5 | 8-24 | 3 |   
+|Intracellular t&frac12; elim, triphosphate, h| 3-4 | 12 | 3.5 | 8-24 | 3 | 
 |Plasma protein binding, %| 20-38 | < 35 | < 5 | < 5 | 50 | 
-|Metabolism, %|  60-80 <br> glucuronidation | 20-30 | 80 | 50 <br>(purine metabolism) | > 80 | 
+|Metabolism, %| 60-80 <br> glucuronidation | 20-30 | 80 | 50 <br>(purine metabolism) | > 80 | 
 |Renal excretion, %, parent drug| 15 | 70 | 40 | 20-50 | < 5 |
 ||
 
@@ -323,7 +323,7 @@ AUC, area under plasma conc.-time curve; t1/2elim, half-life of elimination; 
 	* Rash; Gastrointestinal distress
 	* [Lactic acidosis](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/68/hiv-and-lactic-acidosis), [hepatic steatosis](http://medical-dictionary.thefreedictionary.com/Hepatic+steatosis) 
 		* higher incidence with <span id="drug"> stavudine 
-	* [Lipodystrophy](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/61/hiv-and-lipodystrophy):  fat loss and/or buildup or both.  
+	* [Lipodystrophy](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/61/hiv-and-lipodystrophy): fat loss and/or buildup or both. 
 		* Including central obesity, dorsocervical fat enlargement ([buffalo hump](https://www.ncbi.nlm.nih.gov/pubmed/10509567)), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
 		* Most common with <span id="drug"> stavudine </span> and <span id="drug"> zidovudine </span> 
 
@@ -427,15 +427,14 @@ AUC, area under plasma conc.-time curve; t1/2elim, half-life of elimination; 
 
 
 --- 
-
-### tenofovir disoproxil  and emtricitabine
+### tenofovir disoproxil and emtricitabine
 #### (Truvada)
 
 * Better than Abacavir-Lamivudine for initial therapy 
 	* Extending time to virologic failure and first adverse event 
 	* [NEJM Dec 3 2009](https://www.ncbi.nlm.nih.gov/pubmed/?term=19952143)
 * Effective as antiretroviral chemoprophylaxis before exposure
-	* [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279
+	* [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279)
 
 ---
 ### Non Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
@@ -490,7 +489,7 @@ AUC, area under plasma conc.-time curve; t1/2elim, half-life of elimination; 
 |Autoinduction of metabolism | No | Yes | Yes |
 |CYP3A modulation | Inhibitor | Inducer | Inducer 
 ||
-\* values after multible doses. T&frac12; elim, half-life of elimination  
+\* values after multible doses. T&frac12; elim, half-life of elimination 
 
 
 ---
@@ -544,16 +543,16 @@ AUC, area under plasma conc.-time curve; t1/2elim, half-life of elimination; 
 	Glucuronidation and by CYP3A<br>
 	Feces and urine <p>
 **Resistance**<br>
-	<span id="drug"> Dolutegravir </span>  has less resistance overlap with <span id="drug">  Raltegravir </span>  than does <span id="drug"> elvitegravir </span> . 
+	<span id="drug"> Dolutegravir </span> has less resistance overlap with <span id="drug"> Raltegravir </span> than does <span id="drug"> elvitegravir </span> . 
 </div>
 ---
 ### Integrase Inhibitor 
 
 * Indication
-	* <span id="drug">  Dolutegravir </span> or <span id="drug">  Elvitegravir </span>  is recommended for naive patients as part of combination ART   
+	* <span id="drug"> Dolutegravir </span> or <span id="drug"> Elvitegravir </span> is recommended for naive patients as part of combination ART 
 * Adverse effects
 	* Diarrhea, nausea, headache, and fever
-	* Hypersensitivity to <span id="drug">  Dolutegravir </span> include serious rash,  blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
+	* Hypersensitivity to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
 * Drug interactions
 	* Not inducer, inhibitor or substrate of CYP3A4
 	* Metabolized by UDP glucuronosyltransferase (UGT)
@@ -611,7 +610,7 @@ PIs can be peptidomimetic (structural similarities to the cleavage site of HIV p
 	* Renal excretion is minimal
 		* No adjustments needed for renal dysfunctions
 	* Potent inhibitors of CYP3A4
-		* <span id="drug"> Ritonavir </span> used to increase (i.e. "boost")  plasma concentration of other PIs except <span id="drug"> nelfinavir </span> 
+		* <span id="drug"> Ritonavir </span> used to increase (i.e. "boost") plasma concentration of other PIs except <span id="drug"> nelfinavir </span> 
 		* Toxic adverse effects related to drug accumulation due to PI-mediated inhibition of hepatic P450 system
 		 
 
@@ -668,7 +667,7 @@ Saquinavir data refer to soft-gel capsule formulation
 * Ritonavir 
 	* Hepatotoxicity at high doses
 * Indinavir
-	* [Nephrolithiasis/urolithiasis](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323280488008241):  patients should drink 2 liters/day
+	* [Nephrolithiasis/urolithiasis](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323280488008241): patients should drink 2 liters/day
 	* [Alopecia](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/medical_topic/21-s2.0-1014848) 
 * Atazanavir
 	* Hyperbilirubinemia due to inhibition of UDP glucoronosyl transferase 
@@ -682,7 +681,7 @@ Saquinavir data refer to soft-gel capsule formulation
 * Achieves faster virologic response than control PIs. 
 * Can be used to treat patients resist to other PIs. 
 * Must be used in combination in an antiviral regimen.
-	* requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> )  
+	* requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> ) 
 * Recommended for treatment-naive patients
 
 ---
@@ -695,7 +694,7 @@ Saquinavir data refer to soft-gel capsule formulation
 	* Inhibition of HIV protease
 * Resistance
 	* Mutations of the protease gene 
-		*	<span id="drug"> Indinavir, ritonavir </span> and <span id="drug"> lopinavir </span>  require more mutations than other PIs
+		*	<span id="drug"> Indinavir, ritonavir </span> and <span id="drug"> lopinavir </span> require more mutations than other PIs
 * ADME
 	* Poor systemic bioavailability
 	* All PIs metabolized in liver by P450 enzymes
@@ -725,19 +724,19 @@ Saquinavir data refer to soft-gel capsule formulation
 #### treatment-naive patients
 
 * Integrase inhibitor-based regimens 	
-	* <span id="drug">  Dolutegravir / abacavir / lamivudine </span>  only for  HLA-B\*5701 negative patients 
-	* <span id="drug">  Dolutegravir </span>   and 
-		* <span id="drug"> tenofovir disoproxil fumarate /emtricitabine </span>   
-		* <span id="drug"> tenofovir alafenamide / emtricitabine </span>  
-	* <span id="drug"> Elvitegravir / [cobicistat](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3929) / tenofovir alafenamide / emtricitabine </span>  
-	* <span id="drug"> Elvitegravir / cobicistat / tenofovir disoproxil fumarate / emtricitabine </span>  
-	* <span id="drug">  Raltegravir </span>  and 
-		* <span id="drug">  tenofovir disoproxil fumarate / emtricitabine </span> 
-		* <span id="drug">  tenofovir alafenamide / emtricitabine </span>  
-* Protease Inhibitor-Based Regimens
-	* <span id="drug"> Darunavir / ritonavir </span>  and
+	* <span id="drug"> Dolutegravir / abacavir / lamivudine </span> only for HLA-B\*5701 negative patients 
+	* <span id="drug"> Dolutegravir </span> and 
+		* <span id="drug"> tenofovir disoproxil fumarate /emtricitabine </span> 
+		* <span id="drug"> tenofovir alafenamide / emtricitabine </span> 
+	* <span id="drug"> Elvitegravir / [cobicistat](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3929) / tenofovir alafenamide / emtricitabine </span> 
+	* <span id="drug"> Elvitegravir / cobicistat / tenofovir disoproxil fumarate / emtricitabine </span> 
+	* <span id="drug"> Raltegravir </span> and 
 		* <span id="drug"> tenofovir disoproxil fumarate / emtricitabine </span> 
-		* <span id="drug"> tenofovir alafenamide / emtricitabine  </span> 
+		* <span id="drug"> tenofovir alafenamide / emtricitabine </span> 
+* Protease Inhibitor-Based Regimens
+	* <span id="drug"> Darunavir / ritonavir </span> and
+		* <span id="drug"> tenofovir disoproxil fumarate / emtricitabine </span> 
+		* <span id="drug"> tenofovir alafenamide / emtricitabine </span> 
 
 ---
 ### Agents to treat
@@ -745,4 +744,457 @@ Saquinavir data refer to soft-gel capsule formulation
 #### Varicella Zoster Virus (VZV)
 #### Cytomegalovirus (CMV)
 
+
+
+
+---
+### Nucleoside Analogs
+
+<div id="left50">
+
+<ul>
+<li><span id="drug">Acyclovir</span> (Zovirax)
+<li><span id="drug">Valcyclovir</span> (Valtrex)
+<li><span id="drug">Penciclovir</span> (Denavir)
+<li><span id="drug">Famciclovir</span> (Famvir)
+<li><span id="drug">Ganciclovir</span> (Cytovene)
+<li><span id="drug">Valganciclovir</span> (Valcyte)
+<li><span id="drug">Cidofovir</span> (Vistide)
+<li><span id="drug">Foscarnet</span> (Foscavir)
+</ul>
+</div>
+
+<div id="right50">
+<ul>
+<li> Mechanism of action 
+<ul><li> Inactivation of viral DNA polymerase through direct binding and competition for dNTPs.
+<li> Inducing viral DNA chain termination 
+</ul>
+</div>
+
+
+---
+
+### Nucleoside and Nonnucleoside Analogs
+#### Inhibitors of Viral DNA Replication
+
+![](./images/antiviral/dna_virus.png) 
+
+
+---
+
+
+### Mechanisms of Acitvation of Nucleoside Analogs
+
+![](./images/antiviral/nucleoside_activation.png)
+
+---
+
+### Nucleoside analogues
+
+* Resistance: 
+	* Mutated viral DNA polymerase 
+	* Absence of viral thymidine kinase (TK) 
+	* Altered viral TK substrate specificity
+* Drug selectivity:
+	* The virus in infected cells activates the drug to a toxic form
+		* Uninfected cell does not activate drug.
+	* Preferential affinity of acyclovir triphosphate for viral DNA polymerase rather than cellular enzyme. 
+
+---
+### Acyclic Purine Nucleoside Analogues
+
+#### Acyclovir 
+#### Valacyclovir (L-valyl ester prodrug)
+* ADME
+	* Hydrolyzed to acyclovir after oral administration 
+	* Provides increased bioavailability
+* Indication
+	* Herpes simplex keratitis, latent HSV, fever blisters (H. labialis), genital herpes, HSV encephalitis
+	* VZV
+	* CMV-positive bone marrow transplant recipients
+* Adverse effects
+	* Usually well tolerated
+	* Headache, nausea, diarrhea
+	* Following high IV dose
+		* Reversible renal dysfunction (crystalline nephropathy)
+		* Neurologic toxicity (tremors, delirium, seizures)
+---
+
+#### Ganciclovir
+#### Valganciclovir (L-valyl ester prodrug)
+* ADME
+	* Hydrolyzed by esterases following oral administration to ganciclovir
+* Indications
+	* CMV retinitis in AIDS patients
+		* Activity 100X greater than Acyclovir
+	* CMV prophylaxis - oral
+* Adverse effects
+	* Myelosuppression is the most common 
+
+---
+### Antiherpesvirus Agents 
+#### Penciclovir
+#### Famciclovir (diacetyl ester prodrug)
+* ADME
+	* Acyclic guanine analog
+* Mechanism of action 
+	* Competitive inhibition of viral DNA polymerase
+	* Does not result in chain termination
+* Indications
+	* Oral alternative to acyclovir (HSV, VZV, EBV, HBV)
+	* Effective against HBV following liver transplant
+* Adverse effects
+	* Well tolerated
+	* Headaches, nausea, diarrhea
+
+---
+
+### Antiherpesvirus Agents 
+#### Cidofovir
+* Pharmacological properties
+	* Cytidine nucleotide analog
+	* Not phosphorylated by viral TK
+	* Diphosphate is the active form
+	* Inhibits herpervirus DNA polymerase >> human DNA polymerase
+* Indications
+	* Acyclovir resistant HSV and VZV strains
+	* IV cidofovir delays progression of CMV retinitis in HIV+ patients
+* Adverse effects
+	* Nephrotoxicity,neutropeina, ocular hypotony
+	* Potential human carcinogenFoscarnet
+
+---
+### A Non-nucleoside Anti-HSV Agent
+#### Foscarnet 
+
+* Mechanism of Action
+	* Inorganic pyrophosphate analog
+	* Inhibits HSV DNA polymerase and HIV-1 RT
+	* Binds to pyrophosphate binding site of polymerase
+	* Inhibits cleavage of pyrophosphate from deoxyribonucleotide triphosphate (dNTP)
+	* Blocks viral DNA synthesis
+* Indications
+	* Nucleoside-resistant HSV, VZV, and CMV infections
+	* Effective in CMV retinitis
+		* including progressive disease due to acyclovir and ganciclovir-resistant strains of HSV and VZV
+	* Effective against HIV by inhibiting RT
+* Adverse effects
+	* Renal failure or dysfunction 
+	* Nausea, vomiting, anemia and fatigue
+
+---
+
+### Phamacokinetics of antiherpesvirus Agents
+
+|Parameter|Acyclovir |Famciclovir| Ganciclovir| Cidofovir | Foscarnet|
+|---|---|---|---|---|---|
+|Oral bioavailability| 10-30% | 65-77% | < 10% | < 5% | 9-17%| 
+|Effect of meal on AUC| 18% <br> heavy meal | &mdash; | &darr; 20% | &mdash; | Uncertain |
+|Plasam T&frac12;elim h| 2.5-3 | 2 | 2-4 | 2-3 | 4-8 (initial)|
+|Intracellular T&frac12; of triphosphate h| 1 | 7-20 | > 24 | 17-56 | Not applicable | 
+|CSF/plasma ratio| 0.5 | Uncertain | 0.2-0.7 | Uncertain | 0.7| 
+|Protein binding| 9-34% | < 20% | 1-2%| < 6%| 15%|
+|Metabolism | 15% | 5% | Negligible | Negligible |Negative|
+|Renal excretion (parent drug) | 60-90% | 70% | > 90% | > 90% | > 80%| 
+|Dose adjustment | Clcr < 50 (IV) <br> CLCr < 25 (PO)| CLcr < 60| CLcr < 80| Scr > 1.5mg/dl <br> CLCr < 55| CLcr < 58-67|
+||
+AUC, area under curve; T&frac12;, half-life of elimination: CLcr, creatinine clearance (ml/min), Scr, serum creatinine; CSF, cerebrospinal fluid
+
+---
+
+### Inhibitors of Viral DNA Replication in Brief
+* Indications
+	* HSV, CMV, and VZV infections 
+* Mechanism of action
+	* Inhibit viral DNA polymerases
+* Resistance
+	* Mutations of the viral polymerase gene
+	* Deficiency of viral TK
+* ADEM
+	* Bioavailability varies. 
+	* Renal excretion of unmetabolized parent drug through glomerular filtration -- Adjust dose
+* Adverse effects
+	* Generally well tolerated
+	* Ganciclovir -- myelosuppressant and has teratogenic potential
+	* Cidofovir and Foscarnet -- nephrotoxic
+
+---
+### Anti-Hepatitis Agents
+
+* <span id="drug">Entecavir</span> (Baraclude)
+* <span id="drug">Adefovir</span> (Hepsera)
+* <span id="drug">Tenofovir</span> (Viread)
+* <span id="drug">Ribavirin</span> (Virazole)
+* <span id="drug">Interferon alfa-2a</span> (Roferon) and -2b (Intron A)
+* <span id="drug">Peginterferon alfa-2a</span> (Pegasys) and alfa-2b (PegIntron)
+
+---
+
+### Entecavir
+
+* Nucleoside analog of guanosine
+* Inhibits all 3 activities of HBV polymerase
+	* Base priming
+	* Reverse transcription
+	* DNA synthesis of positive strand
+* Equally active against lamivudine-resistant HBV
+	* May have slightly higher barrier to resistance than lamivudine
+* Not clinically relevant against HIV
+
+---
+
+### Entecavir
+
+* Oral bioavailability is 100%
+	* Tablets and liquid form are interchangeable
+	* Absorption is affected by food (decreased <40%)
+		* Take on empty stomach (2 hrs before or 2 hrs after meal)
+* Not metabolized - not substrate for CYP450
+	* No dosage alteration for hepatic impairment
+* Excreted by kidneys (both glomerular filtration and tubular secretion)
+	* With CrCl<50 ml/min, dose should be modified
+	* Co-administration with other drugs that reduce renal function, may increase conc of entecavir or other drug
+---
+### Entecavir
+
+* Adverse effects
+	* Generally well tolerated
+	* Elevation of hepatic enzymes may occur
+	* HBV exacerbation upon discontinuation of treatment
+		* Monitor hepatic function for several months and re-initiate therapy if warranted
+	* lactic acidosis with hepatic steatosis due to mitochondrial toxicity (less common than for HIV-patients)
+	* Most commonly reported – headache, fatigue, dizziness
+---
+### Adefovir (Hepsera) -- Anti HBV
+* Nucleotide analog of adenosine monophosphate
+* Mechanism of action 
+	* Following formation of the diphosphate by cellular kinases, it inhibits HBV DNA polymerase
+	* ~10-fold more active for viral DNA polymerase than for the human DNA polymerase
+	* No cross resistance of lamivudine-resistant HBV strains
+* ADME
+	* Oral bioavailability (60%), unaffected by meals
+	* Very low protein binding, <4%
+	* Renal excretion -- adjust dose with renal function impairment
+
+---
+
+### Adefovir (Hepsera) -- Anti HBV
+* Adverse Effects
+	* Exacerbations of hepatitis after discontinuation of Treatment 
+	* Nephrotoxicity 
+	* Lactic acidosis/severe hepatomegaly with steatosis
+* Drug Interactions
+	* The combination of adefovir with lamivudine showed additive anti-HBV activity
+	* Increased AUC when co-administered with ibuprofen
+		* Increase in bioavailability
+
+
+---
+### Ribavirin
+* Nucleoside analog of guanosine
+* Mechanism of action 
+	* Interference with synthesis of GTP
+	* Competitively inhibits GTP 5’ capping of viral mRNA
+* ADME
+	* Oral bioavailability increased with fatty meals, decreased with antacids
+	* Ribavirin triphosphate concentrates in RBC
+	* Renal clearance decreased with CRcl <30
+
+---
+
+### Ribavirin
+* Adverse effects
+	* Dose dependent hemolytic anemia (10-20% of patients) with systemic use
+		* Extravascular hemolysis
+		* Bone morrow suppression
+* Aerosolized form well tolerated
+	* Possible mild conjunctival irritation
+	* Reversible deterioration in pulmonary function
+* Teratogenic in animals
+
+---
+### Tenofovir disoproxil fumarate
+
+* Nucleotide reverse transcriptase inhibitor
+	* A nucleotide analog of adenosine monophosphate
+* Properties
+	* First nucleotide reverse transcriptase inhibitor
+	* Approved for use in combination with other anti-HIV agents
+	* Requires only two intracellular phosphorylation steps for activation
+		* More rapid and complete conversion to active triphosphate
+* Mechanism of action
+	* Inhibits viral reverse transcriptase
+* Resistance
+	* Thymidine analogue mutations
+		* Cross resistance with preexisting zidovudine-associated mutations
+	* Not effected by lamivudine-abacavir associated mutationse
+---
+### Tenofovir
+* Administration
+	* Once daily dosing
+	* Increased bioavailability taken with a meal
+* Metabolism
+	* Not substrate for P450
+	* No adverse drug interactions with other p450 substrate drugs
+* Adverse effect: 
+	* Most commonly (>3%) in clinical trials: nausea, diarrhea, asthenia, headache, vomiting, flatulence, abdominal pain, and anorexia. 
+	* Increase in liver enzymes
+	* watch for hepatitis flare if discontinued in patients with chronic HBV infection.
+---
+### Common to all the nucleoside analogs
+
+<span id="drug">Entecavir </span> <span id="drug">Adefovir </span> <span id="drug">Tenofovir </span> <span id="drug">Telbivudine </span>
+
+* Lactic acidosis and severe hepatomegaly with steatosis is a more common adverse effect of the nucleoside analogs in the treatment of HIV, where they are always used in combination therapy, but these effects are much less likely to occur with monotherapy for treatment of hepatitis B. 
+
+* Severe acute exacerbations of hepatitis B have been reported in patients who have stopped taking the drug.
+
+---
+
+#### Inhibitors of transcription
+
+* Interferons (IFNs)
+	* Potent cytokines that posses antiviral, immunomodulating and antiproliferative actions
+	* Inhibition of viral replication
+	* Activates ribonucleases to degrade viral RNA
+	* Blocks protein synthesis – inhibits translation initiation complex
+* Three major classes of human IFNs: alpha, beta (Type I) and gamma (Type II)
+
+|Interferon|Source|Receptor|
+|---|---|---|
+|alpha|Leukocytes|IFNAR1, IFNAR2|
+|beta| fibroblasts|IFNAR1, IFNAR2|
+|gamma|Th1, NK cells|IFNGR1, IFNGR2|
+||
+
+---
+### Interferon alpha-2
+
+* ADME
+	* Administered i.m. or s.c.
+	* High bioavailability
+	* Kidney may be main site of metabolism
+	* Eliminated in the urine (T&frac12; = 2 hr)
+	* Pegylated interferons have longer T1/2, & less frequent dosing = more effective
+* Adverse effects
+	* Flu-like syndrome: nausea, vomiting, anorexia
+	* Cardiovascular abnormalities
+		* Hypotension, arrhythmia, tachycardia, cardiomyopathy
+	* Myelosuppression
+	* Neurotoxicity
+	* Hepatotoxicity
+	* Elevated serum creatinine, proteinuria
+	* Should not be administered during pregnancy
+
+---
+
+### Interferon alpha-2
+* Drug interactions
+	* Increases in theophylline levels
+	* Increases in methadone levels
+	* Co-administration with didanosine increases risk of hepatic failure
+	* Co-administration with zidovudine can increase severity of cytopenias.
+	* Additive myelosuppressive effects when combined with some anticancer agents or immunosuppressives.
+* Indications
+	* Chronic HBV, HCV, HPV and HH-V8 (Kaposi sarcoma)
+	* In combination with Ribavirin (and protease inhibitors) for HCV
+
+---
+
+## Antiinfluenza Agents
+
+* Uncoating inhibitors
+	* <span id="drug"> Amantadine</span> (Symadine, Symmetrel)
+	* <span id="drug"> Rimantadine</span>  (Flumadine)
+ 
+* Virus release inhibitors
+	* <span id="drug"> Zanamivir</span>  (Relenza)
+	* <span id="drug">  Oseltamivir</span>  (Tamiflu)
+
+---
+### Mechanism of Action of Antiinfluenza Agents
+
+![](./images/antiviral/flu.png)
+
+---
+
+## Antiinfluenza Agents
+
+* <span id="drug"> Amantadine, rimantadine </span> 
+	* Inhibitors of uncoating of the virus
+	* Act on maturation of influenza HA glycoprotein
+	* Binding to the ion channel formed by the M2 transmembrane protein in the envelope of the virus 
+	* Inhibiting H+ ion transport that acidifies the interior of the virion
+* <span id="drug"> Zanamivir, oseltamivir </span> 
+	* Inhibitors of influenza neuraminidase. 
+	* The influenza neuraminidase cleaves terminal sialic acid residues 
+	* Destroying the receptors recognized by viral hemaglutinin (HA) which are present on the cell surface 
+	* Reaction essential for release of virus from infected cells. 
+	* Inhibits neuraminidase activity promoting viral aggregation and reducing viral spread
+
+---
+### Amantadine and rimantadine 
+
+#### Inhibitors of Uncoating
+
+(tricyclic amines)
+
+* Indications
+	* Oral prophylaxis against influenza A (but not influenza B).     
+	* Good alternative to vaccine in immunocompromised patients  and the elderly. 
+* Mechanism of action
+	* Inhibit viral replication by inhibiting uncoating of the virus.
+* Resistance
+	* Single amino acid substitution at the level of the  transmembrane region of M2.
+* Adverse effects  
+	* Amantadine can cause anorexia, nausea and in the elderly minor CNS effects such as nervousness, anxiety, insomnia and lightheadedness. 
+	* Rimatandine has similar effects but a lower risk of CNS adverse effects.
+
+---
+
+### <span id="drug">  Zanamivir </span>  and <span id="drug"> Oseltamivir  </span> 
+
+#### Inhibitors of Virus Release
+
+Sialic acid analog inhibitors of influenza A and B neuraminidase 
+
+* Mechanism of action
+	* Competitive inhibitors of influenza neuraminidase. 
+* Indications
+	* Effective against influenza A and B viruses that are 			resistant to amantadine and rimantadine
+* Resistance
+	* HA or neuraminidase mutations
+* Adverse effects: 
+	* Zanamivir is orally inhaled and causes nasal and throat discomfort. 
+	* Oseltamivir is taken orally and can cause nausea and vomiting.
+---
+
+### Characteristics of Antiinfluenza Agents
+
+|Parameter|Amantadine|Rimantadine| Zanamivir|Oseltamivir|
+|---|---|---|---|--|
+|Spectrum| A|A|A,B|A,B|
+|Route|Oral|Oral|Inhaled|Oral|
+|Oral bioavailability|50-90%|>90%|<5%\*|~80%|
+|Effect of meals on AUC|Negligible| Negligible|Not applicable| Negligible|
+|Plasma T&frac12; h| 12-18|24-36|2.5-5|6-10|
+|Protein binding, %| 67|40|<10|3|
+|Metabolism|<10|~75|Negligible|Negligible|
+|Renal excretion, %| 50-90| ~25|100|95|
+|Does adjustment| CLcr <80%<br>Age>65years| CLcr <10<br>Age>65years|None|CLcr<30|
+||
+\* Systemic absorption 4% to 17% after inhalation
+
+
+---
+
+### Anti-infection Drugs with Overlapping toxicities
+
+|Bone Marrow suppression| Peripheral neuropathy| pancreatitis| Nephrotoxicity | Hepatoxicity| Rash | Diarrhea | Ocular Effects|
+|---|---|---|---|---|---|---|---|
+|Zidovudine| Didanosine Stavudine Zalcitabine| Didanosine Lamivudine (children) ritonavir stavudine | Indinavir | Delavirdine efavirenz nevirapine NRTIS PIs | Abacavir amprenavir NNRTIS | didanosine nelfinavir ritonavir lopinavir/ritonavir | Didanosine|
+|Cidofovir Ganciclovir interon-a Ribavirin| | | Adefovir Cidofovir Foscarnet| | | |Cidofovir|
+|dapsone flucytosine rifabutin | isoniazid | pentamidine | pentamidine |rifabutin Rifampin | dapsone | | rifabutin| 
+||
 
