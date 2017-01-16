@@ -797,22 +797,27 @@ Saquinavir data refer to soft-gel capsule formulation
 	* Absence of viral thymidine kinase (TK) 
 	* Altered viral TK substrate specificity
 * Drug selectivity:
-	* The virus in infected cells activates the drug to a toxic form
+	* The virus in infected cells activates the drug to an  active form
 		* Uninfected cell does not activate drug.
 	* Preferential affinity of acyclovir triphosphate for viral DNA polymerase rather than cellular enzyme. 
+	
 
 ---
-### Acyclic Purine Nucleoside Analogues
 
 #### Acyclovir 
-#### Valacyclovir (L-valyl ester prodrug)
+#### [Valacyclovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-636) (L-valyl ester prodrug of acyclovir)
+	
+
+* Mechanism of action 
+	* <span id="drug"> acyclovir </span> is phosphorylated intracellularly by  viral thymidine kinases (TK), then by cellular kinases to the triphosphate state, which terminates DNA replication when incorported into the viral DNA.   
 * ADME
-	* Hydrolyzed to acyclovir after oral administration 
-	* Provides increased bioavailability
+	* Valacyclovir is hydrolyzed to acyclovir after oral administration 
+		* Provides increased bioavailability
 * Indication
-	* Herpes simplex keratitis, latent HSV, fever blisters (H. labialis), genital herpes, HSV encephalitis
-	* VZV
+	* Herpes simplex keratitis, fever blisters (H. labialis), genital herpes, HSV encephalitis
+	* VZV 
 	* CMV-positive bone marrow transplant recipients
+	* Only effective against actively replicating virus. Does not eliminate the viral genome.  
 * Adverse effects
 	* Usually well tolerated
 	* Headache, nausea, diarrhea
@@ -822,27 +827,30 @@ Saquinavir data refer to soft-gel capsule formulation
 ---
 
 #### Ganciclovir
-#### Valganciclovir (L-valyl ester prodrug)
+#### [Valganciclovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2584) (L-valyl ester prodrug)
+
+
 * ADME
-	* Hydrolyzed by esterases following oral administration to ganciclovir
+	* <span id="drug"> Valganciclovir </span> is hydrolyzed by esterases following oral administration to <span id="drug"> ganciclovir </span> 
 * Indications
 	* CMV retinitis in AIDS patients
-		* Activity 100X greater than Acyclovir
+		* Activity 100 x greater than <span id="drug">  Acyclovir </span> 
 	* CMV prophylaxis - oral
 * Adverse effects
-	* Myelosuppression is the most common 
-
+	* Neutropenia,  anemia, bone marrow suppression. 
 ---
-### Antiherpesvirus Agents 
+
 #### Penciclovir
-#### Famciclovir (diacetyl ester prodrug)
+#### [Famciclovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-240) (diacetyl ester prodrug)
+
+
 * ADME
+	* Longer intracellular half-life than <span id="drug"> Acyclovir </span>, but with lower affinity for the viral enzyme 
 	* Acyclic guanine analog
 * Mechanism of action 
 	* Competitive inhibition of viral DNA polymerase
-	* Does not result in chain termination
 * Indications
-	* Oral alternative to acyclovir (HSV, VZV, EBV, HBV)
+	* Oral alternative to Acyclovir
 	* Effective against HBV following liver transplant
 * Adverse effects
 	* Well tolerated
@@ -850,23 +858,27 @@ Saquinavir data refer to soft-gel capsule formulation
 
 ---
 
-### Antiherpesvirus Agents 
-#### Cidofovir
-* Pharmacological properties
-	* Cytidine nucleotide analog
+#### [Cidofovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-125)
+
+
+* Mechanism of action 
+	* Cytidine nucleo<font color="darkorange">t</font>ide analog
 	* Not phosphorylated by viral TK
-	* Diphosphate is the active form
 	* Inhibits herpervirus DNA polymerase >> human DNA polymerase
+* ADME	
+	* Once weekly dosing
 * Indications
-	* Acyclovir resistant HSV and VZV strains
-	* IV cidofovir delays progression of CMV retinitis in HIV+ patients
+	* <span id="drug"> Ganciclovir, foscarnet, and acyclovir </span> -resistant CMV strains	
+	* IV <span id="drug"> cidofovir </span>  delays progression of CMV retinitis in HIV+ patients
+
 * Adverse effects
-	* Nephrotoxicity,neutropeina, ocular hypotony
-	* Potential human carcinogenFoscarnet
+	* Nephrotoxicity, neutropeina, ocular hypotony
+	* Potential human carcinogen
+	
 
 ---
-### A Non-nucleoside Anti-HSV Agent
-#### Foscarnet 
+### [Foscarnet](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-267)
+####  Non-nucleoside Anti-HSV Agent
 
 * Mechanism of Action
 	* Inorganic pyrophosphate analog
@@ -882,6 +894,7 @@ Saquinavir data refer to soft-gel capsule formulation
 * Adverse effects
 	* Renal failure or dysfunction 
 	* Nausea, vomiting, anemia and fatigue
+	* Not associated with major myelosuppressive toxicity
 
 ---
 
@@ -911,7 +924,7 @@ AUC, area under curve; T&frac12;, half-life of elimination: CLcr, creatinine cle
 * Resistance
 	* Mutations of the viral polymerase gene
 	* Deficiency of viral TK
-* ADEM
+* ADME
 	* Bioavailability varies. 
 	* Renal excretion of unmetabolized parent drug through glomerular filtration -- Adjust dose
 * Adverse effects
