@@ -215,42 +215,30 @@ Prevents virus from entering the host cell <br>
  
 * Indication
 	* Treatment of CCR5-tropic HIV-1 (not CXCR4)
+	* Coreceptor (i.e. CCR5 vs CXCR4) tropism assay must be performed 
 	* In combination for patients failing other antiretroviral drugs
-	* Only about 50% of treatment experienced patients will be eligible to take
-	* Coreceptor (i.e. CCR5 vs CXCR4) tropism assay should be performed 
-	* Requires plasma HIV RNA > 1,000 copies/mL
-	* Consider in patients with virologic failure on a
-	* CCR5 antagonist
-
-
----
-### Maraviroc (Selzentry)
- 
 * Adverse effects
-	* Cough, pyrexia, rash, musculoskeletal symptoms, abdominal pain and postural dizziness, bladder irritation
-	* Phase II studies reported possible liver and cardiac problems (1.3% of patients)
-
+	* Elevated hepatic enzyme, hepatitis 
+	* Systemic allergic reaction, cough, fever  
+	* Myocardial infarction or ischemia (1.3%) 
 * Drug interactions
-	* CYP3A inducers or inhibitors
-	* Dosage adjustment needed with <span id="drug"> efavirenz </span> and <span id="drug"> lopinavir/ritonavir </span> 
-
+	* CYP3A inhibitors or inducers
+		* Reduce  dosage  when <span id="drug">  ritonavir </span>  or <span id="drug">  cobicistat </span> is coadministered 
+		* Increase  dosage with <span id="drug"> efavirenz </span> 
 
 ---
 ### [Nucleoside Reverse Transcriptase Inhibitors (NRTIs)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455702824000435?scrollTo=%23hl0000874)
 
 * NRTIs
+	* <span id="drug">Zidovudine</span> (Retrovir, azidothymidine [ZVD], Apo-Zidovudine, Novo-AZT)
+	* <span id="drug">Stavudine</span> (Zerit, D4T)
 	* <span id="drug">Didanosine</span> (Videx, dideoxyinosine, ddI)
+	* <span id="drug">Abacavir</span> (Ziagen, ABC)
 	* <span id="drug">Lamivudine</span> (Epivir, 3TC)
 	* <span id="drug">Emtricitabine</span> (Emtriva, FTC)
-	* <span id="drug">Stavudine</span> (Zerit, D4T)
-	* <span id="drug">Zidovudine</span> (Retrovir, azidothymidine [ZVD], Apo-Zidovudine, Novo-AZT)
-	* <span id="drug">Abacavir</span> (Ziagen, ABC)
-* Combinations
-	* <span id="drug">Combivir</span> (AZT+3TC)
-	* <span id="drug">Trizivir</span> (AZT+3TC+ABC)
 
 ---
-### NRTIs' mechanisms of action
+### Mechanisms of Action - NRTIs 
 
 <div id="right50">
 <img align="right" src ="./images/antiviral/hiv_NRT.png" width=80%> 
@@ -265,38 +253,36 @@ Prevents virus from entering the host cell <br>
 
 
 ---
-### NRTIs' mechanisms of action
-
+### mechanisms of action - NRTIs 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cC9kyoAo1ac?list=PLMO1589WRspykVPiy6SgKi3OPKbe9b0El" frameborder="0" allowfullscreen></iframe>
 
 
 ---
-### Nucleoside Reverse Transcriptase Inhibitors (NRTIs)
+### NRTIs
 
 * [Zidovudine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-653) (ZDV, AZT), [Stavudine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-573) 
-	* analogs of pyrimidine nucleoside (T) 
-	* phosphorylated to active triphosphate forms
-	* competes with deoxythymidine triphosphate for incorporation into DNA
-* [Lamivudine ](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3284) (3TC), [Emtricitabine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2465) 
-	* analogs of pyrimidine nucleoside (C)
-	* compete with deoxycytidine triphosphate for incorporation into viral DNA 
+	* Analogs of pyrimidine nucleoside (T) 
+	* Phosphorylated to active triphosphate forms
+	* Competes with deoxythymidine triphosphate for incorporation into DNA
 * [Didanosine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-186) (ddI)
-	* analog of purine nucleosides (A, G)
+	* Analog of purine nucleosides (A, G)
 	* Active 2',3'-dideoxyadenosine 5'-triphosphate (ddATP) competes with cellular deoxyadenosine triphosphate for incorporation into viral DNA
+* [Lamivudine ](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-339) (3TC), [Emtricitabine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2465) 
+	* Analogs of pyrimidine nucleoside (C)
 * [Abacavir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2332)
-	* analog of purine nucleosides (G) 
+	* Analog of purine nucleosides (G) 
 
 
 ---
 ### Nucleoside Reverse Transcriptase Inhibitors (NRTIs)
 * Indications
-	* first line treatment of HIV infection as components of ART 
-	* prevent acute infection of susceptible cells
-	* little effect on cells already infected by HIV
+	* First line treatment of HIV infection as components of ART 
+	* Prevent acute infection of susceptible cells
+	* Little effect on cells already infected by HIV
 	* <span id="drug"> Zidovudine </span> 
 		* Only NRTI shown to reduce perinatal HIV transmission
 * Resistance
-	* drugs select for different mutations of the reverse transcriptase gene at the level of specific codons 
+	* Drugs select for different mutations of the reverse transcriptase gene at the level of specific codons 
 
 
 ---
@@ -314,13 +300,31 @@ Prevents virus from entering the host cell <br>
 	
 
 ---
+### Pharmacokinetics of NRTIs
+
+| Parameter | Zidovudine | Lamivudine | Stavudine | Dadanosine | Abacavir |
+|---|---|---|---|---|---|
+|Oral bioavailability, %| 60 | 80 | 80-90| 40 | > 70 |  
+|Effect of meals on AUC| &darr; 24 (high fat) | &mdash;  | &mdash; | &darr; 50% (acidity) | &mdash; | 
+|Plasma t&frac12; emlim, h| 0.8-1.9 | 5-7 | 1.4 | 1.0 | 0.8-1.5| 
+|Intracellular t&frac12; elim, triphosphate, h| 3-4 | 12 | 3.5 | 8-24 | 3 |   
+|Plasma protein binding, %| 20-38 | < 35 | < 5 | < 5 | 50 | 
+|Metabolism, %|  60-80 <br> glucuronidation | 20-30 | 80 | 50 <br>(purine metabolism) | > 80 | 
+|Renal excretion, %, parent drug| 15 | 70 | 40 | 20-50 | < 5 |
+||
+
+AUC, area under plasma conc.-time curve; t1/2elim, half-life of elimination; , decrease; , no effect 
+
+---
+
 
 ### Adverse Effects of NRTIs
 * Common toxicities
-	* Gastrointestinal distress
+	* Rash; Gastrointestinal distress
 	* [Lactic acidosis](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/68/hiv-and-lactic-acidosis), [hepatic steatosis](http://medical-dictionary.thefreedictionary.com/Hepatic+steatosis) 
 		* higher incidence with <span id="drug"> stavudine 
-	* [Lipodystrophy](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/61/hiv-and-lipodystrophy)
+	* [Lipodystrophy](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/61/hiv-and-lipodystrophy):  fat loss and/or buildup or both.  
+		* Including central obesity, dorsocervical fat enlargement ([buffalo hump](https://www.ncbi.nlm.nih.gov/pubmed/10509567)), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
 		* Most common with <span id="drug"> stavudine </span> and <span id="drug"> zidovudine </span> 
 
 
@@ -334,11 +338,12 @@ Prevents virus from entering the host cell <br>
 		* avoid co-administration with didanosine or zidovudine 
 	* <span id="drug">Abacavir</span>: hypersensitivity reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
 		* HLA-B\*5701 screening before starting therapy
+	* <span id="drug"> Emtricitabine </span>: psychiatir reactions, depression, dizziness, insomnia
 
 
 
 ---
-### Drug-Drug Interactions NRTIs
+### Drug Interactions of NRTIs
  
 * <span id="drug"> Zidovudine </span> 
 	* Avoid co-administration bone marrow suppressive drugs
@@ -354,10 +359,10 @@ Prevents virus from entering the host cell <br>
 
 
 ---
-### Drug-Drug Interactions NRTIs
+### Drug Interactions of NRTIs
 
 * <span id="drug"> Stavudine </span> 
-	* augment the neuropathy and pancreatitis with <span id="drug"> didanosine, Bortezomib, Zalcitabine </span> 
+	* Augment the neuropathy and pancreatitis with <span id="drug"> didanosine, Bortezomib, Zalcitabine </span> 
 	* <span id="drug"> Zidovudine </span> inhibits the phosphorylation of stavudine. For women receiving a stavudine-containing regimen, discontinue stavudine during labor while intravenous zidovudine is being administered.
 * <span id="drug"> Abacavir </span> 
 	* Ethanol significantly increases plasma levels (alcohol dehydrogenase)
@@ -366,13 +371,13 @@ Prevents virus from entering the host cell <br>
 ### NRTIs in brief
 
 * Indications 
-	* treatment of HIV as part of ART
+	* First line treatment of HIV as part of ART
 * Mechanism of action 
-	* inhibit viral reverse transcriptase
+	* Inhibit viral reverse transcriptase
 * Resistance 
-	* mutations in reverse transcriptase gene
+	* Mutations in reverse transcriptase gene
 * ADME 
-	* well absorbed by the GI tract; good oral bioavailability
+	* Well absorbed by the GI tract; good oral bioavailability
 	* Excreted unchanged by the kidney; except
 		* <span id="drug"> zidovudine </span> (metabolized into glucoronide)
 		* <span id="drug"> Abacavir </span> (metabolized by alcohol dehydrogenase)
@@ -381,11 +386,10 @@ Prevents virus from entering the host cell <br>
 
 ### NRTIs in brief
 * Adverse effects
-	* all cause GI distress
-	* lactic acidosis with hepatic steatosis due to mitochondrial toxicity 
+	* All cause GI distress
+	* Lactic acidosis with hepatic steatosis due to mitochondrial toxicity 
 * Drug-Drug interactions
-	* can be severe due to synergistic effects on myelosuppression and peripheral neuropathy
-
+	* Can be severe due to synergistic effects on myelosuppression and peripheral neuropathy
 
 ---
 ### Nucleo<font color="darkorange">t</font>ide Reverse Transcriptase Inhibitor
@@ -394,7 +398,7 @@ Prevents virus from entering the host cell <br>
 
 * Properties
 	* <span id="drug"> Tenofovir disoproxil </span> is a prodrug. It is hydrolyzed to release tenofovir
-	* Tenofovir is an analogue of adenosine- 5'-monophosphate 
+	* Tenofovir is an analogue of adenosine- <font color="darkorange">5'-monophosphate </font>
 	* Requires two intracellular phosphorylation steps for activation
 	* Weak inhibitor of mammalian DNA and mt polymerase
 	* Included in many first-line ART regimens
@@ -417,9 +421,21 @@ Prevents virus from entering the host cell <br>
 	* Not substrate for P450
 	* T&frac12;: 17 h 
 * Adverse effect 
-	* Most commonly in clinical trials: nausea, vomiting, diarrhea, flatulence, abdominal pain, dyspepsia, and anorexia with weight loss.
+	* Most commonly in clinical trials: nausea, vomiting, diarrhea, [flatulence](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455770052000676?scrollTo=%23hl0000349), abdominal pain, dyspepsia, and anorexia with weight loss.
 	* Increases <span id="drug"> didanosine </span> concentration: pancreatitis and neuropathy.
 	* Exacerbates renal impairment 
+
+
+--- 
+
+### tenofovir disoproxil  and emtricitabine
+#### (Truvada)
+
+* Better than Abacavir-Lamivudine for initial therapy 
+	* Extending time to virologic failure and first adverse event 
+	* [NEJM Dec 3 2009](https://www.ncbi.nlm.nih.gov/pubmed/?term=19952143)
+* Effective as antiretroviral chemoprophylaxis before exposure
+	* [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279
 
 ---
 ### Non Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
@@ -445,22 +461,37 @@ Prevents virus from entering the host cell <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RUUyd5bE9vQ?start=93&stop=150" frameborder="0" allowfullscreen></iframe>
 
 ---
+
 ### NNRTIs
 
-* Excellent oral absorption.
-* Highly bound to plasma proteins.
-* Metabolized by the cytochrome P-450 system
-	* Drug interactions are significant
-* Excreted through the urines as glucuronide conjugates. 
-* <span id="drug"> Delavirdine </span>: CYP3A4 inhibitor
-	* Increases PIs, rifabutin, clarithromycin, methadone and ethinyl estradiol plasma levels
-* <span id="drug"> Efavirenz </span> and <span id="drug"> Nevirapine </span>: CYP3A4 inducer
-	* Reduces PIs, rifabutin, clarithromycin, methadone and ethinyl estradiol plasma levels
+* ADME
+	* Excellent oral absorption.
+	* Highly bound to plasma proteins.
+	* Metabolized by the cytochrome P-450 system
+		* Drug interactions are significant
+	* Excreted through the urines as glucuronide conjugates. 
+	* <span id="drug"> Delavirdine </span>: CYP3A4 inhibitor
+		* Increases PIs, rifabutin, clarithromycin, methadone and ethinyl estradiol plasma levels
+	* <span id="drug"> Efavirenz </span> and <span id="drug"> Nevirapine </span>: CYP3A4 inducer
+		* Reduces PIs, rifabutin, clarithromycin, methadone and ethinyl estradiol plasma levels
 
 
 ---
 
 ### NNRTIs Pharmacokinetics
+
+|Parameter| DELAVIRDINE | NEVIRAPINE\* | EFAVIRENZ\*| 
+|---|---|---|---|
+|Oral bioavailability, % | 85 | 90 | 50 | 
+|Plasma T&frac12; elim h | 2-11 | 25-30 | 40-50|
+|Plasma protein binding, % | 98 | 60 | 99| 
+|Metabolism | Hepatic | Hepatic | Hepatic | 
+|Renal excretion, parent drug, % | < 3 | < 3 | < 3|
+|Autoinduction of metabolism | No | Yes | Yes |
+|CYP3A modulation | Inhibitor | Inducer | Inducer 
+||
+\* values after multible doses. T&frac12; elim, half-life of elimination  
+
 
 ---
 ### Adverse effects of NNRTIs
@@ -469,8 +500,8 @@ Prevents virus from entering the host cell <br>
 	* Maculopapular rashes in the trunk and extremities
 * Unique toxicities 
 	* <span id="drug"> Nevirapine </span> 
-		* fever, fatigue, headache, drowsiness, nausea
-		* elevated liver enzymes; drug induced hepatitis; 
+		* Fever, fatigue, headache, drowsiness, nausea
+		* Elevated liver enzymes; drug induced hepatitis; 
 	* <span id="drug"> Efavirenz </span> 
 		* Penetrate the blood brain barrier 
 		* Neuropsychiatric (headache, dizziness, abnormal dreams, psychosis, suicidal ideation)
@@ -497,8 +528,8 @@ Prevents virus from entering the host cell <br>
 ---
 ### Integrase Inhibitor
 
-[Raltegravir (Isentress)]( https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3572)
-[Dolutegravir (Tivicay)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3823)
+[Raltegravir (Isentress)]( https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3572), 
+[Dolutegravir (Tivicay)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3823),
 [Elvitegravir (Vitekta)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3928)
 
 <div id="right20">
@@ -511,7 +542,6 @@ Prevents virus from entering the host cell <br>
 **ADME**<br>
 	Oral <br>
 	Glucuronidation and by CYP3A<br>
-	T&frac12;: 9 h<br>
 	Feces and urine <p>
 **Resistance**<br>
 	<span id="drug"> Dolutegravir </span>  has less resistance overlap with <span id="drug">  Raltegravir </span>  than does <span id="drug"> elvitegravir </span> . 
@@ -520,7 +550,7 @@ Prevents virus from entering the host cell <br>
 ### Integrase Inhibitor 
 
 * Indication
-	* <span id="drug">  Dolutegravir </span> or <span id="drug">  Elvitegravir </span>  is recommended for treatment naive patients as part of combination ART   
+	* <span id="drug">  Dolutegravir </span> or <span id="drug">  Elvitegravir </span>  is recommended for naive patients as part of combination ART   
 * Adverse effects
 	* Diarrhea, nausea, headache, and fever
 	* Hypersensitivity to <span id="drug">  Dolutegravir </span> include serious rash,  blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
@@ -572,23 +602,36 @@ PIs can be peptidomimetic (structural similarities to the cleavage site of HIV p
  
 ---
 ### Protease inhibitors
-#### ADME
 
-* Oral absorption varies
-* Bind extensively to plasma proteins
-* Metabolized by cytochrome P-450 system
-	* Concurrent use of potent P-450 inducer (e.g. <span id="drug"> rifampin </span> ) leads to decreased PI concentration
-* Renal excretion is minimal
-	* No adjustments needed for renal dysfunctions
-* Potent inhibitors of CYP3A4
-	* <span id="drug"> Ritonavir </span> used to increase (i.e. "boost")  plasma concentration of other PIs except <span id="drug"> nelfinavir </span> 
-	* Toxic adverse effects related to drug accumulation due to PI-mediated inhibition of hepatic P450 system
-	 
+* ADME
+	* Oral absorption varies
+	* Bind extensively to plasma proteins
+	* Metabolized by cytochrome P-450 system
+		* Concurrent use of potent P-450 inducer (e.g. <span id="drug"> rifampin </span> ) leads to decreased PI concentration
+	* Renal excretion is minimal
+		* No adjustments needed for renal dysfunctions
+	* Potent inhibitors of CYP3A4
+		* <span id="drug"> Ritonavir </span> used to increase (i.e. "boost")  plasma concentration of other PIs except <span id="drug"> nelfinavir </span> 
+		* Toxic adverse effects related to drug accumulation due to PI-mediated inhibition of hepatic P450 system
+		 
 
 ---
-PIs Pharmacokinetics
+### PIs Pharmacokinetics
+|Parameter| Amprenavir | Indinavir | Nelfinavir | Ritonavir | Saquinavir | Lopinavir\*|
+|---|---|---|---|---|---|---|
+|Oral bioavailability, % | 35-90 | 60-65 | 20-80|65-70|12|?|
+|Effect of meal on AUC|&darr; 21%<br> high fat | &darr; 77% <br>high fat| &uarr; 200-300% | &uarr; 15% <br>capsule | &uarr; 600% | &uarr; 50%|
+|Plasma T&frac12;elim, h| 7-11 |1.5-2| 3.5-5|3-5|7-12|6-8|
+|Plasma protein binding, %| 90|60|98|98-99| 98|98-99|
+|Metabolism|CYP3A4|CYP3A4| CYP3A4 <br> > 2C19| CYP3A4| CYP3A4| CYP3A4|
+|Autoinduction of metabolism|No |No|Yes|Yes|No|Yes|
+|Renal Excreted, % parent drug| < 3 | 11 | 1-2|3.5 |< 3|< 3|
+|Inhibition of CYP3A4|++|++|++|++++|+|+++|
+||
 
-
+Abbreviation: AUC, area under plasma concentration-time curve; t1/2elim, half-life of elimination; &uarr;, increase; &darr;, decrease;, CYP, cytochrome P450.
+Saquinavir data refer to soft-gel capsule formulation
+\*Lopinavir refers to coformulation with ritonavir
 ---
 
 ### Protease inhibitors
@@ -619,7 +662,9 @@ PIs Pharmacokinetics
 * Possible increased bleeding risk in [hemophilics](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/medical_topic/21-s2.0-1014697)
 
 ---
-### Specific Adverse Effects of PIs
+
+### Protease inhibitors
+#### Specific Adverse Effects 
 * Ritonavir 
 	* Hepatotoxicity at high doses
 * Indinavir
@@ -634,7 +679,7 @@ PIs Pharmacokinetics
 
 ### Darunavir
 
-* Achives faster virologic response than control PIs. 
+* Achieves faster virologic response than control PIs. 
 * Can be used to treat patients resist to other PIs. 
 * Must be used in combination in an antiviral regimen.
 	* requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> )  

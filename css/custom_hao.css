@@ -27,7 +27,6 @@
 }
 
 
-
 #right50 {
   left:31.25%;
   top: 75px;
@@ -38,9 +37,21 @@
   width:50%;
 }
 
+#full{
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:100%;
+  vertical-align:middle;
+  z-index:-10;
+}
+
+
 
 #drug{
-	color: darkorange;
+	color: darkgreen;
 	font-style:italic;
 	text-transform:capitalize;
 }
+
+
