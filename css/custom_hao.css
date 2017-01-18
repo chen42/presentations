@@ -1,3 +1,16 @@
+#greyText {
+  text-align: center;
+  width:80%;
+  vertical-align:middle;
+  z-index:-10;
+  background-color:#222;
+  font-size: 0.7em;
+  font-weight: bold;
+  color: lightyellow;
+  margin: auto;
+  border: 5px solid #444;
+
+}
 #left80 {
   left:-8.33%;
   text-align: left;

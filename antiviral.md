@@ -63,7 +63,7 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 #### Hour 2 
 * <a href="#/hsv">Herpes Simplex Virus</a> and Varicella Zoster Virus
 	* <span id="drug">Acyclovir, Valacyclovir, Famciclovir, Penciclovir</span>
-* Cytomegalovirus
+* <a href="#/cmv">Cytomegalovirus</a>
 	* <span id="drug">Ganciclovir, Valganciclovir, Cidofovir, Foscarnet</span>
 * <a href="#/hbv">Hepatitis Virus B </a>and C
 	* <span id="drug"> Lamivudine, Adefovir, Interferon alpha, Ribavirin</span>
@@ -800,7 +800,7 @@ Herpes Simplex Virus (HSV) || Varicella Zoster Virus (VZV) || Cytomegalovirus (C
 <img src="./images/antiviral/shutterstock_hsv.png" width=60%>
 
 <div id="greyText">
-double stranded DNA
+Double stranded DNA virus
 </div>
 
 ---
@@ -896,6 +896,16 @@ double stranded DNA
 * Adverse effects
 	* Well tolerated
 	* Headaches, nausea, diarrhea
+
+---
+<section id="cmv">
+### Cytomegalovirus
+
+<img src="./images/antiviral/cmv.jpg" width=60%>
+
+<div id="greyText">
+Double stranded DNA virus
+</div>
 
 ---
 
@@ -997,7 +1007,7 @@ AUC, area under curve; T&frac12;, half-life of elimination: CrCL, creatinine cle
 <img src="./images/antiviral/shutterstock_hbv.png" width=50%>
 
 <div id="greyText">
-Partially double-stranded DNA
+Partially double-stranded DNA virus
 </div>
 
 ---
