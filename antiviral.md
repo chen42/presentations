@@ -34,6 +34,7 @@ CTRL click
 <- or -> 
 Space_bar 
 Page_down or Page_up 
+Home or End
 ```
 * To zoom in or out:
 ``` 
@@ -50,26 +51,26 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 ### Agents for the treatment of virus infections 
 #### Hour 1 
 * <a href="#/hiv">Retrovirus (HIV)</a>
-	* Fusion inhibitors <span id="drug">Enfuvirtide, Maraviroc</span>
-	* Nucleoside reverse transcriptase inhibitors <span id="drug">Zidovudine, Didanosine, Stavudine, Lamivudine, Abacavir, Emtricitabine</span>
-	* Non-nucleoside reverse transcriptase inhibitors <span id="drug">Nevirapine, Delavirdine, Efavirenz</span>
-	* Nucleotide inhibitors <span id="drug">Tenofovir</span>
-	* Integrase inhibitor <span id="drug">Raltegravir, Dolutegravir, Elvitegravir </span>
-	* Protease inhibitors <span id="drug"> Atazanavir, Saquinavir, Ritonavir, Lopinavir, Indinavir, Nelfinavir, Darunavir </span> 
+	* Fusion inhibitors <span id="drug">[Enfuvirtide](#/Enfuvirtide), [Maraviroc](#/Maraviroc)</span>
+	* Nucleoside reverse transcriptase inhibitors <span id="drug">[Zidovudine, Didanosine, Stavudine, Lamivudine, Abacavir, Emtricitabine](#/nrti)</span>
+	* Non-nucleoside reverse transcriptase inhibitors <span id="drug">[Nevirapine, Delavirdine, Efavirenz](#/nnrti)</span>
+	* Nucleotide inhibitors <span id="drug">[Tenofovir](#/Tenofovir)</span>
+	* Integrase inhibitor <span id="drug">[Raltegravir, Dolutegravir, Elvitegravir](#/Integrase) </span>
+	* Protease inhibitors <span id="drug">[Atazanavir, Saquinavir, Ritonavir, Lopinavir, Indinavir, Nelfinavir, Darunavir](#/pi) </span> 
 
 
 ---
 ### Agents for the treatment of virus infections 
 #### Hour 2 
 * <a href="#/hsv">Herpes Simplex Virus</a> and Varicella Zoster Virus
-	* <span id="drug">Acyclovir, Valacyclovir, Famciclovir, Penciclovir</span>
+	* <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Famciclovir, Penciclovir](#/Penciclovir)</span>
 * <a href="#/cmv">Cytomegalovirus</a>
-	* <span id="drug">Ganciclovir, Valganciclovir, Cidofovir, Foscarnet</span>
+	* <span id="drug">[Ganciclovir, Valganciclovir](#/Ganciclovir), [Cidofovir](#/Cidofovir), [Foscarnet](#/Foscarnet)</span>
 * <a href="#/hbv">Hepatitis Virus B </a>and C
-	* <span id="drug"> Lamivudine, Adefovir, Interferon alpha, Ribavirin</span>
+	* <span id="drug"> [Entecavir](#/Entecavir), [Adefovir](#/Adefovir), [Interferon alpha](#/Interferon), [Ribavirin](#/Ribavirin)</span>
 * <a href="#/flu">Influenza Virus </a>
-	* Uncoating inhibitors <span id="drug"> Amantadine, Rimantadine</span>
-	* Viral release inhibitors <span id="drug"> Zanamivir, Oseltamivir</span>
+	* Uncoating inhibitors <span id="drug"> [Amantadine, Rimantadine](#/fluuncoating)</span>
+	* Viral release inhibitors <span id="drug"> [Zanamivir, Oseltamivir](#/flurelease)</span>
 
 
 ---
@@ -147,6 +148,12 @@ Last updated January 28, 2016
 [HAART - cART - ART](https://www.verywell.com/cart-hiv-combination-antiretroviral-therapy-48921)
 
 ---
+### HIV Life Cycle 
+
+<iframe width="600" height="400" src="https://www.youtube.com/embed/eS1GODinO8w" frameborder="0" allowfullscreen></iframe>
+
+
+---
 ### [HIV Lifecycle](https://en.wikipedia.org/wiki/Discovery_and_development_of_HIV-protease_inhibitors#Life_cycle_of_HIV)
 ![](./images/antiviral/hiv_replication_narrow.png)
 1. *Initiation*: attachment, penetration, uncoating
@@ -154,21 +161,14 @@ Last updated January 28, 2016
 3. *Release*: assembly, maturation, exit from cell
 ---
 
-### HIV Life Cycle 
-
-<iframe width="600" height="400" src="https://www.youtube.com/embed/eS1GODinO8w" frameborder="0" allowfullscreen></iframe>
-
-
----
+<section id="Enfuvirtide">
 ### Fusion inhibitors
 [Enfuvirtide (Fuzeon, T20)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2752)
-
 
 <div id="left50"> 
 **[Structure](https://www.drugbank.ca/drugs/DB00109)**
 <Br>
 	Enfuvir<font color="darkred">tide</font> is a 36 amino acid synthetic pep<font color="darkred">tide</font>. 
-	
 <p>
 
 **Mechanism of action** <br>
@@ -196,8 +196,9 @@ Not part of 1st line ART (due to the self-injection method, injection site react
 	* Bound to plasma protein
 	* Metabolized by proteolytic hydrolysis
 	* T&frac12; = 4 h 
-* Adverse effect
+* <a href="#/adverse">Adverse effect</a>
 	* Injection-site pain or infection 
+	* Pancreatitis
 	* Hypersensitivity reaction (rash, fever, peripheral edema, acute respiratory distress, etc.) 
 	* Initial report of increased bacterial pneumonia (but no longer significant after adjusting for monitoring duration)
 * Resistance 
@@ -206,6 +207,8 @@ Not part of 1st line ART (due to the self-injection method, injection site react
 
 
 ---
+
+<section id="Maraviroc">
 ### Fusion inhibitors
 
 [Maraviroc (<font color="orange">Sel</font>z<font color="darkred">entry</font>) ](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3567)
@@ -232,6 +235,7 @@ Prevents virus from entering the host cell <br>
 </div>
 
 ---
+
 ### Maraviroc (Selzentry)
  
 * Indication
@@ -249,6 +253,7 @@ Prevents virus from entering the host cell <br>
 		* Increase dosage with <span id="drug"> efavirenz </span> 
 
 ---
+<section id="nrti">
 ### [Nucleoside Reverse Transcriptase Inhibitors (NRTIs)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455702824000435?scrollTo=%23hl0000874)
 
 * NRTIs
@@ -260,38 +265,31 @@ Prevents virus from entering the host cell <br>
 	* <span id="drug">Emtricitabine</span> (Emtriva, FTC)
 
 ---
-### Mechanisms of Action - NRTIs 
+### mechanism of action - NRTIs 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC9kyoAo1ac?start=30&list=PLMO1589WRspykVPiy6SgKi3OPKbe9b0El" frameborder="0" allowfullscreen></iframe>
 
-<div id="right50">
-<img align="right" src ="./images/antiviral/hiv_NRT.png" width=80%> 
-</div>
-<div id="left50">
+---
+### Mechanisms of Action - NRTIs 
 * Analogs of naturally occurring nucleosides
 * Converted to their active triphosphate metabolites (i.e. a nucleotide) by host cell kinases
 * Competitive inhibitor of viral reverse transcriptase
 * Cause DNA chain termination 
 * Also inhibit host cell DNA polymerase
-</id>
-
-
----
-### mechanism of action - NRTIs 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC9kyoAo1ac?start=30&list=PLMO1589WRspykVPiy6SgKi3OPKbe9b0El" frameborder="0" allowfullscreen></iframe>
 
 
 ---
 ### NRTIs
 
-* [Zidovudine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-653) (ZDV, AZT), [Stavudine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-573) 
+* [Zidovudine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-653) (ZDV, AZT), [Stavudine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-573) (d4t) 
 	* Analogs of pyrimidine nucleoside (T) 
 	* Phosphorylated to active triphosphate forms
 	* Competes with deoxythymidine triphosphate for incorporation into DNA
 * [Didanosine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-186) (ddI)
 	* Analog of purine nucleosides (A, G)
 	* Active 2',3'-dideoxyadenosine 5'-triphosphate (ddATP) competes with cellular deoxyadenosine triphosphate for incorporation into viral DNA
-* [Lamivudine ](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-339) (3TC), [Emtricitabine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2465) 
+* [Lamivudine ](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-339) (3TC), [Emtricitabine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2465)  (FTC)
 	* Analogs of pyrimidine nucleoside (C)
-* [Abacavir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2332)
+* [Abacavir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2332) (ABC)
 	* Analog of purine nucleosides (G) 
 
 
@@ -340,7 +338,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 
 ---
 
-### Adverse Effects of NRTIs
+### <a href="#/adverse">Adverse Effects</a> of NRTIs
 * Common toxicities
 	* Rash; Gastrointestinal distress
 	* [Lactic acidosis](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/68/hiv-and-lactic-acidosis), [hepatic steatosis](http://medical-dictionary.thefreedictionary.com/Hepatic+steatosis) 
@@ -417,9 +415,11 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* Can be severe due to synergistic effects on myelosuppression and peripheral neuropathy
 
 ---
+<section id="Tenofovir">
 ### Nucleo<font color="darkorange">t</font>ide Reverse Transcriptase Inhibitor
 
-[Tenofovir disoproxil (Viread)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2477)
+[Teno<font color="darkorange">fovir</font> disoproxil (Viread)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2477)
+
 
 * Properties
 	* <span id="drug"> Tenofovir disoproxil </span> is a prodrug. It is hydrolyzed to release tenofovir
@@ -445,9 +445,11 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* Substrate of P-glycoprotein 
 	* Not substrate for P450
 	* T&frac12; = 17 h 
-* Adverse effect 
-	* Most commonly in clinical trials: nausea, vomiting, diarrhea, [flatulence](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455770052000676?scrollTo=%23hl0000349), abdominal pain, dyspepsia, and anorexia with weight loss.
-	* Increases <span id="drug"> didanosine </span> concentration: pancreatitis and neuropathy.
+* <a href="#/adverse">Adverse effect </a>
+	* Most commonly in clinical trials: nausea, vomiting, diarrhea, [flatulence](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455770052000676?scrollTo=%23hl0000349), abdominal pain, dyspepsia, and anorexia with weight loss
+	* Increases <span id="drug"> didanosine </span> concentration: pancreatitis and neuropathy
+	* CNS: depression, anxiety, headache
+	* Hepatotoxicity: elevated hepatic enzymes 
 	* Exacerbates renal impairment 
 
 
@@ -462,7 +464,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279)
 * <a href="#/recommend">Recommended for treatment naive patients</a>
 ---
-
+<section id="nnrti">
 ### Non Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
 
 [Delavirdine (Rescriptor)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-700)
@@ -500,7 +502,6 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 		* Increases PIs, rifabutin, clarithromycin, methadone and ethinyl estradiol plasma levels
 	* <span id="drug"> Efavirenz </span> and <span id="drug"> Nevirapine </span>: CYP3A4 inducer
 		* Reduces PIs, rifabutin, clarithromycin, methadone and ethinyl estradiol plasma levels
-
 
 ---
 
@@ -555,6 +556,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* All NNRTIs cause rash
 
 ---
+<section id="Integrase">
 ### Integrase Inhibitor
 
 [Raltegravir (Isentress)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3572)  || [Dolutegravir (Tivicay)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3823) || [Elvitegravir (Vitekta)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3928)
@@ -588,8 +590,12 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 
 
 ---
+
+<section id="pi">
 ### Protease Inhibitors, PIs
 <div id="left50">
+[Ataza<u>navir</u>](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2795)
+<br>
 [Indi<u>navir</u> (Crixivan)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001303?scrollTo=%23hl0001350)
 <br>
 [Nelfi<u>navir</u> (Viracept)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-764)
@@ -687,7 +693,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* May be more dramatic with <span id="drug"> ritonavir </span> due to interference in lipid metabolism. 
 * Insulin resistance and diabetes
 * [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/9652687)
-	* Including central obesity, dorsocervical fat enlargement ([buffalo hump](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
+	* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
 * Elevated liver function
 * Possible increased bleeding risk in [hemophilics](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/medical_topic/21-s2.0-1014697)
 
@@ -706,7 +712,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 		* Jaundice developed in 11% patients during clinical trials
 
 ---
-
+<section id="Darunavir">
 ### Darunavir
 
 * Achieves faster virologic response than control PIs. 
@@ -723,7 +729,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 
 * Indications
 	* Treatment of HIV infection as part of combination therapy
-* Mechanism of act 
+* Mechanism of action 
 	* Inhibition of HIV protease
 * Resistance
 	* Mutations of the protease gene 
@@ -773,10 +779,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 
 ---
 
-#### Agents to treat
-<div id="greyText">
-Herpes Simplex Virus (HSV) || Varicella Zoster Virus (VZV) || Cytomegalovirus (CMV)
-</div>
+#### Agents to treat HSV, VZV and CMV
 
 |Virus| Disease| 
 |---|---|
@@ -805,7 +808,7 @@ Double stranded DNA virus
 
 ---
 
-[Microbiology](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001388?scrollTo=%23s0010) of HSV
+[Life cycle](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001388?scrollTo=%23s0010) of HSV
 
 <img src="./images/antiviral/dna_virus.png" width=70%>
 
@@ -858,7 +861,7 @@ Double stranded DNA virus
 	
 
 ---
-
+<section id="Acyclovir">
 ### Acyclovir 
 #### [Valacyclovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-636) (L-valyl ester prodrug of acyclovir)
 	
@@ -874,12 +877,14 @@ Double stranded DNA virus
 	* HSV keratitis, herpes labialis, genital herpes, HSV encephalitis
 	* VZV 
 	* CMV-positive bone marrow transplant recipients
+	* 'off-label' use for HIV [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23542637) 
 * Adverse effects
 	* Headache, nausea, diarrhea
 	* Following high IV dose
 		* Reversible renal dysfunction (crystalline nephropathy)
 		* Neurologic toxicity (tremors, delirium, seizures)
 ---
+<section id="Penciclovir">
 
 ### Penciclovir
 #### [Famciclovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-240) (diacetyl ester prodrug)
@@ -908,7 +913,7 @@ Double stranded DNA virus
 </div>
 
 ---
-
+<section id="Ganciclovir">
 ### Ganciclovir
 #### [Valganciclovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2584) (L-valyl ester prodrug)
 
@@ -926,7 +931,8 @@ Double stranded DNA virus
 
 ---
 
-### [Cidofovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-125)
+<section id="Cidofovir">
+### [Cido<font color="darkorange">fovir</font>](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-125)
 
 * Mechanism of action 
 	* Cytidine nucleo<font color="darkorange">t</font>ide analog
@@ -943,7 +949,7 @@ Double stranded DNA virus
 	
 
 ---
-
+<section id="Foscarnet">
 ### [Foscarnet](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-267)
 #### Non-nucleoside Anti-HSV Agent
 
@@ -1028,13 +1034,13 @@ Partially double-stranded DNA virus
 * <span id="drug">Peginterferon alfa-2a</span> (Pegasys) and alfa-2b (PegIntron)
 
 ---
-
+<section id="Entecavir">
 ### [Entecavir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3427) (Baraclude)
 
 * Mechanism of action 
 	* Nucleoside analog of guanosine
 	* Inhibits all 3 activities of HBV polymerase
-		* Base priming
+		* Base priming ([GAA](https://youtu.be/sVpiXaEMs7I?t=6m12s)) [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4399241/) 
 		* Reverse transcription
 		* DNA synthesis of positive strand
 * Indication 
@@ -1067,11 +1073,11 @@ Partially double-stranded DNA virus
 		* Monitor hepatic function for several months and re-initiate therapy if warranted
 	* Most commonly reported: headache, fatigue, dizziness
 ---
-
-### [Adefovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2233)(Hepsera)
+<section id="Adefovir">
+### [Ade<font color="darkorange">fovir</font>](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2233)(Hepsera)
 
 * Mechanism of action 
-	* Nucleo<font color="darkorange">t</font>ide analog of deoxyadenosine monophosphate
+	* Nucleo<font color="darkorange">t</font>ide analog of deoxy<font color="darkorange">ade</font>nosine monophosphate
 	* Following formation of the diphosphate by cellular kinases, it inhibits HBV DNA polymerase
 	* ~10-fold more active for viral DNA polymerase than for the human DNA polymerase
 	* No cross resistance of <span id="drug"> lamivudine</span>-resistant HBV strains
@@ -1094,6 +1100,8 @@ Partially double-stranded DNA virus
 		* Increase in bioavailability
 
 ---
+<section id="Ribavirin">
+
 ### [Ribavirin](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-542)
 (Copegus | Moderiba | Rebetol | RibaPak | RibaTab | Ribasphere | Virazole)
 
@@ -1111,10 +1119,10 @@ Partially double-stranded DNA virus
 
 ### Ribavirin
 * Indication 
-	* Treat Hepatitis C in combination with <span id="drug"> peginterferon alpha </span>  
+	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span>  
 		* Weight based doesing results in a higher sustained virologic response 
-	* Respiratory syncytial virus: aerosolized form 
-	* Hantaan virus: intravenous 
+	* <u>Respiratory syncytial virus</u>: aerosolized form 
+	* <u>Hantaan virus</u>: intravenous 
 * Adverse effects
 	* Dose dependent hemolytic anemia (10-20% of patients) with systemic use
 		* Extravascular hemolysis
@@ -1155,13 +1163,12 @@ Partially double-stranded DNA virus
 
 <span id="drug">Entecavir </span> <span id="drug">Adefovir </span> <span id="drug">Tenofovir </span> <span id="drug">Telbivudine </span>
 
-* Lactic acidosis and severe hepatomegaly with steatosis is a more common adverse effect of the nucleoside analogs in the treatment of HIV, where they are always used in combination therapy, but these effects are much less likely to occur with monotherapy for treatment of hepatitis B. 
+* Lactic acidosis and severe hepatomegaly with steatosis is a more common adverse effect of the nucleoside analogs in the treatment of HIV, where they are always used in combination therapy, but these effects are much <u>less</u> likely to occur with monotherapy for treatment of hepatitis B. 
 
 * Severe acute exacerbations of hepatitis B have been reported in patients who have stopped taking the drug.
 
 ---
-
-#### Inhibitors of transcription
+### Immunoregulators
 
 * [Interferons](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323080583000137?scrollTo=%23hl0000129) (IFNs)
 	* Potent cytokines that posses antiviral, antiproliferation (antineoplastic) and  immunomodulating  actions
@@ -1172,9 +1179,9 @@ Partially double-stranded DNA virus
 
 |Interferon|Type| Receptor|
 |---|---|---|--|
-|alpha|Type I | IFNAR &dagger;|
-|beta| Type I | IFNAR|
-|gamma|Type II| IFNGR &Dagger;|
+|&alpha;|Type I | IFNAR &dagger;|
+|&beta;| Type I | IFNAR|
+|&gamma;|Type II| IFNGR &Dagger;|
 ||
 <small>
  &dagger; composed of  two subunits IFNAR1 and IFNAR2. &Dagger; composed of  two subunits IFNAR1 and IFNAR2
@@ -1194,6 +1201,8 @@ Partially double-stranded DNA virus
 
 
 ---
+
+<section id="Interferon">
 ### [Interferon alpha-2a](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2508) 
 ### [peginterferon alpha-2a](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2634)
 
@@ -1206,9 +1215,9 @@ Partially double-stranded DNA virus
 	* Administered i.m. or s.c.
 	* High bioavailability
 	* Proteolytic degradation in the Kidney is the main site of metabolism
-	* Eliminated in the urine (T&frac12; = 5.1 h)
+	* Eliminated in the urine ( IFN-&alpha;2 T&frac12; = 5.1 h)
 	* Peginterferon has much longer T&frac12; ( 80 h)  
-		* IFN-alpha2a is no longer produced in the USA
+		* IFN-&alpha;2a is no longer produced in the USA
 
 <small>
  \* PEG = bis-monomethoxy polyethylene glycol 
@@ -1272,18 +1281,19 @@ Partially double-stranded DNA virus
 * <span id="drug"> [Amantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-20), [rimantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-547)
 </span> 
 	* Inhibitors of uncoating of the virus
-	* Act on maturation of influenza HA glycoprotein
 	* Binding to the ion channel formed by the M2 transmembrane protein in the envelope of the virus 
 	* Inhibiting H+ ion transport that acidifies the interior of the virion
 * <span id="drug"> [Zanamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2259), [oseltamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2450)
 </span> 
 	* Inhibitors of influenza neuraminidase. 
 	* The influenza neuraminidase cleaves terminal sialic acid residues 
-	* Destroying the receptors recognized by viral hemaglutinin (HA) which are present on the cell surface 
+	* Destroying the receptors recognized by viral hemaglutinin which are present on the cell surface 
 	* Reaction essential for release of virus from infected cells. 
 	* Inhibits neuraminidase activity promoting viral aggregation and reducing viral spread
 
 ---
+
+<section id="fluuncoating">
 
 ### <span id="drug"> [Amantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-20) and  [rimantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-547)
 #### Inhibitors of Uncoating
@@ -1303,8 +1313,7 @@ synthetic tricyclic amines
 		* it is the methy derivative of <span id="drug">  amantadine </span> .
 
 ---
-
-
+<section id="flurelease">
 ### <span id="drug"> [Zanamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2259)  and [oseltamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2450)
 #### Inhibitors of Virus Release
 
@@ -1313,7 +1322,7 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 * Mechanism of action
 	* Competitive inhibitors of influenza neuraminidase. 
 * Indications
-	* Effective against influenza A and B viruses that are 			resistant to amantadine and rimantadine
+	* Effective against influenza A and B viruses that are	resistant to amantadine and rimantadine
 * Resistance
 	* HA or neuraminidase mutations
 * Adverse effects: 
@@ -1340,12 +1349,12 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 ---
 <section id="adverse">
-### Anti-infection Drugs with Overlapping toxicities
-
+### Antiviral Drugs with Overlapping toxicities
+##### Not an exhaustive list
 
 |Bone Marrow suppression|Peripheral neuropathy|Pancreatitis| Nephrotoxicity | Hepatoxicity| Lipodystrophy |Psychiatric |Fever|Alopecia|
 |---|---|---|---|---|---|---|---|---|
-| | | Enfuvirtide |  | Maraviroc|  | | Miraviroc| | 
+| | | Enfuvirtide |  | Maraviroc|  | | Maraviroc| | 
 |Zidovudine|Zidovudine Didanosine Stavudine|Didanosine Lamivudine (children)  Stavudine|| Stavudine Didanosine Tenofovir|Stavudine Zidovudine Didanosine  Lamivudine Abacavir|Abacavir Emtricitabine Tenofovir|Zidovudine Emtricitabine|Lamivudine|
 |||||Nevirapine Efavirenz ||Efavirenz|||
 |||||Dolutegravir|||||
@@ -1353,3 +1362,37 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 |Ganciclovir Cidofovir Foscarnet|||Cidofovir Foscarnet |||||Cidofovir|
 |Ribavirin Peginterferon alpha2a|||Adefovir|Entecavir Adefovir||Ribavirin Peginterferon alpha2a|Ribavirin|Peginterferon alpha2a|
 ||
+
+
+[Abacavir](#/nrti)||
+[Acyclovir](#/Acyclovir)||
+[Adefovir](#/Adefovir)||
+[Amantadine](#/fluuncoating)||
+[Cidofovir](#/Cidofovir)||
+[Darunavir](#/Darunavir)||
+[Didanosine](#/nrti)||
+[Dolutegravir](#/Integrase)||
+[Efavirenz](#/nnrti)||
+[Emtricitabine](#/nrti)||
+[Enfuvirtide](#/Enfuvirtide)||
+[Entecavir](#/Entecavir)||
+[Fosamprenavir](#/pi)||
+[Foscarnet](#/Foscarnet)||
+[Ganciclovir](#/Ganciclovir)||
+[Ganciclovir](#/Ganciclovir)||
+[Indinavir](#/pi)||
+[Lamivudine](#/nrti)||
+[Maraviroc](#/Maraviroc)||
+[Nelfinavir](#/pi)||
+[Nevirapine](#/nnrti)||
+[Oseltamivir](#/flurelease)||
+[Peginterferon](#/Interferon)||
+[Penciclovir](#/Penciclovir)||
+[Ribavirin](#/Ribavirin)||
+[Rimantadine](#/fluuncoating)||
+[Ritonavir](#/pi)||
+[Stavudine](#/nrti)||
+[Tenofovir](#/Tenofovir)||
+[Zanamivir](#/flurelease)||
+[Zidovudine](#/nrti)||     
+
