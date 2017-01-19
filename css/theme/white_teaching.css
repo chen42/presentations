@@ -16,7 +16,9 @@ body {
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 28px;
+  font-size: 14px;
+/** font-size: 28px;
+**/
   font-weight: normal;
   color: #222; }
 
