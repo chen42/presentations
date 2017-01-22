@@ -53,8 +53,8 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 * <a href="#/hiv">Retrovirus (HIV)</a>
 	* Fusion inhibitors <span id="drug">[Enfuvirtide](#/Enfuvirtide), [Maraviroc](#/Maraviroc)</span>
 	* Nucleoside reverse transcriptase inhibitors <span id="drug">[Zidovudine, Didanosine, Stavudine, Lamivudine, Abacavir, Emtricitabine](#/nrti)</span>
-	* Non-nucleoside reverse transcriptase inhibitors <span id="drug">[Nevirapine, Delavirdine, Efavirenz](#/nnrti)</span>
 	* Nucleotide inhibitors <span id="drug">[Tenofovir](#/Tenofovir)</span>
+	* Non-nucleoside reverse transcriptase inhibitors <span id="drug">[Nevirapine, Delavirdine, Efavirenz](#/nnrti)</span>
 	* Integrase inhibitor <span id="drug">[Raltegravir, Dolutegravir, Elvitegravir](#/Integrase) </span>
 	* Protease inhibitors <span id="drug">[Atazanavir, Saquinavir, Ritonavir, Lopinavir, Indinavir, Nelfinavir, Darunavir](#/pi) </span> 
 
@@ -107,26 +107,37 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 ---
 
 ### [AIDS background](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978044306752550003X)
-
-1. **Primary infection.** About 90% of patients develop a flu-like illness, which coincides with [seroconversion](https://aidsinfo.nih.gov/education-materials/glossary/648/seroconversion), between 2 and 4 weeks post exposure. Symptoms include, fever, night sweats, sore throat, [lymphadenopathy](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978070205035000014X?scrollTo=%23hl0001753), diarrhea. The illness is self-limiting.
+<div id="left50">
+1. **Primary infection.** About 90% of patients develop a flu-like illness, which coincides with [seroconversion](https://aidsinfo.nih.gov/education-materials/glossary/648/seroconversion), between 2 and 4 weeks post exposure. Symptoms include, fever, night sweats, sore throat, [lymphadenopathy](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978070205035000014X?scrollTo=%23hl0001730), diarrhea. The illness is self-limiting.
+<br>
 2. **Asymptomatic phase.** Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
+<br>
 3. **Acquired Immunodeficiency Syndrome (AIDS).** Features:
+<ul><li>
 	* Constitutional disease: 
+	<ul><li>
+	
 		* fever, diarrhea, weight loss, skin rashes.
+		</ul><li>
 	* Immunodeficiency: 
+	<ul><li>
 		* increased susceptibility to [opportunistic infections](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978141603618010044X?scrollTo=%23hl0002499)	
+		</ul><li>
 	* Neurological disease:
+	<ul><li>
 		* [dementia](https://www.ncbi.nlm.nih.gov/pubmed/24938216), [myelopathy](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323287821004329?scrollTo=%23hl0000547), [peripheral neuropathy](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323032759100121?scrollTo=%23hl0000789)	
+		</ul><li>
 	* Rare malignancies:
+	<ul><li>
 		* [Kaposi sarcoma](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001431?scrollTo=%23hl0000286), 
 		[oral hairy leukoplakia](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455750177003779?scrollTo=%23hl0000151), 
 		or [lymphoma](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455746965000117?scrollTo=%23hl0001298)	
+		</ul></ul>
+</div>
 
----
-### Typical course of an untreated HIV patient
-
-<img src="./images/antiviral/hiv_untreated.png" width=70%>
-
+<div id="right50">
+<img src="./images/antiviral/hiv_untreated.png" width=90%>
+</div>
 
 ---
 ### Current [guideline](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-treatment-guidelines/0/)
@@ -323,15 +334,15 @@ Prevents virus from entering the host cell <br>
 <section id="nrtipk">
 ### Pharmacokinetics of NRTIs
 
-| Parameter | Zidovudine | Lamivudine | Stavudine | Didanosine | Abacavir |
-|---|---|---|---|---|---|
-|Oral bioavailability, %| 60 | 80 | 80-90| 40 | > 70 | 
-|Effect of meals on AUC| &darr; 24 (high fat) | &mdash; | &mdash; | &darr; 50% (acidity) | &mdash; | 
-|Plasma t&frac12; emlim, h| 0.8-1.9 | 5-7 | 1.4 | 1.0 | 0.8-1.5| 
-|Intracellular T&frac12;elim, triphosphate, h| 3-4 | 12 | 3.5 | 8-24 | 3 | 
-|Plasma protein binding, %| 20-38 | < 35 | < 5 | < 5 | 50 | 
-|Metabolism, %| 60-80 <br> glucuronidation | 20-30 | 80 | 50 <br>(purine metabolism) | > 80 | 
-|Renal excretion, %, parent drug| 15 | 70 | 40 | 20-50 | < 5 |
+| Parameter | Zidovudine | Lamivudine | Stavudine | Didanosine | Abacavir | Emtricitabine|
+|---|---|---|---|---|---|---|
+|Oral bioavailability, %| 60 | 80 | 80-90| 40 | > 70 | 75-93 | 
+|Effect of meals on AUC| &darr; 24 (high fat) | &mdash; | &mdash; | &darr; 50% (acidity) | &mdash; | &mdash; | 
+|Plasma t&frac12; emlim, h| 0.8-1.9 | 5-7 | 1.4 | 1.0 | 0.8-1.5| 10 | 
+|Intracellular T&frac12;elim, triphosphate, h| 3-4 | 12 | 3.5 | 8-24 | 3 | 39| 
+|Plasma protein binding, %| 20-38 | < 35 | < 5 | < 5 | 50 |  < 4|
+|Metabolism, %| 60-80 <br> glucuronidation | 20-30 | 80 | 50 <br>(purine metabolism) | > 80 |  9  oxidation <br> 4 glucuronidation|
+|Renal excretion, %, parent drug| 15 | 70 | 40 | 20-50 | < 5 |  86|
 ||
 
 AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination; &darr;, decrease; &mdash;, no effect 
@@ -344,7 +355,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* [Lactic acidosis](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/68/hiv-and-lactic-acidosis), [hepatic steatosis](http://medical-dictionary.thefreedictionary.com/Hepatic+steatosis) 
 		* higher incidence with <span id="drug"> stavudine 
 	* [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/10509567): fat loss and/or buildup or both. 
-		* Including central obesity, dorsocervical fat enlargement ([buffalo hump](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
+		* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
 		* Most common with <span id="drug"> stavudine </span> and <span id="drug"> zidovudine </span> 
 
 ---
@@ -594,7 +605,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 <section id="pi">
 ### Protease Inhibitors, PIs
 <div id="left50">
-[Ataza<u>navir</u>](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2795)
+[Ataza<u>navir</u> (Reyataz)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2795)
 <br>
 [Indi<u>navir</u> (Crixivan)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001303?scrollTo=%23hl0001350)
 <br>
@@ -950,7 +961,7 @@ Double stranded DNA virus
 
 ---
 <section id="Foscarnet">
-### [Foscarnet](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-267)
+### [Foscarnet (Foscavir)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-267)
 #### Non-nucleoside Anti-HSV Agent
 
 * Mechanism of Action
@@ -1355,7 +1366,7 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 |Bone Marrow suppression|Peripheral neuropathy|Pancreatitis| Nephrotoxicity | Hepatoxicity| Lipodystrophy |Psychiatric |Fever|Alopecia|
 |---|---|---|---|---|---|---|---|---|
 | | | Enfuvirtide |  | Maraviroc|  | | Maraviroc| | 
-|Zidovudine|Zidovudine Didanosine Stavudine|Didanosine Lamivudine (children)  Stavudine|| Stavudine Didanosine Tenofovir|Stavudine Zidovudine Didanosine  Lamivudine Abacavir|Abacavir Emtricitabine Tenofovir|Zidovudine Emtricitabine|Lamivudine|
+|Zidovudine|Zidovudine Didanosine Stavudine|Didanosine  Stavudine Lamivudine (children) || Stavudine Didanosine Tenofovir|Stavudine Zidovudine Didanosine  Lamivudine Abacavir|Abacavir Emtricitabine Tenofovir|Zidovudine Emtricitabine|Lamivudine|
 |||||Nevirapine Efavirenz ||Efavirenz|||
 |||||Dolutegravir|||||
 ||||Indinavir |Ritonavir|Indinavir Nelfinavir Fosamprenavir Darunavir Ritonavir|||Indinavir|
