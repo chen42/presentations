@@ -352,8 +352,8 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 ### <a href="#/adverse">Adverse Effects</a> of NRTIs
 * Common toxicities
 	* Rash; Gastrointestinal distress
-	* [Lactic acidosis](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/68/hiv-and-lactic-acidosis), [hepatic steatosis](http://medical-dictionary.thefreedictionary.com/Hepatic+steatosis) 
-		* higher incidence with <span id="drug"> stavudine 
+	* [Lactic acidosis](https://aidsinfo.nih.gov/education-materials/fact-sheets/22/68/hiv-and-lactic-acidosis), [hepatic steatosis](https://www.ncbi.nlm.nih.gov/pubmed/22760655) 
+		* higher incidence with <span id="drug"> [stavudine or didanosine](https://www.ncbi.nlm.nih.gov/pubmed/17896969)
 	* [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/10509567): fat loss and/or buildup or both. 
 		* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
 		* Most common with <span id="drug"> stavudine </span> and <span id="drug"> zidovudine </span> 
@@ -368,8 +368,8 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* <span id="drug">Stavudine </span>: pancreatitis, exacerbates peripheral neuropathy
 		* avoid co-administration with didanosine or zidovudine 
 	* <span id="drug">Abacavir</span>: hypersensitivity reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
-		* HLA-B\*5701 screening before starting therapy
-	* <span id="drug"> Emtricitabine </span>: psychiatir reactions, depression, dizziness, insomnia
+		* HLA-B\*5701	screening before starting therapy [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
+	* <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia
 
 
 
@@ -442,7 +442,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 * Mechanism of action
 	* Inhibits viral reverse transcriptase by chain termination
 * Resistance
-	* Does not select new mutations
+	* Does not tend to select new mutations [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23027713)
 	* Cross resistance with preexisting <span id="drug"> zidovudine </span> associated mutations
 	* Not effected by <span id="drug"> lamivudine-abacavir </span> associated mutations
 
@@ -582,7 +582,8 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 **ADME**<br>
 	Oral <br>
 	Glucuronidation and by CYP3A<br>
-	Feces and urine <p>
+	<span id="drug"> Elvitegravir </span>  is mainly metabolized by CYP3A4 <br>
+	Eliminated in both feces and urine <p>
 **Resistance**<br>
 	<span id="drug"> Dolutegravir </span> has less resistance overlap with <span id="drug"> Raltegravir </span> than does <span id="drug"> elvitegravir </span> . 
 </div>
@@ -590,7 +591,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 ### Integrase Inhibitor 
 
 * Indication
-	* <span id="drug"> Dolutegravir </span> or <span id="drug"> Elvitegravir </span> is <a href="#/recommend">recommended</a> for naive patients as part of combination ART 
+	* <a href="#/recommend">Recommended</a> for naive patients as part of combination ART 
 * Adverse effects
 	* Diarrhea, nausea, headache, and fever
 	* Hypersensitivity to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
@@ -598,6 +599,24 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* Not inducer, inhibitor or substrate of CYP3A4
 	* Metabolized by UDP glucuronosyltransferase (UGT)
 	* <span id="drug"> Rifampin </span> (antibiotic) induces UGT, thus requires higher <span id="drug"> Raltegravir / Dolutegravir </span> dose
+
+---
+
+### Pharmacokinetics of Integrase Inhibitors
+
+|Parameter| Raltegravir | Dolutegravir | Elvitegravir | 
+|---|---|---|---|
+|Oral bioavailability, % | unknown | unknown | unknown  | 
+|Effect of food on AUC, % | &uarr; 46-200 | &uarr; 33-66| &uarr; 34-87  |   
+|Plasma T&frac12; elim h | 9   | 14  | 8.7  |
+|Plasma protein binding, % | 83  | 98.9 | 98-99 | 
+|Metabolism | Glucuron| Glucoron, CYP3A4 | **CYP3A**, Glururon | 
+|Renal excretion, parent drug, % | 32 | 31  | 6.7 |
+||
+
+ T&frac12; elim, half-life of elimination 
+
+
 
 
 ---
@@ -655,7 +674,7 @@ PIs can be peptidomimetic (structural similarities to the cleavage site of HIV p
 	* Renal excretion is minimal
 		* No adjustments needed for renal dysfunctions
 	* Potent inhibitors of CYP3A4
-		* <span id="drug"> Ritonavir </span> used to increase (i.e. "boost") plasma concentration of other PIs except <span id="drug"> nelfinavir </span> 
+		* <span id="drug"> Ritonavir </span> used to increase (i.e. "boost") plasma concentration of other PIs except <span id="drug"> nelfinavir </span> (CYP2C19) 
 		* Toxic adverse effects related to drug accumulation due to PI-mediated inhibition of hepatic P450 system
 		 
 
@@ -699,7 +718,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 ---
 
 ### Protease inhibitors
-#### Common Adverse Effects
+#### Common <a href="#/adverse">Adverse Effects</a>
 * Hyperlipidemia 
 	* May be more dramatic with <span id="drug"> ritonavir </span> due to interference in lipid metabolism. 
 * Insulin resistance and diabetes
@@ -726,12 +745,12 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 <section id="Darunavir">
 ### Darunavir
 
-* Achieves faster virologic response than control PIs. 
+* Achieves faster virologic response than control PIs. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21692667) 
 * <a href="#/recommend">Recommended</a> for treatment-naive patients
 * Can be used to treat patients resist to other PIs. 
 	* <span id="drug"> darunavir </span> displays a < 10-fold decreased susceptibility against 90% of HIV-1 isolates resistant to <span id="drug"> amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, </span> and/or <span id="drug"> tipranavir </span> . 	
 * Must be used in combination in an antiviral regimen.
-	* requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> ) 
+	* Requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> or [cobicistat](https://www.ncbi.nlm.nih.gov/pubmed/26566368)  )
 
 ---
 
