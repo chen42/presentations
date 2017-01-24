@@ -389,6 +389,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* <span id="drug">Ganciclovir </span> increases plasma concentration; monitor for toxicity 
 	* <span id="drug">Methadone </span> decreases plasma levels by ~60%; dosage adjustment needed
 
+Note: Z does not like S
 
 ---
 
@@ -880,15 +881,14 @@ Double stranded DNA virus
 
 ### Nucleoside analogues
 
-* Resistance: 
-	* Mutated viral DNA polymerase 
-	* Absence of viral thymidine kinase (TK) 
-	* Altered viral TK substrate specificity
 * Drug selectivity:
 	* The virus in infected cells activates the drug to an active form
 		* Uninfected cell does not activate drug.
 	* Preferential affinity of acyclovir triphosphate for viral DNA polymerase rather than cellular enzyme. 
-	
+* Resistance: 
+	* Mutated viral DNA polymerase 
+	* Absence of viral thymidine kinase (TK) 
+	* Altered viral TK substrate specificity
 
 ---
 <section id="Acyclovir">
@@ -900,7 +900,7 @@ Double stranded DNA virus
 	* <span id="drug"> acyclovir </span> is phosphorylated intracellularly by viral thymidine kinases (TK), then by cellular kinases to the triphosphate state, which terminates DNA replication when incorported into the viral DNA. 
 	* Only effective against actively replicating virus. Does not eliminate the viral genome. 
 * ADME
-	* <span id="drug"> acyclovir </span> has low <a href="#/hsvpk">oral bioavailability</a> (10-20%). 
+	* <span id="drug"> acyclovir </span> has low <a href="#/hsvpk">oral bioavailability</a> (10-20%). (i.v. or topical) 
 	* <span id="drug"> Valacyclovir </span> is hydrolyzed to acyclovir in intestine or liver. Increase bioavailability (3.3 - 5 X) 
 	* T&frac12;= 2.5-3.3 h 
 * Indication
