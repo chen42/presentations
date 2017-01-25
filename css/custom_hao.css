@@ -60,11 +60,15 @@
 }
 
 
-
 #drug{
 	color: darkgreen;
 	font-style:italic;
 	text-transform:capitalize;
 }
 
-
+#mem{
+	color: grey;
+	text-transform:capitalize;
+	font-style:italic;
+	font-size:0.6em;
+}
