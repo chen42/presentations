@@ -443,7 +443,7 @@ Note: Z does not like S
 	* Tenofovir is an analogue of adenosine- <font color="darkorange">5'-monophosphate </font>
 	* Requires two intracellular phosphorylation steps for activation
 	* Weak inhibitor of mammalian DNA and mt polymerase
-	* Included in many first-line ART regimens
+	* Included in many <a href="#/recommend"> first-line ART regimens</a>
 	* Also indicated for hepatitis B 
 * Mechanism of action
 	* Inhibits viral reverse transcriptase by chain termination
@@ -602,7 +602,7 @@ Note: Z does not like S
 	* Diarrhea, nausea, headache, and fever
 	* Hypersensitivity to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
 * Drug interactions
-	* Not inducer, inhibitor or substrate of CYP3A4
+	* Not inducer, inhibitor or substrate of CYP3A4 (exeption: <span id="drug"> Elvitegravir </span> )
 	* Metabolized by UDP glucuronosyltransferase (UGT)
 	* <span id="drug"> Rifampin </span> (antibiotic) induces UGT, thus requires higher <span id="drug"> Raltegravir / Dolutegravir </span> dose
 
@@ -676,10 +676,10 @@ PIs can be peptidomimetic (structural similarities to the cleavage site of HIV p
 * ADME
 	* Oral absorption varies
 	* Bind extensively to plasma proteins
-	* Metabolized by cytochrome P-450 system
-		* Concurrent use of potent P-450 inducer (e.g. <span id="drug"> rifampin </span> ) leads to decreased PI concentration
 	* Renal excretion is minimal
 		* No adjustments needed for renal dysfunctions
+	* Metabolized by cytochrome P-450 system
+		* Concurrent use of potent P-450 inducer (e.g. <span id="drug"> rifampin </span> ) leads to decreased PI concentration
 	* Potent inhibitors of CYP3A4
 		* <span id="drug"> Ritonavir </span> used to increase (i.e. "boost") plasma concentration of other PIs except <span id="drug"> nelfinavir </span> (CYP2C19) 
 		* Toxic adverse effects related to drug accumulation due to PI-mediated inhibition of hepatic P450 system
@@ -728,9 +728,9 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 #### Common <a href="#/adverse">Adverse Effects</a>
 * Hyperlipidemia 
 	* May be more dramatic with <span id="drug"> ritonavir </span> due to interference in lipid metabolism. 
-* Insulin resistance and diabetes
 * [Lipodystrophy](https://www.ncbi.nlm.nih.gov/PubMed/9652687)
 	* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
+* Insulin resistance and diabetes
 * Elevated liver function
 * Possible increased bleeding risk in [hemophilics](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/medical_topic/21-s2.0-1014697)
 
@@ -753,12 +753,11 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 ### Darunavir
 
 * Achieves faster virologic response than control PIs. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21692667) 
-* <a href="#/recommend">Recommended</a> for treatment-naive patients
 * Can be used to treat patients resist to other PIs. 
 	* <span id="drug"> darunavir </span> displays a < 10-fold decreased susceptibility against 90% of HIV-1 isolates resistant to <span id="drug"> amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, </span> and/or <span id="drug"> tipranavir </span> . 	
 * Must be used in combination in an antiviral regimen.
 	* Requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> or [cobicistat](https://www.ncbi.nlm.nih.gov/pubmed/26566368) )
-
+* <a href="#/recommend">Recommended</a> for treatment-naive patients
 ---
 
 ### Protease Inhibitors 
