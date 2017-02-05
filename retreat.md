@@ -7,17 +7,18 @@
 
 Rat GWAS retreat 
 
-Feb 7 2017
+Feb 6 2017
 
 ---
 
 ## Nicotine self-administration with flavor cue
-<table width=90%><tr><td width=50% align="center" valign="center">
-		<img height:auto width=80% src="images/fig1.single.rat.licking.svg">
-	</td><td align="center" valign="center">
-	<img height:auto width=80% src="images/natureamerican.jpeg">
-</td><tr></table>
+<table width=90%><tr>
+<td width=50% align="center" valign="center">
+<img height:auto width=80% src="images/fig1.single.rat.licking.svg">
+</td><td align="center" valign="center">
+<img height:auto width=80% src="images/natureamerican.jpeg">
 
+</td></tr></table>
 
 ---
 
@@ -28,7 +29,7 @@ Feb 7 2017
 
 <hr align="left" width=15%>
 <p align=left>
-<cite> Chen, et al., 2011, Neuropsychopharmacology</cite>
+<cite> Chen, et al., Neuropsychopharmacology, 2011</cite>
 
 
 ---
@@ -67,22 +68,38 @@ Feb 7 2017
 	<img src="images/titlepages/jfowler.png" width=50%>
 </div>
 
-
 ---
 
 
 ## Modeling social learning in rats
 
 <div id="left50">
-	<img height:auto width=80% src="images/galef.protocol.narrower.png">
+<img height:auto width=80% src="images/galef.protocol.narrower.png"> 
+<br>
+
+
+<hr align="left" width=15%>
+<p align=left>
+<cite>Galef, Dev Psychobiol., 1982 </cite>
 </div>
 
 <div id="right50">
-	<img height:auto width=80% src="images/Fig1.social.rats.withdemo.svg">
+<img height:auto width=80% src="images/Fig1.social.rats.withdemo.svg">
 </div>
 
 
 ---
+
+## Social learning induces nicotine self-administration
+<a href="#/solo">
+	<img height:auto width=90% src="images/npp/fig2.demo.dose2.png">
+</a>
+<hr align="left" width=15%>
+<p align=left>
+<cite> Chen, et al., Neuropsychopharmacology, 2011 </cite>
+
+---
+
 
 ## Social context 
 
@@ -99,24 +116,13 @@ Feb 7 2017
 
 ---
 
-## Social learning induces nicotine self-administration
-<a href="#/solo">
-	<img height:auto width=90% src="images/npp/fig2.demo.dose2.png">
-</a>
-<hr align="left" width=15%>
-<p align=left>
-<cite> Chen, et al., 2011, Neuropsychopharmacology</cite>
-
----
-
-
 ## Nicotine self-administration with an <span style="color:darkred">aversive </span> cue
 <img height:auto width=95% src="images/quinine/pres.quinine.4grps.png">
 <br>
  NSE: Neutral social environment | ISE: Inducing social environment 
 <hr align="left" width=15%>
 <p align=left>
-<cite> Wang, et al., Psychopharmacology 2016 </cite>
+<cite> Wang, et al., Psychopharmacology, 2016 </cite>
 </p>
 
 
@@ -129,7 +135,7 @@ Feb 7 2017
 <hr align="left" width=15%>
 <p align=left>
 
-<cite> Wang, et al., Psychopharmacology 2016 </cite>
+<cite> Wang, et al., Psychopharmacology, 2016 </cite>
 </p>
 
 
@@ -138,16 +144,16 @@ Feb 7 2017
 
 ## What is the social signal?
 
-<img width=60% src="images/Fig1.social.rats.withdemo.svg">
+<img width=50% src="images/Fig1.social.rats.withdemo.svg">
 
 ---
 
 ## Odor but not taste cue is required
 
-<img height:auto width=80% src="./images/npp/fig5.olfactory.eps.png">
+<img height:auto width=70% src="./images/npp/fig5.olfactory.eps.png">
 <hr align="left" width=15%>
 <p align=left>
-<cite> Chen, et al., 2011, Neuropsychopharmacology</cite>
+<cite> Chen, et al., Neuropsychopharmacology, 2011</cite>
 
 
 ---
@@ -161,7 +167,7 @@ Feb 7 2017
 <br>
 <hr align="left" width=15%>
 <p align=left>
-<cite> Wang &amp; Chen, 2014, PLoS ONE</cite>
+<cite> Wang &amp; Chen, PLoS ONE, 2014</cite>
 </p>
 
 
@@ -172,7 +178,7 @@ Feb 7 2017
 <small> NSE: Neutral social environment | ISE: Inducing social environment </small>
 <hr align="left" width=15%>
 <p align=left>
-<cite> Wang &amp; Chen, 2014, PLoS ONE</cite>
+<cite> Wang &amp; Chen, PLoS ONE, 2014 </cite>
 </p>
 
 
@@ -190,12 +196,12 @@ Feb 7 2017
 
 
 ---
-## The plan 
+## Specific Aims  
 * Breed adolescent HS rats
 	* Generate ~ 400 adolescent rats per year 
 	* Use four rats (2 &#9794; + 2 &#9792;) in the behavioral studies and one rat for RNA-seq per litter 
 * Phenotype social and emotional traits
-	* Open field /   Novel object /  Social interaction /  Elevated plus maze /  Marble bury 
+	* Open field /   Novel object /  Social interaction /  Elevated plus maze    
 * Socially-acquired nicotine self-administration
 	* Acquisition, 10 daily sessions
 	* Progressive ratio, 1 session
@@ -205,14 +211,18 @@ Feb 7 2017
 
 ---
 
-## The plan, <em> cont. </em> 
+## Specific Aims, <em> cont. </em> 
 
 * Data analysis 
-	* Principle component analysis 
-	* Multiple Regression
+	* Principle component analysis of the predictor variables  
+	* Multiple Regression of the PCs
 * Laser capture microdissection 	
 	* Collect 72 rats (36 &#9794; + 36 &#9792;) 
-	* Four brain regions: AcbC, LHb, IL, OFC
+	* Four brain regions
+		* AcbC
+		* LHb
+		* IL
+		* OFC
 
 ---
 
@@ -290,17 +300,17 @@ Feb 7 2017
 <img width=70% height="auto" src="images/p50/fig4.g2b.figure.male.vs.female.nicSA.cummulative.png">
 <hr align="left" width=15%>
 <p align=left>
-<cite> Wang, et al., 2014, Gene, Brain and Behavior</cite>
+<cite> Wang, et al., Gene, Brain and Behavior, 2014</cite>
 
 
 ---
 ## Demonstrator behavior
 
-<img width=80% height="auto" src="images/p50/fig_demo.lick.by.sex.png">
+<img width=60% height="auto" src="images/p50/fig_demo.lick.by.sex.png">
 
 <hr align="left" width=15%>
 <p align=left>
-<cite> Wang, et al., 2014, Gene, Brain and Behavior</cite>
+<cite> Wang, et al., Gene, Brain and Behavior, 2014</cite>
 
 ---
 ## Socially-acquired nicotine self-administration with CS<sub>2</sub>
@@ -337,6 +347,12 @@ Feb 7 2017
 
 ## Correlation 
 <img src="images/p50retreat2017/correlations_all.png" width=80%>
+
+---
+
+## Principle component analysis 
+
+<img src="images/p50retreat2017/pca_loading.png" width=80%>
 
 ---
 
@@ -396,14 +412,14 @@ Feb 7 2017
 	* These brain regions have approx. 10 mg wet tissue
 
 ---
+
 ####  Spin off 1 
 ## Menthol flavored cigrettes
 <table><tr><td width=62%>
 <img width=100% height="auto" src="images/p50/menthol.patent.png">
 </td><td width=38%> 
 <img width=100% height="auto" src="images/p50/menthol_24.jpg">
-		</td></tr></table>
-
+</td></tr></table>
 
 ---
 
@@ -411,14 +427,15 @@ Feb 7 2017
 <img width=60% height="auto" src="images/p50/single.rat.lick.menthol.png">
 
 ---
+
 ## Menthol facilitates nicotine intake
 <img width=70% height="auto" src="images/p50/p50_menthol.png">
 
-
 ---
+
 ## Extinction and Reinstatement
 <img width=70% height="auto" src="images/p50/p50_mentholExt.png">
-				
+
 ---
 
 ## Menthol as a cue for nicotine
@@ -427,6 +444,11 @@ Feb 7 2017
 
 ---
 
+## Genetic influences on menthol as a cue for nicotine self-administration in rats
+#### Hao Chen, Abraham Palmer, MPI 
+#### To be re-submitted before March 1 2017 in response to NIDA PAR 15-120
+
+---
 ####  Spin off 2 
 
 <h3> <a href="https://github.com/chen42/openbehavior"> An open source device for operant licking </a></h3>
