@@ -309,27 +309,27 @@ Feb 6 2017
 ---
 ## Socially-acquired nicotine self-administration with CS<sub>2</sub>
 
-<img width=50% height="auto" src="images/p50/single.rat.lick.cs2.png">
+<img width=40% height="auto" src="images/p50/single.rat.lick.cs2.png">
 
 ---
 
 ## Nicotine self-administration
-<img width=70% height="auto" src="images/p50retreat2017/summaryNicotine.png">
+<img width=60% height="auto" src="images/p50retreat2017/summaryNicotine.png">
 
 ---
 ## Nicotine self-administration
 #### Sessions 1-10
-<img width=100% height="auto" src="images/p50retreat2017/densityNicotine10Days.png">
+<img width=80% height="auto" src="images/p50retreat2017/densityNicotine10Days.png">
 
 ---
 ## Nicotine self-administration
 #### Progressive ratio 
-<img width=100% height="auto" src="images/p50retreat2017/densityNicotineDay11.png">
+<img width=80% height="auto" src="images/p50retreat2017/densityNicotineDay11.png">
 
 ---
 ## Nicotine self-administration
 #### Reinstatement 
-<img width=100% height="auto" src="images/p50retreat2017/densityNicotineDay20.png">
+<img width=80% height="auto" src="images/p50retreat2017/densityNicotineDay20.png">
 
 ---
 
@@ -390,12 +390,12 @@ Feb 6 2017
 
 ---
 ## Dissecting brains using a DIY setup	
-<img width=70% height="auto" src="images/p50/dissection.gif">
+<img width=60% height="auto" src="images/p50/dissection.gif">
 
 ---
 
 ## Quality of RNA 
-<img width=80% height="auto" src="images/p50retreat2017/RNAQuality.png">
+<img width=60% height="auto" src="images/p50retreat2017/RNAQuality.png">
 
 ---
 
@@ -421,23 +421,23 @@ Feb 6 2017
 ---
 
 ## Modeling the effect of menthol
-<img width=60% height="auto" src="images/p50/single.rat.lick.menthol.png">
+<img width=50% height="auto" src="images/p50/single.rat.lick.menthol.png">
 
 ---
 
 ## Menthol facilitates nicotine intake
-<img width=70% height="auto" src="images/p50/p50_menthol.png">
+<img width=60% height="auto" src="images/p50/p50_menthol.png">
 
 ---
 
 ## Extinction and Reinstatement
-<img width=70% height="auto" src="images/p50/p50_mentholExt.png">
+<img width=60% height="auto" src="images/p50/p50_mentholExt.png">
 
 ---
 
 ## Menthol as a cue for nicotine
 #### Heritability = 0.67
-<img width=70% height="auto" src="images/p50/p50mentholinbred.png">
+<img width=50% height="auto" src="images/p50/p50mentholinbred.png">
 
 ---
 
@@ -458,7 +458,7 @@ Feb 6 2017
 
 ### partially supported by the P50
 
-* Tengfei Wang, Wenyan Han, Hao Chen. Socially acquired nicotine self-administration with an aversive flavor cue in adolescent female rats. Psychopharmacology. 2016 May;233(10):1837–1844. PMCID: PMC4846487
+* Tengfei Wang, Wenyan Han, Hao Chen. Socially acquired nicotine self-administration with an aversive flavor cue in adolescent female rats. Psychopharmacology. 2016 May;233(10):1837 &mdash; 1844. PMCID: PMC4846487
 
 * Matthew Longley, Ethan L Willis, Cindy X Tay, Hao Chen.  An open source device for operant licking in rats. PeerJ. Accepted for Publication.
 
