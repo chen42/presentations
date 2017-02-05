@@ -1,18 +1,18 @@
 ## Project 2 
 <hr color=orange >
-# Socially-acquired nicotine self-administration 
+# Socially acquired nicotine self-administration 
 <hr color=orange >
 ##	Hao Chen
 ### University of Tennessee Health Science center
 
 Rat GWAS retreat 
 
-Feb 6 2017
+Feb 6, 2017
 
 ---
 
 ## Nicotine self-administration with flavor cue
-<table width=90%><tr>
+<table width=80%><tr>
 <td width=50% align="center" valign="center">
 <img height:auto width=80% src="images/fig1.single.rat.licking.svg">
 </td><td align="center" valign="center">
@@ -21,9 +21,10 @@ Feb 6 2017
 </td></tr></table>
 
 ---
+<section id="solo">
 
 ## Flavor cue does <a href="#/stfp">not</a> support nicotine self-administration
-<a href="#/demo">
+<a href="#/social">
 	<img height:auto width=90% src="images/npp/fig1.ms.saccCocoaSolo2.png">
 </a>
 
@@ -89,7 +90,7 @@ Feb 6 2017
 
 
 ---
-
+<section id="social">
 ## Social learning induces nicotine self-administration
 <a href="#/solo">
 	<img height:auto width=90% src="images/npp/fig2.demo.dose2.png">
@@ -188,9 +189,10 @@ Feb 6 2017
 <ul>
 <li> Nicotine is both rewarding and aversive. </li>
 <li> Flavor cues are associated with the aversive effect of nicotine. </li>
-<li> Social learning reverses conditioned aversion and facilitate nicotine self-administration. </li>
+<li> Social learning facilitates the extinction of conditioned aversion and promote nicotine self-administration. </li>
 <li> CS<sub>2</sub> is a critical signal that mediates social learning and nicotine intake. </li>
 <li> Operant behavior is driven by the rewarding effect of nicotine, and not by the subjective value of the flavor cue. </li>
+<li> A key molecular mechanism is oxytocin receptor signaling in the infralimbic cortex.
 </ul>
 
 
@@ -201,7 +203,7 @@ Feb 6 2017
 	* Use four rats (2 &#9794; + 2 &#9792;) in the behavioral studies and one rat for RNA-seq per litter 
 * Phenotype social and emotional traits
 	* Open field /   Novel object /  Social interaction /  Elevated plus maze    
-* Socially-acquired nicotine self-administration
+* Socially acquired nicotine self-administration
 	* Acquisition, 10 daily sessions
 	* Progressive ratio, 1 session
 	* Cotinine assay, 1 time 
@@ -307,7 +309,7 @@ Feb 6 2017
 <cite> Wang, et al., Gene, Brain and Behavior, 2014</cite>
 
 ---
-## Socially-acquired nicotine self-administration with CS<sub>2</sub>
+## Socially acquired nicotine self-administration with CS<sub>2</sub>
 
 <img width=40% height="auto" src="images/p50/single.rat.lick.cs2.png">
 
@@ -320,6 +322,21 @@ Feb 6 2017
 ## Nicotine self-administration
 #### Sessions 1-10
 <img width=80% height="auto" src="images/p50retreat2017/densityNicotine10Days.png">
+
+
+---
+
+## Nicotine self-administration
+#### First sessions 
+<img width=80% height="auto" src="images/p50retreat2017/densityNicotineDay1.png">
+
+
+---
+
+## Nicotine self-administration
+#### Last three sessions 
+<img width=80% height="auto" src="images/p50retreat2017/densityNicotineLast3.png">
+
 
 ---
 ## Nicotine self-administration
@@ -378,7 +395,7 @@ Feb 6 2017
 
 ---
 
-## Micro dissection of brain tissue
+## Microdissection of brain tissue
 <table>
 	<tr><td width=50%>
 <img width=90% height="auto" src="images/p50/dissection.jpg">
