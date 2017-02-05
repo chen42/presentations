@@ -173,7 +173,6 @@ Feb 6 2017
 
 ---
 
-## Context-induced reinstatement 
 <img height:auto width=80% src="images/cs2/fig5.reinstatment.cs2.png">
 <small> NSE: Neutral social environment | ISE: Inducing social environment </small>
 <hr align="left" width=15%>
@@ -352,23 +351,26 @@ Feb 6 2017
 ---
 
 ## Regression 
-<div id="left50">
+
+<table width=70%>
+<tr><td width=45%>
 	<b> Pilot data </b>
 	<br>
-	<img width=70% height="auto" src="images/p50/linearRegression.jpg">
+	<img width=100% height="auto" src="images/p50/linearRegression.jpg">
 	<br>
-<small> Wang, et al., 2014, Gene, Brain and Behavior</small>
-</div>
+<p align=left>
+<cite> Wang, et al., Gene, Brain and Behavior, 2014</cite>
 
-<div id="right50">
-	<b>Current data</b>
-	<ul>
-	<li>Batch is the most significant factor
+</td><td width=45%>
+
+<b>Current data</b>
+<p>
+<ul>
 	<li> No measure of social behavior during IVSA
+	<li> Batch is the most significant factor
 	<li> Less than 10% variance of infusion explained by other factors
-	</ul>
-</div>
-
+</ul>
+</td></tr></table>
 
 ---
 ## Nicotine metabolism
@@ -441,7 +443,7 @@ Feb 6 2017
 
 ## Genetic influences on menthol as a cue for nicotine self-administration in rats
 #### Hao Chen, Abraham Palmer, MPI 
-#### To be re-submitted before March 1 2017 in response to NIDA PAR 15-120
+#### To be re-submitted before March 1, 2017 in response to NIDA PAR 15-120
 
 ---
 ####  Spin off 2 
