@@ -278,11 +278,6 @@ Feb 6 2017
 ## Novel object interaction
 <img width=70% height="auto" src="images/p50retreat2017/densityNovelObject.png">
 
-
----
-## Social interaction
-<img width=80% height="auto" src="images/p50/social_interaction_chamber.png">	
-
 ---
 ## Social interaction
 <img width=70% height="auto" src="images/p50retreat2017/densitySocialInteraction.png">
