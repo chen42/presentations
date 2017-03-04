@@ -1,12 +1,13 @@
-# Analyzing big data: from simple clustering to deep learning.
------
+# Analyzing big data: from simple clustering to deep learning
+----
 ## Hao Chen
  
 ### Assistant Professor
-### Department of Pharmacology
-### UTHSC
+### Department of Pharmacology, UTHSC
 
 March 7th 2017
+
+https://chen42.github.io/presentations/ml.html
 
 ---
 
@@ -15,17 +16,15 @@ March 7th 2017
 
 * Data, Big data
 * Unsupervised learning
-	* Clustering
-		* Hierachcial clustering	
-	* Dimention reduction
-		* Principal component analysis
+	* Clustering (e.g., Hierachcial clustering) 	
+	* Dimention reduction (e.g., Principal component analysis)
 * Supervised learing
 	* Regression
 	* Neuronetworks
 	* Deep Neuronets	
 ---
 
-## Learning Objective
+## Learning Objectives
 
 * Understand a few commonly used algorithms 
 
@@ -35,37 +34,42 @@ March 7th 2017
 
 ---
 
-## Big data?
+## What is big data
 
-* Big data V3
+* Big data 
 	* Volume 
 		* Boeing 737 generates 240 terabytes of flight data during a single flight
-		* one Next-Generation sequencing run produces terabytes of data 
 	* Velocity 
 		* sensors can have millisecond resolutions
 	* Variety
 		* geospatial, audio, video
-		* structured vs unstructured
-			* text is data too
-* May *not* contain much values
-* A major difference between "Big" data and "small" data is the analysis methods. 
+* Major difference between "Big" data and "small" data 
+	* analysis methods 
+	* analysis objective  
+		* Hypothesis testing vs Discovery vs prediction
 
 ---
 
-## For big data, analysis is learning, machine learning
+## Some data 
+
+<font size=1>
+
+2004-01, 2004-02, 2004-03, 2004-04, 2004-05, 2004-06, 2004-07, 2004-08, 2004-09, 2004-10, 2004-11, 2004-12, 2005-01, 2005-02, 2005-03, 2005-04, 2005-05, 2005-06, 2005-07, 2005-08, 2005-09, 2005-10, 2005-11, 2005-12, 2006-01, 2006-02, 2006-03, 2006-04, 2006-05, 2006-06, 2006-07, 2006-08, 2006-09, 2006-10, 2006-11, 2006-12, 2007-01, 2007-02, 2007-03, 2007-04, 2007-05, 2007-06, 2007-07, 2007-08, 2007-09, 2007-10, 2007-11, 2007-12, 2008-01, 2008-02, 2008-03, 2008-04, 2008-05, 2008-06, 2008-07, 2008-08, 2008-09, 2008-10, 2008-11, 2008-12, 2009-01, 2009-02, 2009-03, 2009-04, 2009-05, 2009-06, 2009-07, 2009-08, 2009-09, 2009-10, 2009-11, 2009-12, 2010-01, 2010-02, 2010-03, 2010-04, 2010-05, 2010-06, 2010-07, 2010-08, 2010-09, 2010-10, 2010-11, 2010-12, 2011-01, 2011-02, 2011-03, 2011-04, 2011-05, 2011-06, 2011-07, 2011-08, 2011-09, 2011-10, 2011-11, 2011-12, 2012-01, 2012-02, 2012-03, 2012-04, 2012-05, 2012-06, 2012-07, 2012-08, 2012-09, 2012-10, 2012-11, 2012-12, 2013-01, 2013-02, 2013-03, 2013-04, 2013-05, 2013-06, 2013-07, 2013-08, 2013-09, 2013-10, 2013-11, 2013-12, 2014-01, 2014-02, 2014-03, 2014-04, 2014-05, 2014-06, 2014-07, 2014-08, 2014-09, 2014-10, 2014-11, 2014-12, 2015-01, 2015-02, 2015-03, 2015-04, 2015-05, 2015-06, 2015-07, 2015-08, 2015-09, 2015-10, 2015-11, 2015-12, 2016-01, 2016-02, 2016-03, 2016-04, 2016-05, 2016-06, 2016-07, 2016-08, 2016-09, 2016-10, 2016-11, 2016-12, 2017-01, 2017-02, 2017-03
+
+99, 100, 100, 98, 91, 88, 83, 85, 93, 94, 92, 79, 89, 91, 87, 87, 85, 79, 73, 75, 82, 84, 86, 69, 80, 80, 82, 76, 78, 70, 63, 67, 74, 75, 76, 62, 72, 71, 70, 68, 70, 63, 60, 61, 69, 69, 71, 59, 67, 68, 65, 68, 64, 60, 54, 57, 68, 65, 66, 55, 62, 63, 64, 63, 61, 58, 52, 55, 63, 65, 64, 53, 62, 63, 64, 61, 60, 56, 50, 52, 61, 60, 62, 50, 57, 59, 59, 54, 56, 53, 47, 49, 57, 59, 60, 48, 57, 58, 57, 54, 55, 48, 45, 48, 58, 59, 55, 46, 53, 56, 55, 55, 53, 48, 44, 46, 57, 59, 58, 48, 54, 57, 55, 53, 52, 48, 43, 47, 60, 60, 57, 48, 54, 57, 57, 54, 52, 49, 42, 48, 60, 59, 58, 48, 56, 58, 56, 55, 52, 48, 41, 48, 60, 59, 58, 48, 57, 60, 75
+
+69, 69, 70, 70, 67, 67, 69, 71, 66, 63, 68, 67, 70, 75, 67, 64, 69, 80, 100, 75, 67, 68, 69, 65, 64, 63, 61, 63, 61, 61, 65, 62, 59, 59, 61, 61, 56, 55, 54, 55, 56, 57, 57, 55, 53, 51, 55, 56, 56, 61, 55, 54, 54, 54, 56, 55, 50, 52, 55, 54, 53, 53, 53, 54, 54, 54, 56, 57, 54, 53, 57, 54, 56, 54, 54, 56, 59, 56, 58, 58, 53, 54, 56, 56, 58, 63, 63, 70, 82, 81, 81, 78, 76, 73, 83, 85, 82, 90, 82, 73, 70, 68, 72, 68, 64, 64, 64, 64, 63, 65, 64, 64, 66, 64, 65, 67, 61, 63, 65, 63, 65, 65, 66, 66, 66, 65, 66, 69, 63, 63, 67, 63, 69, 71, 69, 67, 70, 68, 77, 81, 79, 77, 79, 77, 75, 72, 72, 74, 73, 71, 75, 72, 73, 75, 73, 73, 77, 75, 71
+
+4, 4, 2, 3, 4, 3, 4, 5, 4, 3, 4, 4, 4, 4, 4, 4, 2, 4, 3, 2, 3, 4, 4, 5, 3, 3, 3, 4, 2, 2, 2, 2, 2, 4, 4, 2, 3, 2, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 2, 3, 3, 3, 3, 3, 2, 3, 4, 3, 3, 3, 3, 4, 3, 3, 3, 3, 3, 3, 3, 4, 3, 3, 3, 3, 4, 4, 3, 4, 2, 3, 2, 4, 3, 3, 3, 3, 3, 2, 3, 4, 3, 3, 3, 4, 4, 3, 3, 4, 4, 4, 5, 4, 3, 4, 4, 5, 7, 5, 5, 6, 7, 8, 9, 8, 8, 7, 9, 10, 9, 10, 11, 14, 13, 13, 13, 12, 12, 14, 15, 15, 15, 23, 24, 25, 27, 24, 26, 29, 29, 27, 30, 32, 36, 35, 44, 43, 55, 55, 54, 54, 53, 55, 61, 64, 69, 71, 75, 84, 100
+44, 78, 82, 100, 62, 46, 55, 50, 53, 63, 71, 56, 46, 70, 60, 90, 63, 62, 41, 40, 46, 51, 74, 54, 48, 46, 64, 67, 61, 39, 41, 34, 46, 59, 60, 46, 34, 47, 49, 59, 54, 37, 32, 35, 35, 59, 62, 39, 28, 40, 50, 62, 49, 31, 31, 32, 44, 55, 54, 44, 37, 45, 55, 67, 49, 39, 32, 33, 47, 63, 65, 52, 39, 59, 63, 75, 56, 41, 35, 42, 46, 58, 62, 56, 41, 53, 57, 67, 61, 42, 39, 43, 52, 60, 66, 54, 40, 55, 60, 70, 62, 44, 36, 40, 54, 58, 63, 56, 43, 53, 59, 75, 66, 44, 37, 39, 54, 58, 67, 59, 38, 55, 62, 74, 67, 43, 38, 45, 53, 62, 71, 64, 40, 54, 67, 77, 64, 46, 35, 38, 52, 62, 71, 61, 37, 52, 63, 79, 64, 39, 36, 40, 53, 62, 75, 57, 43, 56, 81
+</font>
+
+---
+
+## Cherry picking; Visualization
 
 ![](./images/deep_learning/deepLearning_google_trends.png)
 
----
-
-<a href="https://www.udacity.com/course/machine-learning-for-trading--ud501">
-<img src="./images/deep_learning/udacity_trading.png"> </a> 
-
----
-
-## Numerous online resources for learning machine learning
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UzxYlbK2c7E" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -193,11 +197,16 @@ print(P)
 
 ---
 
-## Gradient descent
+## Gradient descent for linear regresssion
 
 ![](./images/deep_learning/gradient_descent_example.gif)
 
-![](./images/deep_learning/gradient_descent_error_surface.png)
+---
+
+## Gradient descent error surface
+<a href="https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/">
+<img src="./images/deep_learning/gradient_descent_error_surface.png"></a>)
+
 ---
 
 ## Logistic regression
@@ -236,3 +245,6 @@ print(P)
 ---
 
 http://blog.hackerearth.com/gradient-descent-algorithm-linear-regression
+
+http://www.emergentmind.com/neural-network
+
