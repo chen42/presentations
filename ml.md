@@ -1,13 +1,13 @@
 # Analyzing big data: from simple clustering to deep learning
-----
+<hr style="color:royalblue">
 ## Hao Chen
  
-### Assistant Professor
-### Department of Pharmacology, UTHSC
+#### Assistant Professor
+#### Department of Pharmacology, UTHSC
 
 March 7th 2017
 
-https://chen42.github.io/presentations/ml.html
+https://chen42.github.io/talks/ml.html
 
 ---
 
@@ -16,12 +16,11 @@ https://chen42.github.io/presentations/ml.html
 
 * Data, Big data
 * Unsupervised learning
-	* Clustering (e.g., Hierachcial clustering) 	
-	* Dimention reduction (e.g., Principal component analysis)
-* Supervised learing
+	* Clustering (e.g., Hierarchical clustering) 	
+	* Dimension reduction (e.g., Principal component analysis)
+* Supervised learning
 	* Regression
-	* Neuronetworks
-	* Deep Neuronets	
+	* Deep neural networks	
 ---
 
 ## Learning Objectives
@@ -110,7 +109,7 @@ What kind of inherent structure can an algorithm discover?
 
 ---
 
-## Box plot of ~100 RNA-Seq samples
+## Data for Hierarchical clustering
 
 ![](./images/deep_learning/100.samples.boxplot.png)
 
@@ -118,7 +117,7 @@ What kind of inherent structure can an algorithm discover?
 Each sample has the expression level of 12,000 genes. So the data set has 12,000,000 data points.  The means of RNA samples are very similar.  
 
 ---
-
+<!---
 
 ## Histogram and density plots 
 
@@ -134,7 +133,6 @@ theme(axis.text.y=element_text(face="bold", size=12))
 print(p)
 </code>
 </pre>
----
 
 ## Density plots of ~100 RNA-Seq samples
 
@@ -144,7 +142,7 @@ print(p)
 The distribution is somewhat different between brain regions.
 
 
----
+--->
 
 
 ## Hierarchical clustering 
@@ -162,14 +160,14 @@ Label of the sample is not part of the input data for clustering. And yet the sa
 
 * Training 	
 	* Collect a set of data that has labels 
-		* Images with text annotation of the object in the image
+		* Images with text annotation of the object in the image (e.g. [hand written digits](https://www.kaggle.com/c/digit-recognizer))
 	* Select a mathematical model, adjust the parameter in the model  so the output equals to the label
 	* Repeatedly adjust the parameters for all the samples in the data collection, with an effort to reduce overall error rate
 * Testing
 	* Run a set of new samples with labels through the model 
 	* Record the number of errors.
 * Deployment
-	* Use the model to predict the label of completely new data.
+	* Use the model to **predict** the label of completely new data.
 
 ---
 
@@ -180,6 +178,8 @@ Label of the sample is not part of the input data for clustering. And yet the sa
 ---
 
 ## Linear regression
+
+Y=a*X+b
 
 ![](./images/deep_learning/linear_regression.png)
 <pre> <code data-trim data-noescape>
@@ -197,19 +197,77 @@ print(P)
 
 ---
 
-## Gradient descent for linear regresssion
+## Linear regresssion by iterative updates [R code](https://www.r-bloggers.com/linear-regression-by-gradient-descent/)
 
-![](./images/deep_learning/gradient_descent_example.gif)
+
+
+![](./images/deep_learning/gradient_descent_for_linear_regression.gif)
+
+
+<pre> <code>
+## theta is the parameter, alpha is learning rate
+for (i in 1:num_iters) {
+  error <- (X %*% theta - y)
+  delta <- t(X) %*% error / length(y)
+  theta <- theta - alpha * delta
+}
+</code>
+</pre>
 
 ---
 
 ## Gradient descent error surface
 <a href="https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/">
-<img src="./images/deep_learning/gradient_descent_error_surface.png"></a>)
+<img src="./images/deep_learning/gradient_descent_error_surface.png"></a>
+
+---
+## Gradient descent and deep neural network
+
+
+![](http://neuralnetworksanddeeplearning.com/images/tikz40.png)
+
 
 ---
 
+## A neuron: biological model vs mathematical model 
+
+<table><tr><td width=50%>
+<img src="./images/deep_learning/neuron.gif" width=90%>
+</td>
+<td width=50%>
+<img src="./images/deep_learning/perceptron.png" width=90%>
+</td></tr>
+</table>
+
+
+
+---
+
+
+## Rectified Linear Unit  (ReLU)
+
+Activation of the neurons
+
+![](./images/deep_learning/relu.png)
+
+<pre> <code data-trim data-noescape>
+#ReLU
+library(ggplot2)
+relu<-function(x) sapply(x, function(z) max(-5,z))
+x<-seq(from=-10, to=5, by=0.1)
+y<-relu(x)
+dat<-data.frame(X=x, Y=y)
+P<-ggplot(dat, aes(x=X, y=Y))+geom_line(size=1.6, color="orange")
+print(P)
+</code>
+</pre>
+
+---
+
+
 ## Logistic regression
+
+Output layer
 
 ![](./images/deep_learning/logit_regression.png)
 <pre> <code data-trim data-noescape>
@@ -225,26 +283,77 @@ print(p)
 
 ---
 
+## Multilayer neural networks and backpropagation
 
-## Rectified Linear Unit  (ReLU)
-![](./images/deep_learning/relu.png)
-
-<pre> <code data-trim data-noescape>
-#ReLU
-library(ggplot2)
-relu<-function(x) sapply(x, function(z) max(-5,z))
-x<-seq(from=-10, to=5, by=0.1)
-y<-relu(x)
-dat<-data.frame(X=x, Y=y)
-P<-ggplot(dat, aes(x=X, y=Y))+geom_line(size=1.6, color="orange")
-print(P)
-</code>
-</pre>
+<a href="http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html">
+<img src="./images/deep_learning/network_structure.png">
+</a>
 
 
 ---
+## A toy neural network 
 
-http://blog.hackerearth.com/gradient-descent-algorithm-linear-regression
+<a href="http://www.emergentmind.com/neural-network" target=_new>
+<img src="./images/deep_learning/toy.png">
+</a>
 
-http://www.emergentmind.com/neural-network
+---
+
+## Convolutional neural network
+
+<a href="http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html">
+<img src="./images/deep_learning/cnn.png">
+</a>
+
+---
+
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/28117445">
+<img src="./images/deep_learning/dermatologist.png">
+</a>
+![](./images/deep_learning/skin_cnn.png)
+
+---
+
+##  Dimension reduction on the last hidden layer 
+
+![](./images/deep_learning/tSNE.png)
+
+---
+
+## Can deep neural networks be used on genetics data?
+
+<img src="./images/deep_learning/gwas.jpg">
+
+
+---
+## Use genetic variation to predict skin color in rats
+
+<pre><code data-trim data-noescape>
+#python
+from keras.models import Sequential
+from keras.layers import Dense, Dropout, Activation, Flatten
+
+# read in the data, split training vs testing 
+dataset=pd.read_csv("./hs_snps.csv",delimiter=",", dtype="float", na_filter=True)
+X = dataset[:,1:18571] #chr1  SNPs
+Y = dataset[:,0] #coat color
+X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.25, random_state=42)
+
+# construct the network
+model = Sequential()
+model.add(Dense(200, input_dim=18570, init='uniform', activation='relu'))
+model.add(Dense(200, init='uniform', activation='relu'))
+model.add(Dense(5, init='uniform', activation='softmax'))
+
+# compile the model
+model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+# fit the model
+model.fit(X_train, y_train, nb_epoch=100, batch_size=200)
+
+#evaluate the model and print results
+scores = model.evaluate(X_test, y_test)
+print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
+</code>
+</pre>
 
