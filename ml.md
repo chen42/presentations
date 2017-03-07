@@ -1,7 +1,7 @@
 # Analyzing big data: from simple clustering to deep learning
 <hr style="color:royalblue">
 ## Hao Chen
- 
+hchen@uthsc.edu 
 #### Assistant Professor
 #### Department of Pharmacology, UTHSC
 
