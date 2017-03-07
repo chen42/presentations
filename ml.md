@@ -318,12 +318,18 @@ print(p)
 
 ![](./images/deep_learning/tSNE.png)
 
+
+---
+
+
+![](./images/deep_learning/google_research_blog.png)
+
+
 ---
 
 ## Can deep neural networks be used on genetics data?
 
 <img src="./images/deep_learning/gwas.jpg">
-
 
 ---
 ## Use genetic variation to predict skin color in rats
@@ -357,3 +363,9 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 </code>
 </pre>
 
+
+---
+
+##  What is left for human?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aR5N2Jl8k14" frameborder="0" allowfullscreen></iframe>
