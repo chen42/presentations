@@ -1,4 +1,4 @@
-## Pharmacology 
+## Dental Pharmacology 205
 ----
 # Anti-HIV & Antiviral Agents
 ----
@@ -9,23 +9,12 @@ Dept. Pharmacology, UTHSC
 
 hchen@uthsc.edu
 
-short URL: https://goo.gl/VXnkZL
+short URL: http://tinyurl.com/ya7tmbbl
 
-full URL: http://chen42.github.io/presentations/antiviral.html
+full URL: http://chen42.github.io/talks/antiviral.html
 
-January 25, 2017
+Aug 23 2017
 
----
-
-### Note to students
-Jan 28 2017
-<div style="text-align:left">
-I received several emails asking about how to prepare for the exam. Like I mentioned in the classes, the focus for the anti-HIV agents is to understand drugs used in the current recommendation for naive patients. For the non first line drugs, you need to know under what condition they are used. For the other anti-viral agents, it is similar. You need to understand the indications before anything else. Again, there are numerous side effects and the focus should be on understanding them as groups. 
-<p>
-Just in case this was not clear, the external links to ClinicalKey and PubMed were provided for your information only.
-<p>
-In case there are differences between this version and the PDF version posted prior to class, this version has the final say.
-</div>
 ---
 
 ### Conventions 
