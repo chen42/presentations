@@ -142,16 +142,15 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 </div>
 
 ---
-### Current [guideline](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-treatment-guidelines/0/)
+### Current [guideline](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/10/initiation-of-antiretroviral-therapy)
 
 for
 
 #### The Initiation of Antiretroviral Therapy 
 
-Last updated January 28, 2016
+Last updated July 14, 2016
 
-* Antiretroviral therapy (ART) is recommended for all HIV-infected individuals, regardless of CD4 T lymphocyte cell count, to reduce the morbidity and mortality associated with HIV infection (AI) and to
- prevent HIV transmission (AI).
+* Antiretroviral therapy (ART) is recommended for all HIV-infected individuals, regardless of CD4 T lymphocyte cell count, to reduce the morbidity and mortality associated with HIV infection (AI) and to prevent HIV transmission (AI).
 * On a case-by-case basis, ART may be deferred because of clinical and/or psychosocial factors, but therapy should be initiated as soon as possible.
 
 <small>Rating of Recommendations: A = Strong; B = Moderate; C = Optional </small>
