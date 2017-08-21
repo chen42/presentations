@@ -308,7 +308,7 @@ Prevents virus from entering the host cell <br>
 ---
 ### Nucleoside Reverse Transcriptase Inhibitors (NRTIs)
 * Indications
-	* First line treatment of HIV infection as components of ART 
+	* [First line treatment of HIV infection as components of ART](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/11/what-to-start)
 	* Prevent acute infection of susceptible cells
 	* Little effect on cells already infected by HIV
 	* <span id="drug"> Zidovudine </span> 
@@ -371,7 +371,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* <span id="drug">Stavudine </span>: pancreatitis, exacerbates peripheral neuropathy
 		* avoid co-administration with didanosine or zidovudine 
 	* <span id="drug">Abacavir</span>: hypersensitivity reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
-		* HLA-B\*5701	screening before starting therapy [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article) <span id="mem"> what does the A-B stands for? AB-cacavir</span> 
+		* HLA-B\*5701	screening before starting therapy [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article) <span id="mem"> what does the A-B in HLA-B stand for? AB-cavir</span> 
 	* <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia <span id="mem"> EmtriPSYtabine</span>
 
 
@@ -794,7 +794,8 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 
 ---
 <section id="recommend">
-### [Current Recommendations](https://aidsinfo.nih.gov/guidelines)
+### [Current Recommendations](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/11/what-to-start)
+
 #### treatment-naive patients
 
 * Integrase inhibitor-based regimens 	
@@ -805,7 +806,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 		* <span id="drug"> tenofovir alafenamide  </span> or   <span id="drug">  tenofovir disoproxil fumarate  </span> 
 	* <span id="drug"> Raltegravir / emtricitabine  </span> and 
 		* <span id="drug"> tenofovir disoproxil fumarate </span> or  <span id="drug"> tenofovir alafenamide </span> 
-* Protease Inhibitor-Based Regimens
+* Protease inhibitor-based regimens
 	* <span id="drug"> Darunavir / ritonavir / Emtricitabine </span> and
 		* <span id="drug"> tenofovir disoproxil fumarate </span> or  <span id="drug"> tenofovir alafenamide  </span> 
 
