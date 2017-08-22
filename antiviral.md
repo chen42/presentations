@@ -841,7 +841,7 @@ Double stranded DNA virus
 
 ---
 
-[Life cycle](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001388?scrollTo=%23s0010) of HSV
+[Life cycle](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978145573984400124X?scrollTo=%23hl0000246) of HSV
 
 <img src="./images/antiviral/dna_virus.png" width=70%>
 
@@ -958,7 +958,7 @@ Double stranded DNA virus
 * Indications
 	* CMV retinitis in AIDS patients
 		* Activity 100 x greater than <span id="drug"> Acyclovir </span> 
-	* CMV prophylaxis - oral
+	* CMV prophylaxis (e.g., liver transplant patients) 
 * <a href="#/adverse">Adverse effects</a>
 	* Bone marrow suppression, neutropenia, anemia, 
 * Drug Interactions
@@ -1057,7 +1057,7 @@ Partially double-stranded DNA virus
 
 [HBV life cycle](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001480?scrollTo=%23hl0000906)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=178" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=371" frameborder="0" allowfullscreen></iframe>
 
 ---
 
