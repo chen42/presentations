@@ -889,9 +889,9 @@ Double stranded DNA virus
 		* Uninfected cell does not activate drug.
 	* Preferential affinity of acyclovir triphosphate for viral DNA polymerase rather than cellular enzyme. 
 * Resistance: 
+	* Altered viral thymidine kinase substrate specificity
+	* Absence of viral thymidine kinase  
 	* Mutated viral DNA polymerase 
-	* Absence of viral thymidine kinase (TK) 
-	* Altered viral TK substrate specificity
 
 ---
 <section id="Acyclovir">
@@ -1077,7 +1077,7 @@ Partially double-stranded DNA virus
 * Mechanism of action 
 	* Nucleoside analog of <b>G</b>uanosine
 	* Inhibits all 3 activities of HBV polymerase
-		* Base priming ([GAA](https://youtu.be/sVpiXaEMs7I?t=6m12s)) [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4399241/) <span id="mem">first base, wow, really high TEC</span> 
+		* Base priming ([GAA](https://youtu.be/sVpiXaEMs7I?t=6m12s)) [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4399241/)  
 		* Reverse transcription
 		* DNA synthesis of positive strand
 * Indication 
@@ -1156,8 +1156,8 @@ Partially double-stranded DNA virus
 
 ### Ribavirin
 * Indication 
-	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span>  <span id="mem">  [RIBA for HCV](https://www.verywell.com/riba-recombinant-immunoblot-assay-1760033), coindicence?</span>
-		* Weight based doesing results in a higher sustained virologic response 
+	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span>  
+	* Weight based doesing results in a higher sustained virologic response 
 	* <u>Respiratory syncytial virus</u>: aerosolized form 
 	* <u>Hantaan virus</u>: intravenous 
 * Adverse effects
@@ -1308,25 +1308,6 @@ Partially double-stranded DNA virus
 * Virus release inhibitors
 	* <span id="drug"> Zanamivir</span> (Relenza)
 	* <span id="drug"> Oseltamivir</span> (Tamiflu)
-
----
-
-
-
-## Antiinfluenza Agents
-
-* <span id="drug"> [Amantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-20), [rimantadine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-547)
-</span> 
-	* Inhibitors of uncoating of the virus
-	* Binding to the ion channel formed by the M2 transmembrane protein in the envelope of the virus 
-	* Inhibiting H+ ion transport that acidifies the interior of the virion
-* <span id="drug"> [Zanamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2259), [oseltamivir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2450)
-</span> 
-	* Inhibitors of influenza neuraminidase. 
-	* The influenza neuraminidase cleaves terminal sialic acid residues 
-	* Destroying the receptors recognized by viral hemaglutinin which are present on the cell surface 
-	* Reaction essential for release of virus from infected cells. 
-	* Inhibits neuraminidase activity promoting viral aggregation and reducing viral spread
 
 ---
 
