@@ -23,7 +23,7 @@ Aug 23 2017
 
 * Color and style theme: 
 	* Drug name: <span id="drug"> Enfuvirtide</span>
-	* Links: [Clinicalkey](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/). 
+	* Links: [Clinicalkey](https://www-clinicalkey-com/#!/). 
 		* You need to login via your UTHSC netid when off campus to use ClinicalKey. 
 	* <font color="darkorange">Can you see the connections?</font>  	
 * Open link in a new browser tab:
@@ -97,7 +97,7 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 ---
 <section id="hiv">
-### [Human Immunodeficiency Viruses](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001716)
+### [Human Immunodeficiency Viruses](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9780323401616001716)
 <img src="./images/antiviral/shutterstock_hiv.png" width=60%>
 
 <div id="greyText">
@@ -107,9 +107,9 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 </div>
 ---
 
-### [AIDS background](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978044306752550003X)
+### [AIDS background](https://www-clinicalkey-com/#!/content/book/3-s2.0-B978044306752550003X)
 <div id="left50">
-1. **Primary infection.** About 90% of patients develop a flu-like illness, which coincides with [seroconversion](https://aidsinfo.nih.gov/education-materials/glossary/648/seroconversion), between 2 and 4 weeks post exposure. Symptoms include, fever, night sweats, sore throat, [lymphadenopathy](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978070205035000014X?scrollTo=%23hl0001730), diarrhea. The illness is self-limiting.
+1. **Primary infection.** About 90% of patients develop a flu-like illness, which coincides with [seroconversion](https://aidsinfo.nih.gov/education-materials/glossary/648/seroconversion), between 2 and 4 weeks post exposure. Symptoms include, fever, night sweats, sore throat, [lymphadenopathy](https://www-clinicalkey-com/#!/content/book/3-s2.0-B978070205035000014X?scrollTo=%23hl0001730), diarrhea. The illness is self-limiting.
 <br>
 2. **Asymptomatic phase.** Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
 <br>
@@ -122,11 +122,11 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 		</ul><li>
 	* Immunodeficiency: 
 	<ul><li>
-		* increased susceptibility to [opportunistic infections](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978141603618010044X?scrollTo=%23hl0002499)	
+		* increased susceptibility to [opportunistic infections](https://www-clinicalkey-com/#!/content/book/3-s2.0-B978141603618010044X?scrollTo=%23hl0002499)	
 		</ul><li>
 	* Neurological disease:
 	<ul><li>
-		* [dementia](https://www.ncbi.nlm.nih.gov/pubmed/24938216), [myelopathy](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323287821004329?scrollTo=%23hl0000547), [peripheral neuropathy](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323032759100121?scrollTo=%23hl0000789)	
+		* [dementia](https://www.ncbi.nlm.nih.gov/pubmed/24938216), [myelopathy](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9780323287821004329?scrollTo=%23hl0000547), [peripheral neuropathy](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9780323032759100121?scrollTo=%23hl0000789)	
 		</ul><li>
 	* Rare malignancies:
 	<ul><li>
@@ -174,7 +174,7 @@ Last updated July 14, 2016
 
 <section id="Enfuvirtide">
 ### <font color="darkorange">Fu</font>sion inhibitors
-[En<font color="darkorange">fu</font>vir<font color="darkorange">tide</font> (Fuzeon, T20)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2752)
+[En<font color="darkorange">fu</font>vir<font color="darkorange">tide</font> (Fuzeon, T20)](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-2752)
 
 <div id="left50"> 
 
@@ -227,7 +227,7 @@ Last updated July 14, 2016
 <section id="Maraviroc">
 ### Fusion inhibitors
 
-[Maraviroc (<font color="orange">Sel</font>z<font color="darkred">entry</font>) ](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3567)
+[Maraviroc (<font color="orange">Sel</font>z<font color="darkred">entry</font>) ](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-3567)
  
 
 <div id="right50">
@@ -269,7 +269,7 @@ Prevents virus from entering the host cell <br>
 
 ---
 <section id="nrti">
-### [Nucleoside Reverse Transcriptase Inhibitors (NRTIs)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455702824000435?scrollTo=%23hl0000874)
+### [Nucleoside Reverse Transcriptase Inhibitors (NRTIs)](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9781455702824000435?scrollTo=%23hl0000874)
 
 * NRTIs
 	* <span id="drug">Zidovudine</span> (Retrovir, azidothymidine [ZVD], Apo-Zidovudine, Novo-AZT)
@@ -295,16 +295,16 @@ Prevents virus from entering the host cell <br>
 ---
 ### NRTIs
 
-* [Zidovudine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-653) (ZDV, AZT), [Stavudine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-573) (d4t) 
+* [Zidovudine](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-653) (ZDV, AZT), [Stavudine](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-573) (d4t) 
 	* Analogs of pyrimidine nucleoside (T) 
 	* Phosphorylated to active triphosphate forms
 	* Competes with deoxythymidine triphosphate for incorporation into DNA
-* [Didanosine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-186) (ddI) 
+* [Didanosine](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-186) (ddI) 
 	* Analog of purine nucleosides (A, G)
 	* Active 2',3'-dideoxyadenosine 5'-triphosphate (ddATP) competes with cellular deoxyadenosine triphosphate for incorporation into viral DNA
-* [Lamivudine ](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-339) (3TC), [Emtricitabine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2465) (FTC)
+* [Lamivudine ](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-339) (3TC), [Emtricitabine](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-2465) (FTC)
 	* Analogs of pyrimidine nucleoside (C)
-* [Abacavir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2332) (ABC)
+* [Abacavir](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-2332) (ABC)
 	* Analog of purine nucleosides (G) 
 
 
@@ -435,7 +435,7 @@ Note: Z does not like S
 <section id="Tenofovir">
 ### Nucleo<font color="darkorange">t</font>ide Reverse Transcriptase Inhibitor
 
-[Teno<font color="darkorange">fovir</font> disoproxil (Viread)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2477)
+[Teno<font color="darkorange">fovir</font> disoproxil (Viread)](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-2477)
 
 
 * Properties
@@ -463,7 +463,7 @@ Note: Z does not like S
 	* Not substrate for P450
 	* T&frac12; = 17 h 
 * <a href="#/adverse">Adverse effect </a>
-	* Most common: nausea, vomiting, diarrhea, [flatulence](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455770052000676?scrollTo=%23hl0000349), abdominal pain, dyspepsia, and anorexia with weight loss
+	* Most common: nausea, vomiting, diarrhea, [flatulence](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9781455770052000676?scrollTo=%23hl0000349), abdominal pain, dyspepsia, and anorexia with weight loss
 	* Increases <span id="drug"> didanosine </span> concentration: pancreatitis and neuropathy
 	* CNS: depression, anxiety, headache
 	* Hepatotoxicity: elevated hepatic enzymes 
@@ -576,7 +576,7 @@ Note: Z does not like S
 <section id="Integrase">
 ### In<font color="darkorange">te</font>grase Inhibitor
 
-[Ral<font color="darkorange">te</font>gravir (Isentress)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3572) || [Dolu<font color="darkorange">te</font>gravir (Tivicay)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3823) || [Elvi<font color="darkorange">te</font>gravir (Vitekta)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3928)
+[Ral<font color="darkorange">te</font>gravir (Isentress)](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-3572) || [Dolu<font color="darkorange">te</font>gravir (Tivicay)](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-3823) || [Elvi<font color="darkorange">te</font>gravir (Vitekta)](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-3928)
 
 <div id="right20">
 ![](./images/antiviral/hiv_integration.png)
@@ -633,17 +633,17 @@ Note: Z does not like S
 <div id="left50">
 [Ataza<u>navir</u> (Reyataz)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2795)
 <br>
-[Indi<u>navir</u> (Crixivan)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001303?scrollTo=%23hl0001350)
+[Indi<u>navir</u> (Crixivan)](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9780323401616001303?scrollTo=%23hl0001350)
 <br>
 [Nelfi<u>navir</u> (Viracept)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-764)
 <br>
 [Saqui<u>navir</u> (Fortovase)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-556)
 <br>
-[Fosampre<u>navir</u> (Lexiva)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001303?scrollTo=%23hl0001368)
+[Fosampre<u>navir</u> (Lexiva)](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9780323401616001303?scrollTo=%23hl0001368)
 <br>
 [<b>Rito<u>navir</u></b> (Norvir)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-551)
 <br>
-[<b>Daru<u>navir</u></b> (Prezista)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3515)
+[<b>Daru<u>navir</u></b> (Prezista)](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-3515)
 
 <br>
 PIs can be peptidomimetic (structural similarities to the cleavage site of HIV polyproteins) or not (<span id="drug"> nelfinavir </span> ).
@@ -732,7 +732,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* Including central obesity, dorsocervical fat enlargement [(buffalo hump)](https://www.clinicalkey.com/#!/content/medline/2-s2.0-9525364), peripheral wasting, accumulation of facial fat, [lipomas](http://www.mayoclinic.org/diseases-conditions/lipoma/basics/definition/con-20024646), breast enlargement, [gynecomastia](http://www.mayoclinic.org/diseases-conditions/gynecomastia/home/ovc-20257576)
 * Insulin resistance and diabetes
 * Elevated liver function
-* Possible increased bleeding risk in [hemophilics](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/medical_topic/21-s2.0-1014697)
+* Possible increased bleeding risk in [hemophilics](https://www-clinicalkey-com/#!/content/medical_topic/21-s2.0-1014697)
 
 ---
 
@@ -741,8 +741,8 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 * Ritonavir 
 	* Hepatotoxicity at high doses
 * Indinavir
-	* [Nephrolithiasis/urolithiasis](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323280488008241): patients should drink 2 liters/day
-	* [Alopecia](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/medical_topic/21-s2.0-1014848) 
+	* [Nephrolithiasis/urolithiasis](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9780323280488008241): patients should drink 2 liters/day
+	* [Alopecia](https://www-clinicalkey-com/#!/content/medical_topic/21-s2.0-1014848) 
 * Atazanavir
 	* Hyperbilirubinemia due to inhibition of UDP glucoronosyl transferase 
 		* An enzyme that catalyzes bilirubin conjugation 
@@ -803,7 +803,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* <span id="drug"> Dolutegravir / abacavir / lamivudine </span> only for HLA-B\*5701 negative patients 
 	* <span id="drug"> Dolutegravir, emtricitabine </span> and 
 		* <span id="drug"> tenofovir disoproxil fumarate  </span> <small>[Truvada](#/30)</small> or  <span id="drug"> tenofovir alafenamide </span> 
-	* <span id="drug"> Elvitegravir / [cobicistat](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3929) / emtricitabine  </span>  and  <a href="#/tepk">  <small>Why cobicistat?</small></a>
+	* <span id="drug"> Elvitegravir / [cobicistat](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-3929) / emtricitabine  </span>  and  <a href="#/tepk">  <small>Why cobicistat?</small></a>
 		* <span id="drug"> tenofovir alafenamide  </span> or   <span id="drug">  tenofovir disoproxil fumarate  </span> 
 	* <span id="drug"> Raltegravir / emtricitabine  </span> and 
 		* <span id="drug"> tenofovir disoproxil fumarate </span> or  <span id="drug"> tenofovir alafenamide </span> 
@@ -817,13 +817,13 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 
 |Virus| Disease| 
 |---|---|
-|[Herpes simplex virus](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001388) | herpes genitalis | 
+|[Herpes simplex virus](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9780323401616001388) | herpes genitalis | 
 || herpes labialis | 
 || herpetic keratoconjunctivitis |
 || herpetic encephalitis|
-|[Varicella-zoster virus](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455775668002532) | chickenpox (varicella)|
+|[Varicella-zoster virus](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9781455775668002532) | chickenpox (varicella)|
 || shingles (herpes zostr)|
-|[Cytomegalovirus](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001406) | retinitis &dagger;| 
+|[Cytomegalovirus](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9780323401616001406) | retinitis &dagger;| 
 || esophagitis &dagger;| 
 ||
 &dagger; most often in immunocompromised (e.g. AIDS) patients.
@@ -900,7 +900,7 @@ Double stranded DNA virus
 ---
 <section id="Acyclovir">
 ### Acyclovir 
-#### [Valacyclovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-636) (L-valyl ester prodrug of acyclovir)
+#### [Valacyclovir](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-636) (L-valyl ester prodrug of acyclovir)
 	
 
 * Mechanism of action 
@@ -914,7 +914,6 @@ Double stranded DNA virus
 	* HSV keratitis, herpes labialis, genital herpes, HSV encephalitis
 	* VZV 
 	* CMV-positive bone marrow transplant recipients
-	* 'off-label' use for HIV [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23542637) 
 * Adverse effects
 	* Headache, nausea, diarrhea
 	* Following high IV dose
@@ -924,8 +923,7 @@ Double stranded DNA virus
 <section id="Penciclovir">
 
 ### Penciclovir
-#### [Famciclovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-240) (diacetyl ester prodrug)
-
+#### [Famciclovir](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-240) (diacetyl ester prodrug)
 
 * ADME
 	* <span id="drug"> Penciclovir </span> is for topical application only.
@@ -954,7 +952,7 @@ Double stranded DNA virus
 ---
 <section id="Ganciclovir">
 ### Ganciclovir
-#### [Valganciclovir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2584) (L-valyl ester prodrug)
+#### [Valganciclovir](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-2584) (L-valyl ester prodrug)
 
 
 * ADME
@@ -971,7 +969,7 @@ Double stranded DNA virus
 ---
 
 <section id="Cidofovir">
-### [Cido<font color="darkorange">fovir</font>](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-125)
+### [Cido<font color="darkorange">fovir</font>](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-125)
 
 * Mechanism of action 
 	* Cytidine nucleo<font color="darkorange">t</font>ide analog
@@ -989,7 +987,7 @@ Double stranded DNA virus
 
 ---
 <section id="Foscarnet">
-### [<font color="darkorange">Fos</font>carnet (Foscavir)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-267)
+### [<font color="darkorange">Fos</font>carnet (Foscavir)](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-267)
 #### Non-nucleoside Anti-HSV Agent
 
 * Mechanism of Action
@@ -1059,7 +1057,7 @@ Partially double-stranded DNA virus
 
 ---
 
-[HBV life cycle](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001480?scrollTo=%23hl0000906)
+[HBV life cycle](https://www-clinicalkey-com/#!/content/book/3-s2.0-B9780323401616001480?scrollTo=%23hl0000906)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=371" frameborder="0" allowfullscreen></iframe>
 
@@ -1076,7 +1074,7 @@ Partially double-stranded DNA virus
 
 ---
 <section id="Entecavir">
-### [Entecavir](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3427) (Baraclude)
+### [Entecavir](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-3427) (Baraclude)
 
 * Mechanism of action 
 	* Nucleoside analog of <b>G</b>uanosine
@@ -1115,7 +1113,7 @@ Partially double-stranded DNA virus
 	* Most commonly reported: headache, fatigue, dizziness
 ---
 <section id="Adefovir">
-### [Ade<font color="darkorange">fovir</font>](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2233)(Hepsera)
+### [Ade<font color="darkorange">fovir</font>](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-2233)(Hepsera)
 
 * Mechanism of action 
 	* Nucleo<font color="darkorange">t</font>ide analog of deoxy<font color="darkorange">ade</font>nosine monophosphate
@@ -1143,7 +1141,7 @@ Partially double-stranded DNA virus
 ---
 <section id="Ribavirin">
 
-### [Ribavirin](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-542)
+### [Ribavirin](https://www-clinicalkey-com/#!/content/drug_monograph/6-s2.0-542)
 (Copegus | Moderiba | Rebetol | RibaPak | RibaTab | Ribasphere | Virazole)
 
 * Mechanism of action 
