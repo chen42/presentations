@@ -25,8 +25,7 @@ Aug 23 2017
 	* Drug name: <span id="drug"> Enfuvirtide</span>
 	* Links: [Clinicalkey](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/). 
 		* You need to login via your UTHSC netid when off campus to use ClinicalKey. 
-	* <font color="darkorange">Still scientific,</font> I think. 	
-	* <span id="mem">Totally nonsensical.</span>
+	* <font color="darkorange">Can you see the connections?</font>  	
 * Open link in a new browser tab:
 ```
 CTRL click
@@ -175,29 +174,34 @@ Last updated July 14, 2016
 
 <section id="Enfuvirtide">
 ### <font color="darkorange">Fu</font>sion inhibitors
-[En<font color="darkorange">fu</font>virtide (Fuzeon, T20)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2752)
+[En<font color="darkorange">fu</font>vir<font color="darkorange">tide</font> (Fuzeon, T20)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2752)
 
 <div id="left50"> 
-**[Structure](https://www.drugbank.ca/drugs/DB00109)**
-<Br>
-	Enfuvir<font color="darkorange">tide</font> is a synthetic pep<font color="darkorange">tide</font> with 36 amino acids. 
+
+<b>Structure</b> <Br>
+<ul>
+<li> a synthetic pep<font color="darkorange">tide</font> with [36 amino acids](https://www.drugbank.ca/drugs/DB00109). 
+</ul>
 <p>
 
-**Mechanism of action** <br>
-	Binds to [gp41](https://en.wikipedia.org/wiki/Gp41#Function) of the viral envelope; prevents conformational change and impedes the fusion of the viral and host cell membranes. 
+<b>Mechanism of action</b><br>
+<ul>
+<li> Binds to [gp41](https://en.wikipedia.org/wiki/Gp41#Function) of the viral envelope; prevents conformational change and impedes the fusion of the viral and host cell membranes. 
+</ul>
+</p>
+<b>Indications</b> <br>
+<ul>
+<li>Reserved as salvage therapy for treatment resistant patients. 
+<li>Prophylasis after occupational HIV exposure. 
+<li>Not part of 1st line ART (due to the self-injection method, injection site reaction, and high cost). 
+</ul>
 </div>
 
 <div id="right50">
-
 ![](./images/antiviral/coreceptor.jpg)
-
 </div>	
 
 <div id="full"> 
-
-** Recommendations for use** <br>
-
-Not part of 1st line ART (due to the self-injection method, injection site reaction, and high cost). Reserved as salvage therapy for treatment resistant patients. Prophylasis after occupational HIV exposure. 
 
 </div>
 
@@ -224,7 +228,6 @@ Not part of 1st line ART (due to the self-injection method, injection site react
 ### Fusion inhibitors
 
 [Maraviroc (<font color="orange">Sel</font>z<font color="darkred">entry</font>) ](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3567)
-<span id="mem">To selectively zap viral entry is a maraculous accompolishment</span>
  
 
 <div id="right50">
@@ -272,9 +275,9 @@ Prevents virus from entering the host cell <br>
 	* <span id="drug">Zidovudine</span> (Retrovir, azidothymidine [ZVD], Apo-Zidovudine, Novo-AZT)
 	* <span id="drug">Stavudine</span> (Zerit, D4T)
 	* <span id="drug">Didanosine</span> (Videx, dideoxyinosine, ddI)
-	* <span id="drug">Abacavir</span> (Ziagen, ABC)
-	* <span id="drug">Lamivudine</span> (Epivir, 3TC)
-	* <span id="drug">Emtricitabine</span> (Emtriva, FTC)
+	* <span id="drug">**Abacavir**</span> (Ziagen, ABC)
+	* <span id="drug">**Lamivudine**</span> (Epivir, 3TC)
+	* <span id="drug">**Emtricitabine**</span> (Emtriva, FTC)
 
 ---
 ### mechanism of action - NRTIs 
@@ -296,7 +299,7 @@ Prevents virus from entering the host cell <br>
 	* Analogs of pyrimidine nucleoside (T) 
 	* Phosphorylated to active triphosphate forms
 	* Competes with deoxythymidine triphosphate for incorporation into DNA
-* [Didanosine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-186) (ddI) <span id="mem">adenosine</span>
+* [Didanosine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-186) (ddI) 
 	* Analog of purine nucleosides (A, G)
 	* Active 2',3'-dideoxyadenosine 5'-triphosphate (ddATP) competes with cellular deoxyadenosine triphosphate for incorporation into viral DNA
 * [Lamivudine ](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-339) (3TC), [Emtricitabine](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-2465) (FTC)
@@ -312,7 +315,7 @@ Prevents virus from entering the host cell <br>
 	* Prevent acute infection of susceptible cells
 	* Little effect on cells already infected by HIV
 	* <span id="drug"> Zidovudine </span> 
-		* Only NRTI shown to reduce perinatal HIV transmission
+		* **Only NRTI shown to reduce perinatal HIV transmission**
 * Resistance
 	* Drugs select for different mutations of the reverse transcriptase gene at the level of specific codons 
 
@@ -325,8 +328,6 @@ Prevents virus from entering the host cell <br>
 * Excreted unchanged in urine, except:
 	* <span id="drug"> Zidovudine </span> is metabolized to glucoronide
 	* <span id="drug"> Abacavir </span> metabolized by alcohol dehydrogenase 
-	[<span id="mem">Proof</span>](http://www.cellerdelcava.com/Usr/Productos/ImgFicha/49120120918105409.jpg)
-	</span>
 * <span id="drug"> Didanosine </span> is acid labile
 	* Take 1/2 h before or 2 h after meals
 	* Choose extended release formulation 
@@ -370,8 +371,8 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* <span id="drug">Didanosine</span>: pancreatitis, exacerbates peripheral neuropathy 
 	* <span id="drug">Stavudine </span>: pancreatitis, exacerbates peripheral neuropathy
 		* avoid co-administration with didanosine or zidovudine 
-	* <span id="drug">Abacavir</span>: hypersensitivity reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
-		* HLA-B\*5701	screening before starting therapy [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article) <span id="mem"> what does the A-B in HLA-B stand for? AB-cavir</span> 
+	* <span id="drug">Abacavir</span>: **hypersensitivity** reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
+		* HLA-B\*5701	screening before starting therapy [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
 	* <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia <span id="mem"> EmtriPSYtabine</span>
 
 
@@ -462,7 +463,7 @@ Note: Z does not like S
 	* Not substrate for P450
 	* T&frac12; = 17 h 
 * <a href="#/adverse">Adverse effect </a>
-	* Most commonly in clinical trials: nausea, vomiting, diarrhea, [flatulence](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455770052000676?scrollTo=%23hl0000349), abdominal pain, dyspepsia, and anorexia with weight loss
+	* Most common: nausea, vomiting, diarrhea, [flatulence](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9781455770052000676?scrollTo=%23hl0000349), abdominal pain, dyspepsia, and anorexia with weight loss
 	* Increases <span id="drug"> didanosine </span> concentration: pancreatitis and neuropathy
 	* CNS: depression, anxiety, headache
 	* Hepatotoxicity: elevated hepatic enzymes 
@@ -640,9 +641,9 @@ Note: Z does not like S
 <br>
 [Fosampre<u>navir</u> (Lexiva)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B9780323401616001303?scrollTo=%23hl0001368)
 <br>
-[Rito<u>navir</u> (Norvir)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-551)
+[<b>Rito<u>navir</u></b> (Norvir)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-551)
 <br>
-[Daru<u>navir</u> (Prezista)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3515)
+[<b>Daru<u>navir</u></b> (Prezista)](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3515)
 
 <br>
 PIs can be peptidomimetic (structural similarities to the cleavage site of HIV polyproteins) or not (<span id="drug"> nelfinavir </span> ).
@@ -801,7 +802,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 * Integrase inhibitor-based regimens 	
 	* <span id="drug"> Dolutegravir / abacavir / lamivudine </span> only for HLA-B\*5701 negative patients 
 	* <span id="drug"> Dolutegravir, emtricitabine </span> and 
-		* <span id="drug"> tenofovir disoproxil fumarate  </span>  or  <span id="drug"> tenofovir alafenamide </span> 
+		* <span id="drug"> tenofovir disoproxil fumarate  </span> <small>[Truvada](#/30)</small> or  <span id="drug"> tenofovir alafenamide </span> 
 	* <span id="drug"> Elvitegravir / [cobicistat](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/drug_monograph/6-s2.0-3929) / emtricitabine  </span>  and  <a href="#/tepk">  <small>Why cobicistat?</small></a>
 		* <span id="drug"> tenofovir alafenamide  </span> or   <span id="drug">  tenofovir disoproxil fumarate  </span> 
 	* <span id="drug"> Raltegravir / emtricitabine  </span> and 
@@ -854,10 +855,13 @@ Double stranded DNA virus
 <ul>
 <li><span id="drug">Acyclovir</span> (Zovirax)
 <li><span id="drug">Valacyclovir</span> (Valtrex)
+<hr>
 <li><span id="drug">Penciclovir</span> (Denavir)
 <li><span id="drug">Famciclovir</span> (Famvir)
+<hr>
 <li><span id="drug">Ganciclovir</span> (Cytovene)
 <li><span id="drug">Valganciclovir</span> (Valcyte)
+<hr>
 <hr>
 <li><span id="drug">Cidofovir</span> (Vistide)
 <li><span id="drug">Foscarnet</span> (Foscavir)
@@ -931,7 +935,7 @@ Double stranded DNA virus
 	* Selective substrate of HSV VZV thymidine kinase
 	* Competitive inhibition of viral DNA polymerase
 * Indications
-	* Oral alternative to Acyclovir
+	* Alternative to Acyclovir
 	* Infection of HSV, VZV.  
 * Adverse effects
 	* Well tolerated
