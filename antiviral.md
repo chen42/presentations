@@ -909,7 +909,7 @@ Double stranded DNA virus
 * ADME
 	* <span id="drug"> acyclovir </span> has low <a href="#/hsvpk">oral bioavailability</a> (10-20%). (i.v. or topical) 
 	* <span id="drug"> Valacyclovir </span> is hydrolyzed to acyclovir in intestine or liver. Increase bioavailability (3.3 - 5 X) 
-	* T&frac12;= 2.5-3.3 h 
+	* competitive inhibition of viral DNA polymerase; chain termination. 
 * Indication
 	* HSV keratitis, herpes labialis, genital herpes, HSV encephalitis
 	* VZV 
@@ -975,8 +975,9 @@ Double stranded DNA virus
 	* Cytidine nucleo<font color="darkorange">t</font>ide analog
 	* Not phosphorylated by viral TK
 	* Inhibits herpervirus DNA polymerase >> human DNA polymerase
+	* Induce DNA fragmentation and Caspase-3 activity
 * ADME	
-	* <a href="#/hsvpk">Once weekly </a> dosing
+	* <a href="#/hsvpk">Once weekly </a> i.v. injection 
 * Indications
 	* <span id="drug"> Ganciclovir, foscarnet, </span> and <span id="drug"> acyclovir </span> -resistant CMV strains	
 	* <span id="drug"> cidofovir </span> i.v. delays progression of CMV retinitis in HIV+ patients
@@ -1120,6 +1121,8 @@ Partially double-stranded DNA virus
 	* Following formation of the diphosphate by cellular kinases, it inhibits HBV DNA polymerase
 	* ~10-fold more active for viral DNA polymerase than for the human DNA polymerase
 	* No cross resistance of <span id="drug"> lamivudine</span>-resistant HBV strains
+* Indication
+	* chronic hepatitis B
 * ADME
 	* Oral bioavailability (60%), unaffected by meals
 	* Very low protein binding, <4%
@@ -1223,7 +1226,7 @@ Partially double-stranded DNA virus
 |&gamma;|Type II| IFNGR &Dagger;|
 ||
 <small>
- &dagger; composed of two subunits IFNAR1 and IFNAR2. &Dagger; composed of two subunits IFNAR1 and IFNAR2
+ &dagger; composed of two subunits IFNAR1 and IFNAR2. &Dagger; composed of two subunits IFNGR1 and IFNGR2
  </small>
 ---
 
@@ -1235,10 +1238,10 @@ Partially double-stranded DNA virus
 	* dsRNA is produced by positive-strand RNA viruses and DNA viruses, but not detectable by negative-strand RNA Viruses [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472073/)
 
 * Interferon alpha is generally active against the following viruses <i> in vitro</i>: 
-	* <span style="font-weight:normal; font-size: 0.8em"> adenovirus; coronavirus; encephalomyocarditis virus; hepatitis B virus; hepatitis C virus (HCV); hepatitis D virus; herpes simplex virus type 1; herpes simplex virus type 2; human immunodeficiency virus (HIV); papillomavirus; poliovirus; rhinovirus; vaccinia virus; varicella-zoster virus; vesicular stomatitis virus; human T-lymphotropic virus type I (HTLV-I).
+	* <span style="font-weight:normal; font-size: 0.6em"> adenovirus; coronavirus; encephalomyocarditis virus; hepatitis B virus; hepatitis C virus (HCV); hepatitis D virus; herpes simplex virus type 1; herpes simplex virus type 2; human immunodeficiency virus (HIV); papillomavirus; poliovirus; rhinovirus; vaccinia virus; varicella-zoster virus; vesicular stomatitis virus; human T-lymphotropic virus type I (HTLV-I).
 </span>
 
-
+* Induces immune responses, alter the expression of  genes, cell surface markers, phagocytic activity, cytotoxicity, etc. 
 ---
 
 <section id="Interferon">
@@ -1249,7 +1252,6 @@ Partially double-stranded DNA virus
 	* Chronic HBV, HPV and HH-V8 (Kaposi sarcoma)
 	* HCV 
 		* <span id="drug"> peginterferon </span> in combination with <span id="drug"> Ribavirin </span>
-	* Hairy cell leukemia 
 * ADME
 	* Administered i.m. or s.c.
 	* High bioavailability
@@ -1328,8 +1330,8 @@ Synthetic tricyclic amines
 * Resistance
 	* Single amino acid substitution at the level of the transmembrane region of M2.
 * Adverse effects 
-	* Amantadine can cause anorexia, nausea and in the elderly minor CNS effects such as nervousness, anxiety, insomnia and lightheadedness. 
-	* Rimatandine has similar effects but a lower risk of CNS adverse effects.
+	* <span id="drug">Amantadine</a> can cause anorexia, nausea and in the elderly minor CNS effects such as nervousness, anxiety, insomnia and lightheadedness. 
+	* <span id="drug">Rimatandine</a> has similar effects but a lower risk of CNS adverse effects.
 		* it is the methy derivative of <span id="drug"> amantadine </span> .
 
 ---
@@ -1342,7 +1344,8 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 * Mechanism of action
 	* Competitive inhibitors of influenza neuraminidase. 
 * Indications
-	* Effective against influenza A and B viruses that are	resistant to amantadine and rimantadine
+	* Effective against influenza A and B viruses.
+	* Patients who have been symptomatic for no more than 48 hours. 
 * Resistance
 	* HA or neuraminidase mutations
 * Adverse effects: 
