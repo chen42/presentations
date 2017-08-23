@@ -1330,8 +1330,8 @@ Synthetic tricyclic amines
 * Resistance
 	* Single amino acid substitution at the level of the transmembrane region of M2.
 * Adverse effects 
-	* <span id="drug">Amantadine</a> can cause anorexia, nausea and in the elderly minor CNS effects such as nervousness, anxiety, insomnia and lightheadedness. 
-	* <span id="drug">Rimatandine</a> has similar effects but a lower risk of CNS adverse effects.
+	* <span id="drug">Amantadine</span> can cause anorexia, nausea and in the elderly minor CNS effects such as nervousness, anxiety, insomnia and lightheadedness. 
+	* <span id="drug">Rimatandine</span> has similar effects but a lower risk of CNS adverse effects.
 		* it is the methy derivative of <span id="drug"> amantadine </span> .
 
 ---
