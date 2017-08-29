@@ -154,7 +154,7 @@ Describe nicotine’s agonist and antagonist properties.
 
 ## Major groups of cholinergic agonists 
 
-![](./images/cholinergic/kat_ch7_f001.png) 
+![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f001.png)
 
 
 ---
@@ -238,9 +238,9 @@ Describe nicotine’s agonist and antagonist properties.
 ---
 
 
-## Choline esters: Orang system effects 
+Choline esters: Orang system effects 
 
-### Eye
+### Ocular effects 
 <div id="left50">
 <ul>
 <li> Increase lacrimal glad secretions
@@ -253,8 +253,54 @@ Describe nicotine’s agonist and antagonist properties.
 ![](./images/cholinergic/choline_eye1.jpg)
 </div>
 
+---
+Choline esters: Orang system effects 
+
+### Cardiac effects  
+
+* Muscarinic agonists 
+	* reduces the rate of diastolic depolarization
+		*  reduce the heart rate
+	*  slow conduction of the cardiac action potential
+		* increase PR interval 
 
 ---
+
+Choline esters: Orang system effects 
+
+### Vascular effects  
+
+* <span id="drug"> Acetylcholine </span>  typically causes vasodilation. 
+	* mediated by activating muscarinic M3 receptors located in vascular endothelial cells 
+		* activation of nitric oxide (NO) synthetase. 
+		* NO diffuses into vascular smooth muscle cells
+		* leading to vascular smooth muscle relaxation and vasodilation. 
+---
+
+Choline esters: Orang system effects 
+
+### Respiratory Tract Effects 
+
+* Muscarinic agonists
+	* increases bronchial muscle contraction
+	* causes an increase in the secretion of mucus throughout the respiratory tract. 
+	* contra-indicated in patients with asthma and other forms of obstructive lung disease. 
+
+---
+
+
+Choline esters: Orang system effects 
+
+### Gastrointestinal and Urinary Tract Effects 
+* Muscarinic receptor agonists
+	* stimulate salivary, gastric, and other secretions in the gastrointestinal tract.
+	* 	increase contraction of GI smooth muscle (except sphincters)
+		* 	by stimulating the enteric nervous system
+	* increases gastrointestinal motility. 
+	---
+	* stimulate the [bladder detrusor muscle](http://img.medscapestatic.com/pi/meds/ckb/21/12721.jpg), they *relax* the internal sphincter of the bladder 
+	* promote emptying of the bladder (micturition). 
+	* higher doses produce excessive salivation and cause diarrhea, intestinal cramps, and urinary incontinence (the "all faucets turned on" syndrome). 
 
 ---
 
