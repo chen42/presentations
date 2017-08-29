@@ -60,14 +60,19 @@ body {
   font-size: 2.5em; }
 
 .reveal h2 {
-  font-size: 1.6em; }
+  font-size: 1.6em; 
+  color: #25383c;
+  }
 
 .reveal h3 {
-  font-size: 1.5em;
+  font-size: 1.3em;
+  color: tomato;
   }
 
 .reveal h4 {
-  font-size: 1em; }
+  font-size: 1em;
+  color: #ff8c00;
+  }
 
 .reveal h1 {
   text-shadow: none; }
