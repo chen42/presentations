@@ -63,9 +63,9 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 	* Explain why anticholinesterase agents can be used as insecticides (malathion, parathion) and chemical warfare agents (sarin, VX series).
 * Describe treatment options of muscarinic or anticholinesterase poisoning.
 	* Distinguish the mechanism by which pralidoxime reactivates phosphorylated AChE.
-	* Explain why pralidoxime is not effective reactivating all phosphorylated AChE.
-Describe nicotine’s agonist and antagonist properties.
-	* Explain why nicotine is not used clinically (except as a smoking deterrent), and its historical, social and toxicological significance.
+	* Explain why pralidoxime is not effective reactivating all phosphorylated AChE.  
+	* Describe nicotine's agonist and antagonist properties.
+	* Explain why nicotine is not used clinically (except as a smoking deterrent).
 
 ---
 
@@ -83,24 +83,19 @@ Describe nicotine’s agonist and antagonist properties.
 |Varenicline |Chantix |
 | | | 
 
-
 ---
 
 ## Drug List (Indirect agonists)
 
 | Generic | Brand|
 |---|---|
-|Ambenonium|Mytelase|
-|Demecarium|Humorsol|
 |Donepezil|Aricept|
 |Echothiophate|Phospholine|
 |Edrophonium|Tensilon|
 |Galantamine|Reminyl|
 |Neostigmine|Prostigmin|
-|Physostigmine||
+|Physostigmine|Antilirium, Isopto Eserine|
 |Pyridostigmine|Mestinon|
-|Rivastigmine|Exelon|
-|Tacrine|Gognex|
 | | | 
 
 ---
@@ -109,12 +104,12 @@ Describe nicotine’s agonist and antagonist properties.
 
 | Generic | Brand|
 |---|---|
-|Chlorpyrifos | |
-|Diazinon | |
+|Sildenafil|Viagra|
+|Tadalafil| Cialis|
+|Vardenafil|Levitra|
 |Malathion | |
 |Sarin | |
 |Soman | |
-|Tabun | | 
 |Pralidoxime | |
 | | | 
 
@@ -122,13 +117,10 @@ Describe nicotine’s agonist and antagonist properties.
 
 ## Outline
 
-1. Cholinomimetics
-2. Receptors
-3. Agonists
-4. Muscarinic agonists
-5. Nicotinic agonists
-6. Anticholinesterases
-
+1. Brief review of the autonomic nervous system 
+2. Direct-acting agonists
+3. Indirect-acting agonists 
+4. Type 5 phosphodiesterase inhibitors 
 
 ---
 
@@ -172,8 +164,6 @@ Describe nicotine’s agonist and antagonist properties.
 ---
 
 ## Choline esters: ADME 
-<div id="left50">
-<p>
 <ul>
 <li> poorly absorbed from the GI tract
 <p>
@@ -188,9 +178,8 @@ Describe nicotine’s agonist and antagonist properties.
 <li><span id="drug"> Methacholine and Bethanechol </span> activates only muscarinic receptors (due to the CH3 group) but not subtype specific.
 </ul>
  
-</div>
 
-![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f002.png)
+![](./images/cholinergic/m_kat_ch7_f002.png)
 ---
 
 ## Plant alkaloids: ADME
@@ -402,7 +391,7 @@ Cholinomimetics
 * <span id="drug"> Neostigmine </span> 
 	* poor absorption from conjunctiva, skin, gut, or lung.
 	* negligible CNS effects
-* <span id="drug"> Physostigment </span> 
+* <span id="drug"> Physostigmine </span> 
 	* well sbsorbed
 	* topical application in the eye
 	* penetrates BBB
@@ -540,9 +529,11 @@ Quasi-reversible Cholinesterase Inhibitors
 	* <span id="drug"> Malathion </span> 
 		* pesticide
 		* head lice (pediculosis capitis)
-* Organophosphate poisoning
-	* <span id="drug"> pralidoxime </span> regenerates AChE
-	* administer as soon as possible, before *aging* occurs
+###  Organophosphate poisoning
+* <span id="drug"> pralidoxime </span> regenerates AChE
+* it binds to the AChE and displaces organophosphate
+* administer as soon as possible, before *aging* occurs
+* often used with <span id="drug"> atropine </span> 
 
 ---
 
