@@ -184,7 +184,9 @@ body {
   border-spacing: 0; }
 
 .reveal table th {
-  font-weight: bold; }
+  font-weight: bold; 
+  background-color:#25383C;
+  color: white; }
 
 .reveal table th,
 .reveal table td {
@@ -199,6 +201,9 @@ body {
 .reveal table th[align="right"],
 .reveal table td[align="right"] {
   text-align: right; }
+
+.reveal table tr:nth-child(even) {
+	background-color: #f2f2f2; }
 
 .reveal table tbody tr:last-child th,
 .reveal table tbody tr:last-child td {
