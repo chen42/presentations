@@ -22,7 +22,7 @@ Sept 1, 2017
 	* Drug name: <span id="drug"> Enfuvirtide</span>
 	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
 		* You need to login via your UTHSC netid when off campus to use ClinicalKey. 
-	* <font color="darkorange">Can you see the connections?</font> 	
+	* <font color="darkOrgane">Can you see the connections?</font> 	
 * Open link in a new browser tab:
 ```
 CTRL click
@@ -238,13 +238,15 @@ Describe nicotine’s agonist and antagonist properties.
 ---
 
 
-Choline esters: Orang system effects 
+Choline esters: Organ system effects 
 
 ### Ocular effects 
 <div id="left50">
 <ul>
 <li> Increase lacrimal glad secretions
+<p>
 <li> Stimulate the contraction of the iris sphincter muscle and the ciliary muscle (Miosis and accommondation) 
+<p>
 <li> Facilitate outflow of [aqueous humor](https://www.aao.org/eye-health/anatomy/aqueous-humor) (reduce [IOP](https://www.aao.org/bcscsnippetdetail.aspx?id=f010bbf6-3f3e-486b-b5cd-0ad86ddb9d74))
 </ul>
 
@@ -254,7 +256,7 @@ Choline esters: Orang system effects
 </div>
 
 ---
-Choline esters: Orang system effects 
+Choline esters: Organ system effects 
 
 ### Cardiac effects  
 
@@ -266,7 +268,7 @@ Choline esters: Orang system effects
 
 ---
 
-Choline esters: Orang system effects 
+Choline esters: Organ system effects 
 
 ### Vascular effects  
 
@@ -275,9 +277,15 @@ Choline esters: Orang system effects
 		* activation of nitric oxide (NO) synthetase. 
 		* NO diffuses into vascular smooth muscle cells
 		* leading to vascular smooth muscle relaxation and vasodilation. 
+	* endothelia cells are obligatory in the relaxation of vascular smooth muscle by ACh
+
+![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f005.png)
+
+[Pubmed](https://www.ncbi.nlm.nih.gov/PubMed/6253831)
+
 ---
 
-Choline esters: Orang system effects 
+Choline esters: Organ system effects 
 
 ### Respiratory Tract Effects 
 
@@ -289,7 +297,7 @@ Choline esters: Orang system effects
 ---
 
 
-Choline esters: Orang system effects 
+Choline esters: Organ system effects 
 
 ### Gastrointestinal and Urinary Tract Effects 
 * Muscarinic receptor agonists
@@ -304,10 +312,227 @@ Choline esters: Orang system effects
 
 ---
 
-* Indirect-acting agonists 
-	* increase the synaptic concentration of acetylcholine by inhibiting cholinesterase
-	* augment acetylcholine signal transduction
+Cholinomimetics
+
+### Acetylcholine
+
+* Indications
+	* Limited clinical appliation
+		* limited absorption, short duration of action, and lack of receptor  specificity
+	* Cataract or other ophthalmic surgery (to produce complete miosis)		
+	* diagnostic coronary angiography
+		* Ach normally induces vasodilation but the opposite is seen in patients with vasospatic angina pectoris. 
+
+---
+
+Cholinomimetics
+
+### Bethanechol and Carbachol 
+
+* Indications 
+	* <span id="drug"> Bethanechol </span> 
+		* selective for muscarinic receptor. 
+		* stimulate bladder or GI muscle
+		* without significantly affect heart rate or blood pressure
+	* <span id="drug"> Carbachol </span> 
+		* intraocular application (similar to Ach)
+---
+
+Cholinomimetics
+
+### Muscarine and nicotine
+
+* Muscarine is found in mushrooms
+	* No current medical use
+* Nicotine is found in tabacco leaves
+	* Availalbe as smoking cessation aid.
+
+---
+
+
+Cholinomimetics
+
+
+### Pilocarpine
+<div id="left50">
+<ul>
+<li> Alkaloid from a small shrub
+<li> Indication 
+	<ul>
+		<li> 2nd line drug for  chronic open angle glaucoma 
+		<li> well absorbed  after ocular application
+	</ul>
+	<ul> <li> acute angle-closure glaucoma, which is a medical emergency 
+		</ul>
+		</ul>
+</div>	
+<div id="right50">
+
+![](http://assets.markallengroup.com/article-images/image-library/147/uploads/sites/9/2016/05/fig-1_2.png)
+</div>
+
+---
+
+
+Cholinomimetics
+
+### Synthetic agonists
+
+* <span id="drug"> Cevimeline </span> 
+	* oral drug treat dry mouth
+		* [Sjogren syndrome](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014950), an autoimmune disease
+		* radiation therapy for head and neck cancer
+	* adverse effect  
+		* increased sweating, nausea, visual disturbances (drug induced miosis) 
+
+* <span id="drug"> Varenicline </span>  
+	* partial agonist of on several CNS nicotinic receptor subtypes 
+	* smoking cessation aid
+
+---
+
+## Indirect-acting agonists
+
+![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f006.png)
+
+
+---
+
+## Indirect-acting agonists: ADME
+
+* <span id="drug"> Neostigmine  </span>  
+	* poor absorption from conjunctiva, skin, gut, or lung.
+	* negligible CNS effects
+* <span id="drug"> Physostigment  </span> 
+	* well sbsorbed
+	* topical application in the eye
+	* penetrates BBB
+		* CNS side effects
+* <span id="drug"> parathion, malathion</span> 
+	* converted in the body to the oxygen analos.  
+	* thiophosphate insecticides
+	* well absorbed from skin, lung, gut
+	* distributed to all parts of the body
+* <span id="drug"> Echothiophate </span> 
+	* long duration and stable in aqueous solution
+* <span id="drug"> Sarin  </span> 
+	* "nerve gas"
 
 
 
+---
+
+
+## Indirect-acting agonists: MoA
+
+* electrostatically bind to AchE 
+	* Quaternary alcohols, e.g, <span id="drug"> Edrophonium  </span> 
+	* 2-10 min
+* convalantly bind to AchE 
+	* icaramate esters, e.g., <span id="drug"> Neostigmine  Physostigmine </span> 
+	* 30 min - 6 h 
+* form covalant phosphorus-enzyme bond 
+	* organophosphates, e.g.,  <span id="drug">  Echothiophate Malathion </span> 
+	* hundreds of hours
+	* <b>Aging</b> refers to the breaking of one oxygen-phosphorus bounds
+		* further strengthens the phosphorus-enzyme bond
+		* occurs within 10 min for <span id="drug"> [soman](https://en.wikipedia.org/wiki/Soman) </span> , but 48 h later for <span id="drug"> [VX](https://en.wikipedia.org/wiki/VX_%28nerve_agent%29) </span>  ; 
+		* cholinesterase regenerator (e.g., <span id="drug"> pralidoxime </span> ) is more effective before aging  occurs
+
+---
+
+Indirect-acting agonists:  Organ system effects
+
+### CNS
+
+* lipid-soluable AchE inhibitors 
+	* low concentration: subjective alerting response
+	* high concentration: generalized convulsions, coma, respiratory arrest
+
+
+
+---
+
+Indirect-acting agonists:  Organ system effects
+
+### Eye, respiratory, GI, uninary 
+
+* Similar to the direct acting cholinomimetics
+
+
+---
+
+Indirect-acting agonists:  Organ system effects
+
+### Cadiovascular system 
+
+* increase activity in both sympathetic and parasympathetic limbs, but net effect is modest bradycardia, a fall in cardiac output
+* heart
+	* parasympathetic effect predominate
+	* mimic vagal activation 
+* vascular smooth muscle
+	* minimal effect (lack cholinergic innervation)
+
+---
+
+Indirect-acting agonists:  Organ system effects
+
+### Neuromuscular junction 
+
+* low (therapeutic) concentration prolong and intensity the actions of physiologically released ACh
+	* increase the strength of contraction
+		* mulcles weakened by <span id="drug"> curare </span> 
+		* [myasthenia gravis](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014472)
+
+* high concentration results in fibrillation of muscle fibers 
+
+---
+
+Reversible Cholinesterase Inhibitors
+
+### Edrophonium
+
+* Indications
+	* initial diagnosis of myasthenia gravis
+		* 
+
+---
+
+## Type 5 phosphodiesterase inhibitors
+
+
+ <span id="drug"> Sildenafil Tadalafil Vardenafil </span> 
+
+* MoA
+	* potentiate the vasodilation effect of ACh
+	* ACh -> M3 (Endothelia cell) -> NO -> cGMP (smooth muscle cell ) -> cGMP breakdown by 5-PDE 
+	* last step is inhibited by these drugs thus extend vasodilation 
+
+
+---
+
+
+
+##  Properties and Clinical Uses of Cholinesterase Inhibitors and Phosphodiesterase Inhibitors 
+<table><thead>
+<tr><td>DRUG </td><td>ROUTE OF ADMINISTRATION </td><td>DURATION OF ACTION </td><td>CLINICAL USE</td></tr>
+<tr><td colspan=4><b>Cholinesterase Inhibitors</b></td></tr></td></tr>
+<tr><td>Donepezil </td><td>Oral </td><td>24 hr </td><td>Alzheimer disease</td></tr>
+<tr><td>Edrophonium </td><td>Intravenous </td><td>10 min </td><td>Myasthenia gravis (diagnosis)</td></tr>
+<tr><td>Neostigmine </td><td>Oral, subcutaneous, or intramuscular </td><td>2-4 hr </td><td>Myasthenia gravis; postoperative urinary retention</td></tr>
+<tr><td></td><td>Intravenous </td><td>2-5 min </td><td>Reversal of curariform drug effects</td></tr>
+<tr><td>Physostigmine </td><td>Intramuscular or intravenous </td><td>1-5 hr </td><td>Reversal of central nervous system effects of antimuscarinic drugs</td></tr>
+<tr><td>Pyridostigmine </td><td>Oral </td><td>3-6 hr </td><td>Myasthenia gravis</td></tr>
+<tr><td></td><td>Intramuscular or intravenous </td><td>2-5 min (IV); 15 min (IM) </td><td>Reversal of curariform drug effects</td></tr>
+<tr><td>Echothiophate </td><td>Topical ocular </td><td>1 wk or more </td><td>Glaucoma and accommodative esotropia</td></tr>
+<tr><td>Malathion </td><td>Topical </td><td></td><td>Pediculosis (lice)</td></tr>
+<tr><td colspan=4><b>Phosphodiesterase Inhibitors </b> </td></tr>
+<tr><td>Sildenafil </td><td>Oral </td><td>4-6 hr </td><td>Erectile dysfunction, pulmonary arterial hypertension</td></tr>
+<tr><td>Tadalafil </td><td>Oral </td><td>36 hr </td><td>Erectile dysfunction, benign prostatic hyperplasia, pulmonary arterial hypertension</td></tr>
+<tr><td>Vardenafil </td><td>Oral </td><td>4-6 hr </td><td>Erectile dysfunction </td></tr>
+</table>
+
+[Pharmacology 4e](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978145570282400006X)
+
+---
 
