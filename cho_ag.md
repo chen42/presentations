@@ -21,8 +21,7 @@ Sept 1, 2017
 * Color and style theme: 
 	* Drug name: <span id="drug"> Enfuvirtide</span>
 	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
-		* You need to login via your UTHSC netid when off campus to use ClinicalKey. 
-	* <font color="darkOrgane">Can you see the connections?</font> 	
+		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
 * Open link in a new browser tab:
 ```
 CTRL click
@@ -159,12 +158,12 @@ Describe nicotine’s agonist and antagonist properties.
 
 ---
 
-##  Direct-acting agonists
+## Direct-acting agonists
 
  Bind and activate acetylcholine receptors
 
 * Choline esters
-	* <span id="drug"> Acetylcholine Methacholine Bethanechol  Carbachol </span> 
+	* <span id="drug"> Acetylcholine Methacholine Bethanechol Carbachol </span> 
 * Plant alkaloids
 	* <span id="drug"> Muscarine Nicotine Pilocarpine </span> 	
 * Synthetic 
@@ -172,7 +171,7 @@ Describe nicotine’s agonist and antagonist properties.
 
 ---
 
-##  Choline esters: ADME 
+## Choline esters: ADME 
 <div id="left50">
 <p>
 <ul>
@@ -180,13 +179,13 @@ Describe nicotine’s agonist and antagonist properties.
 <p>
 <li> *not* distributed to the CNS 
 <p>
-<li> hydrolized in the GI tract, especially  <span id="drug"> acetylcholine</span>. Others are more resistant.
+<li> hydrolized in the GI tract, especially <span id="drug"> acetylcholine</span>. Others are more resistant.
 	
 <p>
-<li><span id="drug">  Acetylcholine </span>  and <span id="drug"> carbachol </span>  activate both muscarinic and nicotinic receptors
+<li><span id="drug"> Acetylcholine </span> and <span id="drug"> carbachol </span> activate both muscarinic and nicotinic receptors
 
 <p>
-<li><span id="drug"> Methacholine and Bethanechol  </span> activates only muscarinic receptors (due to the CH3 group) but not subtype  specific.
+<li><span id="drug"> Methacholine and Bethanechol </span> activates only muscarinic receptors (due to the CH3 group) but not subtype specific.
 </ul>
  
 </div>
@@ -194,14 +193,14 @@ Describe nicotine’s agonist and antagonist properties.
 ![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f002.png)
 ---
 
-##  Plant alkaloids: ADME
+## Plant alkaloids: ADME
 
 
 ![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f003.png)
 
 ---
 
-##  Choline esters: MoA 
+## Choline esters: MoA 
 
 ![](./images/cholinergic/moa_choline.png)
 
@@ -258,21 +257,21 @@ Choline esters: Organ system effects
 ---
 Choline esters: Organ system effects 
 
-### Cardiac effects  
+### Cardiac effects 
 
 * Muscarinic agonists 
 	* reduces the rate of diastolic depolarization
-		*  reduce the heart rate
-	*  slow conduction of the cardiac action potential
+		* reduce the heart rate
+	* slow conduction of the cardiac action potential
 		* increase PR interval 
 
 ---
 
 Choline esters: Organ system effects 
 
-### Vascular effects  
+### Vascular effects 
 
-* <span id="drug"> Acetylcholine </span>  typically causes vasodilation. 
+* <span id="drug"> Acetylcholine </span> typically causes vasodilation. 
 	* mediated by activating muscarinic M3 receptors located in vascular endothelial cells 
 		* activation of nitric oxide (NO) synthetase. 
 		* NO diffuses into vascular smooth muscle cells
@@ -318,7 +317,7 @@ Cholinomimetics
 
 * Indications
 	* Limited clinical appliation
-		* limited absorption, short duration of action, and lack of receptor  specificity
+		* limited absorption, short duration of action, and lack of receptor specificity
 	* Cataract or other ophthalmic surgery (to produce complete miosis)		
 	* diagnostic coronary angiography
 		* Ach normally induces vasodilation but the opposite is seen in patients with vasospatic angina pectoris. 
@@ -359,8 +358,8 @@ Cholinomimetics
 <li> Alkaloid from a small shrub
 <li> Indication 
 	<ul>
-		<li> 2nd line drug for  chronic open angle glaucoma 
-		<li> well absorbed  after ocular application
+		<li> 2nd line drug for chronic open angle glaucoma 
+		<li> well absorbed after ocular application
 	</ul>
 	<ul> <li> acute angle-closure glaucoma, which is a medical emergency 
 		</ul>
@@ -382,10 +381,10 @@ Cholinomimetics
 	* oral drug treat dry mouth
 		* [Sjogren syndrome](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014950), an autoimmune disease
 		* radiation therapy for head and neck cancer
-	* adverse effect  
+	* adverse effect 
 		* increased sweating, nausea, visual disturbances (drug induced miosis) 
 
-* <span id="drug"> Varenicline </span>  
+* <span id="drug"> Varenicline </span> 
 	* partial agonist of on several CNS nicotinic receptor subtypes 
 	* smoking cessation aid
 
@@ -400,22 +399,22 @@ Cholinomimetics
 
 ## Indirect-acting agonists: ADME
 
-* <span id="drug"> Neostigmine  </span>  
+* <span id="drug"> Neostigmine </span> 
 	* poor absorption from conjunctiva, skin, gut, or lung.
 	* negligible CNS effects
-* <span id="drug"> Physostigment  </span> 
+* <span id="drug"> Physostigment </span> 
 	* well sbsorbed
 	* topical application in the eye
 	* penetrates BBB
 		* CNS side effects
 * <span id="drug"> parathion, malathion</span> 
-	* converted in the body to the oxygen analos.  
+	* converted in the body to the oxygen analos. 
 	* thiophosphate insecticides
 	* well absorbed from skin, lung, gut
 	* distributed to all parts of the body
 * <span id="drug"> Echothiophate </span> 
 	* long duration and stable in aqueous solution
-* <span id="drug"> Sarin  </span> 
+* <span id="drug"> Sarin </span> 
 	* "nerve gas"
 
 
@@ -426,22 +425,22 @@ Cholinomimetics
 ## Indirect-acting agonists: MoA
 
 * electrostatically bind to AchE 
-	* Quaternary alcohols, e.g, <span id="drug"> Edrophonium  </span> 
+	* Quaternary alcohols, e.g, <span id="drug"> Edrophonium </span> 
 	* 2-10 min
 * convalantly bind to AchE 
-	* icaramate esters, e.g., <span id="drug"> Neostigmine  Physostigmine </span> 
+	* icaramate esters, e.g., <span id="drug"> Neostigmine Physostigmine </span> 
 	* 30 min - 6 h 
 * form covalant phosphorus-enzyme bond 
-	* organophosphates, e.g.,  <span id="drug">  Echothiophate Malathion </span> 
+	* organophosphates, e.g., <span id="drug"> Echothiophate Malathion </span> 
 	* hundreds of hours
 	* <b>Aging</b> refers to the breaking of one oxygen-phosphorus bounds
 		* further strengthens the phosphorus-enzyme bond
-		* occurs within 10 min for <span id="drug"> [soman](https://en.wikipedia.org/wiki/Soman) </span> , but 48 h later for <span id="drug"> [VX](https://en.wikipedia.org/wiki/VX_%28nerve_agent%29) </span>  ; 
-		* cholinesterase regenerator (e.g., <span id="drug"> pralidoxime </span> ) is more effective before aging  occurs
+		* occurs within 10 min for <span id="drug"> [soman](https://en.wikipedia.org/wiki/Soman) </span> , but 48 h later for <span id="drug"> [VX](https://en.wikipedia.org/wiki/VX_%28nerve_agent%29) </span> ; 
+		* cholinesterase regenerator (e.g., <span id="drug"> pralidoxime </span> ) is more effective before aging occurs
 
 ---
 
-Indirect-acting agonists:  Organ system effects
+Indirect-acting agonists: Organ system effects
 
 ### CNS
 
@@ -453,7 +452,7 @@ Indirect-acting agonists:  Organ system effects
 
 ---
 
-Indirect-acting agonists:  Organ system effects
+Indirect-acting agonists: Organ system effects
 
 ### Eye, respiratory, GI, uninary 
 
@@ -462,7 +461,7 @@ Indirect-acting agonists:  Organ system effects
 
 ---
 
-Indirect-acting agonists:  Organ system effects
+Indirect-acting agonists: Organ system effects
 
 ### Cadiovascular system 
 
@@ -475,7 +474,7 @@ Indirect-acting agonists:  Organ system effects
 
 ---
 
-Indirect-acting agonists:  Organ system effects
+Indirect-acting agonists: Organ system effects
 
 ### Neuromuscular junction 
 
@@ -483,6 +482,8 @@ Indirect-acting agonists:  Organ system effects
 	* increase the strength of contraction
 		* mulcles weakened by <span id="drug"> curare </span> 
 		* [myasthenia gravis](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014472)
+			* autoimmune disease against nicotinic ACh recepotors (nAChR)
+			* most offen affect face, throat and neck
 
 * high concentration results in fibrillation of muscle fibers 
 
@@ -491,29 +492,101 @@ Indirect-acting agonists:  Organ system effects
 Reversible Cholinesterase Inhibitors
 
 ### Edrophonium
-
+* ADME and MoA
+	* rapidly increase ACh concentration at somatic neuromuscular junction
+	* not a substrate of AChE 
+	* it is a positively charged alcohol, reversibly binds to a negatively charged site on AChE 
+	* rapid renal excretion, short duration of action (~ 10 min)
 * Indications
-	* initial diagnosis of myasthenia gravis
-		* 
+	* initial diagnosis of [myasthenia gravis](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014472)
+	* distinguish undertreatment (*Myasthenia crisis*) vs over treatment (*cholinergic crisis*) 
+		* over treatment causes muscle weakness due to depolarization blockade 
+		* edrophonium improves *Myasthenia crisis* and exacerbates *cholinergic crisis* 
 
 ---
 
-## Type 5 phosphodiesterase inhibitors
+Reversible Cholinesterase Inhibitors
 
+### Neostigmine, Physostigmine, Pyridostigmine
 
- <span id="drug"> Sildenafil Tadalafil Vardenafil </span> 
-
-* MoA
-	* potentiate the vasodilation effect of ACh
-	* ACh -> M3 (Endothelia cell) -> NO -> cGMP (smooth muscle cell ) -> cGMP breakdown by 5-PDE 
-	* last step is inhibited by these drugs thus extend vasodilation 
+* ADME and MoA
+	* substrate of AChE, compete with ACh 
+	* <span id="drug"> Neostigmine</span>
+		* plant alkaloid, well absorbed from the gut, penetrates the blood-brain barrier
+	* <span id="drug"> Physostigmine, Pyridostigmine</span> 
+		* synthetic, less well absorbed from the gut, do not penetrate the blood-brain barrier
+* Indications
+	* long-term treatment of myasthenia gravis
+	* post-surgery recovery from muscle relaxation
+	* <span id="drug"> atropine </span> overdoe
 
 
 ---
 
 
+Quasi-reversible Cholinesterase Inhibitors
 
-##  Properties and Clinical Uses of Cholinesterase Inhibitors and Phosphodiesterase Inhibitors 
+### Echothiophate Malathion 
+
+* ADME and MoA
+	* esters of phosphoric acid 
+	* lipid soluable, well absorbed
+	* tight convalant bond with the catalytic site of AChE
+	* reproduce all the effects of muscarinic receptor activation
+* Indications
+	* <span id="drug"> Echothiophate </span> 
+		* glaucoma not responding to other treatments, provide 24 h control of intraocular pressure 
+		* strabismus ([Accommodative esotropia](https://en.wikipedia.org/wiki/Esotropia#Accommodative_esotropia) ) 
+	* <span id="drug"> Malathion </span> 
+		* pesticide
+		* head lice (pediculosis capitis)
+* Organophosphate poisoning
+	* <span id="drug"> pralidoxime </span> regenerates AChE
+	* administer as soon as possible, before *aging* occurs
+
+---
+
+Type 5 phosphodiesterase inhibitors
+
+### <span id="drug"> Sildenafil Tadalafil Vardenafil </span> 
+
+<div id="left50">
+<b> MoA</b>
+<ul>
+	<li> potentiate the vasodilation effect of ACh
+	<li> ACh -> M3 (Endothelia cell) -> NO -> cGMP (smooth muscle cell) -> cGMP breakdown by 5-PDE 
+	<li> last step is inhibited by these drugs thus extend vasodilation 
+</ul>
+</div>
+<div id="right50">
+	<img src="./images/cholinergic/pde5.png")
+<br>
+<a href="http://www.nature.com/nrd/journal/v5/n8/full/nrd2030.html"> Nature Reviews Drug Discovery 5, 689-702 2006</a>
+</div>
+
+---
+
+
+Type 5 phosphodiesterase inhibitors
+
+### <span id="drug"> Sildenafil Tadalafil Vardenafil </span> 
+* ADME
+	* rapidly absorbed after oral administration 
+	* the absorbed of <span id="drug"> sildenafil </span> is reduced by high-fat meal. <span id="drug"> Tadalafil Vardenafil </span> are not.
+	* onset of action is 30-60 min
+	* metablized by cyotochrome P450 3A4, half-life 4-6 h 
+		* should not take more than one dose
+* Indications 
+	* <span id="drug"> Sildenafil </span> and <span id="drug"> Vardenafil</span>: erectile dysfunction 
+	* <span id="drug">  Tadalafil</span>:  benign prostatic hyperplasia,  pulmonary arterial hypertension
+* adverse effects and interactions  
+	* headache, nasal congestion, and visual disturbances
+	* concurrent use with nitroglycerin cause profound hypotension. 
+	* CYP3A4 inhibitors increase the level of the drug (reduce dose for patients taking these inhibitors)
+
+---
+
+## Properties and Clinical Uses of Cholinesterase Inhibitors and Phosphodiesterase Inhibitors 
 <table><thead>
 <tr><td>DRUG </td><td>ROUTE OF ADMINISTRATION </td><td>DURATION OF ACTION </td><td>CLINICAL USE</td></tr>
 <tr><td colspan=4><b>Cholinesterase Inhibitors</b></td></tr></td></tr>
@@ -524,7 +597,7 @@ Reversible Cholinesterase Inhibitors
 <tr><td>Physostigmine </td><td>Intramuscular or intravenous </td><td>1-5 hr </td><td>Reversal of central nervous system effects of antimuscarinic drugs</td></tr>
 <tr><td>Pyridostigmine </td><td>Oral </td><td>3-6 hr </td><td>Myasthenia gravis</td></tr>
 <tr><td></td><td>Intramuscular or intravenous </td><td>2-5 min (IV); 15 min (IM) </td><td>Reversal of curariform drug effects</td></tr>
-<tr><td>Echothiophate </td><td>Topical ocular </td><td>1 wk or more </td><td>Glaucoma and accommodative esotropia</td></tr>
+<tr><td>Echothiophate </td><td>Topical ocular </td><td>1 wk or more </td><td>Glaucoma and <a href="https://en.wikipedia.org/wiki/Esotropia#Accommodative_esotropia">accommodative esotropia</a></td></tr>
 <tr><td>Malathion </td><td>Topical </td><td></td><td>Pediculosis (lice)</td></tr>
 <tr><td colspan=4><b>Phosphodiesterase Inhibitors </b> </td></tr>
 <tr><td>Sildenafil </td><td>Oral </td><td>4-6 hr </td><td>Erectile dysfunction, pulmonary arterial hypertension</td></tr>
@@ -535,4 +608,16 @@ Reversible Cholinesterase Inhibitors
 [Pharmacology 4e](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978145570282400006X)
 
 ---
+
+## Summary 
+
+* The direct-acting acetylcholine receptor agonists include choline esters (e.g., [bethanechol](#/22)) and plant alkaloids (e.g., [pilocarpine](#/24)). <span id="drug"> Pilocarpine </span>  is used to treat glaucoma and dry mouth.
+* The cholinesterase inhibitors indirectly activate acetylcholine receptors by increasing the synaptic concentration of acetylcholine. These drugs have both parasympathomimetic and somatic nervous system effects.
+* The reversible cholinesterase inhibitors include [edrophonium](#/33), which is used to diagnose myasthenia gravis, and [neostigmine and pyridostigmine](#/34) , which are used to treat myasthenia gravis.
+* The quasi-reversible cholinesterase inhibitors are organophosphate compounds that are widely used as pesticides and less commonly used in medical therapy. [Echothiophate](#/35) can be used to treat ocular conditions, whereas [malathion](#/35) is used to treat pediculosis.
+* Organophosphate toxicity is treated with atropine and a cholinesterase regenerator called [pralidoxime](#/35).
+* [Sildenafil](#/36) and related drugs inhibit the degradation of cGMP by 5-PDE and thereby potentiate the vasodilative action of nitric oxide in the penis and other tissues. These drugs are used to treat male erectile dysfunction. 
+
+[Pharmacology 4e](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978145570282400006X)
+
 
