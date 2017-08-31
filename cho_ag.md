@@ -11,7 +11,7 @@ hchen@uthsc.edu
 
 URL: http://chen42.github.io/talks/cho_ag.html
 
-Sept 1, 2017
+Sept 1, 2017 9 - 10 AM
 
 ---
 
@@ -81,7 +81,6 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 |Nicotine | | 
 |Pilocarpine |Isopto carpine |
 |Varenicline |Chantix |
-| | | 
 
 ---
 
@@ -96,7 +95,6 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 |Neostigmine|Prostigmin|
 |Physostigmine|Antilirium, Isopto Eserine|
 |Pyridostigmine|Mestinon|
-| | | 
 
 ---
 
@@ -111,7 +109,6 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 |Sarin | |
 |Soman | |
 |Pralidoxime | |
-| | | 
 
 ---
 
@@ -124,10 +121,9 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 ---
 
-## Where is Acetylcholine?
+## Site of action for cholinergic agonists
 
-![](./images/cholinergic/where_is_ach.png) 
-
+<img src="https://s-media-cache-ak0.pinimg.com/originals/cb/3c/1e/cb3c1e101f6e1429cdce1ead41dff65b.png">
 ---
 
 ## Acetylcholine
@@ -138,14 +134,14 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 * Peripheral nervous system 
  * Activates skeletal muscles (nicotinic) 
- * All *pregaglionic* autonomic (both parasympathetic and sypathetic) (nicotinic) 
+ * All *pregaglionic* autonomic (both parasympathetic and sympathetic) (nicotinic) 
  * All *postganglionic* <b>parasympathetic</b> and sympathetic to sweat gland and some blood vellels (muscarinic) 
 
 ---
 
 ## Major groups of cholinergic agonists 
 
-![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f001.png)
+<a href="http://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104334#1104841667"><img src="http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f001.png"></a>
 
 
 ---
@@ -197,13 +193,13 @@ Bind and activate acetylcholine receptors (think muscarinic)
 
 ### Cholinergic receptors
 
-<table><thead><tr><th> TYPE OF RECEPTOR </th><th> PRINCIPAL LOCATIONS</th> <th> MECHANISM OF SIGNAL TRANSDUCTION</th> <th> EFFECTS</th></tr></thead>
+<table><thead><tr><th> TYPE OF RECEPTOR </th><th> <font color="yellow">PRINCIPAL</font> LOCATIONS</th> <th> MECHANISM OF SIGNAL TRANSDUCTION</th> <th> EFFECTS</th></tr></thead>
 
 <tr><td colspan=4><b>Muscarinic</b></td></tr>    
-<tr><td>M 1 (neural) </td><td> Autonomic ganglia, presynaptic nerve terminals, and CNS  </td><td>Increased IP 3  </td><td>Modulation of neurotransmission</td></tr>
-<tr><td>M 2 (cardiac) </td><td> Cardiac tissue (sinoatrial and atrioventricular nodes)  </td><td>Increased potassium efflux or decreased cAMP  </td><td>Slowing of heart rate and conduction</td></tr>
+<tr><td>M 1 </td><td> Autonomic ganglia, presynaptic nerve terminals, and CNS  </td><td>Increased IP 3  </td><td>Modulation of neurotransmission</td></tr>
+<tr><td>M 2  </td><td> Cardiac tissue (sinoatrial and atrioventricular nodes)  </td><td>Increased potassium efflux or decreased cAMP  </td><td>Slowing of heart rate and conduction</td></tr>
 
-<tr><td>M 3 (glandular)  </td><td>Smooth muscle and glands  </td><td>Increased IP 3  Contraction of smooth muscles and stimulation of glandular secretions </td><td> Vascular smooth muscle  Increased cGMP as a result of nitric oxide stimulation  Vasodilation</td></tr>
+<tr><td>M 3 </td><td>Smooth muscle and glands  </td><td>Increased IP 3  Contraction of smooth muscles and stimulation of glandular secretions </td><td> Vascular smooth muscle  Increased cGMP as a result of nitric oxide stimulation  Vasodilation</td></tr>
 
 <tr><td colspan=4><b>Nicotinic</b> </td></tr>
 
@@ -216,9 +212,8 @@ Bind and activate acetylcholine receptors (think muscarinic)
 
 </table>
 <br> cAMP, cyclic adenosine monophosphate; cGMP, cyclic guanosine monophosphate; CNS, central nervous system; IP 3 , inositol triphosphate </br>
-
-[Pharmacology 4e](https://www-clinicalkey-com.ezproxy.uthsc.edu/#!/content/book/3-s2.0-B978145570282400006X)
-
+</a>
+[Pharmacology 4e](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978145570282400006X?scrollTo=%23hl0000469)
 ---
 
 
@@ -227,29 +222,20 @@ Cholinomimetics: Organ system effects
 ### Ocular effects 
 <div id="left50">
 <ul>
-<li> Increase lacrimal glad secretions
+<li> Increase lacrimal gland secretions
 <p>
-<li> Stimulate the contraction of the iris sphincter muscle and the ciliary muscle ([Miosis](http://www.e-safe-anaesthesia.org/sessions/15_05/gif/ana_1_011_autonomic_nervous_system_08_t1_01_med.gif) and [accommondation](http://www.eyecairo.net/images/accommodation_1.gif)) 
+<li> Stimulate the contraction of the iris sphincter muscle and the ciliary muscle ([Miosis](http://www.e-safe-anaesthesia.org/sessions/15_05/gif/ana_1_011_autonomic_nervous_system_08_t1_01_med.gif) and [accommondation](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780702055546000046?scrollTo=%23hl0002638)
+
+
 <p>
 <li> Facilitate outflow of [aqueous humor](https://openclipart.org/image/2400px/svg_to_png/276637/aqueous-humor.png) ([more info](https://www.aao.org/bcscsnippetdetail.aspx?id=591e80ab-e372-4ad3-9c49-1aed4ba74f61)) and (reduce [IOP](https://www.aao.org/bcscsnippetdetail.aspx?id=f010bbf6-3f3e-486b-b5cd-0ad86ddb9d74))
 </ul>
-
+<p>
+suspensory ligment = zonule
 </div>
 <div id="right50">
 ![](./images/cholinergic/choline_eye1.jpg)
 </div>
-
----
-
-Cholinomimetics: Organ system effects 
-
-### Cardiac effects 
-
-
-* Muscarinic agonists 
-	* reduce the heart rate, with a *but*
-		* high dose ACh cause bradycardia, decrease atrioventricular node conduction velocity
-		* low dose ACh i.v. infusion reduces blood pressure, which increases heart rate (homeostatic reflex)
 
 ---
 
@@ -263,10 +249,23 @@ Cholinomimetics: Organ system effects
 		* NO diffuses into vascular smooth muscle cells
 		* leading to vascular smooth muscle relaxation and vasodilation. 
 	* endothelia cells are obligatory in the relaxation of vascular smooth muscle by ACh
-	* coronary arteriolar response to ACh the same way. But if the endothelium is damaged by atherosclerosis, ACh causes vasoconstriction. 
+	* coronary arteriolar response to ACh the same way. But if the endothelium is damaged by atherosclerosis, ACh causes vasoconstriction.  
+
 ![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f005.png)
 <br>
 [Nature. 1980 Nov 27;288:373-6.](https://www.ncbi.nlm.nih.gov/PubMed/6253831)
+
+---
+
+Cholinomimetics: Organ system effects 
+
+### Cardiac effects 
+
+
+* Muscarinic agonists 
+	* reduce the heart rate, with a *but*
+		* high dose ACh cause bradycardia, decrease atrioventricular node conduction velocity
+		* low dose ACh i.v. infusion reduces blood pressure, which increases heart rate (<b>homeostatic reflex</b>)
 
 ---
 
@@ -292,6 +291,7 @@ Cholinomimetics: Organ system effects
 	---
 	*	stimulate the [bladder detrusor muscle](http://img.medscapestatic.com/pi/meds/ckb/21/12721.jpg), they *relax* the internal sphincter of the bladder 
 	*	promote emptying of the bladder (micturition). 
+	---
 	*	higher doses produce excessive salivation and cause diarrhea, intestinal cramps, and urinary incontinence (the "all faucets turned on" syndrome). 
 
 ---
@@ -343,11 +343,12 @@ Cholinomimetics: plant alkaloids
 <ul>
  <li> Alkaloid from a small shrub, first isolated in 1874
  <li> Indications 
- <ul> <li> 2nd line drug for chronic open-angle glaucoma ([WHO Essential Medicines](http://www.who.int/medicines/publications/essentialmedicines/en/)) 
+ <ul> <li> 2nd line drug for chronic open-angle [glaucoma](http://www.ilovegrowingmarijuana.com/wp-content/upload_folders/ilovegrowingmarijuana.com/2017/02/What-is-Glaucoma.jpg) ([WHO Essential Medicines](http://www.who.int/medicines/publications/essentialmedicines/en/)) 
    <ul><li> contract iris and ciliary muscle, open the angle </ul>
    <li> well absorbed after ocular application
  <li> Dry mouth, either Sjogren's syndrome or xerostomia after radiotherapy.
-  <ul><li> Salagen was sometimes confused with <font color="grey"> Selegiline </font>, a drug for Parkinson's disease</ul>
+ </ul>
+  <li> Salagen was sometimes confused with <font color="grey"> Selegiline </font>, a drug for Parkinson's disease
 
   
  
@@ -423,7 +424,7 @@ Cholinomimetics: synthetic agonists
 	* <b>Aging</b> refers to the breaking of one oxygen-phosphorus bonds
 		* further strengthens the phosphorus-enzyme bond
 		* occurs within 10 min for <span id="drug"> [soman](https://en.wikipedia.org/wiki/Soman) </span>, but 48 h later for <span id="drug"> [VX](https://en.wikipedia.org/wiki/VX_%28nerve_agent%29) </span> ; 
-		* cholinesterase regenerator (e.g., <span id="drug"> pralidoxime </span> ) is more effective before aging occurs
+		* cholinesterase regenerator (e.g., <span id="drug"> prali<font color="gray">ne</font>doxime </span> ) is more effective before aging occurs
 
 ---
 
@@ -508,8 +509,8 @@ Reversible	Cholinesterase	Inhibitors
 		* myasthenia gravis
 		* post-surgical distention and urinary retention
 		* [pretreatment for Soman, a nerve gas](https://www.fda.gov/Drugs/EmergencyPreparedness/BioterrorismandDrugPreparedness/ucm130342.htm)  
-		 * start several hours before exposure 
-		 * switch to <span id="drug"> atropine </span> and <span id="drug"> pralidoxime </span> once exposed to Soman
+			* start several hours before exposure 
+			* switch to <span id="drug"> atropine </span> and <span id="drug"> pralidoxime </span> once exposed to Soman
 *	[Physostigmine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-486)
 	*	quaternary amine 
 	*	primarily CNS effects, weak neuromuscular effect
