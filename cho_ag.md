@@ -220,22 +220,16 @@ Bind and activate acetylcholine receptors (think muscarinic)
 Cholinomimetics: Organ system effects 
 
 ### Ocular effects 
-<div id="left50">
+<table><tr><td width=50%>
 <ul>
 <li> Increase lacrimal gland secretions
-<p>
 <li> Stimulate the contraction of the iris sphincter muscle and the ciliary muscle ([Miosis](http://www.e-safe-anaesthesia.org/sessions/15_05/gif/ana_1_011_autonomic_nervous_system_08_t1_01_med.gif) and [accommondation](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780702055546000046?scrollTo=%23hl0002638)
-
-
-<p>
 <li> Facilitate outflow of [aqueous humor](https://openclipart.org/image/2400px/svg_to_png/276637/aqueous-humor.png) ([more info](https://www.aao.org/bcscsnippetdetail.aspx?id=591e80ab-e372-4ad3-9c49-1aed4ba74f61)) and (reduce [IOP](https://www.aao.org/bcscsnippetdetail.aspx?id=f010bbf6-3f3e-486b-b5cd-0ad86ddb9d74))
 </ul>
-<p>
 suspensory ligment = zonule
-</div>
-<div id="right50">
-![](./images/cholinergic/choline_eye1.jpg)
-</div>
+</td><td width=50%>
+<img src="./images/cholinergic/choline_eye1.jpg">
+</td></table>
 
 ---
 
@@ -339,7 +333,9 @@ Cholinomimetics:	plant alkaloids
 Cholinomimetics: plant alkaloids
 
 ### Pilocarpine <font color="blue">Salagen</font>
-<div id="left50">
+<table><tr>
+
+<td valign="middle">
 <ul>
  <li> Alkaloid from a small shrub, first isolated in 1874
  <li> Indications 
@@ -348,16 +344,14 @@ Cholinomimetics: plant alkaloids
    <li> well absorbed after ocular application
  <li> Dry mouth, either Sjogren's syndrome or xerostomia after radiotherapy.
  </ul>
-  <li> Salagen was sometimes confused with <font color="grey"> Selegiline </font>, a drug for Parkinson's disease
-
-  
  
-</ul>
-</div> 
-<div id="right50">
+  <li> Salagen was sometimes confused with <font color="grey"> Selegiline </font>, a drug for Parkinson's disease
+  </ul>
+</td>
+<td> <img src="http://assets.markallengroup.com/article-images/image-library/147/uploads/sites/9/2016/05/fig-1_2.png"> </td>
 
-![](http://assets.markallengroup.com/article-images/image-library/147/uploads/sites/9/2016/05/fig-1_2.png)
-</div>
+</tr>
+</table>
 
 ---
 
@@ -541,7 +535,7 @@ Reversible	Cholinesterase Inhibitors
 
 Quasi-reversible	Cholinesterase Inhibitors
 
-###	Echothiophate Malathion 
+###	Echothiophate, Malathion 
 
 *	ADME and MoA
 	*	esters of phosphoric acid 
@@ -568,20 +562,17 @@ Quasi-reversible	Cholinesterase Inhibitors
 Type	5 phosphodiesterase inhibitors
 
 ###	<span id="drug"> Sildenafil Tadalafil Vardenafil </span> 
-
-<div	id="left50">
+<table><tr><td width=50%>
 <b>	MoA</b>
 <ul>
 	<li> potentiate the vasodilation effect of ACh
 	<li> ACh -> M3 (Endothelia cell) -> NO -> cGMP (smooth muscle cell) -> cGMP breakdown by 5-PDE 
 	<li> last step is inhibited by these drugs thus extend vasodilation 
 </ul>
-</div>
-<div	id="right50">
+</td><td>
 	<img src="./images/cholinergic/pde5.png")
-<br>
+</td></tr></table>
 <a	href="http://www.nature.com/nrd/journal/v5/n8/full/nrd2030.html"> Nature Reviews Drug Discovery 5, 689-702 2006</a>
-</div>
 
 ---
 
