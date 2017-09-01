@@ -342,7 +342,10 @@ Cholinomimetics: plant alkaloids
  <ul> <li> 2nd line drug for chronic open-angle [glaucoma](http://www.ilovegrowingmarijuana.com/wp-content/upload_folders/ilovegrowingmarijuana.com/2017/02/What-is-Glaucoma.jpg) ([WHO Essential Medicines](http://www.who.int/medicines/publications/essentialmedicines/en/)) 
    <ul><li> contract iris and ciliary muscle, open the angle </ul>
    <li> well absorbed after ocular application
- <li> Dry mouth, either Sjogren's syndrome or xerostomia after radiotherapy.
+ <li> Dry mouth	
+ 	<ul><li>[Sjogren's syndrome](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014950)
+	<li>Xerostomia after radiotherapy.
+	</ul>
  </ul>
  
   <li> Salagen was sometimes confused with <font color="grey"> Selegiline </font>, a drug for Parkinson's disease
@@ -364,7 +367,7 @@ Cholinomimetics: synthetic agonists
 * <span id="drug"> Cevimeline </span> 
 	* oral drug treat dry mouth
 		* [Sjogren syndrome](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014950), an autoimmune disease
-		* radiation therapy for head and neck cancer
+		* Xerostomia following radiation therapy for head and neck cancer
 	*	adverse effect 
 		* increased sweating, nausea, visual disturbances (drug induced miosis) 
 
