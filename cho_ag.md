@@ -47,6 +47,19 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 
 ---
+
+## Textbook chapters used 
+
+#### [Cholinoceptor-Activating & Cholinesterase-Inhibiting Drugs](http://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104334#1104841667)  
+
+Katzung and Trevor, Basic & Clinical Pharmacology, 13e
+
+
+#### [Acetylcholine Receptor Agonists](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978145570282400006X)
+
+Brenner and Stevens, Pharmacology, 4e.  
+
+---
 ## Learning Objectives
 
 * List the locations of and the differences between muscarinic and nicotinic receptors.
