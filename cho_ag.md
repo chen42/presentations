@@ -22,6 +22,7 @@ Sept 1, 2017 9 - 10 AM
 	* Drug name: <span id="drug"> Enfuvirtide</span>
 	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
 		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
+		* [VPN](http://uthsc.edu/vpn/index.php)  provides a better experience. 
 * Open link in a new browser tab:
 ```
 CTRL click
