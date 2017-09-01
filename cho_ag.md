@@ -135,7 +135,7 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 * Peripheral nervous system 
  * Activates skeletal muscles (nicotinic) 
  * All *pregaglionic* autonomic (both parasympathetic and sympathetic) (nicotinic) 
- * All *postganglionic* <b>parasympathetic</b> and sympathetic to sweat gland and some blood vellels (muscarinic) 
+ * All *postganglionic* <b>parasympathetic</b> and sympathetic to sweat gland and some blood vessels (muscarinic) 
 
 ---
 
@@ -223,8 +223,8 @@ Cholinomimetics: Organ system effects
 <table><tr><td width=50%>
 <ul>
 <li> Increase lacrimal gland secretions
-<li> Stimulate the contraction of the iris sphincter muscle and the ciliary muscle ([Miosis](http://www.e-safe-anaesthesia.org/sessions/15_05/gif/ana_1_011_autonomic_nervous_system_08_t1_01_med.gif) and [accommondation](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780702055546000046?scrollTo=%23hl0002638)
-<li> Facilitate outflow of [aqueous humor](https://openclipart.org/image/2400px/svg_to_png/276637/aqueous-humor.png) ([more info](https://www.aao.org/bcscsnippetdetail.aspx?id=591e80ab-e372-4ad3-9c49-1aed4ba74f61)) and (reduce [IOP](https://www.aao.org/bcscsnippetdetail.aspx?id=f010bbf6-3f3e-486b-b5cd-0ad86ddb9d74))
+<li> Stimulate the contraction of the iris sphincter muscle and the ciliary muscle ([Miosis](http://www.e-safe-anaesthesia.org/sessions/15_05/gif/ana_1_011_autonomic_nervous_system_08_t1_01_med.gif) and [accommondation](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780702055546000046?scrollTo=%23hl0002638))
+<li> Facilitate outflow of [aqueous humor](https://openclipart.org/image/2400px/svg_to_png/276637/aqueous-humor.png) ([more info](https://www.aao.org/bcscsnippetdetail.aspx?id=591e80ab-e372-4ad3-9c49-1aed4ba74f61)) and reduce [intraocular pressue, IOP](https://www.aao.org/bcscsnippetdetail.aspx?id=f010bbf6-3f3e-486b-b5cd-0ad86ddb9d74)
 </ul>
 suspensory ligment = zonule
 </td><td width=50%>
