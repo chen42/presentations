@@ -23,6 +23,7 @@ Sept 1, 2017 9 - 10 AM
 	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
 		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
 		* [VPN](http://uthsc.edu/vpn/index.php)  provides a better experience. 
+	* [Printable](http://chen42.github.io/talks/cho_ag.html?print-pdf#/) version 
 * Open link in a new browser tab:
 ```
 CTRL click
