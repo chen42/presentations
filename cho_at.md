@@ -399,27 +399,25 @@ Antimuscarinics: Organ System Effects
 ---
 <section id="scopolamine">
 
-## <span id="drug"> Atropine, Scopolamine, glycopyrrolate, hyoscyamine </span> 
+## <span id="drug"> Atropine, Scopolamine</span> 
 
 ### ADME
 * <span id="drug"> atropine </span> and <span id="drug"> scopolamine</span> are nonionized tertiary amines. 
+
 	* well absorbed from the gut and are readily distributed to the CNS.
 
 * <span id="drug"> scopolamine </span>  has longer duration of action and stronger CNS effect than <span id="drug">  atropine  </span> 
-
-* <span id="drug"> glycopyrrolate </span> and <span id="drug"> hyoscyamine </span> are  quaternary amines 
-	*  less CNS effects
 
 * excreted in the urine with a half-life of about 2 hours. 
 
 
 ---
 
-## <span id="drug"> Atropine, Scopolamine, glycopyrrolate, hyoscyamine </span> 
+## <span id="drug"> Atropine, Scopolamine </span> 
 ### Ocular Indications
 * localized application to produce mydriasis 
 	* facilitate ophthalmoscopic examination of the peripheral retina
-	* effect of <span id="drug">  atropine, scopolamine, glycopyrrolate  </span>   can last for days 
+	* effect of <span id="drug">  atropine, scopolamine </span> can last for days 
 		* they bind to pigments in the iris that slowly release the drugs. 
 		* people with darker irises bind more atropine and experience a more prolonged effect than do people with lighter irises. 
 * to produce cycloplegia and permit the accurate determination of refractive errors, 
@@ -430,19 +428,19 @@ Antimuscarinics: Organ System Effects
 	* treat iritis and cyclitis (inflammation of the iris and ciliary muscles) associated with infection, trauma, or surgery.
 	* long-lasting effects are valuable
 
-
 ---
 
-## <span id="drug"> Atropine, Scopolamine, glycopyrrolate, hyoscyamine </span> 
+## <span id="drug"> Atropine, Scopolamine</span> 
 ###  Cardiac Indications
 * sinus bradycardia with reduced cardiac output and hypotension or ischemia. 
 	* sometimes occurs after a myocardial infarction. 
 	* i.v. <span id="drug"> Atropine </span> 
 * symptomatic atrioventricular blocking
-	* <span id="drug"> atropine </span> or <span id="drug"> glycopyrrolate </span> 
+	* <span id="drug"> atropine </span> 
+
 ---
 
-## <span id="drug"> Atropine, Scopolamine, glycopyrrolate, hyoscyamine </span> 
+## <span id="drug"> Atropine, Scopolamine </span> 
 
 ### Respiratory Tract Indications
 
@@ -450,12 +448,12 @@ Antimuscarinics: Organ System Effects
 	* e.g., impairs ciliary activity, reducing the clearance of mucus from the lungs and causing accumulation of viscid material in the airways. 
 	* [ipratropium](#/ipratropium) is preferred 
 * to reduce salivary and respiratory secretions, prevent airway obstruction in patients who are receiving general anesthetics. 
-	* <span id="drug"> Glycopyrrolate </span> is mostly used for this purpose 
 	* <span id="drug"> scopolamine </span> may cause amnesia associated with surgery  
+	* [Glycopyrrolate](#/glycopyrrolate) is mostly used for this purpose 
 	 
 ---
 
-## <span id="drug"> Atropine, Scopolamine, glycopyrrolate, hyoscyamine </span> 
+## <span id="drug"> Atropine, Scopolamine</span> 
 
 ###  Gastrointestinal and urinary tract Indications
 
@@ -464,11 +462,10 @@ Antimuscarinics: Organ System Effects
 * not used to treat peptic ulcer due to large adverse effects. 
 	*	a selective muscarinic M1 receptor blocker, <span id="drug"> pirenzepine</span> can be used.
 
-* formulations of <span id="drug"> hyoscyamine </span> for oral or sublingual administration are used to treat intestinal spasms and other gastrointestinal symptoms. 
 
 ---
 
-## <span id="drug"> Atropine, Scopolamine, glycopyrrolate, hyoscyamine </span> 
+## <span id="drug"> Atropine, Scopolamine</span> 
 
 ### central nervous system indications
 
@@ -480,8 +477,24 @@ Antimuscarinics: Organ System Effects
 	* better drugs available
 
 ---
+
+## <span id="drug"> Glycopyrrolate,  hyposcyamine </span> 
+* AMDE 
+	* both are  quaternary amines
+		*  less CNS effects
+	* <span id="drug"> glycopyrrolate </span> is synthetic.  
+	* <span id="drug"> hyoscyamine </span> is optical isomer of <span id="drug"> atropine </span> 
+	* excreted in the urine with a half-life of about 2 hours. 
+* Indications
+	* <span id="drug"> glycopyrrolate </span> reduce salivary and respiratory secretions, prevent airway obstruction in patients who are receiving general anesthetics. 
+	* <span id="drug"> glycopyrrolate </span> reduces chronic severe drooling in patients aged 3 to 16 years with neurologic conditions such as cerebral palsy.
+	* formulations of <span id="drug"> hyoscyamine </span> for oral or sublingual administration are used to treat intestinal spasms and other gastrointestinal symptoms. 
+ 	* <span id="drug"> glycopyrrolate </span> can be used for symptomatic atrioventricular blocking. 
+
+---
+
 <section id="toxicity">
-## <span id="drug"> Atropine, Scopolamine, glycopyrrolate </span> 
+## <span id="drug"> Atropine, Scopolamine</span> 
 ### Toxicity
 
 <table><tr><td width=65%>
@@ -491,23 +504,7 @@ Antimuscarinics: Organ System Effects
 <img src="https://pbs.twimg.com/media/CD5ErOGVEAAjkB1.jpg">
 </td><tr></table>
 
-
-Atrophin toxicity: "dry as a bone, blind as a bat, red as a beet, and mad as a hatter." 
-
----
-
-## <span id="drug"> Hyoscyamine </span> 
-
-* ADME and MoA
-	* the [levorotatory isomer](https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation) of racemic atropine
-	* the natural form of the alkaloid that occurs in plants.
-	* tertiary amine 
-	* competitive antagonist of the mascarinic receptors
-		* no effect on the nicotinic recepotors at low does
-* indication
-	* has similar effect as <span id="drug"> atropine</span>
-	* formulations of <span id="drug"> hyoscyamine </span> for oral or sublingual administration are used to treat intestinal spasms and other gastrointestinal symptoms. 
-	* no CNS depression (better than <span id="drug"> scopolamine</span> ) 
+Atrophine toxicity: "dry as a bone, blind as a bat, red as a beet, and mad as a hatter." 
 
 ---
 
@@ -515,33 +512,41 @@ Atrophin toxicity: "dry as a bone, blind as a bat, red as a beet, and mad as a h
 
 the pharmacologic effects of these agents are similar to those of atropine, their unique pharmacokinetic properties are advantageous in specific situations. 
 
-
 ---
+
 <section id="ipratropium">
 ## <span id="drug"> Ipratropium, Tiotropium </span> 
 
-quaternary amine derivatives of atropine, are administered by inhalation to patients with obstructive lung diseases. Because these drugs are not well absorbed from the lungs into the systemic circulation, they produce few adverse effects. For example, unlike atropine, they do not impair the ciliary clearance of secretions from the airways. This makes them particularly useful in treating patients with asthma, emphysema, and chronic bronchitis. The respiratory effects and uses of these compounds are discussed more thoroughly in Chapter 27 . 
-
-* main difference  is duration of action. 
-	* Tiotropium once daily dosing
-	* ipratropium requires four times daily dosing
+* ADME and MoA
+	* quaternary amine derivatives of atropine, 
+		* not well absorbed from the lungs into the systemic circulation,
+	* administered by inhalation to patients with obstructive lung diseases. 
+	* main difference  is duration of action. 
+		* Tiotropium once daily dosing
+		* ipratropium requires four times daily dosing
+* Indications
+	* asthma, emphysema, and chronic bronchitis 
+	
 ---
 
-## <span id="drug"> Dicyclomine, Oxybutynin, Solifenacin, </span> and Related Drugs
+## <span id="drug"> Dicyclomine, Oxybutynin, Solifenacin, </span> 
+and related drugs
 
-Dicyclomine is a synthetic amine used to relax intestinal smooth muscle and thereby relieve irritable bowel symptoms, such as intestinal cramping. Oxybutynin, tolterodine, darifenacin, solifenacin, and trospium are used to reduce the four major symptoms of overactive bladder: daytime urinary frequency, nocturia (frequent urination at night), urgency, and incontinence. Oxybutynin is now available in both oral and topical (gel) formulations. Compared with other muscarinic receptor antagonists, darifenacin, solifenacin, tolterodine, and trospium appear to have a more selective action on the urinary bladder and may cause fewer adverse effects such as dry mouth and blurred vision. These uroselective blockers are administered once or twice daily.
+* <span id="drug"> Dicyclomine </span> 
+	* synthetic amine used to relax intestinal smooth muscle
+	* relieve irritable bowel symptoms, such as intestinal cramping. 
+* <span id="drug"> Oxybutynin, tolterodine, darifenacin, solifenacin, trospium </span>  
+	* used to reduce the four major symptoms of overactive bladder: 
+		daytime urinary frequency,  nocturia (frequent urination at night), 
+		urgency, and incontinence. 
+	* <span id="drug"> oxybutynin </span> is now available in both oral and topical (gel) formulations. 
+	* <span id="drug"> darifenacin, solifenacin, tolterodine </span>, and <span id="drug">  trospium </span> appear to have a more selective action on the urinary bladder and may cause fewer adverse effects such as dry mouth and blurred vision. 
+	
 
 M3 receptor 
 
 
 ---
-
-## <span id="drug"> Glycopyrrolate </span> 
-* blocks muscarinic receptors throughout the body.
-* low doses preferentially inhibit secretions, and the drug is administered preoperatively to inhibit excessive salivary and respiratory tract secretions.
-* used during anesthesia to inhibit the secretory and vagal effects of cholinesterase inhibitors (e.g., neostigmine ) that are used to reverse nondepolarizing neuromuscular blockade induced by curariform drugs (e.g., vecuronium ). 
-* reduce chronic severe drooling in patients aged 3 to 16 years with neurologic conditions such as cerebral palsy.
-
 
 ---
 <section id="tropicamide">
