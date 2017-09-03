@@ -117,6 +117,10 @@ body {
 .reveal ul ul ul {
   list-style-type: circle; }
 
+.reveal ul ul ul ul {
+  list-style-type: upper-roman; }
+
+
 .reveal ul  {font-weight: bold;}
 .reveal ul ul  {font-weight: normal}
 .reveal ul ul ul  {font-weight: normal }
