@@ -507,16 +507,16 @@ Reversible Cholinesterase Inhibitors
 
 Reversible	Cholinesterase	Inhibitors
 
-###	Neostigmine,	Pyridostigmine, Physostigmine
+###	Neostigmine, Pyridostigmine, Physostigmine
 
-*	substrate	of AChE, compete with ACh 
+*	substrate of AChE, compete with ACh 
 *	[Neostigmine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-431)	
-	*	plant alkaloid, tertiary amine, well absorbed from the gut
+	*	plant alkaloid, quaternary amine, poorly absorbed from the gut
 	*	indications 
 		* myasthenia gravis 
 		* post-surgical distention and urinary retention
 *	[Pyridostigmine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-530)	
-	*	longer-acting 
+	*	longer-acting, but slower onset than <span id="drug"> neostigmine  </span>  
 	*	indications 
 		* myasthenia gravis
 		* post-surgical distention and urinary retention
@@ -524,7 +524,7 @@ Reversible	Cholinesterase	Inhibitors
 			* start several hours before exposure 
 			* switch to <span id="drug"> atropine </span> and <span id="drug"> pralidoxime </span> once exposed to Soman
 *	[Physostigmine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-486)
-	*	quaternary amine 
+	*	tertiary amine 
 	*	primarily CNS effects, weak neuromuscular effect
 	*	indications
 		* open angle glaucoma
