@@ -108,6 +108,10 @@ body {
 .reveal ol {
   list-style-type: decimal; }
 
+.reveal ol ol {
+  list-style-type: lower-alpha; }
+
+
 .reveal ul {
   list-style-type: disc; }
 
