@@ -53,9 +53,9 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 [Cholinoceptor-Blocking Drugs](http://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104442) Katzung and Trevor, Basic & Clinical Pharmacology, 13e
 
-[Acetylcholine Receptor Agonists](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455702824000071) Brenner and Stevens, Pharmacology, 4e.  
+[Acetylcholine Receptor Agonists](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455702824000071) Brenner and Stevens, Pharmacology, 4e. 
 
-Supplemental material: [Drug Monographs](https://www.clinicalkey.com/#!/browse/drugs)
+Supplemental materials: [Drug Monographs](https://www.clinicalkey.com/#!/browse/drugs),  PubMed articles 
 
 ---
 
@@ -66,7 +66,6 @@ Supplemental material: [Drug Monographs](https://www.clinicalkey.com/#!/browse/d
 * Describe therapeutic uses of anticholinergics.
 	* Explain the rationale for the therapeutic use of muscarinic antagonists in diseases such as bronchoconstriction, excessive salivation, and motion sickness. 
 	* Explain the rationale for the therapeutic use to produce mydriasis and cycloplegia.
-	* Explain the rationale for historical uses in treatment of hypertension and autonomic hyperreflexia.
 
 ---
 
@@ -74,7 +73,11 @@ Supplemental material: [Drug Monographs](https://www.clinicalkey.com/#!/browse/d
 * Describe side effects and drug interactions of anticholinergics.
 	* Explain why muscarinic antagonists cause xerostomia, blurred vision, photophobia, tachycardia, anhidrosis, difficulty in micturition, hyperthermia, glaucoma and mental confusion in the elderly.
 	* Explain why muscarinic antagonists are contraindicated in glaucoma, obstructive disease of the gastrointestinal tract or urinary tract, intestinal atony.
-	* List the adverse side effects of drug acting at autonomic ganglia.
+	* List the adverse effects of drug acting at autonomic ganglia.
+* Describe the use of neuromuscular blockers in general anesthesia
+	* Explain the selection criterior of neuromuscular blockers 
+	* Explain the cause of hyperkalemia and malignant hyperthermia
+* Describe the principles of treating cholinergic poisoning
 
 ---
 
@@ -100,33 +103,40 @@ Tropicamide (Mydriacyl Ophthalmic)<br>
 Trospium (Spasmex)<br>
 <br>
 </td>
+
 <td>
 <b>Ganglionic Blockers</b><p>
 Hexamethonium<br>
 Mecamylamine (Inversine)<br>
-Trimethaphan (Arfonad)<p>
+Tetraethylammonium <p>
+
 <b>Neuromuscular Blockers</b><p>
 Atracurium (Tracrium)</br>
 Cisatracurium (Nimbex)</br>
-Pancuronium (Pavulon)
-</br>
-Rocuronium(Zemuron)</br>
+Pancuronium (Pavulon) </br>
+Rocuronium (Zemuron)</br>
 Succinylcholine (Anectine, Quelicin)</br>
-Vecuronium(Norcuron)</br>
+Vecuronium (Norcuron)</br>
+
 </td></tr></table>
 
 ---
 
 ## outline
-
-1. Cholinoreceptors
-2. Antimuscarinic
-3. Organ System Drug Effects
-4. Atropine / Scopolamine
-5. Synthetic Antimuscarinics
-6. Nicotinic Ganglionic Blockers
-7. Nicotinic Neuromuscular Blokers
-8. Cholinergic Poisoning
+<ol>
+<li> Cholinoreceptors
+<li> Antimuscarinic
+	<ol type="a"><li> Organ System Drug Effects
+		<li> Atropine / Scopolamine
+		<li> Synthetic Antimuscarinics
+	</ol>
+<li> Antinicotinic 
+	<ol type="a"> 
+		<li>Nicotinic Ganglionic Blockers
+		<li>Nicotinic Neuromuscular Blokers
+		</ol>
+<li> Cholinergic Poisoning
+</ol>
 
 
 ---
@@ -222,9 +232,9 @@ The structure of atropine (oxygen [red] at [1] is missing) or scopolamine (oxyge
 	* quaternary derivatives are poorly taken up by the brain and therefore are relatively free of CNS effects.
 * Metabolism 
 	* the elimination of <span id="drug"> atropine </span> from the blood occurs in two phases: the t1/2 of the rapid phase is 2 hours and that of the slow phase is approximately 13 hours. 
+	* Effect on parasympathetic function declines rapidly in all organs except the eye, where it can persist for &gt; 72 hours.
 * Excretion 
 	* About 50% of the dose is excreted unchanged in the urine. The rest appears in the urine as hydrolysis and conjugation products. 
-	* Effect on parasympathetic function declines rapidly in all organs except the eye, where it can persist for &gt; 72 hours.
 
 ---
 
@@ -233,7 +243,7 @@ The structure of atropine (oxygen [red] at [1] is missing) or scopolamine (oxyge
 <ul>
 <li> reversible blockade of muscarinic receptor 
 	<ul>
-	<li> representative drugs: <span id="drug"> atropine</span>
+	<li> representative drug: <span id="drug"> atropine</span>
 	<li> can be overcome by ACh or cholinomimetics 
 	<li> binds to the aspartate in the third transmembrane segment of the heptahelical receptor 
 	<li> prevents the release of IPs and inhibits adenylyl cyclase (<a href="http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch1_f003.png">inverse agonists</a>)
@@ -304,8 +314,8 @@ Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/19)
 	* blocking the effects of the vagus nerve 
 		* tachycardia, increase conduction velocity 
 		* low dose i.v. administration results in initial bradycardia 
-			*  due to block of prejunctiona [M1 auto-receptors](#/9)
-			*  stimulation of the vagal motor nucleus in the brain stem. 
+			* due to block of prejunctiona [M1 auto-receptors](#/9)
+			* stimulation of the vagal motor nucleus in the brain stem. 
 	* reduce [PR interval](https://lifeinthefastlane.com/wp-content/uploads/2011/01/waves-of-the-ecg.gif) of the ECG 
 
 ---
@@ -317,7 +327,7 @@ Antimuscarinics: Organ System Effects
 Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/18)
 
 * most blood vessels receive no direct innervation from the parasympatholytic system
-	* except those in the toracic and abdominal viscera
+	* except those in the thoracic and abdominal viscera
 	* almost all vessles contain [endothelia muscarinic receptors](http://chen42.github.io/talks/cho_ag.html#/18) &rarr; vasodilation
 		* blocked by antimuscarinic drugs
 
@@ -341,7 +351,7 @@ Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/20)
 </ul><li> chronic obstructive pulmonary disease (COPD)
 </ul>
 
-In COPD, the small airways are narrowed through thickening of the bronchiolar periphery wall by inflammation and fixed narrowing as a result of fibrosis, disruption of alveolar attachments as a result of emphysema and luminal occlusion by mucus and inflammatory exudate.  
+In COPD, the small airways are narrowed through thickening of the bronchiolar periphery wall by inflammation and fixed narrowing as a result of fibrosis, disruption of alveolar attachments as a result of [emphysema](http://www.webmd.com/lung/emphysema) and luminal occlusion by mucus and inflammatory exudate. 
 </td><td>
 	<a href="https://www.researchgate.net/figure/285656805_fig7_Figure-1-Airway-obstruction-in-COPD-In-healthy-lungs-the-small-airways-bronchioles"><img src="https://www.researchgate.net/publication/285656805/figure/fig7/AS:303163249840128@1449291159089/Figure-1-Airway-obstruction-in-COPD-In-healthy-lungs-the-small-airways-bronchioles.png"></a>
 </td><tr></table>
@@ -357,10 +367,9 @@ Antimuscarinics: Organ System Effects
 Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/21)
 
 
-* The removal of autoinhibition, a negative feedback mechanism by which neural acetylcholine suppresses its own release, might explain the lower efficacy of antimuscarinic drugs against the effects of endogenous acetylcholine.
-* Dry mouth is a common side effect
+* dry mouth is a common side effect
 * gastric secretion is not as effectively blocked because [other neurotransmitters](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch6_f002.png) are involved. 
-* gastrointestinal Smooth muscle mobility is affected
+* gastrointestinal smooth muscle mobility is affected
 	* from stomach to colon
 	* diminish the tone and propulsive movement
 	* relax viscera wall, prolong gastric emptying time.
@@ -406,7 +415,7 @@ Antimuscarinics: Organ System Effects
 
 
 ---
-
+<section id="bradycardia">
 ## <span id="drug"> Atropine, Scopolamine</span> 
 ### Cardiac Indications
 * sinus bradycardia with reduced cardiac output and hypotension or ischemia. 
@@ -477,16 +486,16 @@ Antimuscarinics: Organ System Effects
 ## <span id="drug"> Atropine, Scopolamine</span> 
 ### Toxicity
 
-<table><tr><td width=65%>
+<table><tr><td width=70%>
 
 <img src="https://basicmedicalkey.com/wp-content/uploads/2016/07/B9781455702824000071_f007-001-9781455702824.jpg">
-</td><td width=35%>
+</td><td width=30%>
 <img src="https://pbs.twimg.com/media/CD5ErOGVEAAjkB1.jpg">
 </td><tr></table>
 
 Atropine toxicity: "dry as a bone, blind as a bat, red as a beet, and mad as a hatter." 
 
-Treatment: 1. activated charcoal. 2. [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/35)(has CNS effect)
+Treatment: 1. activated charcoal. 2. [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/35) (a tertiary amine with CNS effects)
 
 ---
 
@@ -495,10 +504,10 @@ Treatment: 1. activated charcoal. 2. [Physostigmine](http://chen42.github.io/tal
 the pharmacologic effects of these agents are similar to those of atropine, their unique pharmacokinetic properties are advantageous in specific situations. 
 
 ---
-
+<section id="glycopyrrolate">
 ## <span id="drug"> Glycopyrrolate, hyoscyamine </span> 
 
-general anesthesia
+adjunctive for  general anesthesia
 
 * AMDE 
 	* both are quaternary amines
@@ -556,8 +565,37 @@ respiratory tract
 
 ---
 
-## <span id="drug"> Oxybutynin, Trospium </span> 
+<section id="intestinal">
+## <span id="drug"> Dicyclomine </span> 
 
+GI tract
+
+* ADME 
+	* synthetic tertiary amine	
+	* MoA unclear, likely exert a nonspecific, local, direct musculotropic action on the smooth muscle of the GI tract
+	* excreted in urine
+	* elimination half-life: 9-10 h
+* Indications
+	* relieve irritable bowel symptoms, such as intestinal cramping. 
+* Adverse effects
+	* does *not* produce characteristic atropine-like effects on the salivary or sweat glands, or on the cardiovascular system.
+	* not used in infants 
+
+
+---
+
+## <span id="drug"> Pirenzepine </span> 
+
+GI tract 
+
+* selective for M1 receptors
+* reduce vagally stimulated gastric acid secretion in patients with peptic ulcers. 
+* it blocks M1 receptors on paracrine cells and inhibits the release of histamine, a potent gastric acid stimulant. 
+* Pirenzepine is available in Canada and Europe but not in the United States. 
+
+---
+<section id="urinary">
+## <span id="drug"> Oxybutynin, Trospium </span> 
 
 Urinary tract
 
@@ -572,36 +610,6 @@ Urinary tract
 		* side effect: dry mouth
 	* <span id="drug"> trospium </span> has fewer side effects (e.g. dry mouth: 4% trospium vs 23% oxybutynin).
 	* long-term safety and efficacy of <span id="drug"> trospium </span> has been [demonstrated](https://www.ncbi.nlm.nih.gov/pubmed/12811500). 
-
----
-
-## <span id="drug"> Pirenzepine </span> 
-
-GI tract 
-
-* selective for M1 receptors
-* reduce vagally stimulated gastric acid secretion in patients with peptic ulcers. 
-* it blocks M1 receptors on paracrine cells and inhibits the release of histamine, a potent gastric acid stimulant. 
-* Pirenzepine is available in Canada and Europe but not in the United States. 
-
-
----
-
-<section id="intestinal">
-## <span id="drug"> Dicyclomine </span> 
-
-GI tract
-
-* ADME 
-	* synthetic tertiary amine	
-	* MoA unclear, likely exert a nonspecific, local, direct musculotropic action on the smooth muscle of the GI tract
-	* extracted in urine
-	* elimination half-life: 9-10 h
-* Indications
-	* relieve irritable bowel symptoms, such as intestinal cramping. 
-* Adverse effects
-	* does *not* produce characteristic atropine-like effects on the salivary or sweat glands, or on the cardiovascular system.
-	* not used in infants 
 
 ---
 
@@ -719,25 +727,40 @@ Nicotinic Receptor Antagonists
 	* Newer drugs tend to cause less histamine release and fewer autonomic side effects than does <span id="drug"> pancuronium </span>.
 
 ---
+
 Nicotinic Receptor Antagonists 
 ## Nondepolarizing Neuromuscular Blocking Agents 
 ### Indications
 
 * primarily used to induce muscle relaxation during surgery.
-* also used as an adjunct to electroconvulsive therapy to prevent injuries that might be caused by involuntary muscle contractions.
-* also used to facilitate intubation of the respiratory tract. 
+* used as an adjunct to electroconvulsive therapy to prevent injuries that might be caused by involuntary muscle contractions.
+* facilitate intubation of the respiratory tract. 
+
+---
+<section id="sugammadex">
+Nicotinic Receptor Antagonists 
+## Nondepolarizing Neuromuscular Blocking Agents 
+### Adverse effects 
+
+* Residual neuromuscular blockade	
+	* causes of postoperative pulmonary and respiratory complications, hypoxia, upper airway obstruction and decreased oxygen saturation
+	* increase the incidence of tracheal re-intubation in critical care units
+* [neostigmine](http://chen42.github.io/talks/cho_ag.html#/33) can be used to counteract  this effect, but in turn may cause nausea and vomiting, increased secretions, heart rhythm abnormalities and bronchospasm.
+* <span id="drug">  Sugammadex </span> 
+	* forms a tight water-soluble complex with <span id="drug"> rocuronium </span> and removes the drug from the neuromuscular junction
+	* reverses neuromuscular blockade more rapidly and reliably than acetylcholinesterase inhibitors. 
+	* reduced all signs of residual postoperative paralysis by 46%  compared with neostigmine in a recent [meta analysis](http://onlinelibrary.wiley.com/enhanced/figures/doi/10.1111/anae.13277#figure-viewer-anae13277-fig-0004) 
+	* [FDA approval in Dec 15, 2015](https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm477512.htm)
+		* the end of succinylcholine? [Anesth Analg. 2000;90:S24-8.](https://www.ncbi.nlm.nih.gov/pubmed/10809515), [Can J Anaesth. 2017;64(1):104-106.](https://www.ncbi.nlm.nih.gov/pubmed/27770379)	
 
 ---
 Nicotinic Receptor Antagonists 
 ## Nondepolarizing Neuromuscular Blocking Agents 
 ### Interactions
 
-muscle-relaxing effects are potentiated by volatile inhalational anesthetic agents (e.g., <span id="drug"> sevoflurane</span> ) and by the aminoglycoside antibiotics, tetracycline antibiotics, and calcium channel blockers. 
+* muscle-relaxing effects are potentiated by volatile inhalational anesthetic agents (e.g., <span id="drug"> sevoflurane</span> ) and by the aminoglycoside antibiotics, tetracycline antibiotics, and calcium channel blockers. 
+
 * effects is more pronounced in myasthenia gravis patients.
-* reversed by administering a cholinesterase inhibitor (e.g., <span id="drug"> neostigmine </span>). [Neostigmine reversal](http://chen42.github.io/talks/cho_ag.html#/33) 
-* <span id="drug"> sugammadex</span> reverse steroidal neuromuscular blocking agents such as </span> rocuronium </span>. <span id="drug"> Sugammadex </span> forms a tight water-soluble complex with <span id="drug"> rocuronium </span> and removes the drug from the neuromuscular junction
-	* producing a fast recovery of neuromuscular function and reducing the risk of postoperative respiratory dysfunction. 
-	* [FDA approval in Dec 15, 2015](https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm477512.htm)
 
 ---
 <section id="succinylcholine">
@@ -750,11 +773,13 @@ Nicotinic Receptor Antagonists
 	* composed of two covalently linked molecules of acetylcholine.
 	* succinylcholine binds to nAChR in skeletal muscle.
 	* when the drug is first administered, it produces transient muscle contractions called fasciculations, followed by a sustained muscle paralysis. 
-	* <span id="drug"> succinylcholine </span> is hydrolyzed by cholinesterase (slower than ACh). 
-* Indication 
+	* <span id="drug"> succinylcholine </span> is not a substracte of AChE, but is [hydrolyzed by plasma cholinesterase](https://d1niluoi1dd30v.cloudfront.net/C20140048964/B9780323401159000116/f11-04-9780323401159.jpg?Expires=1504537553&Key-Pair-Id=APKAICLNFGBCWWYGVIZQ&Signature=cMOB3i2GMSlThgz9z2IApiZEOi21lpWLWGfPgobNVEcx1baiO57N47FA2jl5KXt16eiJWkKhm0ZDzBEUaXIi-hHgaPC-n5j3LSJ6Xm9bn1EeLn99VsUBaMYKUVlHXKOGVSQmHQb3PMU1IOB1rsfujUJjTroWXvIo4wL21sZcbXQ_)(slower than ACh). 
+* Indications 
 	* rapid onset and offset (short duration)
-	* the preferred neuromuscular blocker for adults with emergency airway situations.
-	* potients with atypical cholinesterase cannot metabolize <span id="drug"> succinylcholine </span> at normal rates 
+	* the preferred neuromuscular blocker for endotracheal intubation or adults with emergency airway situations.
+* Adverse effects 
+	* repeated application may cause cardiac arrest
+	* patients with atypical cholinesterase cannot metabolize <span id="drug"> succinylcholine </span> at normal rates 
 		* susceptible to prolonged neuromuscular paralysis and apnea 
 ---
 
@@ -765,14 +790,13 @@ Nicotinic Receptor Antagonists
 <table><tr><td>
 <ul><li> Interactions and adverse effects
 	<ul><li> can cause <u>hyperkalemia </u> &rarr; cardiac arrest 
-	<li> avoid third-degree burn patients, prolonged chemical denervation (e.g. muscle relaxant), direct   muscle trauma 
+	<li> avoid third-degree burn patients, prolonged chemical denervation (e.g. muscle relaxant), direct muscle trauma 
 	<li> these conditions increase muscle nAChR, including &alpha;7 homomer 
-	<li> muscle cells do express &alpha;7 nAChR. These receptors do not desensitize.    
-		<li> choline (metabolite of Ach and Succinylcholine) is a full agonist for muscle &alpha;7  
+	<li> muscle cells do express &alpha;7 nAChR. These receptors do not desensitize. 
+		<li> choline (metabolite of Ach and Succinylcholine) is a full agonist for muscle &alpha;7 
 		<li> activation of &alpha;7 increases K+ outflow
 		</ul>
 </ul>
-
 
 </td><td width=50%>
 <img src="http://anesthesiology.pubs.asahq.org/data/Journals/JASA/931078/22FF3.png">
@@ -795,8 +819,7 @@ Nicotinic Receptor Antagonists
 	* <span id="drug"> Dantrolene </span> is a specific treatment for MH. 
 		* decrease muscle contraction by directly [interfering with calcium ion release from the sarcoplasmic reticulum](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-167) within skeletal muscle cells.
 		
-Orphanet J Rare Dis. 2015 Aug 4;10:93
-
+[Orphanet J Rare Dis. 2015 Aug 4;10:93](https://ojrd.biomedcentral.com/articles/10.1186/s13023-015-0310-1)
 ---
 
 ## Cholinergic Poisoning
@@ -826,36 +849,24 @@ Orphanet J Rare Dis. 2015 Aug 4;10:93
 		* does not reverse CNS effects
 * pretreatment
 	* use intermediate-acting enzyme inhibitors to prevent binding of the much longer-acting inhibitor
-	* [pyridostigment](http://chen42.github.io/talks/cho_ag.html#/35) 
+	* [pyridostigmine](http://chen42.github.io/talks/cho_ag.html#/35) 
 
 ---
 
 ## Cholinergic Poisoning
-### Mushroom poisoning  
+### Mushroom poisoning 
 
 * rapid-onset	
 	* apparent 1/2 - 2 h after ingestion
 	* can be caused by a variety of toxins
 	* some have muscarinc signs (nausea, vomiting, diarrhea, urinary urgency, sweating, salivation, and sometimes bronchoconstriction)
 		* treat with <span id="drug"> atropine </span> 
-	* some will have antimuscarinic signs (atropine poisoning)  
+	* some will have antimuscarinic signs ([atropine poisoning](#/toxicity)) 
 * delayed-onset
 	* first manifestation 6 - 12 h after ingestion 
 	* initially nausea and vomiting
 	* major toxicity involves hepatic and renal cellular injury by amatoxins that inhibit RNA polymerase. 
-		* <span id="drug"> atropine </span>  has no effect  
----
-
-## Summary of Important Points
-
-* Muscarinic acetylcholine receptor antagonists relax smooth muscle, increase heart rate and cardiac conduction, and inhibit exocrine gland secretion. They include belladonna alkaloids (e.g., [atropine and scopolamine](#/scopolamine)) and semisynthetic and synthetic drugs (e.g., [ipratropium](#/ipratropium)).
-* Muscarinic blockers are used to treat bradycardia, obstructive lung diseases, intestinal spasms, and overactive urinary bladder. They are also used to reduce salivary and respiratory secretions and to produce mydriasis and cycloplegia.
-* <span id="drug"> Atropine </span> [toxicity](#/toxicity) can cause dryness of the mouth and skin, blurred vision, tachycardia, palpitations, urinary retention, delirium, and hallucinations.
-* Nicotinic acetylcholine receptor antagonists include nondepolarizing neuromuscular blocking agents known as curariform drugs, such as [rocuronium](#/nondepol) and [cisatracurium](#/nondepol). These drugs are used to produce muscle relaxation during surgery.
-* Curariform drugs competitively block nicotinic receptors in skeletal muscle. They do not cause muscle fasciculations, and their effects can be reversed by cholinesterase inhibitors.
-
-* [Succinylcholine](#/succinylcholine) is a depolarizing neuromuscular blocking agent with a short duration of action. It produces muscle fasciculations that are followed by muscle paralysis. Its effects are not reversed by cholinesterase inhibitors.
-
+		* <span id="drug"> atropine </span> has no effect 
 ---
 
 <table><tr><td width=50%>
@@ -864,5 +875,14 @@ Orphanet J Rare Dis. 2015 Aug 4;10:93
 <img src="http://www.thegasmanhandbook.co.uk/uploads/1/2/6/9/12696516/3861057.png" width=90%>
 </td><tr></table>
 
+---
 
-https://www.youtube.com/watch?v=cp_CZpCBVpk
+## Summary of Important Points
+
+* Muscarinic acetylcholine receptor antagonists relax smooth muscle, increase heart rate and cardiac conduction, and inhibit exocrine gland secretion. They include belladonna alkaloids (e.g., [atropine and scopolamine](#/scopolamine)) and semisynthetic and synthetic drugs (e.g., [ipratropium](#/ipratropium)).
+* Muscarinic blockers are used to treat [bradycardia](#/bradycardia), [obstructive lung diseases](#/ipratropium), [intestinal spasms](#/intestinal), and [overactive urinary bladder](#/urinary). They are also used to [reduce salivary and respiratory secretions](#/glycopyrrolate) and to [produce mydriasis and cycloplegia](#/tropicamide).
+* <span id="drug"> Atropine </span> [toxicity](#/toxicity) can cause dryness of the mouth and skin, blurred vision, tachycardia, palpitations, urinary retention, delirium, and hallucinations.
+* Nicotinic acetylcholine receptor antagonists include nondepolarizing neuromuscular blocking agents known as curariform drugs, such as [rocuronium](#/nondepol) and [cisatracurium](#/nondepol). These drugs are used to produce muscle relaxation during surgery.
+* Curariform drugs competitively block nicotinic receptors in skeletal muscle. They do not cause muscle fasciculations, and their effects can be reversed by cholinesterase inhibitors or [Sugammadex](#/sugammadex) .
+* [Succinylcholine](#/succinylcholine) is a depolarizing neuromuscular blocking agent with a short duration of action. It produces muscle fasciculations that are followed by muscle paralysis. Its effects are not reversed by cholinesterase inhibitors.
+
