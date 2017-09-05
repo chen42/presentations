@@ -686,7 +686,7 @@ Nicotinic Receptor Antagonists
 <table><thead>
 <th> Drug </th><th>Depolarizing Agent </th><th>HISTAMINE RELEASE </th><th>GANGLIONIC BLOCKADE </th><th>Effects Reversed by Cholinesterase Inhibitors </th><th>Duration of Action (Minutes) </th><th>Routes of Elimination</th></thead>
 <tr><td>Succinylcholine </td><td>Yes </td><td>Minimal </td><td>None </td><td>No </td><td>Short (5-10) </td><td>Plasma (butyryl) cholinesterase</tr>
-<tr><td>Atracurium </td><td>No </td><td>Varies </td><td>Low </td><td>Yes </td><td>Intermediate (30-60) </td><td>Plasma esterase</tr>
+<tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148511/pdf/anesthprog00291-0025.pdf">Atracurium</a> </td><td>No </td><td>Varies </td><td>Low </td><td>Yes </td><td>Intermediate (30-60) </td><td>Plasma esterase</tr>
 <tr><td>Cisatracurium </td><td>No </td><td>None </td><td>Low </td><td>Yes </td><td>Intermediate (30-60) </td><td>Spontaneous chemical degradation</tr>
 <tr><td>Pancuronium </td><td>No </td><td>None </td><td>Medium </td><td>Yes </td><td>Long (60-120) </td><td>Renal excretion</tr>
 <tr><td>Rocuronium </td><td>No </td><td>None </td><td>Low </td><td>Yes </td><td>Intermediate (30-60) </td><td>Biliary and renal excretion</tr>
@@ -721,9 +721,9 @@ Nicotinic Receptor Antagonists
 		3. the intercostal muscles and diaphragm, causing respiration to cease. 
 		4. it enables relaxation of abdominal muscles for surgical procedures without producing apnea. 
 		5. respiratory function should always be closely monitored
-* stimulate the release of histamine from mast cells, and they block autonomic ganglia and muscarinic receptors.
+* stimulate the release of histamine from mast cells, block autonomic ganglia and muscarinic receptors.
 	* cause bronchospasm, hypotension, and tachycardia. 
-	* Newer drugs tend to cause less histamine release and fewer autonomic side effects than does <span id="drug"> pancuronium </span>.
+	* Newer drugs tend to cause less histamine release,  and fewer autonomic side effects than does <span id="drug"> pancuronium </span>.
 
 ---
 
@@ -736,7 +736,6 @@ Nicotinic Receptor Antagonists
 * facilitate intubation of the respiratory tract. 
 
 ---
-<section id="sugammadex">
 Nicotinic Receptor Antagonists 
 ## Nondepolarizing Neuromuscular Blocking Agents 
 ### Adverse effects 
@@ -745,14 +744,25 @@ Nicotinic Receptor Antagonists
 	* causes of postoperative pulmonary and respiratory complications, hypoxia, upper airway obstruction and decreased oxygen saturation
 	* increase the incidence of tracheal re-intubation in critical care units
 * [neostigmine](http://chen42.github.io/talks/cho_ag.html#/33) can be used to counteract  this effect, but in turn may cause nausea and vomiting, increased secretions, heart rhythm abnormalities and bronchospasm.
+
+---
+
+<section id="sugammadex">
+Nicotinic Receptor Antagonists 
+## Nondepolarizing Neuromuscular Blocking Agents 
+### Adverse effects 
+
 * <span id="drug">  Sugammadex </span> 
-	* forms a tight water-soluble complex with <span id="drug"> rocuronium </span> and removes the drug from the neuromuscular junction
+	* selective relaxant binding agents (new drug class, [reviewed here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789633/))
+	* forms a tight water-soluble complex with <span id="drug"> rocuronium </span> or <span id="drug"> Vecuronium </span> and removes the drug from the neuromuscular junction
 	* reverses neuromuscular blockade more rapidly and reliably than acetylcholinesterase inhibitors. 
 	* reduced all signs of residual postoperative paralysis by 46%  compared with neostigmine in a recent [meta analysis](http://onlinelibrary.wiley.com/enhanced/figures/doi/10.1111/anae.13277#figure-viewer-anae13277-fig-0004) 
 	* [FDA approval in Dec 15, 2015](https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm477512.htm)
 		* the end of succinylcholine? [Anesth Analg. 2000;90:S24-8.](https://www.ncbi.nlm.nih.gov/pubmed/10809515), [Can J Anaesth. 2017;64(1):104-106.](https://www.ncbi.nlm.nih.gov/pubmed/27770379)	
+	* safe to use in patients with neuromuscular disease [article](https://www.ncbi.nlm.nih.gov/pubmed/20105151/)
 
 ---
+
 Nicotinic Receptor Antagonists 
 ## Nondepolarizing Neuromuscular Blocking Agents 
 ### Interactions
