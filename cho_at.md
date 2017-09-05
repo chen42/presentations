@@ -510,9 +510,8 @@ the pharmacologic effects of these agents are similar to those of atropine, thei
 adjunctive for  general anesthesia
 
 * AMDE 
-	* both are quaternary amines
-		* less CNS effects
-	* <span id="drug"> glycopyrrolate </span> is synthetic. <span id="drug"> hyoscyamine </span> is optical isomer of <span id="drug"> atropine </span> 
+	* <span id="drug"> glycopyrrolate </span> is synthetic quaternary amine. <span id="drug"> hyoscyamine </span> is optical isomer of <span id="drug"> atropine </span> 
+	* less CNS effects
 	* excreted in the urine with a half-life of about 2 hours. 
 * Indications
 	* <span id="drug"> glycopyrrolate </span> reduce salivary and respiratory secretions, prevent airway obstruction in patients who are receiving general anesthetics. <span id="drug"> hyoscyamine </span> can also be used. 
