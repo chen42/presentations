@@ -753,13 +753,13 @@ Nicotinic Receptor Antagonists
 ### Adverse effects 
 
 * <span id="drug">  Sugammadex </span> 
+	* [FDA approval in Dec 15, 2015](https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm477512.htm)
 	* selective relaxant binding agents (new drug class, [reviewed here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789633/))
 	* forms a tight water-soluble complex with <span id="drug"> rocuronium </span> or <span id="drug"> Vecuronium </span> and removes the drug from the neuromuscular junction
 	* reverses neuromuscular blockade more rapidly and reliably than acetylcholinesterase inhibitors. 
 	* reduced all signs of residual postoperative paralysis by 46%  compared with neostigmine in a recent [meta analysis](http://onlinelibrary.wiley.com/enhanced/figures/doi/10.1111/anae.13277#figure-viewer-anae13277-fig-0004) 
-	* [FDA approval in Dec 15, 2015](https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm477512.htm)
-		* the end of succinylcholine? [Anesth Analg. 2000;90:S24-8.](https://www.ncbi.nlm.nih.gov/pubmed/10809515), [Can J Anaesth. 2017;64(1):104-106.](https://www.ncbi.nlm.nih.gov/pubmed/27770379)	
 	* safe to use in patients with neuromuscular disease [article](https://www.ncbi.nlm.nih.gov/pubmed/20105151/)
+	* the end of succinylcholine? [Anesth Analg. 2000;90:S24-8.](https://www.ncbi.nlm.nih.gov/pubmed/10809515), [Can J Anaesth. 2017;64(1):104-106.](https://www.ncbi.nlm.nih.gov/pubmed/27770379)	
 
 ---
 
