@@ -201,6 +201,16 @@ ls -l test.sh
 ```
 ---
 
+### On to the cluster
+
+
+Cluster Architecture [hera](http://rhodes.uthsc.edu/index.php/Cluster_@_Hera)
+
+Cluster status [hera](http://hera.uthsc.edu/ganglia/)
+
+
+
+---
 ### Run many programs on many files (on a cluster)
 
 Do not run the programs directly on headmaster!!!  Put the commands into a shell program and submit it.
@@ -229,7 +239,7 @@ cd /home/user/
 
 Get the source code
 ```
-# easierst but may fail due to authentication 
+# easiest but may fail due to authentication 
 wget https://github.com/samtools/samtools/releases/download/1.6/samtools-1.6.tar.bz2
 # using a text browser, worth a try 
 links www.htslib.org/download 
@@ -266,4 +276,25 @@ export PATH=/home/username/bin:$PATH
 ./samtools # when you are in the directory where the software is installed, add ./ 
 ```
 ---
+### git and GitHub
+
+* git for version control
+* github for code sharing and collaboration
+
+```
+git add file_1 # add a file to the repo
+git commit -m "finally working" # save a version, with comments
+git push origin master  # let everyone see your mistakes 
+
+git clone # get a copy of the code 
+git log # what have I done? 
+git checkout # go back history
+git diff # what's changed?
+```
+
+
+
+
+
+
 
