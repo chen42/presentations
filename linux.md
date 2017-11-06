@@ -20,11 +20,9 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 * Getting around 
 * Working with text files and directories 
 * Cut, sort, uniq, pipes
+* Put commands in text files (shell scripts)
+* Run many programs on many sets of files (cluster)
 * Download and install programs
-* Run one program on many files
-* Run many programs on a set of files 
-* Run many programs on many sets of files 
-
 ---
 
 Getting around
@@ -182,13 +180,24 @@ ls
 run a program on many files
 
 ```
-
 ls *.vcf
+```
 
-for i in `ls *.vcf` ; do \ 
-cut -f 2 $i >$i\_first10lines.vcf \
+put the following in a text file named "test.sh"
+```
+#!/bin/bash
+for i in `ls *.vcf` ; do \  # note the backtick,  not single quote
+head $i >$i\_first10lines.vcf \
 done
 
+```
+Run the following command 
+
+```
+ls -l test.sh
+chmod a+x test.sh # "all" can run (eXecute) the program
+ls -l test.sh
+./test.sh
 ```
 ---
 
@@ -209,9 +218,7 @@ pbsnodes
 Requesting multiple cores (threads) are common, request multiple nodes are rare. This depends on the software you are using.
 
 ```
-#!/bin/bash
-#PBS -l nodes=1:ppn=2
-#PBS -l walltime=00:00:59
+#PBS -l nodes=1:ppn=1,cput=00:00:40
 cd /home/user/
 /home/user/bin/samtools view -bS test.sam >test.bam 
 ```
