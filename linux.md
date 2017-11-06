@@ -17,7 +17,7 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 ## Outline
 
-* Getting around 
+* Getting around (shell, more specifically, Bash) 
 * Working with text files and directories 
 * Cut, sort, uniq, pipes
 * Put commands in text files (shell scripts)
@@ -35,6 +35,10 @@ On Mac, there is a *terminal* app
 ```
 ssh user@sub.domain.edu # secure shell
 
+ssh one@128.169.5.89 # pass: userone
+ssh two@128.169.5.89 # pass: usertwo
+ssh three@128.169.5.89 # pass: userthree
+
 ```
 ### Find out where you are and move around
 
@@ -43,7 +47,7 @@ pwd # current directory
 
 ls # list files and dirs in the current directory
 
-cd dir1 # change direclty to dir1 
+cd dir1 # change directory to dir1 
 
 
 ```
@@ -145,12 +149,19 @@ cut -f 4 test.vcf |sort | uniq
 cut -f 4 test.vcf |sort | uniq  -c 
 cut -f 4 test.vcf |sort | uniq  -c |sort -rn |head 
 cut -f 4 test.vcf |sort | uniq  -c |sort -rn |tail
-
-
 ```
 
 ---
 
+### File compression
+
+```
+unzip compressed.zip
+gunzip compressed.gz
+bunzip2 compressed.bz2
+```
+
+---
 ### Redirect output  (save to file)
 
 ```
@@ -199,6 +210,24 @@ ls -l test.sh
 ```
 ---
 
+### Screen, worthy of  its own slide
+
+```
+screen 
+
+```
+
+Ctrl-ac # create a virtual teriminal 
+
+Ctrl-a1 # switch to virtural terminal 1
+
+Ctrl-ad # dissociate from this session
+
+```
+screen -RD # force reconnect to a running session 
+```
+
+---
 ### On to the cluster
 
 
