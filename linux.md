@@ -22,12 +22,15 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 * Cut, sort, uniq, pipes
 * Put commands in text files (shell scripts)
 * Run many programs on many sets of files (cluster)
-* Download and install programs
+* Download and install programs (as a user)
 ---
 
-Getting around
 
 ### Login a remote server
+
+On Windows, you can use [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
+On Mac, there is a *terminal* app
 
 ```
 ssh user@sub.domain.edu # secure shell
@@ -66,7 +69,6 @@ rmdir -rf hg19 # remove dir hg19 ( recrusive and force )
 ```
 
 ---
-working with text files
 
 ### read text files
 
@@ -81,7 +83,6 @@ cat file_name
 
 ---
 
-working with text files
 
 ### Edit text files
 ```
@@ -99,7 +100,6 @@ emacs file_name
 Selecting a text editor is one of they key things you'll need to decide
 
 ---
-working with text files
 
 ### Copy and  delete files
 
@@ -113,7 +113,6 @@ ls fs*
 
 ```
 ---
-working with  text files
 ### grep  (find)
 
 ```
@@ -126,7 +125,6 @@ grep "word1$" text_file # line ends with word1
 grep "word1\t" text_file # line contains word1 followd by a tab 
 ```
 ---
-working with  text files
 ### wc  
 
 ```
@@ -291,10 +289,4 @@ git log # what have I done?
 git checkout # go back history
 git diff # what's changed?
 ```
-
-
-
-
-
-
 
