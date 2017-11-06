@@ -125,6 +125,7 @@ grep "word1|word2" text_file # word1 or word2
 grep word1 text_file |grep text2 # word1 and word2
 grep "^word1" text_file # line starts with word1
 grep "word1$" text_file # line ends with word1
+grep "word1\t" text_file # line contains word1 followd by a tab 
 ```
 ---
 working with  text files
@@ -137,7 +138,7 @@ grep -v "^#" test.vcf |wc -l # exclude the comments of a vcf file before countin
 ```
 ---
 
-### Cut, sort, uniq, pipes
+### cut, sort, uniq, pipes
 
 ```
 less test.vcf
@@ -154,8 +155,70 @@ cut -f 4 test.vcf |sort | uniq  -c |sort -rn |tail
 
 ---
 
-### Install Samtools 
+### Redirect output  (save to file)
 
+```
+head test.vcf
+
+head -n 20 test.vcf  >first20lines.vcf
+
+echo "tail -n 20 test.vcf" 
+
+echo "tail -n 20 test.vcf" >a_program # redirect into a text file
+
+bash a_program  # run the text file as a command
+ 
+echo "tail -n 20 test.vcf > last20lines.vcf" >a_program
+
+bash a_program
+
+ls 
+
+```
+
+---
+
+### Redirect output (use as input)
+run a program on many files
+
+```
+
+ls *.vcf
+
+for i in `ls *.vcf` ; do \ 
+cut -f 2 $i >$i\_first10lines.vcf \
+done
+
+```
+---
+
+### Run many programs on many files (on a cluster)
+
+Do not run the programs directly on headmaster!!!  Put the commands into a shell program and submit it.
+
+```
+qsub job_file
+
+qstat 
+
+qhost
+
+pbsnodes
+
+```
+Requesting multiple cores (threads) are common, request multiple nodes are rare. This depends on the software you are using.
+
+```
+#!/bin/bash
+#PBS -l nodes=1:ppn=2
+#PBS -l walltime=00:00:59
+cd /home/user/
+/home/user/bin/samtools view -bS test.sam >test.bam 
+```
+
+---
+
+### Install software (Samtools)
 
 Get the source code
 ```
@@ -179,7 +242,7 @@ make install
 ```
 ---
 
-### Running software
+### PATH 
 
 Bash looks through many places to find your software
 
@@ -197,4 +260,3 @@ export PATH=/home/username/bin:$PATH
 ```
 ---
 
----
