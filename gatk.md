@@ -32,13 +32,13 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 ### Preprocessing
 
-* [File format war](https://blastedbio.blogspot.co.uk/2011/10/fastq-must-die-long-live-sambamt:2017-11-08ml)
+* [File format war](https://blastedbio.blogspot.co.uk/2011/10/fastq-must-die-long-live-sambam.html)
 
 * [Map data to ref genome, BWA](http://bio-bwa.sourceforge.net/bwa.shtml)
 
 	* Download Ecoli Genome from [NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_000913.3?report=fasta)
 
-	* Download Ecoli data from [github](wget ftp://webdata:webdata@ussd-ftp.illumina.com/Data/SequencingRuns/MG1655/MiSeq_Ecoli_MG1655_110721_PF_R1.fastq.gz)
+	* Download Ecoli data from [Illumina](ftp://webdata:webdata@ussd-ftp.illumina.com/Data/SequencingRuns/MG1655/MiSeq_Ecoli_MG1655_110721_PF_R1.fastq.gz)
 ```
 bwa index ecoli.fa
 bwa aln ecoli.fa ecoli_miseq.fastq >aln.sai
@@ -53,10 +53,22 @@ less aln.sam
 ---
 ### Variant discovry
 
-* 
+* Call variants
+	* HaplotypeCaller does local de novo assembly 
+	* calls both SNPs and small indels
+	* each genome has a genomic VCF file (gVCF)
+* Joint calling
+	* cohort wide VCF callset
+	* runs fast
+	* avoids the N+1 problem
 
 ---
+### Filter variants
 
+* Variant quality score recalibration (VQSR)
+	* needs high-quality sets of know variants as the training set
+
+---
 ### GATK  pipeline
 
 [Two Pipeline Options](https://software.broadinstitute.org/gatk/documentation/pipelines.php)
