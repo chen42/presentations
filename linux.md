@@ -1,11 +1,13 @@
-# The Linux Command Line 101
+# The Linux Command line 
+#### just enough to get you started 
 <hr style="color:royalblue">
-## Hao Chen
-hchen@uthsc.edu 
-#### Assistant Professor
-#### Department of Pharmacology, UTHSC
+### Hao Chen
 
-Nov 7th 2017
+hchen@uthsc.edu 
+
+Department of Pharmacology, UTHSC
+
+Nov 7th, 2017
 
 https://chen42.github.io/talks/linux.html
 
@@ -40,6 +42,9 @@ ssh two@128.169.5.89 # pass: usertwo
 ssh three@128.169.5.89 # pass: userthree
 
 ```
+
+---
+
 ### Find out where you are and move around
 
 ```
@@ -47,8 +52,11 @@ pwd # current directory
 
 ls # list files and dirs in the current directory
 
-cd dir1 # change directory to dir1 
+ls -l # long format
 
+ls -t # sort by time
+
+ls -a # see the dot and dots?
 
 ```
 ---
@@ -56,7 +64,6 @@ cd dir1 # change directory to dir1
 #### Working with Directories (folders)
 
 ```
-pwd # list the full path of my current directory
 
 mkdir hg19 # make a new directory called hg19 
 
@@ -68,62 +75,64 @@ cd ~ # go home
 
 rmdir hg19 # remove dir hg19 (only when the dir is empty)
 
-rmdir -rf hg19 # remove dir hg19 ( recrusive and force )
+rmdir -rf hg19 # remove dir hg19 (recrusive and force)
 
 ```
-
----
-
-### read text files
-
-```
-more file_name
-
-less file_name
-
-cat file_name
-
-```
-
----
-
-
-### Edit text files
-```
-pico file_name
-
-nano file_name
-
-vi file_name
-
-vim file_name
-
-emacs file_name
-```
-
-Selecting a text editor is one of they key things you'll need to decide
 
 ---
 
 ### Copy and  delete files
 
 ```	
-cp file_1 file_2
-cp /etc/fstab ~
-cp /etc/fstab fstab2
-ls fs* # wild cared
-rm fs*
-ls fs*
+cp /home/share/test1.vcf .
+cp /home/share/test2.vcf .
+ls
+mv test2.vcf test3.vcf  # move, but actually rename
+ls 
+rm test3.vcf # remove, i.e. delete !! there is no undo !!
+ls -l
 
 ```
 ---
+### read text files
+
+```
+cat test1.vcf 
+
+more test1.vcf
+
+less test1.vcf
+
+cat test1.vcf | head # this is a pipe, you'll see a lot of it
+
+```
+
+---
+
+### Edit text files
+```
+pico test1.vcf 
+
+nano test1.vcf
+
+vi test1.vcf
+
+vim test1.vcf # may not be available on all linux systems
+
+emacs test1.vcf # may not be available 
+```
+
+Choosing a text editor is one the most important things of your life 
+
+---
+
 ### grep  (find)
 
 ```
 grep word one_text_file
 grep word text_file1 text_file2
-grep "word1|word2" text_file # word1 or word2 
-grep word1 text_file |grep text2 # word1 and word2
+grep "word1|word2" text_file # word1 or word2  # the bar is OR
+grep word1 text_file | grep text2 # word1 and word2 # the bar is a pipe
 grep "^word1" text_file # line starts with word1
 grep "word1$" text_file # line ends with word1
 grep "word1\t" text_file # line contains word1 followd by a tab 
@@ -132,8 +141,8 @@ grep "word1\t" text_file # line contains word1 followd by a tab
 ### wc  
 
 ```
-wc -l text_file # number of lines 
-grep -v "^#" test.vcf |wc -l # exclude the comments of a vcf file before counting lines
+wc -l test1.vcf # number of lines 
+grep -v "^#" test1.vcf |wc -l # -v  exclude the comments of a vcf file before counting lines
 
 ```
 ---
@@ -141,7 +150,7 @@ grep -v "^#" test.vcf |wc -l # exclude the comments of a vcf file before countin
 ### cut, sort, uniq, pipes
 
 ```
-less test.vcf
+head test.vcf
 
 cut -f 2,4 test.vcf 
 cut -f 2,4 test.vcf |sort |less
@@ -156,9 +165,15 @@ cut -f 4 test.vcf |sort | uniq  -c |sort -rn |tail
 ### File compression
 
 ```
-unzip compressed.zip
-gunzip compressed.gz
-bunzip2 compressed.bz2
+gzip test1.vcf
+ls 
+less test1.vcf.gz
+zcat test1.vcf.gz
+gunzip test1.vcf.gz
+
+bzip2 test1.vcf 
+ls
+bunzip2  test1.vcf.bz2
 ```
 
 ---
@@ -189,6 +204,7 @@ ls
 run a program on many files
 
 ```
+cp /home/share/*.vcf .
 ls *.vcf
 ```
 
@@ -207,6 +223,7 @@ ls -l test.sh
 chmod a+x test.sh # "all" can run (eXecute) the program
 ls -l test.sh
 ./test.sh
+ls
 ```
 ---
 
@@ -240,7 +257,7 @@ Cluster status [hera](http://hera.uthsc.edu/ganglia/)
 ---
 ### Run many programs on many files (on a cluster)
 
-Do not run the programs directly on headmaster!!!  Put the commands into a shell program and submit it.
+* Do not run the programs directly on headmaster!!!  Put the commands into a shell program and submit it.
 
 ```
 qsub job_file
@@ -252,12 +269,21 @@ qhost
 pbsnodes
 
 ```
-Requesting multiple cores (threads) are common, request multiple nodes are rare. This depends on the software you are using.
+* Requesting multiple cores (threads) are common, request multiple nodes are rare. This depends on the software you are using.
 
+* put the following in a file, name it sam2bam.sh
 ```
 #PBS -l nodes=1:ppn=1,cput=00:00:40
 cd /home/user/
 /home/user/bin/samtools view -bS test.sam >test.bam 
+```
+
+* then run
+
+```
+qsub sam2bam.sh
+
+ls sam2bam* 
 ```
 
 ---
