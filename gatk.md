@@ -48,9 +48,19 @@ Download the file, uncompress, and that is it. But you do need a recent java (1.
 ```
 bwa index ecoli.fa
 bwa aln ecoli.fa ecoli_miseq.fastq >aln.sai
-bwa samse -R '@RG	ID:group1	SM:smp1	PL:illumina	LB:lib1	PU:unit1' ecoli.fa aln.sai ecoli_miseq.fastq >aln.sam
+bwa samse -r '@RG\tID:group1\tSM:smp1\tPL:illumina\tLB:lib1\tPU:unit1' ecoli.fa aln.sai ecoli_miseq.fastq >aln.sam
+two@raspberrypi:~ $ bwa samse -r '@RG\tID:group1\tSM:smp1\tPL:illumina\tLB:lib1\tPU:unit1' ecoli.fa aln.sai ecoli_miseq.fastq >aln.sam
+[bwa_aln_core] convert to sequence coordinate... 0.05 sec
+[bwa_aln_core] refine gapped alignments... 0.02 sec
+[bwa_aln_core] print alignments... 0.05 sec
+[bwa_aln_core] 1000 sequences have been processed.
+[main] Version: 0.6.2-r126
+[main] CMD: bwa samse -r @RG\tID:group1\tSM:smp1\tPL:illumina\tLB:lib1\tPU:unit1 ecoli.fa aln.sai ecoli_miseq.fastq
+[main] Real time: 0.149 sec; CPU: 0.150 sec
+
 less aln.sam
 ```
+<small>The code above works now. -Hao 10:02AM, 2017-11-09.</small>
 
 
 ---
