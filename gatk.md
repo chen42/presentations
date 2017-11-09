@@ -41,7 +41,7 @@ Download the file, uncompress, and that is it. But you do need a recent java (1.
 	* Download Ecoli Genome from [NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_000913.3?report=fasta)
 
 	* [Download](ftp://webdata:webdata@ussd-ftp.illumina.com/Data/SequencingRuns/MG1655/MiSeq_Ecoli_MG1655_110721_PF_R1.fastq.gz) Ecoli data from Illumina 
-		* only first 1000 reads are used for the Raspi practise  
+		* only first 1000 reads are used for the Raspi practice  
 
 * [Read group](https://software.broadinstitute.org/gatk/documentation/article?id=6472) (all reads from a single run belong to the same RG)
 
