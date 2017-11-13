@@ -12,14 +12,13 @@ November 13th, 2017
 
 ---
 
-## Operant behavior
+## Socially acquired nicotine self-administration 
 
-* A response from the subject elicits a stimulus from the environment
-* Commonly used for drug self-administration, especially in drug addiction studies.
+<img src="./oper/socialnicotine.png" width=60%>
 
 ---
 
-## Traditional setup
+## Experiment setup
 
 * One computer can control many (e.g., 16) stations via dedicated cables
 * Requires dedicated space (even when not use)
@@ -155,15 +154,22 @@ November 13th, 2017
 
 ---
 
-## Potential modifications
+## How can we do alcohol self-administration with more rats? 
 
 * More sensitive RFID system
 
-* Food pellet delivery
+---
 
-<img src=./oper/food_pellet.jpg width=40%>
+## Making rats visually identifiable 
 
-https://www.thingiverse.com/thing:1771176
+<img src="./oper/eartag.png" width=60%>
+
+---
+
+## Using computer vision to identify rats 
+
+<a href="https://youtu.be/TzLVdf0jxwk?t=43s
+"><img src="./oper/yorodents.jpg"></a>
 
 ---
 
@@ -175,7 +181,7 @@ https://www.thingiverse.com/thing:1771176
 
 ## Acknowledgment
 * Matthew Longley 
-* Guang Shi (NIDA P50 Summer student)
+* Guang Shi 
 * Cindy Tay (NIDA P50 Summer student) 
 
 Fund in part by NIDA DA-037844
