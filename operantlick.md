@@ -21,7 +21,7 @@ November 13th, 2017
 
 ## Traditional setup
 
-* One computer can control many (e.g. 16) stations via dedicated cables
+* One computer can control many (e.g., 16) stations via dedicated cables
 * Requires dedicated space (even when not use)
 * Expensive
 * Older software does not have tight integration with RFID 
@@ -106,7 +106,7 @@ November 13th, 2017
 
 ---
 
-## Look from the size  
+## Look from the side  
 
 <img src=./oper/inRatCage.jpg width=60%>
 
@@ -173,8 +173,7 @@ https://www.thingiverse.com/thing:1771176
 
 ---
 
-## Acknoledgement
-
+## Acknowledgment
 * Matthew Longley 
 * Guang Shi (NIDA P50 Summer student)
 * Cindy Tay (NIDA P50 Summer student) 
