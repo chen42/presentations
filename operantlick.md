@@ -167,9 +167,7 @@ November 13th, 2017
 ---
 
 ## Using computer vision to identify rats 
-
-<a href="https://youtu.be/TzLVdf0jxwk?t=43s
-"><img src="./oper/yorodents.jpg"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TzLVdf0jxwk" frameborder="0" allowfullscreen></iframe>
 
 ---
 
