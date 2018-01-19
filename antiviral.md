@@ -13,7 +13,7 @@ short URL: http://tinyurl.com/ya7tmbbl
 
 full URL: http://chen42.github.io/talks/antiviral.html
 
-Aug 23 2017
+Jan 22, 2018
 
 ---
 
@@ -81,18 +81,16 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 1. Recognize the clinical characteristics and goals of therapy for HIV/AIDS
 2. Identify the steps in the viral replication process that provide targets for antiviral therapy
 3. Recall which drugs act at each of the target steps in the replication process for both RNA and DNA viruses
-4. Recall the primary drugs that are effective for each major class of viral infection
-5. Describe the mechanism of action and significant pharmacological properties of the five major classes of antiretroviral (anti-HIV) agents
+4. Describe the mechanism of action and significant pharmacological properties of the five major classes of antiretroviral (anti-HIV) agents
 
 
 ---
 ### Objectives (Cont.)
 
-6. Understand the drug interactions involved in multidrug antiretroviral therapy and the effect of these antiviral agents on other concurrent drug therapies
-7. Understand the basis for the viral selectivity of the antiviral agents
-8. Describe the common and unique adverse effects of the distinct classes of antiviral agents
-9. Describe the mechanisms of action for HSV, CMV, and HBV antiviral agents and mechanisms of viral resistance to these agents 
-10. Identify the significant characteristics of the anti-influenza drugs acting at viral uncoating and release
+1. Understand the drug interactions involved in multidrug antiretroviral therapy and the effect of these antiviral agents on other concurrent drug therapies
+2. Describe the common and unique adverse effects of the distinct classes of antiviral agents
+4. Describe the mechanisms of action for HSV, CMV, and HBV antiviral agents and mechanisms of viral resistance to these agents 
+5. Identify the significant characteristics of the anti-influenza drugs acting at viral uncoating and release
 
 
 ---
@@ -1419,3 +1417,9 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 [Zanamivir](#/flurelease)||
 [Zidovudine](#/nrti)|| 
 
+
+---
+
+### super antibody 
+
+http://www.bbc.com/news/health-41351159
