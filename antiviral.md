@@ -1,4 +1,3 @@
-## Dental Pharmacology 205
 ----
 # Anti-HIV & Antiviral Agents
 ----
