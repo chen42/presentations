@@ -9,9 +9,7 @@ Dept. Pharmacology, UTHSC
 
 hchen@uthsc.edu
 
-short URL: http://tinyurl.com/ya7tmbbl
-
-full URL: http://chen42.github.io/talks/antiviral.html
+URL: http://chen42.github.io/talks/antiviral.html
 
 Jan 22, 2018
 
@@ -21,11 +19,12 @@ Jan 22, 2018
 #### used in this document 
 
 
-* Color and style theme: 
+* Color and style guide: 
 	* Drug name: <span id="drug"> Enfuvirtide</span>
 	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
-		* You need to login via your UTHSC netid when off campus to use ClinicalKey. 
-	* <font color="darkorange">Can you see the connections?</font>  	
+		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
+		* [VPN](http://uthsc.edu/vpn/)  provides a better experience. 
+	* [Printable](http://chen42.github.io/talks/antiviral.html?print-pdf#/) version 
 * Open link in a new browser tab:
 ```
 CTRL click
