@@ -787,7 +787,8 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* Have greater affinity for viral reverse transcriptase than for cellular DNA polymerases
 * PIs
 	* Greater affinity for HIV aspartyl protease than for human protease.
-
+* Integrase Inhibitors
+	* Much higher selectivity than other classes of anti-HIV drugs.
 ---
 <section id="recommend">
 ### [Current Recommendations](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/11/what-to-start)
