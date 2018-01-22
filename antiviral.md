@@ -60,7 +60,7 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 ---
 ### Agents for the treatment of virus infections 
-#### [Hour 2](/#hour2) 
+#### [Hour 2](#/hour2) 
 * <a href="#/hsv">Herpes Simplex Virus</a> and Varicella Zoster Virus
 	* <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Tenofovir](#/Tenofovir2), [Famciclovir, Penciclovir](#/Penciclovir)</span>
 * <a href="#/cmv">Cytomegalovirus</a>
@@ -1003,18 +1003,18 @@ Double stranded DNA virus
 ---
 
 <section id="hsvpk">
-### Phamacokinetics of antiherpesvirus Agents
+### Phamacokinetics of Viral DNA Replication Inhibitors 
 
 |Parameter|Acyclovir |Famciclovir| Ganciclovir| Cidofovir | Foscarnet|
 |---|---|---|---|---|---|
 |Oral bioavailability| 10-20% | 65-77% | < 10% | 2-22% | 9-17%| 
 |Effect of meal on AUC| &mdash; | &mdash; | &uarr; 22% High fat | &mdash; | Uncertain |
 |Plasam T&frac12;elim h| 2.5-3 | 2-3 | 2-4 | 2-3 | 4-8 (initial)|
-|Intracellular T&frac12; of triphosphate h| 1 | 7-20 | > 24 | 17-56 | Not applicable | 
+|Intracellular T&frac12; of triphosphate h| 1 | **7-20** | > 24 | **17-56** | Not applicable | 
 |CSF/plasma ratio| 0.5 | Uncertain | 0.2-0.7 | Uncertain | 0.7| 
 |Protein binding| 9-34% | < 20% | 1-2%| < 6%| 15%|
 |Metabolism | 15% | 5% | Negligible | Negligible |Negligible|
-|Renal excretion (parent drug) | 60-90% | 70% | > 90% | > 90% | > 80%| 
+|Renal excretion (parent drug) | **60-90%** | **70%** | **> 90%** | **> 90%** | **> 80%**| 
 |Dose adjustment | CrCl < 50 (IV) <br> CrCl < 25 (PO)| CrCl < 60| CrCl < 80| Scr > 1.5mg/dl <br> CrCl < 55| CrCl < 58-67|
 ||
 AUC, area under curve; T&frac12;, half-life of elimination: CrCL, creatinine clearance (ml/min), Scr, serum creatinine; CSF, cerebrospinal fluid
@@ -1024,7 +1024,7 @@ AUC, area under curve; T&frac12;, half-life of elimination: CrCL, creatinine cle
 ### Inhibitors of Viral DNA Replication 
 #### in Brief
 * Indications
-	* HSV, CMV, and VZV infections 
+	* HSV, VZV, and CMV infections 
 * Mechanism of action
 	* Inhibit viral DNA polymerases
 * Resistance
@@ -1050,9 +1050,9 @@ Partially double-stranded DNA virus
 
 ---
 
-[HBV life cycle](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001480?scrollTo=%23hl0000906)
+## [HBV life cycle](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001480?scrollTo=%23hl0000906)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=371" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=290" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -1100,10 +1100,35 @@ Partially double-stranded DNA virus
 
 * Adverse effects
 	* Generally well tolerated
-	* HBV exacerbation upon discontinuation of treatment
+	* **HBV exacerbation upon discontinuation of treatment**
 	* Elevation of hepatic enzymes may occur, lactic acidosis 
 		* Monitor hepatic function for several months and re-initiate therapy if warranted
 	* Most commonly reported: headache, fatigue, dizziness
+---
+<section id="Tenofovir2">
+
+### Tenofovir 
+
+* Mechanism of action
+	* A nucleotide analog of adenosine monophosphate
+	* First nucleotide reverse transcriptase inhibitor
+	* Inhibits viral reverse transcriptase
+* Resistance
+	* Thymidine analogue mutations
+		* Cross resistance with preexisting <span id="drug"> zidovudine</span>-associated mutations
+	* Not effected by <span id="drug"> lamivudine-abacavir </span> associated mutationse
+---
+### Tenofovir
+* Administration
+	* Once daily dosing
+	* Increased bioavailability taken with a meal
+* Metabolism
+	* Not substrate for P450
+	* No adverse drug interactions with other p450 substrate drugs
+* Adverse effect: 
+	* Most commonly (>3%) in clinical trials: nausea, diarrhea, asthenia, headache, vomiting, flatulence, abdominal pain, and anorexia. 
+	* Increase in liver enzymes
+	* watch for hepatitis flare if discontinued in patients with chronic HBV infection.
 ---
 <section id="Adefovir">
 ### [Ade<font color="darkorange">fovir</font>](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2233)(Hepsera)
@@ -1141,7 +1166,7 @@ Partially double-stranded DNA virus
 
 * Mechanism of action 
 	* Nucleoside analog of guanosine
-	* May related to increased mutation of viral DNA and leads to "error catastrophe"
+	* May related to increased mutation of viral DNA and leads to "**error catastrophe**"
 	* Interference with synthesis of GTP
 	* Increase production of cytokine
 * ADME
@@ -1154,7 +1179,7 @@ Partially double-stranded DNA virus
 ### Ribavirin
 * Indication 
 	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span>  
-	* Weight based doesing results in a higher sustained virologic response 
+	* Weight-based dosing results in a higher sustained virologic response 
 	* <u>Respiratory syncytial virus</u>: aerosolized form 
 	* <u>Hantaan virus</u>: intravenous 
 * Adverse effects
@@ -1168,32 +1193,6 @@ Partially double-stranded DNA virus
 		* Reversible deterioration in pulmonary function
 	* Teratogenic in animals
 
----
-<section id="Tenofovir2">
-
-### Tenofovir 
-
-* Mechanism of action
-	* A nucleotide analog of adenosine monophosphate
-	* First nucleotide reverse transcriptase inhibitor
-	* Approved for use in combination with other anti-HIV agents
-	* Inhibits viral reverse transcriptase
-* Resistance
-	* Thymidine analogue mutations
-		* Cross resistance with preexisting <span id="drug"> zidovudine</span>-associated mutations
-	* Not effected by <span id="drug"> lamivudine-abacavir </span> associated mutationse
----
-### Tenofovir
-* Administration
-	* Once daily dosing
-	* Increased bioavailability taken with a meal
-* Metabolism
-	* Not substrate for P450
-	* No adverse drug interactions with other p450 substrate drugs
-* Adverse effect: 
-	* Most commonly (>3%) in clinical trials: nausea, diarrhea, asthenia, headache, vomiting, flatulence, abdominal pain, and anorexia. 
-	* Increase in liver enzymes
-	* watch for hepatitis flare if discontinued in patients with chronic HBV infection.
 ---
 ### Common to all the nucleoside analogs
 
@@ -1418,6 +1417,10 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 ---
 
-### super antibody 
+### Additional Reading material 
 
 http://www.bbc.com/news/health-41351159
+
+https://www.cdc.gov/hiv/risk/prep/index.html
+
+https://www.preventionaccess.org/ 
