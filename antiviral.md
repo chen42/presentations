@@ -1211,11 +1211,11 @@ Partially double-stranded DNA virus
 		* Blocks protein synthesis &mdash; inhibits translation initiation complex
 	* Three major classes of human IFNs
 
-|Interferon|Type| Receptor|
-|---|---|---|--|
-|&alpha;|Type I | IFNAR &dagger;|
-|&beta;| Type I | IFNAR|
-|&gamma;|Type II| IFNGR &Dagger;|
+|Interferon|Type| Receptor| Effect|
+|---|---|---|--|--|
+|&alpha;|Type I | IFNAR &dagger;| Antiviral|
+|&beta;| Type I | IFNAR| Antiviral| 
+|&gamma;|Type II| IFNGR &Dagger;|Immunomodulation|
 ||
 <small>
  &dagger; composed of two subunits IFNAR1 and IFNAR2. &Dagger; composed of two subunits IFNGR1 and IFNGR2
@@ -1234,6 +1234,8 @@ Partially double-stranded DNA virus
 </span>
 
 * Induces immune responses, alter the expression of  genes, cell surface markers, phagocytic activity, cytotoxicity, etc. 
+
+* Exact mechanism remain unclear, but may include the induction of enzymes that interfer with key steps in the HBV life cycle, include those that degrade foreign, but not host DNA ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=24557838))  
 ---
 
 <section id="Interferon">
