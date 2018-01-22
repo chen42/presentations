@@ -197,8 +197,8 @@ Last updated October 17, 2017
 
 <div id="right50">
 ![](./images/antiviral/coreceptor.jpg)
+[video](https://youtu.be/eS1GODinO8w?t=34s)
 </div>	
-
 <div id="full"> 
 
 </div>
