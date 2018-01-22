@@ -612,7 +612,7 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 |Effect of food on AUC, % | &uarr; 46-200 | &uarr; 33-66| &uarr; 34-87 | 
 |Plasma T&frac12; elim h | 9 | 14 | 8.7 |
 |Plasma protein binding, % | 83 | 98.9 | 98-99 | 
-|Metabolism | Glucuron| Glucoron, CYP3A4 | **CYP3A**, Glururon | 
+|Metabolism | Glucuron| Glucoron, CYP3A4 | **CYP3A**, Glucuron | 
 |Renal excretion, parent drug, % | 32 | 31 | 6.7 |
 ||
 
