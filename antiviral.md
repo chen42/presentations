@@ -60,9 +60,9 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 ---
 ### Agents for the treatment of virus infections 
-#### Hour 2 
+#### [Hour 2](/#hour2) 
 * <a href="#/hsv">Herpes Simplex Virus</a> and Varicella Zoster Virus
-	* <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Famciclovir, Penciclovir](#/Penciclovir)</span>
+	* <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Tenofovir](#/Tenofovir2), [Famciclovir, Penciclovir](#/Penciclovir)</span>
 * <a href="#/cmv">Cytomegalovirus</a>
 	* <span id="drug">[Ganciclovir, Valganciclovir](#/Ganciclovir), [Cidofovir](#/Cidofovir), [Foscarnet](#/Foscarnet)</span>
 * <a href="#/hbv">Hepatitis Virus B </a>and C
@@ -804,9 +804,9 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* <span id="drug"> Darunavir / ritonavir / tenofovir /emtricitabine </span> 
 		
 ---
+<section id="hour2">
 
-#### Agents to treat HSV, VZV and CMV
-
+### Agents to treat HSV, VZV and CMV
 |Virus| Disease| 
 |---|---|
 |[Herpes simplex virus](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001388) | herpes genitalis | 
@@ -1169,7 +1169,9 @@ Partially double-stranded DNA virus
 	* Teratogenic in animals
 
 ---
-### Tenofovir disoproxil fumarate
+<section id="Tenofovir2">
+
+### Tenofovir 
 
 * Mechanism of action
 	* A nucleotide analog of adenosine monophosphate
