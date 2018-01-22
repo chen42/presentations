@@ -76,18 +76,19 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 ### Objectives
 
 #### At the completion of this unit, the student should be able to:
-1. Recognize the clinical characteristics and goals of therapy for HIV/AIDS
-2. Identify the steps in the viral replication process that provide targets for antiviral therapy
-3. Recall which drugs act at each of the target steps in the replication process for both RNA and DNA viruses
-4. Describe the mechanism of action and significant pharmacological properties of the five major classes of antiretroviral (anti-HIV) agents
+1. Understand the *current* guidline for HIV/AIDS treatment.
+2. Understand the *current* Initial Combination Regimens for drug Naive patent.
+3. Identify the steps in the viral replication process that provide targets for antiviral therapy.
+4. Recall the names of the drugs that act at each of the target steps in the replication process for both RNA and DNA viruses
+5. Describe the mechanism of action and significant pharmacological properties of the six major classes of antiretroviral (anti-HIV) agents
 
 
 ---
 ### Objectives (Cont.)
 
-1. Understand the drug interactions involved in multidrug antiretroviral therapy and the effect of these antiviral agents on other concurrent drug therapies
+1. Understand the drug interactions involved in multidrug antiretroviral therapy and the effect of these antiviral agents on other concurrent drug therapies.
 2. Describe the common and unique adverse effects of the distinct classes of antiviral agents
-4. Describe the mechanisms of action for HSV, CMV, and HBV antiviral agents and mechanisms of viral resistance to these agents 
+4. Describe the mechanisms of action for HSV, CMV, and HBV antiviral agents and mechanisms of viral resistance to these agents.
 5. Identify the significant characteristics of the anti-influenza drugs acting at viral uncoating and release
 
 
@@ -105,7 +106,7 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 
 ### [AIDS background](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978044306752550003X)
 <div id="left50">
-1. **Primary infection.** About 90% of patients develop a flu-like illness, which coincides with [seroconversion](https://aidsinfo.nih.gov/education-materials/glossary/648/seroconversion), between 2 and 4 weeks post exposure. Symptoms include, fever, night sweats, sore throat, [lymphadenopathy](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978070205035000014X?scrollTo=%23hl0001730), diarrhea. The illness is self-limiting.
+1. **Primary infection.** About 90% of patients develop a flu-like illness, which coincides with [seroconversion](https://aidsinfo.nih.gov/education-materials/glossary/648/seroconversion), between 2 and 4 weeks post exposure. Symptoms include, fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is **self-limiting**.
 <br>
 2. **Asymptomatic phase.** Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
 <br>
@@ -113,7 +114,6 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 <ul><li>
 	* Constitutional disease: 
 	<ul><li>
-	
 		* fever, diarrhea, weight loss, skin rashes.
 		</ul><li>
 	* Immunodeficiency: 
@@ -143,10 +143,12 @@ for
 
 #### The Initiation of Antiretroviral Therapy 
 
-Last updated July 14, 2016
+Last updated October 17, 2017
 
-* Antiretroviral therapy (ART) is recommended for all HIV-infected individuals, regardless of CD4 T lymphocyte cell count, to reduce the morbidity and mortality associated with HIV infection (AI) and to prevent HIV transmission (AI).
-* On a case-by-case basis, ART may be deferred because of clinical and/or psychosocial factors, but therapy should be initiated as soon as possible.
+
+* Antiretroviral therapy (ART) is recommended for all individuals with HIV, regardless of CD4 T lymphocyte cell count, to reduce the morbidity and mortality associated with HIV infection (AI).
+* ART is also recommended for individuals with HIV to prevent HIV transmission (AI).
+* When initiating ART, it is important to educate patients regarding the benefits and considerations of ART, and to address strategies to optimize adherence. On a case-by-case basis, ART may be deferred because of clinical and/or psychosocial factors, but therapy should be initiated as soon as possible.
 
 <small>Rating of Recommendations: A = Strong; B = Moderate; C = Optional </small>
 <small>Rating of Evidence: I = Data from randomized controlled trials;</small>
@@ -338,7 +340,7 @@ Prevents virus from entering the host cell <br>
 |---|---|---|---|---|---|---|
 |Oral bioavailability, %| 60 | 80 | 80-90| 40 | > 70 | 75-93 | 
 |Effect of meals on AUC| &darr; 24 (high fat) | &mdash; | &mdash; | &darr; 50% (acidity) | &mdash; | &mdash; | 
-|Plasma t&frac12; emlim, h| 0.8-1.9 | 5-7 | 1.4 | 1.0 | 0.8-1.5| 10 | 
+|Plasma t&frac12; emlim, h| 0.8-1.9 | **5-7** | 1.4 | 1.0 | 0.8-1.5| **10** | 
 |Intracellular T&frac12;elim, triphosphate, h| 3-4 | 12 | 3.5 | 8-24 | 3 | 39| 
 |Plasma protein binding, %| 20-38 | < 35 | < 5 | < 5 | 50 | < 4|
 |Metabolism, %| 60-80 <br> glucuronidation | 20-30 | 80 | 50 <br>(purine metabolism) | > 80 | 9 oxidation <br> 4 glucuronidation|
@@ -366,11 +368,11 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* <span id="drug">Zidovudine</span>: bone marrow suppression; anemia, neutropenia; myopathy (mt DNA); 
 	* <span id="drug">Didanosine</span>: pancreatitis, exacerbates peripheral neuropathy 
 	* <span id="drug">Stavudine </span>: pancreatitis, exacerbates peripheral neuropathy
-		* avoid co-administration with didanosine or zidovudine 
 	* <span id="drug">Abacavir</span>: **hypersensitivity** reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
 		* HLA-B\*5701	screening before starting therapy [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
 	* <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia <span id="mem"> EmtriPSYtabine</span>
 
+note:		* avoid co-administration with didanosine or zidovudine 
 
 
 ---
@@ -380,16 +382,13 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 * <span id="drug"> Zidovudine </span> 
 	* Avoid co-administration bone marrow suppressive drugs
 		* <span id="drug">Ganciclovir, interferon alpha, dapsone, flucytosine, vincristine, vinblastine</span>
-	* Antagonism with <span id="drug">Stavudine</span> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/10882616)
 * <span id="drug"> Didanosine </span>
 	* Some drugs can augment the neuropathy and pancreatitis 
 		* <span id="drug">Ethambutol, isoniazid, vincristine, cis-platin </span>
 		* <span id="drug">Stavudine </span>
-	* Avoid use of <span id="drug"> didanosine </span> with <span id="drug"> stavudine / tenofovir </span> due to an increased toxicity risk and higher rates of early [virologic failure](https://aidsinfo.nih.gov/education-materials/glossary/879/virologic-failure) | [details](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/15/virologic-failure)
-	* <span id="drug">Ganciclovir </span> increases plasma concentration; monitor for toxicity 
 	* <span id="drug">Methadone </span> decreases plasma levels by ~60%; dosage adjustment needed
 
-Note: Z does not like S
+note: <span id="drug">Ganciclovir </span> increases plasma concentration; monitor for toxicity Note: <font color = grey> Antagonism with <span id="drug">Stavudine</span> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/10882616)</font> Note: Z does not like S * Avoid use of <span id="drug"> didanosine </span> with <span id="drug"> stavudine / tenofovir </span> due to an increased toxicity risk and higher rates of early [virologic failure](https://aidsinfo.nih.gov/education-materials/glossary/879/virologic-failure) | [details](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/15/virologic-failure)
 
 ---
 
@@ -471,7 +470,7 @@ Note: Z does not like S
 #### (Truvada)
 
 * Better than Abacavir-Lamivudine for initial therapy 
-	* Extending time to virologic failure and first adverse event 
+	* Extending time to  [virologic failure](https://aidsinfo.nih.gov/education-materials/glossary/879/virologic-failure)  [(details)](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/15/virologic-failure) and first adverse event 
 	* [NEJM Dec 3 2009](https://www.ncbi.nlm.nih.gov/pubmed/?term=19952143)
 * Effective as antiretroviral chemoprophylaxis before exposure
 	* [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279)
@@ -686,14 +685,14 @@ PIs can be peptidomimetic (structural similarities to the cleavage site of HIV p
 #### Pharmacokinetics
 |Parameter| Amprenavir | Indinavir | Nelfinavir | Ritonavir | Saquinavir | Lopinavir| Darunavir| 
 |---|---|---|---|---|---|---|
-|Oral bioavailability, % | 35-90 | 60-65 | 20-80|65-70|12|?| 80&dagger;| 
+|Oral bioavailability, % | 35-90 | 60-65 | 20-80|65-70|12|?| **80**&dagger;| 
 |Effect of meal on AUC|&darr; 21%<br> high fat | &darr; 77% <br>high fat| &uarr; 200-300% | &uarr; 15% <br>capsule | &uarr; 600% | &uarr; 130% high fat| &uarr; 40%|
 |Plasma T&frac12;elim, h| 7-11 |1.5-2| 3.5-5|3-5|7-12|6-8| 7-15| 
 |Plasma protein binding, %| 90|60|98|98-99| 98|98-99| 95|
 |Metabolism|CYP3A4|CYP3A4| CYP3A4 <br> CYP2C19| CYP3A4| CYP3A4| CYP3A4| CYP3A4|
 |Autoinduction of metabolism|No |No|Yes|Yes|No|Yes| No| 
 |Renal Excreted, % parent drug| < 3 | 11 | 1-2|3.5 |< 3|< 3| 14 |
-|Inhibition of CYP3A4|++|++|++|++++|+|+++| ++ |
+|Inhibition of CYP3A4|++|++|++|**++++**|+|+++| ++ |
 ||
 
 Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, half-life of elimination; &uarr;, increase; &darr; decrease;
@@ -797,16 +796,13 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 
 * Integrase inhibitor-based regimens 	
 	* <span id="drug"> Dolutegravir / abacavir / lamivudine </span> only for HLA-B\*5701 negative patients 
-	* <span id="drug"> Dolutegravir, emtricitabine </span> and 
-		* <span id="drug"> tenofovir disoproxil fumarate  </span> <small>[Truvada](#/30)</small> or  <span id="drug"> tenofovir alafenamide </span> 
-	* <span id="drug"> Elvitegravir / [cobicistat](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3929) / emtricitabine  </span>  and  <a href="#/tepk">  <small>Why cobicistat?</small></a>
-		* <span id="drug"> tenofovir alafenamide  </span> or   <span id="drug">  tenofovir disoproxil fumarate  </span> 
-	* <span id="drug"> Raltegravir / emtricitabine  </span> and 
-		* <span id="drug"> tenofovir disoproxil fumarate </span> or  <span id="drug"> tenofovir alafenamide </span> 
+	* <span id="drug"> Dolutegravir / tenofovir / emtricitabine </span>  
+	* <span id="drug"> Elvitegravir / [cobicistat](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3929)  <a href="#/tepk">  <small>Why</small></a>
+ / tenofovir / emtricitabine  </span> 
+	* <span id="drug"> Raltegravir / tenofovir / emtricitabine  </span>
 * Protease inhibitor-based regimens
-	* <span id="drug"> Darunavir / ritonavir / Emtricitabine </span> and
-		* <span id="drug"> tenofovir disoproxil fumarate </span> or  <span id="drug"> tenofovir alafenamide  </span> 
-
+	* <span id="drug"> Darunavir / ritonavir / tenofovir /emtricitabine </span> 
+		
 ---
 
 #### Agents to treat HSV, VZV and CMV
@@ -970,7 +966,7 @@ Double stranded DNA virus
 * Mechanism of action 
 	* Cytidine nucleo<font color="darkorange">t</font>ide analog
 	* Not phosphorylated by viral TK
-	* Inhibits herpervirus DNA polymerase >> human DNA polymerase
+	* Inhibits herpevirus DNA polymerase >> human DNA polymerase
 	* Induce DNA fragmentation and Caspase-3 activity
 * ADME	
 	* <a href="#/hsvpk">Once weekly </a> i.v. injection 
