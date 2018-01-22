@@ -2,7 +2,7 @@
 # Anti-HIV & Antiviral Agents
 ----
 
-Dr. Hao Chen 
+Hao Chen, Ph.D
 
 Dept. Pharmacology, UTHSC
 
