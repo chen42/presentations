@@ -1416,11 +1416,15 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 
 ---
-
 ### Additional Reading material 
 
+* Superantibody for HIV 
+http://science.sciencemag.org/content/358/6359/85
 http://www.bbc.com/news/health-41351159
 
+* Pre-Exposure Prophylaxis for HIV
 https://www.cdc.gov/hiv/risk/prep/index.html
 
-https://www.preventionaccess.org/ 
+
+* Oseltamivir, Amantadine, Ritonavir Combination therapy decrease viral shedding compared to monotherapy but not clinical benefit.
+http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(17)30476-0/fulltext
