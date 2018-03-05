@@ -16,8 +16,8 @@ https://chen42.github.io/talks/ml.html
 
 * Data, Big data
 * Unsupervised learning
-	* Clustering (e.g., Hierarchical clustering) 	
 	* Dimension reduction (e.g., Principal component analysis)
+	* Clustering (e.g., Hierarchical clustering) 	
 * Supervised learning
 	* Regression
 	* Deep neural networks	
@@ -385,7 +385,19 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 
 ---
-# ??
+
+# ?
 
 ---
+
+## Additional reading
+
+* [Are you ready for a computer to predict the death of your patients?](https://arxiv.org/abs/1711.06402) 
+
+* [Deep learning is hard, why can we have a neural net to design other neural nets?](https://www.youtube.com/watch?v=o4rFnSh1ZFs)
+
+* [Can deep learning work withouth training data?](http://www.andrewng.org/portfolio/deep-learning-and-unsupervised-feature-learning/)
+
+* [Applications in medicine: diagnosis, treatments](http://www.nvidia.com/object/deep-learning-in-medicine.html)
+
 
