@@ -5,7 +5,7 @@ hchen@uthsc.edu
 #### Assistant Professor
 #### Department of Pharmacology, UTHSC
 
-March 7th 2017
+March 6th 2018
 
 https://chen42.github.io/talks/ml.html
 
@@ -96,16 +96,17 @@ What kind of inherent structure can an algorithm discover?
 
 ---
 
+## Principal component analysis
+
+![](./images/deep_learning/fig_pca_principal_component_analysis.png)
+
+---
+
+
 ## Variable loading in a PCA analysis
 
 ![](./images/p50retreat2017/pca_loading.png)
 
-
----
-
-## Principal component analysis
-
-![](./images/deep_learning/fig_pca_principal_component_analysis.png)
 
 ---
 
@@ -155,13 +156,18 @@ Label of the sample is not part of the input data for clustering. And yet the sa
 
 ---
 
+## t-SNE 
+
+<img src="https://lvdmaaten.github.io/tsne/examples/mnist_tsne.jpg" width=50% height=40%>
+
+---
 
 ## Supervised Learning
 
 * Training 	
 	* Collect a set of data that has labels 
 		* Images with text annotation of the object in the image (e.g. [hand written digits](https://www.kaggle.com/c/digit-recognizer))
-	* Select a mathematical model, adjust the parameter in the model  so the output equals to the label
+	* Select a mathematical model, adjust the parameter in the model  so the output is close to the label
 	* Repeatedly adjust the parameters for all the samples in the data collection, with an effort to reduce overall error rate
 * Testing
 	* Run a set of new samples with labels through the model 
@@ -322,11 +328,6 @@ print(p)
 ---
 
 
-![](./images/deep_learning/google_research_blog.png)
-
-
----
-
 ## Can deep neural networks be used on genetics data?
 
 <img src="./images/deep_learning/gwas.jpg">
@@ -366,6 +367,28 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
-##  What is left for human?
+## Detecting Rodent Social Interaction Using a CNN
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aR5N2Jl8k14" frameborder="0" allowfullscreen></iframe>
+### Labeling the data
+![](./images/deep_learning/labelRatBodyParts.png)
+
+---
+
+
+### Training the network 
+
+![](./images/deep_learning/training_progression.png)
+
+---
+
+## Object detection and reconstruction of behavior 
+
+<video width="1080" controls>
+<source src="./images/deep_learning/YoRodents_utrf_demo.mp4" type="video/mp4">
+</video> 
+
+
+---
+# ??
+---
+
