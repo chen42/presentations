@@ -222,19 +222,6 @@ for (i in 1:num_iters) {
 
 ---
 
-## Gradient descent error surface
-<a href="https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/">
-<img src="./images/deep_learning/gradient_descent_error_surface.png"></a>
-
----
-## Gradient descent and deep neural network
-
-
-![](http://neuralnetworksanddeeplearning.com/images/tikz40.png)
-
-
----
-
 ## A neuron: biological model vs mathematical model 
 
 <table><tr><td width=50%>
@@ -248,7 +235,19 @@ for (i in 1:num_iters) {
 
 
 ---
+## Deep neural network
 
+
+![](http://neuralnetworksanddeeplearning.com/images/tikz40.png)
+
+
+---
+
+## Gradient descent error surface
+<a href="https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/">
+<img src="./images/deep_learning/gradient_descent_error_surface.png"></a>
+
+---
 
 ## Rectified Linear Unit  (ReLU)
 
@@ -305,34 +304,12 @@ print(p)
 
 ---
 
-## Convolutional neural network
-
-<a href="http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html">
-<img src="./images/deep_learning/cnn.png">
-</a>
-
----
-
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/28117445">
-<img src="./images/deep_learning/dermatologist.png">
-</a>
-![](./images/deep_learning/skin_cnn.png)
-
----
-
-##  Dimension reduction on the last hidden layer 
-
-![](./images/deep_learning/tSNE.png)
-
-
----
-
-
 ## Can deep neural networks be used on genetics data?
 
-<img src="./images/deep_learning/gwas.jpg">
+<img src="./images/deep_learning/gwas.jpg" width=70%>
 
 ---
+
 ## Use genetic variation to predict skin color in rats
 
 <pre><code data-trim data-noescape>
@@ -367,17 +344,36 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
-## Detecting Rodent Social Interaction Using a CNN
+## Convolutional neural network
 
-### Labeling the data
-![](./images/deep_learning/labelRatBodyParts.png)
+<a href="http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html">
+<img src="./images/deep_learning/cnn.png">
+</a>
 
 ---
 
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/28117445">
+<img src="./images/deep_learning/dermatologist.png">
+</a>
+![](./images/deep_learning/skin_cnn.png)
 
-### Training the network 
+---
 
-![](./images/deep_learning/training_progression.png)
+##  Dimension reduction on the last hidden layer 
+
+![](./images/deep_learning/tSNE.png)
+
+
+---
+
+## Detecting Rodent Social Interaction Using a CNN
+
+### Labeling the data
+<img src="./images/deep_learning/labelRatBodyParts.png" width=50% height=70%>
+
+---
+
+<img src="./images/deep_learning/training_progression.png" width=70%>
 
 ---
 
@@ -390,5 +386,6 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 # ??
+
 ---
 
