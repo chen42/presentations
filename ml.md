@@ -379,10 +379,7 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ## Object detection and reconstruction of behavior 
 
-<video width="1080" controls>
-<source src="./images/deep_learning/YoRodents_utrf_demo.mp4" type="video/mp4">
-</video> 
-
+<iframe width="1080" height="630" src="https://www.youtube.com/embed/9cmLqHrcnQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
