@@ -475,6 +475,7 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 * Effective as antiretroviral chemoprophylaxis before exposure
 	* [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279)
 * <a href="#/recommend">Recommended for treatment naive patients</a>
+* https://www.theguardian.com/australia-news/2018/feb/08/hiv-prevention-drug-prep-likely-to-be-approved-for-federal-subsidy
 ---
 <section id="nnrti">
 ### Non Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
@@ -679,6 +680,7 @@ PIs can be peptidomimetic (structural similarities to the cleavage site of HIV p
 		* <span id="drug"> Ritonavir </span> used to increase (i.e. "boost") plasma concentration of other PIs except <span id="drug"> nelfinavir </span> (CYP2C19) 
 		* Toxic adverse effects related to drug accumulation due to PI-mediated inhibition of hepatic P450 system
 		 
+note: rifampin is a bacterial RNA polymerase inhibitor
 
 ---
 ### protease inhibitors 
@@ -1429,3 +1431,6 @@ https://www.cdc.gov/hiv/risk/prep/index.html
 
 * Oseltamivir, Amantadine, Ritonavir Combination therapy decrease viral shedding compared to monotherapy but not clinical benefit.
 http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(17)30476-0/fulltext
+
+* New antiflu drug class
+* https://www.forbes.com/sites/brucelee/2018/02/24/japans-new-drug-one-pill-may-stop-the-flu-in-just-one-day/#7dce597b2b34
