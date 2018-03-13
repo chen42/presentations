@@ -12,11 +12,13 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 /*body {
   background: #fff;
+  background: #e8f8f5;
   background-color: #fff; }
+  background-color: #e8f8f5; }
 */
 body {
-  background: #e8f8f5;
-  background-color: #e8f8f5; }
+  background: #f8f5f5;
+  background-color: #f8f8f8; }
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
