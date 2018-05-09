@@ -1,4 +1,4 @@
-# Yorodent: using AI to study social interaction among a group of rats.
+# Yorodent: using AI to study social interaction among a group of rats
 
 
 --------
@@ -146,14 +146,12 @@ http://www.cs.cmu.edu/~aharley/
 
 ---
 
-## Object detection 
-### Region-based CNN (2014)
+## Object detection: Region-based CNN (2014)
 
 ![](https://cdn-images-1.medium.com/max/1040/1*D2sFqL329qKKx4Tvl31IhQ.png)
 
 [towardsdatascience.com](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 
-paper: https://arxiv.org/abs/1311.2524
 
 ---
 
@@ -166,14 +164,11 @@ paper: https://arxiv.org/abs/1311.2524
 ---
 ## Faster R-CNN
 
-![](https://cdn-images-1.medium.com/max/1040/1*7heX-no7cdqllky-GwGBfQ.png)
-
-[towardsdatascience.com](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
+![](https://tryolabs.com/images/blog/post-images/2018-01-18-faster-rcnn/rpn-architecture.99b6c089.png)
 
 
----
+[tryolabs](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
 
-## Faster R-CNN
 
 ---
 
@@ -181,8 +176,13 @@ paper: https://arxiv.org/abs/1311.2524
 
 ![](https://cdn-images-1.medium.com/max/1040/1*ZbmrsQJW-Lp72C5KoTnzUg.jpeg)
 
-S x S grid, each grid predict a few bounding boxes. Each bounding box has x, y, w, h, p. 
+S x S grid, each grid predict a few bounding boxes. Each bounding box has x, y, w, h, confidence, and class probability. 
 
+---
+
+## YOLO agaion
+
+![](http://openresearch.ai/uploads/default/original/1X/07d45b56f4ec55cd238a5d9c15be08c9d2a58114.jpg)
 
 ---
 
@@ -217,6 +217,8 @@ S x S grid, each grid predict a few bounding boxes. Each bounding box has x, y, 
 ## YoRodents: Labeling images
 
 <img src="./images/deep_learning/labelRatBodyParts.png" width=60% >
+
+### 8093 images so far
 
 ---
 
@@ -270,7 +272,7 @@ darknet detector train rat12class.data yolo_12_class.cfg darknet19_448.conv.23
  
 ---
 
-## Video
+## Putting everything together 
 
 <iframe width=80% height="550" src="https://www.youtube.com/embed/Lwfg2t9nXcI?start=45" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -300,7 +302,30 @@ darknet detector train rat12class.data yolo_12_class.cfg darknet19_448.conv.23
 
 ---
 
+## Short term social memory in Chrnb4 null rats
+
+<img src="./images/deep_learning/chrnb4_nose_anog.png" width=70%>
+
+---
+
+## Recording home cage behavior under infrared light
+
+<iframe width="520" height="345" src="https://www.youtube.com/embed/bqu2IaS6RSA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="520" height="345" src="https://www.youtube.com/embed/QPuth-mTEOs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
 # Thank you! 
+
+---
+
+# This happened yesterday  ..
+
+
+https://youtu.be/ogfYd705cRs?t=1h55m50s
+
+
 
 ---
 
