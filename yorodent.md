@@ -30,16 +30,6 @@ May 09th, 2018
 
 ---
 
-## Social and anxiety-like traits contribute to nicotine self-administration
-
-PCA regression
-
-<img width=90% src="./images/p50_prelim_results/pca_regression.png">
-<hr align="left" width=15%> <p align=left>
-<cite>Wang, et al., BioRxiv, 2018 </cite>
-
----
-
 ## Social interaction between rats have been used to study anxiety
 
 <div id="left50"> 
@@ -52,7 +42,7 @@ PCA regression
 
 ---
 
-## Social interaction among rats 
+## Social interaction between rats 
 
 <iframe width="600" height="600" src="https://www.youtube.com/embed/mJglzLs3RNo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -102,20 +92,6 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
-
-## Convolutional Neural Net for Object Classification 
-
-![](https://www.mathworks.com/content/mathworks/www/en/discovery/convolutional-neural-network/jcr:content/mainParsys/image_copy.adapt.full.high.jpg/1523891796216.jpg)
-
----
-## Four main Features of the ConvNet 
-
-* Convolution (feature extraction)
-* Non Linearity (ReLU)
-* Pooling or Sub Sampling
-* Classification (Fully Connected Layer)
-
----
 ## Convolution
 
 ![](https://ujwlkarn.files.wordpress.com/2016/07/screen-shot-2016-07-24-at-11-25-13-pm.png?w=150&h=136)
@@ -131,7 +107,23 @@ https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 ![](https://ujwlkarn.files.wordpress.com/2016/08/screen-shot-2016-08-05-at-11-03-00-pm.png?w=342&h=562)
 
 https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
 ---
+
+## Convolutional Neural Net for Object Classification 
+
+![](https://www.mathworks.com/content/mathworks/www/en/discovery/convolutional-neural-network/jcr:content/mainParsys/image_copy.adapt.full.high.jpg/1523891796216.jpg)
+
+---
+## Four main Features of the ConvNet 
+
+* Convolution (feature extraction)
+* Non Linearity (ReLU)
+* Pooling or Sub Sampling
+* Classification (Fully Connected Layer)
+
+---
+
 ## Visual example of a ConvNet
 
 ![](https://ujwlkarn.files.wordpress.com/2016/08/conv_all.png?w=1024)
@@ -172,7 +164,7 @@ http://www.cs.cmu.edu/~aharley/
 
 ---
 
-## YOLO
+## YOLO (2016)
 
 ![](https://cdn-images-1.medium.com/max/1040/1*ZbmrsQJW-Lp72C5KoTnzUg.jpeg)
 
@@ -195,7 +187,7 @@ S x S grid, each grid predict a few bounding boxes. Each bounding box has x, y, 
 
 ---
 
-## YOLO v3
+## YOLO v3 (2018)
 
 ![](https://cdn-images-1.medium.com/max/1300/1*d4Eg17IVJ0L41e7CTWLLSg.png)
 
