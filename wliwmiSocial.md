@@ -1,11 +1,10 @@
 # Social behavior differences between WLI and WMI  
 
---------
 
-## Hao Chen,
+## preliminary analysis 
 
-### Department of Pharmacology
-### UTHSC
+
+#### Hao Chen, Department of Pharmacology, UTHSC
 
 June 3rd, 2018
 
@@ -59,3 +58,7 @@ anog = anogenital area
 
 <img src="./images/wliwmiSocial/wliwmi_group_travelDist.png" width=60%>
 
+
+---
+
+That's it fow now 
