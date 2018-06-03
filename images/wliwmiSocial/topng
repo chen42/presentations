@@ -1,0 +1,8 @@
+#!/bin/bash
+for i in $@
+do
+echo $i
+convert -density 300 $i `echo $i|sed "s/pdf\|eps\|svg/png/"`
+#                    ls `echo $i|sed "s/pdf\|eps/png/"`
+
+done
