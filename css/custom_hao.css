@@ -35,7 +35,7 @@
   text-align: left;
   float: left;
   width:50%;
-  vertical-align:middle;
+  vertical-align:right;
   z-index:-10;
 }
 
@@ -46,12 +46,12 @@
   float: right;
   text-align: left;
   z-index:-10;
-  vertical-align:middle;
+  vertical-align:left;
   width:50%;
 }
 
 #full{
-  left:-8.33%;
+  left:40%;
   text-align: left;
   float: left;
   width:100%;
@@ -72,3 +72,5 @@
 	font-style:italic;
 	font-size:0.6em;
 }
+
+

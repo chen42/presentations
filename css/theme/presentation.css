@@ -64,10 +64,10 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 3.0em; }
 
 .reveal h2 {
-  font-size: 1.6em; }
+  font-size: 2.2em; }
 
 .reveal h3 {
   font-size: 1.4em;
@@ -119,10 +119,10 @@ body {
 .reveal ul ul ul {
   list-style-type: circle; }
 
-.reveal ul  {font-weight: bold;}
-.reveal ul ul  {font-weight: normal}
-.reveal ul ul ul  {font-weight: normal }
-.reveal ul ul ul ul  {font-weight: normal }
+.reveal ul  {font-weight: bold; font-size:1.2em}
+.reveal ul ul  {font-weight: normal; font-size:1em}
+.reveal ul ul ul  {font-weight: normal; font-size:0.9em }
+.reveal ul ul ul ul  {font-weight: normal; font-size:0.8em }
 
 .reveal ul ul,
 .reveal ul ol,
@@ -244,10 +244,10 @@ body {
  * IMAGES
  *********************************************/
 .reveal section img {
-  margin: 15px 0px;
+  margin: 10px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 0px solid #222;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
 
 .reveal section img.plain {
   border: 0;
