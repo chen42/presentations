@@ -124,6 +124,11 @@ body {
 .reveal ul ul ul  {font-weight: normal; font-size:0.9em }
 .reveal ul ul ul ul  {font-weight: normal; font-size:0.8em }
 
+.reveal ol  {font-weight: bold; font-size:1.2em}
+.reveal ol ol  {font-weight: normal; font-size:1em}
+.reveal ol ol ol  {font-weight: normal; font-size:0.9em }
+.reveal ol ol ol ol  {font-weight: normal; font-size:0.8em }
+
 .reveal ul ul,
 .reveal ul ol,
 .reveal ol ol,
