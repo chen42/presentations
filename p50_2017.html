@@ -4,10 +4,11 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+		<title>Proj 2: Social and nicotine </title>
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css">
+		<link rel="stylesheet" href="css/theme/presentation.css">
+		<link rel="stylesheet" href="css/custom_hao.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -24,8 +25,11 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+			<section data-markdown="retreat.md"  
+				 data-separator="^---\n"  
+				 data-separator-notes="^Note:"  
+				 data-charset="iso-8859-15">
+			</section>	
 			</div>
 		</div>
 
@@ -33,10 +37,19 @@
 		<script src="js/reveal.js"></script>
 
 		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
+			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
+				history: true,
+				slideNumber: true,
+				width: "80%",
+				height: "100%",
+				margin: 0,
+				minScale: 1,
+				maxScale: 1,
+				transition: "fade-out",
+
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
