@@ -11,7 +11,7 @@ hchen@uthsc.edu
 
 URL: http://chen42.github.io/talks/cho_ag.html
 
-Sept 1, 2017 9 - 10 AM
+Aug 17, 2018  1 - 2 PM
 
 ---
 
