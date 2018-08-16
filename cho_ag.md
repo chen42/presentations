@@ -54,10 +54,9 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 Katzung and Trevor, Basic & Clinical Pharmacology, 13e
 
+#### [Peripheral Neuropharmacology and Acetylcholine Agonists](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323391665000062)
 
-#### [Acetylcholine Receptor Agonists](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978145570282400006X)
-
-Brenner and Stevens, Pharmacology, 4e.  
+Brenner and Stevens, Pharmacology, 5e.  
 
 ---
 ## Learning Objectives
@@ -136,9 +135,25 @@ Brenner and Stevens, Pharmacology, 4e.
 
 ---
 
+## Autonomic system 
+
+![](https://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch6_f001.png)
+
+Fight or Flight vs Rest and Digest 
+
+Note: This is a note 
+
+---
+
 ## Site of action for cholinergic agonists
 
 <img src="https://s-media-cache-ak0.pinimg.com/originals/cb/3c/1e/cb3c1e101f6e1429cdce1ead41dff65b.png">
+---
+
+ 
+
+
+
 ---
 
 ## Acetylcholine
