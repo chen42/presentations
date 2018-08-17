@@ -172,8 +172,11 @@ Note: sweat glands
 
 <a href="http://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104334#1104841667"><img src="http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f001.png"></a>
 
-* Direct vs Indirect
+* Direct vs Indirect 
 * Cholinergic agonist --think-> Parasympathetic activation
+
+Note: direct vs indirect uses the receptor as the reference point
+Check the diagram for agonist = parasympathetic  (not sympathetic)
 
 ---
 
@@ -194,14 +197,15 @@ Bind and activate acetylcholine receptors (think muscarinic)
 ---
 
 ## Cholinomimetics: ADME 
-* choline esters are *not* distributed to the CNS 
 * they are hydrolized in the GI tract, especially <span id="drug"> acetylcholine</span>. Others are more resistant.
 * poorly absorbed from the GI tract
+* choline esters are *not* distributed to the CNS 
 * <span id="drug"> Acetylcholine </span> and <span id="drug"> carbachol </span> activate both muscarinic and nicotinic receptors
 * <span id="drug"> Methacholine </span> and <span id="drug"> Bethanechol </span> activates only muscarinic receptors (due to the CH3 group) but are not subtype-specific.
  
 
 ![](./images/cholinergic/m_kat_ch7_f002.png)
+
 
 ---
 
@@ -281,12 +285,12 @@ Cholinomimetics: Organ system effects
 ### Vascular effects 
 
 * <span id="drug"> Acetylcholine </span> *typically* causes vasodilation. 
-	* mediated by activating muscarinic M3 receptors located in vascular endothelial cells 
+	* mediated by activating muscarinic M3 receptors located in vascular [endothelial cells](http://www.lab.anhb.uwa.edu.au/mb140/corepages/vascular/Images/VesWall.jpg) 
 		* activation of nitric oxide (NO) synthetase. 
 		* NO diffuses into vascular smooth muscle cells
 		* leading to vascular smooth muscle relaxation and vasodilation. 
 	* endothelia cells are obligatory in the relaxation of vascular smooth muscle by ACh
-	* coronary arteriolar response to ACh the same way. *If the endothelium is damaged by atherosclerosis, ACh causes vasoconstriction*. 
+	* coronary arteriolar response to ACh the same way. *If the endothelium is damaged by atherosclerosis, ACh causes vasoconstriction* by activating the smooth muscle cells directly. 
 
 ![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f005.png)
 <br>
@@ -294,6 +298,8 @@ Cholinomimetics: Organ system effects
 
 Note: NA; noradrenaline, Ach, Wash, drug addiction and cummulative concentration with flow.
 direct effect of Ach on vascular smoothe muscle is contraction
+
+the endothelium contains the enzymes necessary to synthesize, store and breakdown ACh.  flow‐mediated endothelial calcium responses arise from the autocrine action of non‐neuronal ACh released by the endothelium. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5157078/)  
 
 ---
 
@@ -418,6 +424,8 @@ Note: pronounced as showgrins
 
 zerostoma (stoma: openning, mouth)
 
+first line glaucoma treatment: beta-blocker or prostaglandin analog 
+
 ---
 
 
@@ -465,6 +473,8 @@ Cholinomimetics: synthetic agonists
 
 ![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f006.png)
 
+
+<small>Cholinesterase inhibitors. Neostigmine exemplifies the typical ester composed of carbamic acid ([1]) and a phenol bearing a quaternary ammonium group ([2]). Physostigmine, a naturally occurring carbamate, is a tertiary amine. Edrophonium is not an ester but binds to the active site of the enzyme. Carbaryl is used as an insecticide. See [textbook](https://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104334#1104841671) Figure 7-6 for details </small>
 
 ---
 
@@ -516,7 +526,7 @@ Indirect-acting agonists: Organ system effects
 	* parasympathetic effect predominate
 	* mimic vagal activation 
 *	vascular smooth muscle
-	* minimal effect (lack cholinergic innervation)
+	* minimal effect 
 ---
 
 Indirect-acting agonists: Organ system effects
@@ -618,6 +628,7 @@ Quasi-reversible	Cholinesterase Inhibitors
 ---
 
 ###	Organophosphate poisoning
+*	organophosphates inhibits AChE, leading to build up of ACh.
 *	<span id="drug"> pralidoxime </span> regenerates AChE
 *	it binds to the AChE and displaces organophosphate
 *	administer as soon as possible, before *aging* occurs
@@ -632,7 +643,7 @@ Type 5 phosphodiesterase inhibitors
 <b>	MoA</b>
 <ul>
 	<li> potentiate the vasodilation effect of ACh
-	<li> ACh -> M3 (Endothelia cell) -> NO -> cGMP (smooth muscle cell) -> cGMP breakdown by 5-PDE 
+	<li> ACh -> M3 (Endothelia cell) -> NO -> cGMP (smooth muscle cell) -> cGMP breakdown by 5-PDE <small> [Sounds familiar](#/19) </small> 
 	<li> cGMP promotes vasodilation
 	<li> PDE5 is inhibited by these drugs thus extend vasodilation 
 </ul>
@@ -641,6 +652,8 @@ Type 5 phosphodiesterase inhibitors
 </td></tr></table>
 <a	href="http://www.nature.com/nrd/journal/v5/n8/full/nrd2030.html"> Nature Reviews Drug Discovery 5, 689-702 2006</a>
 
+
+Note: One can argue if these are cholinergic drugs, but...
 ---
 
 
@@ -660,6 +673,8 @@ Type	5 phosphodiesterase inhibitors
 	* headache, nasal congestion, and visual disturbances
 	* concurrent use with nitroglycerin cause profound hypotension. 
 	* CYP3A4 inhibitors increase the level of the drug (reduce dose for patients taking these inhibitors)
+
+Note: HIV protease inhibitors inhibits CYP3A4
 
 ---
 
