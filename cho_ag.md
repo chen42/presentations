@@ -11,7 +11,7 @@ hchen@uthsc.edu
 
 URL: http://chen42.github.io/talks/cho_ag.html
 
-Aug 17, 2018  1 - 2 PM
+Aug 17, 2018 1 - 2 PM
 
 ---
 
@@ -22,7 +22,7 @@ Aug 17, 2018  1 - 2 PM
 	* Drug name: <span id="drug"> Enfuvirtide</span>
 	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
 		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
-		* [VPN](http://uthsc.edu/vpn/index.php)  provides a better experience. 
+		* [VPN](http://uthsc.edu/vpn/index.php) provides a better experience. 
 	* [Printable](http://chen42.github.io/talks/cho_ag.html?print-pdf#/) version 
 * Open link in a new browser tab:
 ```
@@ -50,13 +50,13 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 ## Textbook chapters used 
 
-#### [Cholinoceptor-Activating & Cholinesterase-Inhibiting Drugs](http://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104334#1104841667)  
+#### [Cholinoceptor-Activating & Cholinesterase-Inhibiting Drugs](http://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104334#1104841667) 
 
 Katzung and Trevor, Basic & Clinical Pharmacology, 13e
 
 #### [Peripheral Neuropharmacology and Acetylcholine Agonists](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323391665000062)
 
-Brenner and Stevens, Pharmacology, 5e.  
+Brenner and Stevens, Pharmacology, 5e. 
 
 ---
 ## Learning Objectives
@@ -135,24 +135,23 @@ Brenner and Stevens, Pharmacology, 5e.
 
 ---
 
+## Site of action for cholinergic agonists
+
+<img src="https://s-media-cache-ak0.pinimg.com/originals/cb/3c/1e/cb3c1e101f6e1429cdce1ead41dff65b.png">
+
+Note: autonomic-> sym vs parasympathetic; both starts from the cns, connect to a ganglion; then relays to effector organs; neurotransmitters; ach; two types of receptors
+
+Function: Fight or Flight vs Rest and Digest 
+
+---
+
+
 ## Autonomic system 
 
 ![](https://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch6_f001.png)
 
-Fight or Flight vs Rest and Digest 
 
-Note: This is a note 
-
----
-
-## Site of action for cholinergic agonists
-
-<img src="https://s-media-cache-ak0.pinimg.com/originals/cb/3c/1e/cb3c1e101f6e1429cdce1ead41dff65b.png">
----
-
- 
-
-
+Note: sweat glands
 
 ---
 
@@ -165,7 +164,7 @@ Note: This is a note
 * Peripheral nervous system 
  * Activates skeletal muscles (nicotinic) 
  * All *pregaglionic* autonomic (both parasympathetic and sympathetic) (nicotinic) 
- * All *postganglionic* <b>parasympathetic</b> and sympathetic to sweat gland and some blood vessels (muscarinic) 
+ * All *postganglionic* **parasympathetic** and <u>sympathetic</u> to sweat gland and some blood vessels (muscarinic) 
 
 ---
 
@@ -173,6 +172,8 @@ Note: This is a note
 
 <a href="http://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104334#1104841667"><img src="http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f001.png"></a>
 
+* Direct vs Indirect
+* Cholinergic agonist --think-> Parasympathetic activation
 
 ---
 
@@ -186,7 +187,7 @@ Bind and activate acetylcholine receptors (think muscarinic)
 * Choline esters
  * <span id="drug"> Acetylcholine Methacholine Bethanechol Carbachol </span> 
 * Plant alkaloids
- * <span id="drug"> Muscarine Nicotine Pilocarpine </span>  
+ * <span id="drug"> Muscarine Nicotine Pilocarpine </span> 
 * Synthetic 
  * <span id="drug"> Cevimeline Varenicline </span> 
 
@@ -214,6 +215,10 @@ Bind and activate acetylcholine receptors (think muscarinic)
 ## Cholinomimetics: MoA 
 
 ![](./images/cholinergic/moa_choline.png)
+<small>
+<b>Muscarinic and nicotinic signaling. A:</b> Muscarinic transmission to the sinoatrial node in heart. Acetylcholine (ACh) released from a varicosity of a postganglionic cholinergic axon interacts with a sinoatrial node cell muscarinic receptor (M2R) linked via Gi/o to K+ channel opening, which causes hyperpolarization, and to inhibition of cAMP synthesis. Released ACh also acts on an axonal muscarinic receptor (autoreceptor) to cause inhibition of ACh release (autoinhibition). B: Nicotinic transmission at the skeletal neuromuscular junction. ACh released from the motor nerve terminal interacts with subunits of the pentameric nicotinic receptor to open it, allowing Na+ influx to produce an excitatory postsynaptic potential (EPSP). The EPSP depolarizes the muscle membrane, generating an action potential, and triggering contraction. Acetylcholinesterase (AChE) in the extracellular matrix hydrolyzes ACh. See [textbook](https://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104334#kat13_ch7fg4) for more details.
+</small>
+
 
 ---
 
@@ -225,27 +230,30 @@ Bind and activate acetylcholine receptors (think muscarinic)
 
 <table><thead><tr><th> TYPE OF RECEPTOR </th><th> <font color="yellow">PRINCIPAL</font> LOCATIONS</th> <th> MECHANISM OF SIGNAL TRANSDUCTION</th> <th> EFFECTS</th></tr></thead>
 
-<tr><td colspan=4><b>Muscarinic</b></td></tr>    
-<tr><td>M 1 </td><td> Autonomic ganglia, presynaptic nerve terminals, and CNS  </td><td>Increased IP 3  </td><td>Modulation of neurotransmission</td></tr>
-<tr><td>M 2  </td><td> Cardiac tissue (sinoatrial and atrioventricular nodes)  </td><td>Increased potassium efflux or decreased cAMP  </td><td>Slowing of heart rate and conduction</td></tr>
+<tr><td colspan=4><b>Muscarinic</b></td></tr> 
+<tr><td>M 1 </td><td> Autonomic ganglia, presynaptic nerve terminals, and CNS </td><td>Increased IP 3 </td><td>Modulation of neurotransmission</td></tr>
+<tr><td>M 2 </td><td> Cardiac tissue (sinoatrial and atrioventricular nodes) </td><td>Increased potassium efflux or decreased cAMP </td><td>Slowing of heart rate and conduction</td></tr>
 
-<tr><td>M 3 </td><td>Smooth muscle and glands  </td><td>Increased IP 3  Contraction of smooth muscles and stimulation of glandular secretions </td><td> Vascular smooth muscle  Increased cGMP as a result of nitric oxide stimulation  Vasodilation</td></tr>
+<tr><td>M 3 </td><td>Smooth muscle and glands </td><td>Increased IP 3 Contraction of smooth muscles and stimulation of glandular secretions </td><td> Vascular smooth muscle Increased cGMP as a result of nitric oxide stimulation Vasodilation</td></tr>
 
 <tr><td colspan=4><b>Nicotinic</b> </td></tr>
 
-<tr><td>Muscle type  </td><td>Neuromuscular junctions </td><td> Increased sodium influx  </td><td>Muscle contraction </td></tr>
+<tr><td>Muscle type </td><td>Neuromuscular junctions </td><td> Increased sodium influx </td><td>Muscle contraction </td></tr>
 
 <tr><td>Ganglionic type </td><td> Autonomic ganglia </td><td> Increased sodium influx </td><td> Neuronal excitation </td></tr>
 
-<tr><td>CNS type  </td><td>CNS  </td><td>Increased sodium influx  </td><td>Neuronal excitation
+<tr><td>CNS type </td><td>CNS </td><td>Increased sodium influx </td><td>Neuronal excitation
 </td></tr>
 
 </table>
 <br> cAMP, cyclic adenosine monophosphate; cGMP, cyclic guanosine monophosphate; CNS, central nervous system; IP 3 , inositol triphosphate </br>
 </a>
-[Pharmacology 4e](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978145570282400006X?scrollTo=%23hl0000469)
----
 
+[Pharmacology 5e](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323391665000062?scrollTo=%23t0015) Table 6.2
+
+Note: important to remember the location of the subtypes and their effects
+
+---
 
 Cholinomimetics: Organ system effects 
 
@@ -256,10 +264,15 @@ Cholinomimetics: Organ system effects
 <li> Stimulate the contraction of the iris sphincter muscle and the ciliary muscle ([Miosis](http://www.e-safe-anaesthesia.org/sessions/15_05/gif/ana_1_011_autonomic_nervous_system_08_t1_01_med.gif) and [accommondation](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780702055546000046?scrollTo=%23hl0002638))
 <li> Facilitate outflow of [aqueous humor](https://openclipart.org/image/2400px/svg_to_png/276637/aqueous-humor.png) ([more info](https://www.aao.org/bcscsnippetdetail.aspx?id=591e80ab-e372-4ad3-9c49-1aed4ba74f61)) and reduce [intraocular pressue, IOP](https://www.aao.org/bcscsnippetdetail.aspx?id=f010bbf6-3f3e-486b-b5cd-0ad86ddb9d74)
 </ul>
-suspensory ligment = zonule
 </td><td width=50%>
 <img src="./images/cholinergic/choline_eye1.jpg">
+<br>
+suspensory ligment = zonule
 </td></table>
+
+Note: Miosis is excessive contraction of the pupil (to close the eye)
+
+In humans, relaxation of the zonule is induced by contraction of the ciliary muscle, which moves forward, thereby allowing the lens to adopt a more spherical shape owing to the elasticity of the lens capsule
 
 ---
 
@@ -267,17 +280,20 @@ Cholinomimetics: Organ system effects
 
 ### Vascular effects 
 
-* <span id="drug"> Acetylcholine </span> typically causes vasodilation. 
+* <span id="drug"> Acetylcholine </span> *typically* causes vasodilation. 
 	* mediated by activating muscarinic M3 receptors located in vascular endothelial cells 
 		* activation of nitric oxide (NO) synthetase. 
 		* NO diffuses into vascular smooth muscle cells
 		* leading to vascular smooth muscle relaxation and vasodilation. 
 	* endothelia cells are obligatory in the relaxation of vascular smooth muscle by ACh
-	* coronary arteriolar response to ACh the same way. But if the endothelium is damaged by atherosclerosis, ACh causes vasoconstriction.  
+	* coronary arteriolar response to ACh the same way. *If the endothelium is damaged by atherosclerosis, ACh causes vasoconstriction*. 
 
 ![](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch7_f005.png)
 <br>
 [Nature. 1980 Nov 27;288:373-6.](https://www.ncbi.nlm.nih.gov/PubMed/6253831)
+
+Note: NA; noradrenaline, Ach, Wash, drug addiction and cummulative concentration with flow.
+direct effect of Ach on vascular smoothe muscle is contraction
 
 ---
 
@@ -287,9 +303,11 @@ Cholinomimetics: Organ system effects
 
 
 * Muscarinic agonists 
-	* reduce the heart rate, with a *but*
-		* high dose ACh cause bradycardia, decrease atrioventricular node conduction velocity
-		* low dose ACh i.v. infusion reduces blood pressure, which increases heart rate (<b>homeostatic reflex</b>)
+	* i.v. muscarinic agonist effect: 
+		* low dose ACh cause vasodilation, reduces blood pressure, often accompanied by a reflex increasing in heart rate (<b>homeostatic reflex</b>)
+		* high dose ACh cause bradycardia, decrease atrioventricular node conduction velocity, hypotension
+
+Note: parasympathetic, relaxation and digest
 
 ---
 
@@ -302,6 +320,8 @@ Cholinomimetics: Organ system effects
  * causes an increase in the secretion of mucus throughout the respiratory tract. 
  * contra-indicated in patients with asthma and other forms of obstructive lung disease. 
 
+Note: M3 receptor 
+
 ---
 
 Cholinomimetics: Organ system effects 
@@ -310,10 +330,10 @@ Cholinomimetics: Organ system effects
 * Muscarinic receptor agonists
 	*	stimulate salivary, gastric, and other secretions in the gastrointestinal tract.
 	*	 increase contraction of GI smooth muscle (except sphincters)
-		*  by stimulating the enteric nervous system
+		* by stimulating the enteric nervous system
 	*	increases gastrointestinal motility. 
 	---
-	*	stimulate the [bladder detrusor muscle](http://img.medscapestatic.com/pi/meds/ckb/21/12721.jpg), they *relax* the internal sphincter of the bladder 
+	*	*stimulate* the [bladder detrusor muscle](http://img.medscapestatic.com/pi/meds/ckb/21/12721.jpg), *relax* the internal sphincter of the bladder 
 	*	promote emptying of the bladder (micturition). 
 	---
 	*	higher doses produce excessive salivation and cause diarrhea, intestinal cramps, and urinary incontinence (the "all faucets turned on" syndrome). 
@@ -327,9 +347,15 @@ Cholinomimetics: choline esters
 * Indications
 	* Limited clinical applications
 		* limited absorption, short duration of action, and lack of receptor specificity
-	* Cataract or other ophthalmic surgery (to produce complete miosis)  
+	* Cataract or other ophthalmic surgery (to produce complete miosis) 
 	* diagnostic coronary angiography, especially in patients with nearly normal coronary angiograms
 		* Ach normally induces vasodilation, but the opposite is seen in patients with [vasospastic angina](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455750177000714?scrollTo=%23hl0001437), also called variant angina or Prinzmetal's Angina. 
+
+		---
+		[about angina](https://www.mayoclinic.org/diseases-conditions/angina/symptoms-causes/syc-20369373) 
+
+Note: short duration drugs are good for diagnosis
+Vaospastic angina is defined as ≥90% narrowing of the epicardial coronary arteries on an angiography during the test
 
 ---
 
@@ -359,7 +385,6 @@ Cholinomimetics:	plant alkaloids
 
 ---
 
-
 Cholinomimetics: plant alkaloids
 
 ### Pilocarpine <font color="blue">Salagen</font>
@@ -370,21 +395,28 @@ Cholinomimetics: plant alkaloids
  <li> Alkaloid from a small shrub, first isolated in 1874
  <li> Indications 
  <ul> <li> 2nd line drug for chronic open-angle [glaucoma](http://www.ilovegrowingmarijuana.com/wp-content/upload_folders/ilovegrowingmarijuana.com/2017/02/What-is-Glaucoma.jpg) ([WHO Essential Medicines](http://www.who.int/medicines/publications/essentialmedicines/en/)) 
-   <ul><li> contract iris and ciliary muscle, open the angle </ul>
-   <li> well absorbed after ocular application
+ <ul><li> contract iris and ciliary muscle, open the angle </ul>
+ <li> well absorbed after ocular application
  <li> Dry mouth	
- 	<ul><li>[Sjogren's syndrome](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014950)
+ 	<ul><li>[Sjogren's syndrome](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014950), an autoimmune disease 
 	<li>Xerostomia after radiotherapy.
 	</ul>
  </ul>
  
-  <li> Salagen was sometimes confused with <font color="grey"> Selegiline </font>, a drug for Parkinson's disease
-  </ul>
+ <li> Salagen was sometimes confused with <font color="grey"> Selegiline </font>, a drug for Parkinson's disease
+ </ul>
 </td>
-<td> <img src="http://assets.markallengroup.com/article-images/image-library/147/uploads/sites/9/2016/05/fig-1_2.png"> </td>
+<td> <img src="http://assets.markallengroup.com/article-images/image-library/147/uploads/sites/9/2016/05/fig-1_2.png">
+<br>
+open vs close angle glaucoma
+</td>
 
 </tr>
 </table>
+
+Note: pronounced as showgrins
+
+zerostoma (stoma: openning, mouth)
 
 ---
 
@@ -396,7 +428,7 @@ Cholinomimetics: synthetic agonists
 
 * <span id="drug"> Cevimeline </span> 
 	* oral drug treat dry mouth
-		* [Sjogren syndrome](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014950), an autoimmune disease
+		* [Sjogren syndrome](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014950), an autoimmune disease against glands that make tears and saliva
 		* Xerostomia following radiation therapy for head and neck cancer
 	*	adverse effect 
 		* increased sweating, nausea, visual disturbances (drug induced miosis) 
@@ -412,7 +444,7 @@ Cholinomimetics: synthetic agonists
 
 <table>
 <thead><tr><th>DRUG </th><th>RECEPTOR SPECIFICITY </th><th>HYDROLYZED BY CHOLINESTERASE </th><th>ROUTE OF ADMINISTRATION </th><th>CLINICAL USE</th></tr>
-<tr><td colspan=5><b>Choline Esters</b>    </td></tr>
+<tr><td colspan=5><b>Choline Esters</b> </td></tr>
 <tr><td>Acetylcholine </td><td>Muscarinic and nicotinic </td><td>Yes </td><td>Intraocular </td><td>Miosis during ophthalmic surgery</td></tr>
 <tr><td></td><td></td><td></td><td>Intracoronary </td><td>Coronary angiography</td></tr>
 <tr><td>Bethanechol </td><td>Muscarinic </td><td>No </td><td>Oral or subcutaneous </td><td>Gastrointestinal and urinary stimulation</td></tr>
@@ -441,17 +473,19 @@ Cholinomimetics: synthetic agonists
 
 *	electrostatically bind to AchE 
 	* <span id="drug"> Edrophonium </span> 
-	* 2-10 min
+	* rapid onset (1-2 min), short duration (2-10 min)
 *	convalantly bind to AchE 
 	* <span id="drug"> Neostigmine Physostigmine </span> 
-	* 30 min - 6 h 
+	* duration: 30 min - 6 h 
 *	form covalant phosphorus-enzyme bond 
 	* <span id="drug"> Echothiophate Malathion </span> 
-	* hundreds of hours
+	* duration: hundreds of hours
 	* <b>Aging</b> refers to the breaking of one oxygen-phosphorus bonds
-		* further strengthens the phosphorus-enzyme bond
+		* further strengthens the phosphorus-AChE bond
 		* occurs within 10 min for <span id="drug"> [soman](https://en.wikipedia.org/wiki/Soman) </span>, but 48 h later for <span id="drug"> [VX](https://en.wikipedia.org/wiki/VX_%28nerve_agent%29) </span> ; 
-		* cholinesterase regenerator (e.g., <span id="drug"> prali<font color="gray">ne</font>doxime </span> ) is more effective before aging occurs
+		* cholinesterase regenerator (e.g., <span id="drug"> pralidoxime </span> ) is more effective before aging occurs
+
+Note: chocolate, refregirator, praline, aging
 
 ---
 
@@ -463,8 +497,6 @@ Indirect-acting	agonists: Organ system effects
 	* low concentration: subjective alerting response
 	* high concentration: generalized convulsions, coma, respiratory arrest
 
-
-
 ---
 
 Indirect-acting agonists: Organ system effects
@@ -472,7 +504,6 @@ Indirect-acting agonists: Organ system effects
 ### Eye, respiratory, GI, urinary 
 
 * Similar to the direct acting cholinomimetics
-
 
 ---
 
@@ -486,27 +517,30 @@ Indirect-acting agonists: Organ system effects
 	* mimic vagal activation 
 *	vascular smooth muscle
 	* minimal effect (lack cholinergic innervation)
-
 ---
 
 Indirect-acting agonists: Organ system effects
 
 ### Neuromuscular junction 
 
-*	low (therapeutic) concentration prolong and intensity the actions of physiologically released ACh
+* low (therapeutic) concentration prolong and intensity the actions of physiologically released ACh
 	* increase the strength of contraction
 		* muscles weakened by <span id="drug"> curare </span> 
 		* [myasthenia gravis](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014472)
 			* autoimmune disease against nicotinic ACh recepotors (nAChR)
 			* most offen affect face, throat and neck
+			* ptosis, diplopia, and blurred vision are the most common initial manifestations; weakness of facial and bulbar muscles are the second most common manifestations of the disease [image](https://www.chop.edu/sites/default/files/styles/3_4_portrait/public/ocular-myasthenia-gravis-illustration-3x4.jpg?itok=XoVrkDYA)
 * high concentration results in fibrillation of muscle fibers 
+
+
+Note: Bulbar muscles : of the mouth and throat responsible for speech and swallowing.
 
 ---
 
 Reversible Cholinesterase Inhibitors
 
 ###	Edrophonium
-*	ADME	and MoA
+*	ADM	and MoA
 	*	rapidly increase ACh concentration at somatic neuromuscular junction
 	*	it is a positively charged alcohol, reversibly binds to a negatively charged site on AChE 
 	*	not a substrate of AChE 
@@ -515,8 +549,8 @@ Reversible Cholinesterase Inhibitors
 	*	initial diagnosis of [myasthenia gravis](https://www.clinicalkey.com/#!/content/medical_topic/21-s2.0-1014472)
 	*	distinguish under treatment (*Myasthenia crisis*) vs. over treatment (*cholinergic crisis*) 
 		* patients are unable to breathe adequately and may develop respiratory failure
-		* over treatment causes muscle weakness due to depolarization blockade 
-		* edrophonium improves *Myasthenia crisis* and exacerbates *cholinergic crisis* 
+		* over treatment causes muscle weakness due to depolarization blockade (similar to <span id="drug"> succinylcholine</span>) 
+		* <span id="drug">edrophonium</span> improves *Myasthenia crisis* and exacerbates *cholinergic crisis* 
 
 ---
 
@@ -531,11 +565,11 @@ Reversible	Cholinesterase	Inhibitors
 		* myasthenia gravis 
 		* post-surgical distention and urinary retention
 *	[Pyridostigmine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-530)	
-	*	longer-acting, but slower onset than <span id="drug"> neostigmine  </span>  
+	*	longer-acting, but slower onset than <span id="drug"> neostigmine </span> 
 	*	indications 
 		* myasthenia gravis
 		* post-surgical distention and urinary retention
-		* [pretreatment for Soman, a nerve gas](https://www.fda.gov/Drugs/EmergencyPreparedness/BioterrorismandDrugPreparedness/ucm130342.htm)  
+		* pretreatment for Soman, a nerve gas [FDA approval](https://www.fda.gov/Drugs/EmergencyPreparedness/BioterrorismandDrugPreparedness/ucm130342.htm) 
 			* start several hours before exposure 
 			* switch to <span id="drug"> atropine </span> and <span id="drug"> pralidoxime </span> once exposed to Soman
 *	[Physostigmine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-486)
@@ -543,13 +577,12 @@ Reversible	Cholinesterase	Inhibitors
 	*	primarily CNS effects, weak neuromuscular effect
 	*	indications
 		* open angle glaucoma
-		* overdose of anticholinergic drugs
-
+		* overdose of anticholinergic (atropine) drugs
 
 ---
 
 Reversible	Cholinesterase Inhibitors
-	  
+	 
 ###	Galantamine
 
 *	ADME and MoA
@@ -578,7 +611,7 @@ Quasi-reversible	Cholinesterase Inhibitors
 *	Indications
 	*	<span id="drug"> Echothiophate </span> 
 	 		* glaucoma not responding to other treatments, provide 24 h control of intraocular pressure 
-	 		* strabismus ([Accommodative esotropia](https://en.wikipedia.org/wiki/Esotropia#Accommodative_esotropia) ) 
+	 		* strabismus ([Accommodative esotropia](https://en.wikipedia.org/wiki/Esotropia#Accommodative_esotropia) ), i.e., crossed eye
 	*	<span id="drug"> Malathion </span> 
 		*	pesticide
 		*	head lice (pediculosis capitis)
@@ -592,7 +625,7 @@ Quasi-reversible	Cholinesterase Inhibitors
 
 ---
 
-Type	5 phosphodiesterase inhibitors
+Type 5 phosphodiesterase inhibitors
 
 ###	<span id="drug"> Sildenafil Tadalafil Vardenafil </span> 
 <table><tr><td width=50%>
@@ -600,7 +633,8 @@ Type	5 phosphodiesterase inhibitors
 <ul>
 	<li> potentiate the vasodilation effect of ACh
 	<li> ACh -> M3 (Endothelia cell) -> NO -> cGMP (smooth muscle cell) -> cGMP breakdown by 5-PDE 
-	<li> last step is inhibited by these drugs thus extend vasodilation 
+	<li> cGMP promotes vasodilation
+	<li> PDE5 is inhibited by these drugs thus extend vasodilation 
 </ul>
 </td><td>
 	<img src="./images/cholinergic/pde5.png")
@@ -654,14 +688,13 @@ Type	5 phosphodiesterase inhibitors
 
 ##	Summary 
 
-*	The direct-acting acetylcholine receptor agonists include choline esters (e.g., [bethanechol](#/22)) and plant alkaloids (e.g., [pilocarpine](#/24)). <span id="drug"> Pilocarpine </span> is used to treat glaucoma and dry mouth.
+*	The direct-acting acetylcholine receptor agonists include choline esters (e.g., [bethanechol](#/24)) and plant alkaloids (e.g., [pilocarpine](#/26)). <span id="drug"> Pilocarpine </span> is used to treat glaucoma and dry mouth.
 *	The cholinesterase inhibitors indirectly activate acetylcholine receptors by increasing the synaptic concentration of acetylcholine. These drugs have both parasympathomimetic and somatic nervous system effects.
-*	The reversible cholinesterase inhibitors include [edrophonium](#/33), which is used to diagnose myasthenia gravis, and [neostigmine and pyridostigmine](#/34), which are used to treat myasthenia gravis.
-*	The quasi-reversible cholinesterase inhibitors are organophosphate compounds that are widely used as pesticides and less commonly used in medical therapy. [Echothiophate](#/36) can be used to treat ocular conditions, whereas [malathion](#/36) is used to treat pediculosis.
-*	Organophosphate toxicity is treated with atropine and a cholinesterase regenerator called [pralidoxime](#/37).
-*	[Sildenafil](#/38) and related drugs inhibit the degradation of cGMP by 5-PDE and thereby potentiate the vasodilative action of nitric oxide in the penis and other tissues. These drugs are used to treat male erectile dysfunction. 
+*	The reversible cholinesterase inhibitors include [edrophonium](#/35), which is used to diagnose myasthenia gravis, and [neostigmine and pyridostigmine](#/36), which are used to treat myasthenia gravis.
+*	The quasi-reversible cholinesterase inhibitors are organophosphate compounds that are widely used as pesticides and less commonly used in medical therapy. [Echothiophate](#/38) can be used to treat ocular conditions, whereas [malathion](#/38) is used to treat pediculosis.
+*	Organophosphate toxicity is treated with atropine and a cholinesterase regenerator called [pralidoxime](#/39).
+*	[Sildenafil](#/41) and related drugs inhibit the degradation of cGMP by 5-PDE and thereby potentiate the vasodilative action of nitric oxide in the penis and other tissues. These drugs are used to treat male erectile dysfunction. 
 
-[Pharmacology	4e](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978145570282400006X)
 
 
 

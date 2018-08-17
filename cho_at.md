@@ -55,7 +55,7 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 [Cholinoceptor-Blocking Drugs](http://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104442) Katzung and Trevor, Basic & Clinical Pharmacology, 13e
 
-[Acetylcholine Receptor Agonists](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455702824000071) Brenner and Stevens, Pharmacology, 4e. 
+[Acetylcholine Receptor Agonists](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323391665000074) Brenner and Stevens, Pharmacology, 5e. 
 
 Supplemental materials: [Drug Monographs](https://www.clinicalkey.com/#!/browse/drugs),  PubMed articles 
 
@@ -213,12 +213,17 @@ antimuscarinic = <font color="gray">parasympatholytic </font>
 ---
 
 ## Antimuscarinics: Structure 
-<table><tr><td width=50%>
+<table><tr><td width=50% align=right>
 <a href="http://accessmedicine.mhmedical.com/content.aspx?bookid=1193&sectionid=69104442#1104841776">
 <img src="http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch8_f001.png">
 </a>
 </td><td>
-The structure of atropine (oxygen [red] at [1] is missing) or scopolamine (oxygen present). In homatropine, the hydroxymethyl at [2] is replaced by a hydroxyl group, and the oxygen at [1] is absent.
+<b>Atropine</b>:  oxygen [red] at [1] is missing 
+<p>
+<b>Scopolamine</b>: oxygen present
+<p>
+<b>Homatropine</b>: the hydroxymethyl at [2] is replaced by a hydroxyl group, and the oxygen at [1] is absent.
+
 </td><tr></table>
 
 ---
@@ -227,7 +232,7 @@ The structure of atropine (oxygen [red] at [1] is missing) or scopolamine (oxyge
 
 * Absorption 
 	* tertiary antimuscarinic drugs are well absorbed
-	* quaternary antimuscarinic drugs are not well absorbed [organic chemistry](http://11452-presscdn-0-51.pagely.netdna-cdn.com/wp-content/uploads/2010/06/4-1234.png)
+	* quaternary antimuscarinic drugs are not well absorbed 
 * Distribution 
 	* tertiary antimuscarinics are widely distributed in the body.
 		* Significant levels are achieved in the CNS within 30 minutes to 1 hour.
@@ -241,9 +246,9 @@ The structure of atropine (oxygen [red] at [1] is missing) or scopolamine (oxyge
 ---
 
 ## antimuscarinics: MoA
-<table><tr><td>
+<table><tr><td align="right">
 <ul>
-<li> reversible blockade of muscarinic receptor 
+<li> Reversible blockade of muscarinic receptor 
 	<ul>
 	<li> representative drug: <span id="drug"> atropine</span>
 	<li> can be overcome by ACh or cholinomimetics 
@@ -254,12 +259,12 @@ The structure of atropine (oxygen [red] at [1] is missing) or scopolamine (oxyge
 	<li> receptor subtype selectivity
 		<ul> <li> <span id="drug"> Atropine </span> non-selelctive
 		<li> other: moderately selective on mAChRs 
-		<li> synetic antimuscarinics may interact with nAChR or histamine receptors
+		<li> synthetic antimuscarinics may interact with nAChR or histamine receptors
 		</ul>
 		</ul>
 </td><td>
 <a href="http://www.nature.com/nrd/journal/v13/n7/full/nrd4295.html">
-<img src="http://www.nature.com/nrd/journal/v13/n7/images/nrd4295-f2.jpg"></a>
+<img src="http://www.nature.com/nrd/journal/v13/n7/images/nrd4295-f2.jpg" width=50%></a>
 <br>
 Nature Reviews Drug Discovery 13, 549-560 (2014) 
 </td></tr></table>
@@ -270,13 +275,13 @@ Antimuscarinics: Organ System Effects
 
 ### Central nervous system
 
-Compare with [indirect cholinergic angonists](http://chen42.github.io/talks/cho_ag.html#/30)
+Compare with [indirect cholinergic angonists](http://chen42.github.io/talks/cho_ag.html#/32)
 
 * sedative effects, drowsiness, amnesia: <span id="drug"> Atropine, scopolamine </span>
 	* initial effect is mild stimulation
 * reduce Parkinsons tremor: <span id="drug"> atropine</span> 
 * motion sickness (vestibular disturbance): <span id="drug"> Scopolamine </span> 
-* high dose cause an acute confusional state known as [delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148511/pdf/anesthprog00291-0025.pdf), which can be reversed by <span id="drug"> [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/35)([Antilirium](http://chen42.github.io/talks/cho_ag.html#/6))
+* high dose cause an acute confusional state known as [delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148511/pdf/anesthprog00291-0025.pdf), which can be reversed by <span id="drug"> [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/37)([Antilirium](http://chen42.github.io/talks/cho_ag.html#/6))
 
 ---
 
@@ -284,7 +289,7 @@ Antimuscarinics: Organ System Effects
 
 ### Eye 
 
-Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/17)
+Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/19)
 
 <table><tr><td>
 <ul>
@@ -293,7 +298,7 @@ Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/17)
 	<ul> <li><a href="http://www.e-safe-anaesthesia.org/sessions/15_05/gif/ana_1_011_autonomic_nervous_system_08_t1_01_med.gif"> mydriasis </a>
 	<li> remove parasympathetic opposition to the sympathetic system in the iris
 	</ul>
-<li> cycloplegia 
+<li> causes cycloplegia 
 <ul>
 	<li> ciliary muscle fail to contract 
 	<li> inability to accomondate (i.e. focus on near objects)
@@ -310,7 +315,7 @@ Antimuscarinics: Organ System Effects
 
 ### Cardiac system 
 
-Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/19)
+Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/21)
 
 * sinoatril and atrioventricular node
 	* blocking the effects of the vagus nerve 
@@ -318,7 +323,7 @@ Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/19)
 		* low dose i.v. administration results in initial bradycardia 
 			* due to block of prejunctiona [M1 auto-receptors](#/9)
 			* stimulation of the vagal motor nucleus in the brain stem. 
-	* reduce [PR interval](https://lifeinthefastlane.com/wp-content/uploads/2011/01/waves-of-the-ecg.gif) of the ECG 
+	* reduce [PR interval](https://en.wikipedia.org/wiki/PR_interval#/media/File:SinusRhythmLabels.svg)	of the ECG 
 
 ---
 
@@ -326,7 +331,7 @@ Antimuscarinics: Organ System Effects
 
 ### Vascular system 
 
-Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/18)
+Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/20)
 
 * most blood vessels receive no direct innervation from the parasympatholytic system
 	* except those in the thoracic and abdominal viscera
@@ -344,7 +349,7 @@ Antimuscarinics: Organ System Effects
 
 ### Respiratory system
 
-Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/20)
+Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/22)
 
 <table><tr><td width=50%>
 <ul><li> potent inhibitors of secretions in the upper and lower respiratory tract.
@@ -355,7 +360,7 @@ Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/20)
 
 In COPD, the small airways are narrowed through thickening of the bronchiolar periphery wall by inflammation and fixed narrowing as a result of fibrosis, disruption of alveolar attachments as a result of [emphysema](http://www.webmd.com/lung/emphysema) and luminal occlusion by mucus and inflammatory exudate. 
 </td><td>
-	<a href="https://www.researchgate.net/figure/285656805_fig7_Figure-1-Airway-obstruction-in-COPD-In-healthy-lungs-the-small-airways-bronchioles"><img src="https://www.researchgate.net/publication/285656805/figure/fig7/AS:303163249840128@1449291159089/Figure-1-Airway-obstruction-in-COPD-In-healthy-lungs-the-small-airways-bronchioles.png"></a>
+	<img src="http://www.livingwellwithcopd.com/DATA/TEXTEDOC/COPD---Obstructive-Chronic-Bronchitis-or-Emphysema.jpg" width=80%>	
 </td><tr></table>
 
 [COPD review](https://www.ncbi.nlm.nih.gov/pubmed/27189863)
@@ -366,10 +371,10 @@ Antimuscarinics: Organ System Effects
 
 ### Gastrointestinal tract 
 
-Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/21)
+Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/23)
 
 
-* dry mouth is a common side effect
+* dry mouth is a common side effect of antimuscarinics.
 * gastric secretion is not as effectively blocked because [other neurotransmitters](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch6_f002.png) are involved. 
 * gastrointestinal smooth muscle mobility is affected
 	* from stomach to colon
@@ -384,7 +389,7 @@ Antimuscarinics: Organ System Effects
 
 ### Genitourinary tract 
 
-Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/21)
+Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/23)
 
 * relaxes smooth muscle of the ureters and bladder ball. 
 * treating spasm induced by mild inflammation or surgery. 
@@ -497,13 +502,13 @@ Antimuscarinics: Organ System Effects
 
 Atropine toxicity: "dry as a bone, blind as a bat, red as a beet, and mad as a hatter." 
 
-Treatment: 1. activated charcoal. 2. [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/35) (a tertiary amine with CNS effects)
+Treatment: 1. activated charcoal. 2. [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/37) (a tertiary amine with CNS effects)
 
 ---
 
 ## Other Muscarinic Receptor Antagonists
 
-the pharmacologic effects of these agents are similar to those of atropine, their unique pharmacokinetic properties are advantageous in specific situations. 
+The pharmacologic effects of these agents are similar to those of atropine, their unique pharmacokinetic properties are advantageous in specific situations. 
 
 ---
 <section id="glycopyrrolate">
