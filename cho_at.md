@@ -190,7 +190,6 @@ The M2 and M4 mAChRs serve as autoreceptors on cholinergic terminals to suppress
 </table>
 <br> cAMP, cyclic adenosine monophosphate; cGMP, cyclic guanosine monophosphate; CNS, central nervous system; IP 3 , inositol triphosphate </br>
 </a>
-[Pharmacology 4e](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978145570282400006X?scrollTo=%23hl0000469)
 
 ---
 
@@ -248,16 +247,15 @@ antimuscarinic = <font color="gray">parasympatholytic </font>
 ## antimuscarinics: MoA
 <table><tr><td align="right">
 <ul>
-<li> Reversible blockade of muscarinic receptor 
+<li> Reversible (surmountable) blockade of muscarinic receptor 
 	<ul>
 	<li> representative drug: <span id="drug"> atropine</span>
 	<li> can be overcome by ACh or cholinomimetics 
 	<li> binds to the aspartate in the third transmembrane segment of the heptahelical receptor 
-	<li> prevents the release of IPs and inhibits adenylyl cyclase (<a href="http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch1_f003.png">inverse agonists</a>)
-	<li> sensitivity: salivary, bronchial, sweat glands >> gastric parietal cells 
-	<li> sensitivity: exogenously administered >> ACh
+	<li> prevents the release of IP3 and inhibits adenylyl cyclase (<a href="http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch1_f003.png">inverse agonists</a>)
+	<li> sensitivity to atropine: salivary, bronchial, sweat glands >> gastric parietal cells 
 	<li> receptor subtype selectivity
-		<ul> <li> <span id="drug"> Atropine </span> non-selelctive
+		<ul> <li> <span id="drug"> Atropine </span>: no nAChR activity but  non-selelctive for mAChR
 		<li> other: moderately selective on mAChRs 
 		<li> synthetic antimuscarinics may interact with nAChR or histamine receptors
 		</ul>
@@ -275,13 +273,19 @@ Antimuscarinics: Organ System Effects
 
 ### Central nervous system
 
-Compare with [indirect cholinergic angonists](http://chen42.github.io/talks/cho_ag.html#/32)
+Compare with [indirect cholinergic agonists](http://chen42.github.io/talks/cho_ag.html#/cns) [Galantamine]
+(http://chen42.github.io/talks/cho_ag.html#/galantamine) 
+
+	 
+
+	 
+
 
 * sedative effects, drowsiness, amnesia: <span id="drug"> Atropine, scopolamine </span>
 	* initial effect is mild stimulation
 * reduce Parkinsons tremor: <span id="drug"> atropine</span> 
 * motion sickness (vestibular disturbance): <span id="drug"> Scopolamine </span> 
-* high dose cause an acute confusional state known as [delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148511/pdf/anesthprog00291-0025.pdf), which can be reversed by <span id="drug"> [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/37)([Antilirium](http://chen42.github.io/talks/cho_ag.html#/6))
+* high dose cause an acute confusional state known as [delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148511/pdf/anesthprog00291-0025.pdf), which can be reversed by <span id="drug"> [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/37) ([Antilirium](http://chen42.github.io/talks/cho_ag.html#/6))
 
 ---
 
@@ -289,7 +293,7 @@ Antimuscarinics: Organ System Effects
 
 ### Eye 
 
-Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/19)
+Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/eye)
 
 <table><tr><td>
 <ul>
@@ -307,7 +311,13 @@ Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/19)
 </ul></ul></td><td>
 
 <img src="https://www.sciencelearn.org.nz/system/images/images/000/000/054/original/Theories-of-eye-accommodation20150805-30600-1yqri0r.jpg">
-</td></tr></table>
+
+<br>
+Contraction of ciliary muscle --> accommodation
+
+</td>
+
+</tr></table>
 
 ---
 
@@ -315,7 +325,7 @@ Antimuscarinics: Organ System Effects
 
 ### Cardiac system 
 
-Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/21)
+Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/cardiac)
 
 * sinoatril and atrioventricular node
 	* blocking the effects of the vagus nerve 
@@ -331,7 +341,7 @@ Antimuscarinics: Organ System Effects
 
 ### Vascular system 
 
-Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/20)
+Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/vascular)
 
 * most blood vessels receive no direct innervation from the parasympatholytic system
 	* except those in the thoracic and abdominal viscera
@@ -349,7 +359,7 @@ Antimuscarinics: Organ System Effects
 
 ### Respiratory system
 
-Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/22)
+Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/respiratory)
 
 <table><tr><td width=50%>
 <ul><li> potent inhibitors of secretions in the upper and lower respiratory tract.
@@ -371,8 +381,7 @@ Antimuscarinics: Organ System Effects
 
 ### Gastrointestinal tract 
 
-Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/23)
-
+Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/urinary)
 
 * dry mouth is a common side effect of antimuscarinics.
 * gastric secretion is not as effectively blocked because [other neurotransmitters](http://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch6_f002.png) are involved. 
@@ -382,14 +391,13 @@ Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/23)
 	* relax viscera wall, prolong gastric emptying time.
 	* stop diarrhea caused by cholinomimetics. 
 
-
 ---
 
 Antimuscarinics: Organ System Effects
 
 ### Genitourinary tract 
 
-Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/23)
+Compare with [cholinomimetics](http://chen42.github.io/talks/cho_ag.html#/urinary)
 
 * relaxes smooth muscle of the ureters and bladder ball. 
 * treating spasm induced by mild inflammation or surgery. 
@@ -407,6 +415,7 @@ Antimuscarinics: Organ System Effects
 	* "Atropine" fever in infants and children
 
 ---
+
 <section id="scopolamine">
 
 ## <span id="drug"> Atropine, Scopolamine</span> 
@@ -422,18 +431,6 @@ Antimuscarinics: Organ System Effects
 
 
 ---
-<section id="bradycardia">
-## <span id="drug"> Atropine, Scopolamine</span> 
-### Cardiac Indications
-* sinus bradycardia with reduced cardiac output and hypotension or ischemia. 
-	* sometimes occurs after a myocardial infarction. 
-	* i.v. <span id="drug"> Atropine </span> 
-* symptomatic atrioventricular blocking
-	* <span id="drug"> atropine </span> 
-* primary use of <span id="drug"> atropine </span> 
-
----
-
 
 ## <span id="drug"> Atropine, Scopolamine </span> 
 ### Ocular Indications
@@ -486,6 +483,18 @@ Antimuscarinics: Organ System Effects
 * used in the treatment of Parkinson disease.
 	* adjunctive therapy with adverse effects 
 	* better drugs available
+
+---
+
+<section id="bradycardia">
+## <span id="drug"> Atropine, Scopolamine</span> 
+### Cardiac Indications
+* sinus bradycardia with reduced cardiac output and hypotension or ischemia. 
+	* sometimes occurs after a myocardial infarction. 
+	* i.v. <span id="drug"> Atropine </span> 
+* symptomatic atrioventricular blocking
+	* <span id="drug"> atropine </span> 
+* primary use of <span id="drug"> atropine </span> 
 
 ---
 
