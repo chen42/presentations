@@ -25,7 +25,7 @@ Aug 21, 2018, 11-12 AM
 	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
 		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
 		* [VPN](http://uthsc.edu/vpn/index.php) provides a better experience. 
-	* [Printable](http://chen42.github.io/talks/cho_ag.html?print-pdf#/) version 
+	* [Printable](http://chen42.github.io/talks/cho_at.html?print-pdf#/) version 
 * Open link in a new browser tab:
 ```
 CTRL click
@@ -95,7 +95,6 @@ Dicyclomine (Bentyl)<br>
 Glycopyrrolate (Robinul)<br>
 Hyoscyamine (Anaspaz)<br>
 Ipratropium (Atrovent)<br>
-Methscopolamine (Pamine)<br>
 Oxybutynin (Ditropan)<br>
 Scopolamine<br>
 Solifenacin (Vesicare)<br>
@@ -108,9 +107,7 @@ Trospium (Spasmex)<br>
 
 <td>
 <b>Ganglionic Blockers</b><p>
-Hexamethonium<br>
 Mecamylamine (Inversine)<br>
-Tetraethylammonium <p>
 
 <b>Neuromuscular Blockers</b><p>
 Atracurium (Tracrium)</br>
@@ -273,12 +270,7 @@ Antimuscarinics: Organ System Effects
 
 ### Central nervous system
 
-Compare with [indirect cholinergic agonists](http://chen42.github.io/talks/cho_ag.html#/cns) [Galantamine]
-(http://chen42.github.io/talks/cho_ag.html#/galantamine) 
-
-	 
-
-	 
+Compare with [indirect cholinergic agonists](http://chen42.github.io/talks/cho_ag.html#/cns) [Galantamine](http://chen42.github.io/talks/cho_ag.html#/galantamine) 
 
 
 * sedative effects, drowsiness, amnesia: <span id="drug"> Atropine, scopolamine </span>
@@ -288,6 +280,8 @@ Compare with [indirect cholinergic agonists](http://chen42.github.io/talks/cho_a
 * high dose cause an acute confusional state known as [delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148511/pdf/anesthprog00291-0025.pdf), which can be reversed by <span id="drug"> [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/37) ([Antilirium](http://chen42.github.io/talks/cho_ag.html#/6))
 
 ---
+
+<section id="cycloplegia">
 
 Antimuscarinics: Organ System Effects
 
@@ -304,9 +298,9 @@ Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/eye)
 	</ul>
 <li> causes cycloplegia 
 <ul>
-	<li> ciliary muscle fail to contract 
-	<li> inability to accomondate (i.e. focus on near objects)
-		<ul><li> cause acute close angle glaucoma
+	<li> defined as the paralysis of ciliary muscle  
+	<li> results in the loss of accomondate (i.e. focus on near objects)
+		<ul><li> can cause acute close angle glaucoma
 		</ul>
 </ul></ul></td><td>
 
@@ -414,6 +408,8 @@ Antimuscarinics: Organ System Effects
 * body temperature increase when large dose of Antimuscarinics is given
 	* "Atropine" fever in infants and children
 
+Note: toxicity
+
 ---
 
 <section id="scopolamine">
@@ -492,8 +488,11 @@ Antimuscarinics: Organ System Effects
 * sinus bradycardia with reduced cardiac output and hypotension or ischemia. 
 	* sometimes occurs after a myocardial infarction. 
 	* i.v. <span id="drug"> Atropine </span> 
+		* blocking the effect of vagus nerve on sinoatrial and atriventricular nodes
+		* low dose causes a paradoxical slowing of heart rate (by stimulating the vagal motor neurons in brainstem)		
+		* full dose increase heart rate
 * symptomatic atrioventricular blocking
-	* <span id="drug"> atropine </span> 
+	* <span id="drug"> atropine </span>  can be used to increase atriventricular conduction velocity.
 * primary use of <span id="drug"> atropine </span> 
 
 ---
@@ -511,7 +510,7 @@ Antimuscarinics: Organ System Effects
 
 Atropine toxicity: "dry as a bone, blind as a bat, red as a beet, and mad as a hatter." 
 
-Treatment: 1. activated charcoal. 2. [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/37) (a tertiary amine with CNS effects)
+Treatment: 1. activated charcoal. 2. [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/stigmine) (a tertiary amine with CNS effects)
 
 ---
 
@@ -523,7 +522,7 @@ The pharmacologic effects of these agents are similar to those of atropine, thei
 <section id="glycopyrrolate">
 ## <span id="drug"> Glycopyrrolate, hyoscyamine </span> 
 
-adjunctive for  general anesthesia
+adjunctive for general anesthesia
 
 * AMDE 
 	* <span id="drug"> glycopyrrolate </span> is synthetic quaternary amine. <span id="drug"> hyoscyamine </span> is optical isomer of <span id="drug"> atropine </span> 
@@ -548,12 +547,18 @@ Eye
 * given before ophthalmoscopy to facilitate examination of the peripheral retina. 
 	* <span id="drug"> cyclopentolate </span> produces maximum mydriatic and cycloplegic effects within 15-60 minutes. The duration of both effects is normally 24 hours. Mydriasis may persist for several days in selected patients. 
 	* <span id="drug"> tropicamide </span> has a short duration of action (about 1 hour) and is often preferable for short-term mydriasis. 
-
+*  Why induce [cycloplegia](#/cycloplegia) to measure refraction error [pdf](https://www.omicsonline.org/cycloplegic-refraction-in-children-with-cyclopentolate-versus-atropine-2155-9570.1000239.pdf) 
+	* refraction power of the eye is determined by 
+		* static power (cornea, lens)
+		* accomondation power (mainly cililary body, contains mAChR)
+		* accurate measurement of refraction in children need to eliminate the accomondation component. Adults are less affected.
 
  <small>There is no statistically significant difference between <span id="drug"> cyclopentolate </span> and <span id="drug"> tropicamide </span> for either cycloplegic retinoscopy or distance subjective refraction.
 [Optom Vis Sci. 1993 Dec;70(12):1019-26.](https://www.ncbi.nlm.nih.gov/pubmed/8115124) </small>
 
+
 // <span id="drug"> tropicamide </span> is not as effective as <span id="drug"> cyclopentolate </span> in inhibiting accommodation. 
+
 ---
 
 
@@ -599,7 +604,7 @@ GI tract
 
 ---
 
-## <span id="drug"> Pirenzepine </span> 
+## <span id="drug"> Pirenzepine </span>  (Gastrozepin)
 
 GI tract 
 
@@ -610,7 +615,7 @@ GI tract
 
 ---
 <section id="urinary">
-## <span id="drug"> Oxybutynin, Trospium </span> 
+## <span id="drug"> Oxybutynin (Ditropan), Trospium (Spasmex) </span> 
 
 Urinary tract
 
@@ -624,7 +629,7 @@ Urinary tract
 	* <span id="drug"> oxybutynin </span> available in both oral and transdermal formulations. 
 		* side effect: dry mouth
 	* <span id="drug"> trospium </span> has fewer side effects (e.g. dry mouth: 4% trospium vs 23% oxybutynin).
-	* long-term safety and efficacy of <span id="drug"> trospium </span> has been [demonstrated](https://www.ncbi.nlm.nih.gov/pubmed/12811500). 
+	* long-term (1 year) safety and efficacy of <span id="drug"> trospium </span> has been [demonstrated](https://www.ncbi.nlm.nih.gov/pubmed/12811500). Main side effect is dry mouth. 
 
 ---
 
@@ -656,10 +661,11 @@ Urinary tract
 * All synthetic amines
 	* <span id="drug"> Mecamylamine </span> 
 		* a secondary amine, better GI track absorption, has CNS effects
-	* <span id="drug"> Hexamethonium </span> 
-		* hypertension management
-	* <span id="drug"> Tetraethylammonium </span> 
-		* short duration of action 
+		* the first oral antihypertensive agent. 
+		* the only drug of this class remain on the market for treating hypertension.
+		* block sympathetic ganglion neurotransmission
+	* <span id="drug"> Hexamethonium </span>  and  <span id="drug"> Tetraethylammonium </span> 
+		*  No longer on the market 
 
 ---
 
@@ -687,8 +693,15 @@ Urinary tract
 	* <span id="drug"> succinylcholine </span> 
 * can produce complete respiratory failure
 
+---
+
+## Nicotinic Receptor Antagonists 
+
+### Neuromuscular Blocking Agents
+
+
 <a href="http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202011/chapter_12%20Fall%202011.htm">
-<img src="http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/chapte1.jpg" width=100%>
+<img src="http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/chapte1.jpg" width=60%>
 </a>
 
 ---
@@ -696,7 +709,7 @@ Urinary tract
 
 <section id="nondepol">
 Nicotinic Receptor Antagonists 
-## Nondepolarizing Neuromuscular Blocking Agents 
+## Neuromuscular Blocking Agents 
 ### Chemistry and Pharmacokinetics 
 
 <table><thead>
@@ -759,22 +772,20 @@ Nicotinic Receptor Antagonists
 * Residual neuromuscular blockade	
 	* causes of postoperative pulmonary and respiratory complications, hypoxia, upper airway obstruction and decreased oxygen saturation
 	* increase the incidence of tracheal re-intubation in critical care units
-* [neostigmine](http://chen42.github.io/talks/cho_ag.html#/33) can be used to counteract  this effect, but in turn may cause nausea and vomiting, increased secretions, heart rhythm abnormalities and bronchospasm.
+* [neostigmine](http://chen42.github.io/talks/cho_ag.html#/stigmine) can be used to counteract  this effect, but in turn may cause nausea and vomiting, increased secretions, heart rhythm abnormalities and bronchospasm.
 
 ---
 
 <section id="sugammadex">
 Nicotinic Receptor Antagonists 
 ## Nondepolarizing Neuromuscular Blocking Agents 
-### Adverse effects 
-
+###  selective relaxant binding agents
 * <span id="drug">  Sugammadex </span> 
-	* [FDA approval in Dec 15, 2015](https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm477512.htm)
-	* selective relaxant binding agents (new drug class, [reviewed here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789633/))
-	* forms a tight water-soluble complex with <span id="drug"> rocuronium </span> or <span id="drug"> Vecuronium </span> and removes the drug from the neuromuscular junction
+	*  A [new drug classs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789633/) approved by the FDA [on Dec 15, 2015](https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm477512.htm)
+	* selectively bind to <span id="drug"> rocuronium </span> or <span id="drug"> Vecuronium </span> and removes the drug from the neuromuscular junction
 	* reverses neuromuscular blockade more rapidly and reliably than acetylcholinesterase inhibitors. 
 	* reduced all signs of residual postoperative paralysis by 46%  compared with neostigmine in a recent [meta analysis](http://onlinelibrary.wiley.com/enhanced/figures/doi/10.1111/anae.13277#figure-viewer-anae13277-fig-0004) 
-	* safe to use in patients with neuromuscular disease [article](https://www.ncbi.nlm.nih.gov/pubmed/20105151/)
+	* safe to use in patients with neuromuscular disease, [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20105151/)
 	* the end of succinylcholine? [Anesth Analg. 2000;90:S24-8.](https://www.ncbi.nlm.nih.gov/pubmed/10809515), [Can J Anaesth. 2017;64(1):104-106.](https://www.ncbi.nlm.nih.gov/pubmed/27770379)	
 
 ---
@@ -797,10 +808,11 @@ Nicotinic Receptor Antagonists
 	* the only depolarizing agent available for clinical use today
 	* composed of two covalently linked molecules of acetylcholine.
 	* succinylcholine binds to nAChR in skeletal muscle.
+		* <span id="drug"> succinylcholine </span> is not a substracte of AChE, but is hydrolyzed by [plasma (pseudo-, or butyryl- ) cholinesterase](https://www.openanesthesia.org/pseudocholinesterase_synthesis/) (slower than ACh). 
+		* causes "persistent" depolarization of the NMJ
 	* when the drug is first administered, it produces transient muscle contractions called fasciculations, followed by a sustained muscle paralysis. 
-	* <span id="drug"> succinylcholine </span> is not a substracte of AChE, but is [hydrolyzed by plasma cholinesterase](https://d1niluoi1dd30v.cloudfront.net/C20140048964/B9780323401159000116/f11-04-9780323401159.jpg?Expires=1504537553&Key-Pair-Id=APKAICLNFGBCWWYGVIZQ&Signature=cMOB3i2GMSlThgz9z2IApiZEOi21lpWLWGfPgobNVEcx1baiO57N47FA2jl5KXt16eiJWkKhm0ZDzBEUaXIi-hHgaPC-n5j3LSJ6Xm9bn1EeLn99VsUBaMYKUVlHXKOGVSQmHQb3PMU1IOB1rsfujUJjTroWXvIo4wL21sZcbXQ_)(slower than ACh). 
 * Indications 
-	* rapid onset and offset (short duration)
+	* rapid onset (1 min ) and offset (short duration, 5 min)
 	* the preferred neuromuscular blocker for endotracheal intubation or adults with emergency airway situations.
 * Adverse effects 
 	* repeated application may cause cardiac arrest
@@ -839,7 +851,7 @@ Nicotinic Receptor Antagonists
 * Interactions and adverse effects
 	* [malignant hyperthermia:](https://ojrd.biomedcentral.com/articles/10.1186/s13023-015-0310-1) pharmacogenetic disorder of skeletal muscle that presents as a hypermetabolic response to anesthetic gases *or* <span id="drug"> Succinylcholine</span>
 	* The classic signs of MH include hyperthermia, tachycardia, tachypnea, increased carbon dioxide production, increased oxygen consumption, acidosis, hyperkalaemia, muscle rigidity, and rhabdomyolysis, all related to a hypermetabolic response.
-	* In most cases, the syndrome is caused by a defect in the [ryanodine receptor](http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/chapte2.jpg). 
+	* In most cases, the syndrome is caused by a defect in the [ryanodine receptor](http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/chapte2.jpg), causes increase Ca2+ in the muscle cells -> generate heat -> produce acid. 
 	* Likely fatal if untreated. Mortality has decreased from 80 % thirty years ago to <5 % in 2006.
 	* <span id="drug"> Dantrolene </span> is a specific treatment for MH. 
 		* decrease muscle contraction by directly [interfering with calcium ion release from the sarcoplasmic reticulum](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-167) within skeletal muscle cells.
@@ -870,11 +882,11 @@ Nicotinic Receptor Antagonists
 	* need large dose, need to give several times 
 		* dosage must be titrated to the patient's response. 
 * cholinesterase regenerator 
-	* [pralidoxime](http://chen42.github.io/talks/cho_ag.html#/38) 
+	* [pralidoxime](http://chen42.github.io/talks/cho_ag.html#/39) 
 		* does not reverse CNS effects
 * pretreatment
 	* use intermediate-acting enzyme inhibitors to prevent binding of the much longer-acting inhibitor
-	* [pyridostigmine](http://chen42.github.io/talks/cho_ag.html#/35) 
+	* [pyridostigmine](http://chen42.github.io/talks/cho_ag.html#/stigmine) 
 
 ---
 

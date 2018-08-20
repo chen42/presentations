@@ -572,6 +572,8 @@ Reversible Cholinesterase Inhibitors
 
 ---
 
+<section id="stigmine">
+
 Reversible	Cholinesterase	Inhibitors
 
 ###	Neostigmine, Pyridostigmine, Physostigmine
