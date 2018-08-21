@@ -144,6 +144,10 @@ Vecuronium (Norcuron)</br>
 
 ![](https://i.pinimg.com/736x/e2/6f/d3/e26fd3e77a71e898141dd0b0d9e7b6b6--neuromuscular-junction-action.jpg)
 
+<br>
+
+<small>What if both both sympathetic and parasympathetic system are [both inhibited](http://chen42.github.io/talks/cho_ag.html#/vaspara)?</small>
+
 ---
 
 ## Cholinergic receptors
@@ -161,7 +165,7 @@ Vecuronium (Norcuron)</br>
 <small>
 The M2 and M4 mAChRs serve as autoreceptors on cholinergic terminals to suppress ACh release at select synapses in the CNS (left neuron). <font color="darkblue">The mAChRs located on non-cholinergic neurons act as heteroceptors controlling the release of other neurotransmitters, such as Dopamine. (not draw) </font> M1, M3, M5, but also M4 mAChRs that are located postsynaptically facilitate slow cholinergic synaptic neurotransmission relative to nAChR subtypes. The alpha7 and alpha4beta2 nAChR subtypes mediate fast synaptic transmission and also use-dependent changes required for neuronal plasticity. These nAChR subtypes can have both pre- and postsynaptic localization. </small>
 
-// Note: The endogenous ligand of these cholinergic receptors, ACh, is synthesized in cholinergic neurons (left neuron) by the enzyme ChAT through the transfer of acetyl-CoA onto choline. Choline uptake is mediated by presynaptic high-affinity choline transporters (ChT). After synthesis, ACh is packaged into synaptic vesicles by the vesicular ACh transporter (vAChT). After neuronal activation-mediated release into the synaptic cleft, ACh can bind to pre- and postsynaptic receptors, or it can be inactivated through hydrolysis by the AChE enzymes, a process that can be inhibited by different substances (eg, organophosphates, AChE inhibitors) to increase synaptic ACh levels. Once ACh is hydrolyzed, choline is transported through the ChTs into the presynaptic terminal, where it is again synthesized into ACh.
+Note: The endogenous ligand of these cholinergic receptors, ACh, is synthesized in cholinergic neurons (left neuron) by the enzyme ChAT through the transfer of acetyl-CoA onto choline. Choline uptake is mediated by presynaptic high-affinity choline transporters (ChT). After synthesis, ACh is packaged into synaptic vesicles by the vesicular ACh transporter (vAChT). After neuronal activation-mediated release into the synaptic cleft, ACh can bind to pre- and postsynaptic receptors, or it can be inactivated through hydrolysis by the AChE enzymes, a process that can be inhibited by different substances (eg, organophosphates, AChE inhibitors) to increase synaptic ACh levels. Once ACh is hydrolyzed, choline is transported through the ChTs into the presynaptic terminal, where it is again synthesized into ACh.
 
 ---
 
@@ -489,8 +493,9 @@ Note: toxicity
 	* sometimes occurs after a myocardial infarction. 
 	* i.v. <span id="drug"> Atropine </span> 
 		* blocking the effect of vagus nerve on sinoatrial and atriventricular nodes
-		* low dose causes a paradoxical slowing of heart rate (by stimulating the vagal motor neurons in brainstem)		
+		* low dose causes a paradoxical slowing of heart rate 
 		* full dose increase heart rate
+		* which drug has the opposite effect[??](http://chen42.github.io/talks/cho_ag.html#/cardiac)		
 * symptomatic atrioventricular blocking
 	* <span id="drug"> atropine </span>  can be used to increase atriventricular conduction velocity.
 * primary use of <span id="drug"> atropine </span> 
@@ -615,7 +620,7 @@ GI tract
 
 ---
 <section id="urinary">
-## <span id="drug"> Oxybutynin (Ditropan), Trospium (Spasmex) </span> 
+## <span id="drug"> Oxybutynin</span> (Ditropan), <span id="drug">Trospium </span> (Spasmex)  
 
 Urinary tract
 
@@ -666,6 +671,8 @@ Urinary tract
 		* block sympathetic ganglion neurotransmission
 	* <span id="drug"> Hexamethonium </span>  and  <span id="drug"> Tetraethylammonium </span> 
 		*  No longer on the market 
+
+Note: parasympathetic in general does not innervate the vascularture (salivary glands, gastrointestinal glands, and in genital erectile tissue are exceptions). 
 
 ---
 

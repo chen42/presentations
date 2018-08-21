@@ -525,6 +525,8 @@ Indirect-acting agonists: Organ system effects
 
 ---
 
+<section id='vaspara'>
+
 Indirect-acting agonists: Organ system effects
 
 ### Cadiovascular system 
@@ -535,6 +537,10 @@ Indirect-acting agonists: Organ system effects
 	* mimic vagal activation 
 *	vascular smooth muscle
 	* minimal effect 
+	* most blood vessels in the body do not have parasympathetic innervation
+
+Note: this is different between direct and indirect acting agonists, while the direct agonist ACh dilates vasculature via NO and constricts the vasculature if act on the smooth muscle directly, the indirect agonist has minimal effect because there is no endogenous ACh in most vessels. The PDE 5 inhibitors prolong the effect of NO.  
+
 ---
 
 Indirect-acting agonists: Organ system effects
