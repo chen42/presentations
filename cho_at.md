@@ -282,7 +282,7 @@ Compare with [indirect cholinergic agonists](http://chen42.github.io/talks/cho_a
 	* initial effect is mild stimulation
 * reduce Parkinsons tremor: <span id="drug"> atropine</span> 
 * motion sickness (vestibular disturbance): <span id="drug"> Scopolamine </span> 
-* high dose cause an acute confusional state known as [delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148511/pdf/anesthprog00291-0025.pdf), which can be reversed by <span id="drug"> [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/37) ([Antilirium](http://chen42.github.io/talks/cho_ag.html#/6))
+* high dose cause an acute confusional state known as [delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148511/pdf/anesthprog00291-0025.pdf), which can be reversed by <span id="drug"> [Physostigmine](http://chen42.github.io/talks/cho_ag.html#/stigmine) ([Antilirium](http://chen42.github.io/talks/cho_ag.html#/6))
 
 ---
 
@@ -342,7 +342,7 @@ Antimuscarinics: Organ System Effects
 
 Compare with [cholinomimetics ](http://chen42.github.io/talks/cho_ag.html#/vascular)
 
-* most blood vessels receive no direct innervation from the parasympatholytic system
+* most blood vessels receive no direct innervation from the parasympathetic system
 	* except those in the thoracic and abdominal viscera
 	* almost all vessles contain [endothelia muscarinic receptors](http://chen42.github.io/talks/cho_ag.html#/18) &rarr; vasodilation
 		* blocked by antimuscarinic drugs
