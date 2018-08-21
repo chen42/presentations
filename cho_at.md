@@ -139,14 +139,14 @@ Vecuronium (Norcuron)</br>
 
 
 ---
-
+<section id='diagram'>
 ## Sites of drug actions
 
 ![](https://i.pinimg.com/736x/e2/6f/d3/e26fd3e77a71e898141dd0b0d9e7b6b6--neuromuscular-junction-action.jpg)
 
 <br>
 
-<small>What if both both sympathetic and parasympathetic system are [both inhibited](http://chen42.github.io/talks/cho_ag.html#/vaspara)?</small>
+<small>What if sympathetic and parasympathetic system are [both inhibited](http://chen42.github.io/talks/cho_ag.html#/vaspara)?</small>
 
 ---
 
@@ -165,9 +165,10 @@ Vecuronium (Norcuron)</br>
 <small>
 The M2 and M4 mAChRs serve as autoreceptors on cholinergic terminals to suppress ACh release at select synapses in the CNS (left neuron). <font color="darkblue">The mAChRs located on non-cholinergic neurons act as heteroceptors controlling the release of other neurotransmitters, such as Dopamine. (not draw) </font> M1, M3, M5, but also M4 mAChRs that are located postsynaptically facilitate slow cholinergic synaptic neurotransmission relative to nAChR subtypes. The alpha7 and alpha4beta2 nAChR subtypes mediate fast synaptic transmission and also use-dependent changes required for neuronal plasticity. These nAChR subtypes can have both pre- and postsynaptic localization. </small>
 
-Note: The endogenous ligand of these cholinergic receptors, ACh, is synthesized in cholinergic neurons (left neuron) by the enzyme ChAT through the transfer of acetyl-CoA onto choline. Choline uptake is mediated by presynaptic high-affinity choline transporters (ChT). After synthesis, ACh is packaged into synaptic vesicles by the vesicular ACh transporter (vAChT). After neuronal activation-mediated release into the synaptic cleft, ACh can bind to pre- and postsynaptic receptors, or it can be inactivated through hydrolysis by the AChE enzymes, a process that can be inhibited by different substances (eg, organophosphates, AChE inhibitors) to increase synaptic ACh levels. Once ACh is hydrolyzed, choline is transported through the ChTs into the presynaptic terminal, where it is again synthesized into ACh.
+// The endogenous ligand of these cholinergic receptors, ACh, is synthesized in cholinergic neurons (left neuron) by the enzyme ChAT through the transfer of acetyl-CoA onto choline. Choline uptake is mediated by presynaptic high-affinity choline transporters (ChT). After synthesis, ACh is packaged into synaptic vesicles by the vesicular ACh transporter (vAChT). After neuronal activation-mediated release into the synaptic cleft, ACh can bind to pre- and postsynaptic receptors, or it can be inactivated through hydrolysis by the AChE enzymes, a process that can be inhibited by different substances (eg, organophosphates, AChE inhibitors) to increase synaptic ACh levels. Once ACh is hydrolyzed, choline is transported through the ChTs into the presynaptic terminal, where it is again synthesized into ACh.
 
 ---
+<section id="receptorSubtype">
 
 ### cholinergic receptor subtypes 
 
@@ -412,7 +413,7 @@ Antimuscarinics: Organ System Effects
 * body temperature increase when large dose of Antimuscarinics is given
 	* "Atropine" fever in infants and children
 
-Note: toxicity
+// atropic toxicity
 
 ---
 
@@ -468,7 +469,7 @@ Note: toxicity
 * relieve intestinal or uninary bladder spasms and pain 
 
 * not used to treat peptic ulcer due to large adverse effects. 
-	*	a selective muscarinic M1 receptor blocker, <span id="drug"> pirenzepine</span> can be used.
+	*	a selective muscarinic [M1 receptor](#/receptorSubtype) blocker, [pirenzepine](#/pirenzepine) can be used.
 
 
 ---
@@ -543,7 +544,7 @@ adjunctive for general anesthesia
 
 
 <section id="tropicamide">
-## <span id="drug"> Tropicamide, cyclopentolate </span> 
+## <span id="drug">cyclopentolate,  Tropicamide</span> 
 
 Eye
 
@@ -552,7 +553,7 @@ Eye
 * given before ophthalmoscopy to facilitate examination of the peripheral retina. 
 	* <span id="drug"> cyclopentolate </span> produces maximum mydriatic and cycloplegic effects within 15-60 minutes. The duration of both effects is normally 24 hours. Mydriasis may persist for several days in selected patients. 
 	* <span id="drug"> tropicamide </span> has a short duration of action (about 1 hour) and is often preferable for short-term mydriasis. 
-*  Why induce [cycloplegia](#/cycloplegia) to measure refraction error [pdf](https://www.omicsonline.org/cycloplegic-refraction-in-children-with-cyclopentolate-versus-atropine-2155-9570.1000239.pdf) 
+*  Why induce [cycloplegia](#/cycloplegia) to measure refraction error [ref](https://www.omicsonline.org/cycloplegic-refraction-in-children-with-cyclopentolate-versus-atropine-2155-9570.1000239.pdf) 
 	* refraction power of the eye is determined by 
 		* static power (cornea, lens)
 		* accomondation power (mainly cililary body, contains mAChR)
@@ -562,7 +563,6 @@ Eye
 [Optom Vis Sci. 1993 Dec;70(12):1019-26.](https://www.ncbi.nlm.nih.gov/pubmed/8115124) </small>
 
 
-// <span id="drug"> tropicamide </span> is not as effective as <span id="drug"> cyclopentolate </span> in inhibiting accommodation. 
 
 ---
 
@@ -575,7 +575,7 @@ respiratory tract
 * ADME and MoA
 	* quaternary amine derivatives of atropine, structurally similar 
 		* not well absorbed from the lungs into the systemic circulation,
-	* administered by inhalation to patients with obstructive lung diseases. 
+	* administered by <u>inhalation</u> to patients with obstructive lung diseases. 
 	* main difference is duration of action. 
 		* <span id="drug"> Tiotropium </span> *once* daily dosing
 		* <span id="drug"> ipratropium </span> requires *four* times daily dosing
@@ -586,7 +586,7 @@ respiratory tract
 	* <span id="drug"> Ipratropium </span> and <span id="drug"> Tiotropium </span> are often combined with beta-agonist treatments during severe, acute asthma exacerbations.
 
 
-
+// atropine ->  trophy -> champion 
 
 ---
 
@@ -608,19 +608,21 @@ GI tract
 
 
 ---
+<section id='pirenzepine'>
 
-## <span id="drug"> Pirenzepine </span>  (Gastrozepin)
+## <span id="drug"> Piren<u>zepine</u> </span>  (Gastro<u>zepin</u>)
 
 GI tract 
 
-* selective for M1 receptors
-* reduce vagally stimulated gastric acid secretion in patients with peptic ulcers. 
+* selective for [M1 receptors](#/receptorSubtype)
+* reduce vagally stimulated gastric acid secretion 
+	* treat	patients with peptic ulcers. <span id="mem"> (p..p..)</span> 
 * it blocks M1 receptors on paracrine cells and inhibits the release of histamine, a potent gastric acid stimulant. 
 * Pirenzepine is available in Canada and Europe but not in the United States. 
 
 ---
 <section id="urinary">
-## <span id="drug"> Oxybutynin</span> (Ditropan), <span id="drug">Trospium </span> (Spasmex)  
+## <span id="drug"> Oxybutyn<u>in</u></span> (Ditropan), <span id="drug">Trospium </span> (Spasmex)  
 
 Urinary tract
 
@@ -638,7 +640,7 @@ Urinary tract
 
 ---
 
-## <span id="drug"> solifenacin, darifenacin, tolterodin </span> 
+## <span id="drug"> solifenac<u>in</u>, darifenac<u>in</u>, tolterod<u>in</u> </span> 
 
 Urinary tract 
 
@@ -665,14 +667,14 @@ Urinary tract
 	* rarely used clinically but still useful for preclinical research 
 * All synthetic amines
 	* <span id="drug"> Mecamylamine </span> 
-		* a secondary amine, better GI track absorption, has CNS effects
-		* the first oral antihypertensive agent. 
-		* the only drug of this class remain on the market for treating hypertension.
+		* a secondary amine, goog GI track absorption, has CNS effects
+		* the first oral antihypertensive agent. [diagram](#/diagram) 
+		* the only drug of this class remain on the market 
 		* block sympathetic ganglion neurotransmission
 	* <span id="drug"> Hexamethonium </span>  and  <span id="drug"> Tetraethylammonium </span> 
 		*  No longer on the market 
 
-Note: parasympathetic in general does not innervate the vascularture (salivary glands, gastrointestinal glands, and in genital erectile tissue are exceptions). 
+// parasympathetic in general does not innervate the vascularture (salivary glands, gastrointestinal glands, and in genital erectile tissue are exceptions). 
 
 ---
 
@@ -701,7 +703,7 @@ Note: parasympathetic in general does not innervate the vascularture (salivary g
 * can produce complete respiratory failure
 
 ---
-
+<section id="muscleDiagram">
 ## Nicotinic Receptor Antagonists 
 
 ### Neuromuscular Blocking Agents
@@ -743,7 +745,6 @@ Nicotinic Receptor Antagonists
 * most of the isomers of atracurium are hydrolyzed by plasma esterases. 
 * <span id="drug"> cisatracurium </span> spontaneously decomposes by nonenzymatic chemical degradation. 
 	* preferred paralytic agent for critically ill patients with impaired hepatic and renal function. 
-* In patients with normal renal and hepatic function, atracurium and cisatracurium have an intermediate duration of action comparable to that of vecuronium and rocuronium. 
 
 ---
 Nicotinic Receptor Antagonists 
@@ -772,6 +773,8 @@ Nicotinic Receptor Antagonists
 * facilitate intubation of the respiratory tract. 
 
 ---
+<section id="postsurgical">
+
 Nicotinic Receptor Antagonists 
 ## Nondepolarizing Neuromuscular Blocking Agents 
 ### Adverse effects 
@@ -819,8 +822,8 @@ Nicotinic Receptor Antagonists
 		* causes "persistent" depolarization of the NMJ
 	* when the drug is first administered, it produces transient muscle contractions called fasciculations, followed by a sustained muscle paralysis. 
 * Indications 
-	* rapid onset (1 min ) and offset (short duration, 5 min)
 	* the preferred neuromuscular blocker for endotracheal intubation or adults with emergency airway situations.
+		* rapid onset (1 min ) and offset (short duration, 5 min)
 * Adverse effects 
 	* repeated application may cause cardiac arrest
 	* patients with atypical cholinesterase cannot metabolize <span id="drug"> succinylcholine </span> at normal rates 
@@ -861,7 +864,7 @@ Nicotinic Receptor Antagonists
 	* In most cases, the syndrome is caused by a defect in the [ryanodine receptor](http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/chapte2.jpg), causes increase Ca2+ in the muscle cells -> generate heat -> produce acid. 
 	* Likely fatal if untreated. Mortality has decreased from 80 % thirty years ago to <5 % in 2006.
 	* <span id="drug"> Dantrolene </span> is a specific treatment for MH. 
-		* decrease muscle contraction by directly [interfering with calcium ion release from the sarcoplasmic reticulum](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-167) within skeletal muscle cells.
+		* decrease muscle contraction by directly [interfering with calcium ion release ](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-167) from the [sarcoplasmic reticulum](#/muscleDiagram) within skeletal muscle cells.
 		
 [Orphanet J Rare Dis. 2015 Aug 4;10:93](https://ojrd.biomedcentral.com/articles/10.1186/s13023-015-0310-1)
 ---

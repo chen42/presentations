@@ -139,9 +139,7 @@ Brenner and Stevens, Pharmacology, 5e.
 
 <img src="https://s-media-cache-ak0.pinimg.com/originals/cb/3c/1e/cb3c1e101f6e1429cdce1ead41dff65b.png">
 
-Note: autonomic-> sym vs parasympathetic; both starts from the cns, connect to a ganglion; then relays to effector organs; neurotransmitters; ach; two types of receptors
-
-Function: Fight or Flight vs Rest and Digest 
+//  Function: Fight or Flight vs Rest and Digest 
 
 ---
 
@@ -151,7 +149,7 @@ Function: Fight or Flight vs Rest and Digest
 ![](https://accessmedicine.mhmedical.com/data/books/1193/m_kat_ch6_f001.png)
 
 
-Note: sweat glands
+// sweat glands
 
 ---
 
@@ -175,7 +173,7 @@ Note: sweat glands
 * Direct vs Indirect 
 * Cholinergic agonist --think-> Parasympathetic activation
 
-Note: direct vs indirect uses the receptor as the reference point
+// direct vs indirect uses the receptor as the reference point
 Check the diagram for agonist = parasympathetic  (not sympathetic)
 
 ---
@@ -255,7 +253,7 @@ Bind and activate acetylcholine receptors (think muscarinic)
 
 [Pharmacology 5e](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323391665000062?scrollTo=%23t0015) Table 6.2
 
-Note: important to remember the location of the subtypes and their effects
+// important to remember the location of the subtypes and their effects
 
 ---
 <section id="eye">
@@ -274,7 +272,7 @@ Cholinomimetics: Organ system effects
 suspensory ligment = zonule
 </td></table>
 
-Note: Miosis is excessive contraction of the pupil (to close the eye)
+// Miosis is excessive contraction of the pupil (to close the eye)
 
 In humans, relaxation of the zonule is induced by contraction of the ciliary muscle, which moves forward, thereby allowing the lens to adopt a more spherical shape owing to the elasticity of the lens capsule
 
@@ -296,7 +294,7 @@ Cholinomimetics: Organ system effects
 <br>
 [Nature. 1980 Nov 27;288:373-6.](https://www.ncbi.nlm.nih.gov/PubMed/6253831)
 
-Note: NA; noradrenaline, Ach, Wash, drug addiction and cummulative concentration with flow.
+// NA; noradrenaline, Ach, Wash, drug addiction and cummulative concentration with flow.
 direct effect of Ach on vascular smoothe muscle is contraction
 
 the endothelium contains the enzymes necessary to synthesize, store and breakdown ACh.  flow‐mediated endothelial calcium responses arise from the autocrine action of non‐neuronal ACh released by the endothelium. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5157078/)  
@@ -315,7 +313,7 @@ Cholinomimetics: Organ system effects
 		* low dose ACh cause vasodilation, reduces blood pressure, often accompanied by a reflex increasing in heart rate (<b>homeostatic reflex</b>)
 		* high dose ACh cause bradycardia, decrease atrioventricular node conduction velocity, hypotension
 
-Note: parasympathetic, relaxation and digest
+//  parasympathetic, relaxation and digest
 
 ---
 
@@ -330,7 +328,7 @@ Cholinomimetics: Organ system effects
  * causes an increase in the secretion of mucus throughout the respiratory tract. 
  * contra-indicated in patients with asthma and other forms of obstructive lung disease. 
 
-Note: M3 receptor 
+// M3 receptor 
 
 ---
 
@@ -366,7 +364,7 @@ Cholinomimetics: choline esters
 		---
 		[about angina](https://www.mayoclinic.org/diseases-conditions/angina/symptoms-causes/syc-20369373) 
 
-Note: short duration drugs are good for diagnosis
+// short duration drugs are good for diagnosis
 Vaospastic angina is defined as ≥90% narrowing of the epicardial coronary arteries on an angiography during the test
 
 ---
@@ -426,7 +424,7 @@ open vs close angle glaucoma
 </tr>
 </table>
 
-Note: pronounced as showgrins
+// pronounced as showgrins
 
 zerostoma (stoma: openning, mouth)
 
@@ -501,7 +499,7 @@ Cholinomimetics: synthetic agonists
 		* occurs within 10 min for <span id="drug"> [soman](https://en.wikipedia.org/wiki/Soman) </span>, but 48 h later for <span id="drug"> [VX](https://en.wikipedia.org/wiki/VX_%28nerve_agent%29) </span> ; 
 		* cholinesterase regenerator (e.g., <span id="drug"> pralidoxime </span> ) is more effective before aging occurs
 
-Note: chocolate, refregirator, praline, aging
+// chocolate, refregirator, praline, aging
 
 ---
 
@@ -538,8 +536,10 @@ Indirect-acting agonists: Organ system effects
 *	vascular smooth muscle
 	* minimal effect 
 	* most blood vessels in the body do not have parasympathetic innervation
+		* there are [exceptions]
+		* what is the direct effect of [ACh](#/vascular) on vasculature?
 
-Note: this is different between direct and indirect acting agonists, while the direct agonist ACh dilates vasculature via NO and constricts the vasculature if act on the smooth muscle directly, the indirect agonist has minimal effect because there is no endogenous ACh in most vessels. The PDE 5 inhibitors prolong the effect of NO.  
+// this is different between direct and indirect acting agonists, while the direct agonist ACh dilates vasculature via NO and constricts the vasculature if act on the smooth muscle directly, the indirect agonist has minimal effect because there is no endogenous ACh in most vessels. The PDE 5 inhibitors prolong the effect of NO.  
 
 ---
 
@@ -557,7 +557,7 @@ Indirect-acting agonists: Organ system effects
 * high concentration results in fibrillation of muscle fibers 
 
 
-Note: Bulbar muscles : of the mouth and throat responsible for speech and swallowing.
+//  Bulbar muscles : of the mouth and throat responsible for speech and swallowing.
 
 ---
 
@@ -589,7 +589,7 @@ Reversible	Cholinesterase	Inhibitors
 	*	plant alkaloid, quaternary amine, poorly absorbed from the gut
 	*	indications 
 		* myasthenia gravis 
-		* post-surgical distention and urinary retention
+		* [post-surgical](http://chen42/github.io/talks/cho_at.html#/postsurgical) distention and urinary retention
 *	[Pyridostigmine](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-530)	
 	*	longer-acting, but slower onset than <span id="drug"> neostigmine </span> 
 	*	indications 
@@ -670,7 +670,8 @@ Type 5 phosphodiesterase inhibitors
 <a	href="http://www.nature.com/nrd/journal/v5/n8/full/nrd2030.html"> Nature Reviews Drug Discovery 5, 689-702 2006</a>
 
 
-Note: One can argue if these are cholinergic drugs, but...
+// One can argue if these are cholinergic drugs, but...
+
 ---
 
 
@@ -691,7 +692,7 @@ Type	5 phosphodiesterase inhibitors
 	* concurrent use with nitroglycerin cause profound hypotension. 
 	* CYP3A4 inhibitors increase the level of the drug (reduce dose for patients taking these inhibitors)
 
-Note: HIV protease inhibitors inhibits CYP3A4
+// HIV protease inhibitors inhibits CYP3A4
 
 ---
 
