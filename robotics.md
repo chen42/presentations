@@ -88,7 +88,8 @@ https://medium.com/@abhishekj/an-intro-to-git-and-github-1a0e2c7e3a2f
   * **clone**: copy remote code to your local computer  
     * for the purpose of **using** it 
     * usually done on your computer
-* basic commands 
+---
+## Git commands
 
 ```
    git init ## starting a new repo
