@@ -351,7 +351,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 ---
 
 ### Protease Inhibitors 
-#### in brief
+#### Summary 
 
 * Indications
 	* Treatment of HIV infection as part of combination therapy
@@ -371,8 +371,6 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 * Drug interactions
 	* Can be severe due to effects on P450 enzymes
 
-
----
 
 ---
 <section id="nrti">
@@ -512,7 +510,9 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 
 ---
 
-### NRTIs in brief
+### NRTIs 
+
+#### Summary 
 
 * Indications 
 	* First line treatment of HIV as part of ART
@@ -528,7 +528,8 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 
 ---
 
-### NRTIs in brief
+### NRTIs 
+#### Summary 
 * Adverse effects
 	* All cause GI distress
 	* Lactic acidosis with hepatic steatosis due to mitochondrial toxicity 
@@ -660,7 +661,8 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 		* Hepatotoxicity 
  
 ---
-### NNRTIs in brief
+### NNRTIs 
+#### Summary 
 
 * Indications
 	* Treatment of HIV infection as part of combination therapy
@@ -1043,7 +1045,7 @@ AUC, area under curve; T&frac12;, half-life of elimination: CrCL, creatinine cle
 ---
 
 ### Inhibitors of Viral DNA Replication 
-#### in Brief
+#### Summary 
 * Indications
 	* HSV, VZV, and CMV infections 
 * Mechanism of action
