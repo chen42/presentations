@@ -60,17 +60,17 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 ---
 ### Objectives
 
-1. Understand the **current** guidline for HIV/AIDS treatment.
-2. Understand the **current** Initial Combination Regimens for drug Naive patent.
-3. Identify the steps in the viral replication process that provide targets for antiviral therapy.
-4. Recall the names of the drugs that act at each of the target steps in the replication process for both RNA and DNA viruses
-5. Describe the mechanism of action and significant pharmacological properties of the six major classes of antiretroviral (anti-HIV) agents
+1. Identify the **steps in the viral replication process** that provide targets for antiviral therapy.
+2. Understand the **current** guidline for HIV/AIDS treatment.
+3. Understand the **current Initial Combination Regimens** for drug Naive patent.
+4. Recall the **names of the drugs** that act at each of the target steps in the replication process for both RNA and DNA viruses
+5. Describe the mechanism of action and significant pharmacological properties of the **six major classes** of antiretroviral (anti-HIV) agents
 
 
 ---
 <section id="hiv">
 ### [Human Immunodeficiency Viruses](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001716)
-<img src="./images/antiviral/shutterstock_hiv.png" width=60%>
+<img src="./images/antiviral/hiv_structural_highlight.png" width=60%>
 
 <div id="greyText">
 single, positive strand RNA 
@@ -112,9 +112,19 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 </div>
 
 ---
+### HIV in the dental clinic
+
+[ADA notes on HIV](https://www.ada.org/en/member-center/oral-health-topics/hiv)
+
+* Infection with HIV predisposes people to certain oral health problems.  Oral leasions are among the earliest and most common clinical signs of HIV.  
+* Approx. 13% of HIV positive Americans are not aware of their condition.
+* HIV-positive patients can receive routine dental care.
+* Dentists and all staff with direct patient contact should follow Standard Precautions with all patients.
+
+---
+
 ### Current [guideline](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/10/initiation-of-antiretroviral-therapy)
 
-for
 
 #### The Initiation of Antiretroviral Therapy 
 
@@ -132,8 +142,6 @@ Last updated October 17, 2017
 [HAART - cART - ART](https://www.verywell.com/cart-hiv-combination-antiretroviral-therapy-48921)
 
 ---
-
-
 ### HIV Life Cycle 
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/eS1GODinO8w" frameborder="0" allowfullscreen></iframe>
@@ -160,61 +168,6 @@ Last updated October 17, 2017
 * Protease inhibitor-based regimens
 	* <span id="drug"> Darunavir / ritonavir / tenofovir /emtricitabine </span> 
 		
----
-
-<section id="Integrase">
-### In<font color="darkorange">te</font>grase Inhibitor
-
-[Ral<font color="darkorange">te</font>gravir (Isentress)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3572) || [Dolu<font color="darkorange">te</font>gravir (Tivicay)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3823) || [Elvi<font color="darkorange">te</font>gravir (Vitekta)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3928)
-
-<div id="right20">
-![](./images/antiviral/hiv_integration.png)
-</div>
-<div id="left80">
-**Mechanism of action**<br>
-	Inhibits HIV-1 integrase enzyme <br>
-	Prevents insertion of viral DNA into host genome <p>
-**ADME**<br>
-	Oral <br>
-	Glucuronidation and by CYP3A<br>
-	<span id="drug"> Elvitegravir </span> is mainly metabolized by CYP3A4 <br>
-	Eliminated in both feces and urine <p>
-**Resistance**<br>
-	<span id="drug"> Dolutegravir </span> has less resistance overlap with <span id="drug"> Raltegravir </span> than does <span id="drug"> elvitegravir </span> . 
-</div>
----
-### Integrase Inhibitor 
-
-* Indication
-	* <a href="#/recommend">Recommended</a> for naive patients as part of combination ART 
-* Adverse effects
-	* Diarrhea, nausea, headache, and fever
-	* Hypersensitivity to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
-* Drug interactions
-	* Not inducer, inhibitor or substrate of CYP3A4 (exeption: <span id="drug"> Elvitegravir </span> )
-	* Metabolized by UDP glucuronosyltransferase (UGT)
-	* <span id="drug"> Rifampin </span> (antibiotic) induces UGT, thus requires higher <span id="drug"> Raltegravir / Dolutegravir </span> dose
-
----
-
-<section id="tepk">
-### Pharmacokinetics of Integrase Inhibitors
-
-|Parameter| Raltegravir | Dolutegravir | Elvitegravir | 
-|---|---|---|---|
-|Oral bioavailability, % | unknown | unknown | unknown | 
-|Effect of food on AUC, % | &uarr; 46-200 | &uarr; 33-66| &uarr; 34-87 | 
-|Plasma T&frac12; elim h | 9 | 14 | 8.7 |
-|Plasma protein binding, % | 83 | 98.9 | 98-99 | 
-|Metabolism | Glucuron| Glucoron, CYP3A4 | **CYP3A**, Glucuron | 
-|Renal excretion, parent drug, % | 32 | 31 | 6.7 |
-||
-
- T&frac12; elim, half-life of elimination 
-
-
-
-
 ---
 
 <section id="pi">
@@ -251,11 +204,11 @@ PIs can be peptidomimetic (structural similarities to the cleavage site of HIV p
 	* Effective in both acutely and chronic HIV-1 infected cells
 	* Effective in monocytes and macrophages 
 		* Not affected by RT inhibitors
-	* Early stages of HIV-1 replication cycle not affected
 * Mechanism of Action
 	* Selective, competitive inhibitors of HIV proteases
 	* Bind reversibly to protease active site
 	* Prevent cleavage of polyprotein and block viral maturation
+	* Early stages of HIV-1 replication cycle not affected
 * Resistance
 	* Each drug selects for different mutations in protease gene at level of specific codons
  
@@ -280,14 +233,14 @@ note: rifampin is a bacterial RNA polymerase inhibitor
 #### Pharmacokinetics
 |Parameter| Amprenavir | Indinavir | Nelfinavir | Ritonavir | Saquinavir | Lopinavir| Darunavir| 
 |---|---|---|---|---|---|---|
-|Oral bioavailability, % | 35-90 | 60-65 | 20-80|65-70|12|?| **80**&dagger;| 
+|Oral bioavailability, % | 35-90 | 60-65 | 20-80|65-70|12|?| **80**<span style="background-color:yellow">&dagger;| 
 |Effect of meal on AUC|&darr; 21%<br> high fat | &darr; 77% <br>high fat| &uarr; 200-300% | &uarr; 15% <br>capsule | &uarr; 600% | &uarr; 130% high fat| &uarr; 40%|
 |Plasma T&frac12;elim, h| 7-11 |1.5-2| 3.5-5|3-5|7-12|6-8| 7-15| 
 |Plasma protein binding, %| 90|60|98|98-99| 98|98-99| 95|
-|Metabolism|CYP3A4|CYP3A4| CYP3A4 <br> CYP2C19| CYP3A4| CYP3A4| CYP3A4| CYP3A4|
+|Metabolism|CYP3A4|CYP3A4| CYP3A4 <br> CYP2C19| CYP3A4| CYP3A4| CYP3A4|<span style="background-color:yellow"> CYP3A4</span>|
 |Autoinduction of metabolism|No |No|Yes|Yes|No|Yes| No| 
 |Renal Excreted, % parent drug| < 3 | 11 | 1-2|3.5 |< 3|< 3| 14 |
-|Inhibition of CYP3A4|++|++|++|**++++**|+|+++| ++ |
+|Inhibition of CYP3A4|++|++|++|<span style="background-color:yellow">**++++**</span>|+|+++| ++ |
 ||
 
 Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, half-life of elimination; &uarr;, increase; &darr; decrease;
@@ -370,7 +323,71 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* Fat wasting, reaccumulation, and redistribution -- lipodystropy
 * Drug interactions
 	* Can be severe due to effects on P450 enzymes
+  
+---
 
+<section id="Integrase">
+### In<font color="darkred">tegra</font>se Inhibitor
+
+[Ral<font color="darkred">tegra</font>vir (Isentress)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3572) || [Dolu<font color="darkred">tegra</font>vir (Tivicay)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3823) || [Elvi<font color="darkred">tegra</font>vir (Vitekta)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3928)
+
+<table><tr><td>
+![](./images/antiviral/hiv_integration.png)
+</td> <td>
+<ul>
+<li>Mechanism of action
+<ul>
+  <li> Inhibits HIV-1 integrase enzyme <br>
+
+  <li> Prevents insertion of viral DNA into host genome <p>
+  </ul>
+
+<li> ADME
+  <ul>
+  <li> Oral
+  <li> Glucuronidation and by CYP3A<br>
+	<li> <span id="drug"> Elvitegravir </span> is mainly metabolized by CYP3A4 <br>
+	<li> Eliminated in both feces and urine <p>
+</ul> 
+
+<li> Resistance
+<ul>
+<li>	<span id="drug"> Dolutegravir </span> has less resistance overlap with <span id="drug"> Raltegravir </span> than does <span id="drug"> elvitegravir </span> . 
+</ul>
+</ul>
+</td> </tr></table>
+
+---
+
+### Integrase Inhibitor 
+
+* Indication
+  * <a href="#/recommend">Recommended</a> for naive patients as part of combination ART 
+  * Adverse effects
+    * Diarrhea, nausea, headache, and fever
+    * Hypersensitivity to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
+  * Drug interactions
+    * Not inducer, inhibitor or substrate of CYP3A4 (exeption: <span id="drug"> Elvitegravir </span> )
+    * Metabolized by UDP glucuronosyltransferase (UGT)
+    * <span id="drug"> Rifampin </span> (antibiotic) induces UGT, thus requires higher <span id="drug"> Raltegravir / Dolutegravir </span> dose
+---
+
+<section id="tepk">
+### Pharmacokinetics of Integrase Inhibitors
+
+|Parameter| Raltegravir | Dolutegravir | Elvitegravir | 
+|---|---|---|---|
+|Oral bioavailability, % | unknown | unknown | unknown | 
+|Effect of food on AUC, % | &uarr; 46-200 | &uarr; 33-66| &uarr; 34-87 | 
+|Plasma T&frac12; elim h | 9 | 14 | 8.7 |
+|Plasma protein binding, % | 83 | 98.9 | 98-99 | 
+|Metabolism | Glucuron| Glucoron | **CYP3A4**, Glucuron | 
+|Renal excretion, parent drug, % | 32 | 31 | 6.7 |
+||
+
+ T&frac12; elim, half-life of elimination 
+
+ [Current Recommandation](#/recommend)
 
 ---
 <section id="nrti">
@@ -380,9 +397,9 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* <span id="drug">Zidovudine</span> (Retrovir, azidothymidine [ZVD], Apo-Zidovudine, Novo-AZT)
 	* <span id="drug">Stavudine</span> (Zerit, D4T)
 	* <span id="drug">Didanosine</span> (Videx, dideoxyinosine, ddI)
-	* <span id="drug">**Abacavir**</span> (Ziagen, ABC)
-	* <span id="drug">**Lamivudine**</span> (Epivir, 3TC)
-	* <span id="drug">**Emtricitabine**</span> (Emtriva, FTC)
+	* <span id="drug" style="background-color:yellow">**Abacavir**</span> (Ziagen, ABC)
+	* <span id="drug" style="background-color:yellow">**Lamivudine**</span> (Epivir, 3TC)
+	* <span id="drug" style="background-color:yellow">**Emtricitabine**</span> (Emtriva, FTC)
 
 ---
 ### mechanism of action - NRTIs 
@@ -390,8 +407,8 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 
 ---
 ### Mechanisms of Action - NRTIs 
-* Analogs of naturally occurring nucleosides
-* Converted to their active triphosphate metabolites (i.e. a nucleotide) by host cell kinases
+* Analogs of naturally occurring [nucleosides](http://static.newworldencyclopedia.org/b/b9/Nucleotides.png)
+* NRTIS are converted to their active triphosphate metabolites (i.e. a nucleotide) by <span style="background-color:yellow">host cell </span>kinases
 * Competitive inhibitor of viral reverse transcriptase
 * Cause DNA chain termination 
 * Also inhibit host cell DNA polymerase
@@ -447,7 +464,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 |---|---|---|---|---|---|---|
 |Oral bioavailability, %| 60 | 80 | 80-90| 40 | > 70 | 75-93 | 
 |Effect of meals on AUC| &darr; 24 (high fat) | &mdash; | &mdash; | &darr; 50% (acidity) | &mdash; | &mdash; | 
-|Plasma t&frac12; emlim, h| 0.8-1.9 | **5-7** | 1.4 | 1.0 | 0.8-1.5| **10** | 
+|Plasma t&frac12; emlim, h| 0.8-1.9 | <span style="background-color:yellow">**5-7**</span> | 1.4 | 1.0 | 0.8-1.5| <span style="background-color:yellow">**10**</span> | 
 |Intracellular T&frac12;elim, triphosphate, h| 3-4 | 12 | 3.5 | 8-24 | 3 | 39| 
 |Plasma protein binding, %| 20-38 | < 35 | < 5 | < 5 | 50 | < 4|
 |Metabolism, %| 60-80 <br> glucuronidation | 20-30 | 80 | 50 <br>(purine metabolism) | > 80 | 9 oxidation <br> 4 glucuronidation|
@@ -476,7 +493,7 @@ AUC, area under plasma conc.-time curve; T&frac12;elim, half-life of elimination
 	* <span id="drug">Didanosine</span>: pancreatitis, exacerbates peripheral neuropathy 
 	* <span id="drug">Stavudine </span>: pancreatitis, exacerbates peripheral neuropathy
 	* <span id="drug">Abacavir</span>: **hypersensitivity** reaction due to genetic predisposition (multi-organ autoimmune response, potentially life threatening) 
-		* HLA-B\*5701	screening before starting therapy [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
+		* <span style="background-color:yellow">HLA-B\*5701	screening before starting therapy </span> [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa0706135#t=article)
 	* <span id="drug"> Emtricitabine </span>: psychiatric reactions, depression, dizziness, insomnia <span id="mem"> EmtriPSYtabine</span>
 
 note:		* avoid co-administration with didanosine or zidovudine 
@@ -535,6 +552,8 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 	* Lactic acidosis with hepatic steatosis due to mitochondrial toxicity 
 * Drug-Drug interactions
 	* Can be severe due to synergistic effects on myelosuppression and peripheral neuropathy
+  
+[Current Recommendations](#/recommend)
 
 ---
 <section id="Tenofovir">
@@ -555,7 +574,7 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 * Resistance
 	* Does not tend to select new mutations [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23027713)
 	* Cross resistance with preexisting <span id="drug"> zidovudine </span> associated mutations
-	* Not effected by <span id="drug"> lamivudine-abacavir </span> associated mutations
+	* Not affected by <span id="drug"> lamivudine-abacavir </span> associated mutations
 
 ---
 ### Tenofovir
@@ -585,8 +604,9 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 * Effective as antiretroviral chemoprophylaxis before exposure
 	* [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279)
 * <a href="#/recommend">Recommended for treatment naive patients</a>
-* https://www.theguardian.com/australia-news/2018/feb/08/hiv-prevention-drug-prep-likely-to-be-approved-for-federal-subsidy
+
 ---
+
 <section id="nnrti">
 ### Non Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
 
