@@ -18,6 +18,8 @@ https://chen42.github.io/talks/deepvar.html
 
 ### outline
 
+#### How to find genetic variations between individuals?
+
 * NextGen sequencing
   * Platforms
   * GATK: calling SNP and Indel from NextGen data
@@ -107,6 +109,43 @@ T110021221100310030120022032222111321022112223
 
 ---
 
+## Deep Neural network
+### Loss FUnction
+<table><tr><td>
+<img src="https://cdn-images-1.medium.com/max/1040/1*mlXnpXGdhMefPybSQtRmDA.png">
+</td><td>
+
+<img src="https://cdn-images-1.medium.com/max/1040/1*EqTaoCB1NmJnsRYEezSACA.png">
+</td></tr></table>
+
+---
+
+## Deep Neural network
+### gradient descent, learning rate
+
+<table><tr><td width=50%>
+
+<img src="https://www.jeremyjordan.me/content/images/2018/02/Screen-Shot-2018-02-24-at-11.47.09-AM.png"><br>
+
+<img src="http://home.agh.edu.pl/~horzyk/lectures/ai/GradientDescentOfErrorFunction.jpg">
+</td><td width=50%>
+
+<img src="https://blog.paperspace.com/content/images/2018/05/challenges-1.png">
+</td></tr></table>
+
+---
+
+## Deep Neural network
+
+### Training the network
+
+<a href="https://theclevermachine.wordpress.com/tag/backpropagation/">
+<img src="./images/deepvar/fprop_bprop5.png" width=70%>
+
+</a>
+
+
+---
 ## Live demo of DNN
 
 <a href="https://lecture-demo.ira.uka.de/neural-network-demo/?preset=Three%20classes%20test" target=_new ><img src="./images/deepvar/neuralnet.png"></a>
@@ -132,7 +171,9 @@ https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
 ---
 
-## Convolutional Neural Net for Object Classification 
+## Deep Neural network
+
+### ConvNet, CNN
 
 ![](https://www.mathworks.com/content/mathworks/www/en/discovery/convolutional-neural-network/jcr:content/mainParsys/image_copy.adapt.full.high.jpg/1523891796216.jpg)
 
