@@ -31,12 +31,78 @@ https://chen42.github.io/talks/deepvar.html
   * Validation
   
 ---
+## DNA sequencing
 
-## Deep Neural Network
+### Sanger sequencing with ddNTP 
+
+<img src="https://ka-perseus-images.s3.amazonaws.com/d56c026870bbfee4658a9eaa52daba496d4a58ad.png" width=50%>
+
+---
+### NextGen Sequencing: SOLiD
+
+<a href="http://seqanswers.com/forums/showthread.php?t=10">
+<img src="http://seqanswers.com/forums/images/content/abi-fig4.jpg" width=40%>
+</a>
+
+---
+
+### NextGen Sequencing: Illumina 
+
+
+<img src="http://www.biofidal-lab.com/site/images/normal/NextGen-Sequencing-Whole-Genome-Sequencing56b9ea45bd182.png" width=70%>
+---
+
+### NextGen Sequencing: Ion Torrent
+
+<img src="https://www.omicsonline.org/articles-images/biology-and-medicine-torrent-9-395-g003.png" width=70%>
+
+---
+
+### NextGen Seq data files 
+
+Illumina, Ion Torrent: fasta
+
+
+```
+>cluster_2:UMI_ATTCCG             # record name; starts with '>'
+TTTCCGGGGCACATAATCTTCAGCCGGGCGC   # DNA sequence
+
+```
+
+Illumina, Ion Torrent: fastq
+
+```
+@cluster_2:UMI_ATTCCG             # record name; starts with '@'
+TTTCCGGGGCACATAATCTTCAGCCGGGCGC   # DNA sequence
++                                 # empty line; starts with '+'
+9C;=;=<9@4868>9:67AA<9>65<=>591   # phred-scaled quality scores
+``` 
+
+SOLiD: csfasta
+
+```
+>2_14_26_F3
+T110021221100310030120022032222111321022112223
+```
+---
+
+## GATK: A topic for future class
+
+<a href="https://software.broadinstitute.org/gatk/best-practices/workflow?id=11145" target=_new> 
+<img src="https://us.v-cdn.net/5019796/uploads/editor/mz/tzm69d8e2spl.png" width=70%></a>
+
+
+---
+## Neural Network
+### one node at a time
 
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*v88ySSMr7JLaIBjwr4chTw.jpeg" width=70%>
 
+---
+
+## Deep Neural Network
+### Fully connected
 <img src="http://www.electronicdesign.com/sites/electronicdesign.com/files/MachineLearning_WTD_Fig3.png" width=70%>
 
 ---
@@ -71,14 +137,6 @@ https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 ![](https://www.mathworks.com/content/mathworks/www/en/discovery/convolutional-neural-network/jcr:content/mainParsys/image_copy.adapt.full.high.jpg/1523891796216.jpg)
 
 ---
-## Four main Features of the ConvNet 
-
-* Convolution (feature extraction)
-* Non Linearity ([ReLU](https://cdn-images-1.medium.com/max/1600/1*DfMRHwxY1gyyDmrIAd-gjQ.png))
-* Pooling or Sub Sampling
-* Classification (fully connected layer)
-
----
 
 ## Visual example of a ConvNet
 
@@ -91,9 +149,10 @@ Author: [Adam Harley](http://www.cs.cmu.edu/~aharley/)
 
 ## Google InceptionNet
 
-Inception Net: [Towards Data Science Intro](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+<img src="./images/deepvar/inceptionv1.png" width=80%>
 
-[Going deeper with convolutions, pdf](https://arxiv.org/pdf/1409.4842v1.pdf)
+[InceptionNet](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+
 
 ---
 
