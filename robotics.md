@@ -17,7 +17,7 @@ inbox@haochen.name
 
 * [Week 1](#week1) Oct 04, 2018 Introduction to Python, GitHub
 * [Week 2](#week2) Oct 11, 2018 Function in Python, GitHub practice, markdown, text editor
-* [Week 3] Object Oriented Python
+* [Week 3](#week3) Oct 18, 2018 Object Oriented Python, using libraries (math)
 * [Week 4] Problem solving in Python 
 * [Week 5] Using Python libraries: Math, enum; collections; datetime; pickle; pathfinder; os 
 * [Week 6] WPILIB, the robotics interface
@@ -136,3 +136,30 @@ How are you today? I have a long line of text I want to print, and every time I 
      x
 
 ```
+ 
+<section id="week3">
+## Python Class
+```
+class cleverName:
+  def __init__(self, x,y,z):
+    self.X=x
+    self.Y=y
+    self.Z=z
+
+  def sum(self):
+    self.sum=self.X+self.Y+self.Z
+    return self.sum
+  def mean(self):
+    self.mean=(self.X+self.Y+self.Z)/3
+    return self.mean
+
+new=cleverName(1,2,3)
+print (new.sum())
+```
+--- 
+## Python class reading material
+* [W3C school](https://www.w3schools.com/python/python_classes.asp)
+* [Python class Exercise with answers](https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/content/classes/exercisesclasses.html)
+
+
+
