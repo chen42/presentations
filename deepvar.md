@@ -359,3 +359,11 @@ def make_pixel(red, green, blue, alpha):
   * All GATK results were obtained using 1000 genome known variants during indel Realign and dbSNP during base recalibration
 * Disadvantage is the need to use GPU, maybe increased computation time.
 
+
+---
+## Similar approaches
+
+* Clairvoyante:  [pdf](https://www.biorxiv.org/content/early/2018/09/26/310458) |  [GitHub](https://github.com/anfederico/Clairvoyant)
+* VariantionAnalysis: [pdf](https://www.biorxiv.org/content/early/2016/12/30/097469) |  [GitHub](https://github.com/CampagneLaboratory/variationanalysis) 
+* GenotypeTensor: [pdf](https://www.biorxiv.org/content/early/2018/06/05/338780) | [GitHub](https://github.com/CampagneLaboratory/GenotypeTensors)
+
