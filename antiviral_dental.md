@@ -14,14 +14,14 @@ Oct 25, 2018
 
 ---
 
-### Conventions 
-#### used in this document 
+## Conventions 
+### used in this document 
 
 * Color and style guide: 
 	* Drug name: <span id="drug"> Enfuvirtide</span>
 	* Links: [Clinicalkey](https://www.clinicalkey.com/#!/). 
 		* You need to login via your UTHSC netid when off campus to use e-textbooks. 
-		* [VPN](http://uthsc.edu/vpn/)  provides a better experience. 
+		* [VPN](http://uthsc.edu/vpn/) provides a better experience. 
 	* [Printable](http://chen42.github.io/talks/antiviral.html?print-pdf#/) version 
 * Open link in a new browser tab:
 ```
@@ -46,8 +46,8 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 
 ---
-### Agents for the treatment of virus infections 
-#### [Hour 1](#/hiv) 
+## Agents for the treatment of virus infections 
+### [Hour 1](#/hiv) 
 * <a href="#/hiv">Retrovirus (HIV)</a>
 	* Fusion inhibitors <span id="drug">[Enfuvirtide](#/Enfuvirtide), [Maraviroc](#/Maraviroc)</span>
 	* Nucleoside reverse transcriptase inhibitors <span id="drug">[Zidovudine, Didanosine, Stavudine, Lamivudine, Abacavir, Emtricitabine](#/nrti)</span>
@@ -58,18 +58,22 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 
 
 ---
-### Objectives
+## Objectives
 
-1. Identify the **steps in the viral replication process** that provide targets for antiviral therapy.
-2. Understand the **current** guidline for HIV/AIDS treatment.
-3. Understand the **current Initial Combination Regimens** for drug Naive patent.
-4. Recall the **names of the drugs** that act at each of the target steps in the replication process for both RNA and DNA viruses
-5. Describe the mechanism of action and significant pharmacological properties of the **six major classes** of antiretroviral (anti-HIV) agents
+1. Identify the <span style="background-color:yellow">steps in the viral replication process</span> that provide targets for antiviral therapy.
+
+2. Understand the <span style="background-color:yellow">current guidline for HIV/AIDS treatment. </span>
+
+3. Understand the <span style="background-color:yellow">current Initial Combination Regimens</span> for drug Naive patent.
+
+4. Describe the mechanism of action and significant pharmacological properties of the <span style="background-color:yellow">six major classes</span> of antiretroviral (anti-HIV) agents
+
+5. Recall the names of the drugs that act at each of the target steps in the replication process for both RNA and DNA viruses
 
 
 ---
 <section id="hiv">
-### [Human Immunodeficiency Viruses](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001716)
+## [Human Immunodeficiency Viruses](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001716)
 <img src="./images/antiviral/hiv_structural_highlight.png" width=60%>
 
 <div id="greyText">
@@ -79,46 +83,46 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 </div>
 ---
 
-### [AIDS background](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978044306752550003X)
-<div id="left50">
-1. **Primary infection.** About 90% of patients develop a flu-like illness, which coincides with [seroconversion](https://aidsinfo.nih.gov/education-materials/glossary/648/seroconversion), between 2 and 4 weeks post exposure. Symptoms include, fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is **self-limiting**.
-<br>
-2. **Asymptomatic phase.** Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
-<br>
-3. **Acquired Immunodeficiency Syndrome (AIDS).** Features:
-<ul><li>
-	* Constitutional disease: 
-	<ul><li>
-		* fever, diarrhea, weight loss, skin rashes.
-		</ul><li>
-	* Immunodeficiency: 
-	<ul><li>
-		* increased susceptibility to [opportunistic infections](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978141603618010044X?scrollTo=%23hl0002499)	
-		</ul><li>
-	* Neurological disease:
-	<ul><li>
-		* [dementia](https://www.ncbi.nlm.nih.gov/pubmed/24938216), [myelopathy](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323287821004329?scrollTo=%23hl0000547), [peripheral neuropathy](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323032759100121?scrollTo=%23hl0000789)	
-		</ul><li>
-	* Rare malignancies:
-	<ul><li>
-		* [Kaposi sarcoma](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001431?scrollTo=%23hl0000286), 
-		[oral hairy leukoplakia](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455750177003779?scrollTo=%23hl0000151), 
-		or [lymphoma](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455746965000117?scrollTo=%23hl0001298)	
-		</ul></ul>
-</div>
+## [AIDS background](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978044306752550003X)
+<table><tr><td width=40%>
+<ol> <li> <b>Primary infection.</b> About 90% of patients develop a flu-like illness, which coincides with [seroconversion](https://aidsinfo.nih.gov/education-materials/glossary/648/seroconversion), between 2 and 4 weeks post exposure. Symptoms include, fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is **self-limiting**.
 
-<div id="right50">
-<img src="./images/antiviral/hiv_untreated.png" width=90%>
-</div>
+<li> <b>Asymptomatic phase.</b> Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
+
+<li> <b>Acquired Immunodeficiency Syndrome (AIDS). </b>Features:
+<ul><li> Constitutional disease: 
+		<ul>
+			<li> fever, diarrhea, weight loss, skin rashes.
+		</ul>
+	<li> Immunodeficiency: 
+	 <ul>
+		 	<li> increased susceptibility to [opportunistic infections](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978141603618010044X?scrollTo=%23hl0002499)	
+		</ul>
+	<li> Neurological disease:
+		<ul>
+		<li> [dementia](https://www.ncbi.nlm.nih.gov/pubmed/24938216), [myelopathy](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323287821004329?scrollTo=%23hl0000547), [peripheral neuropathy](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323032759100121?scrollTo=%23hl0000789)	
+		</ul>
+	<li> Rare malignancies:
+		<ul><li>
+		 [Kaposi sarcoma](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001431?scrollTo=%23hl0000286), 
+		[oral hairy leukoplakia](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455750177003779?scrollTo=%23hl0000151), 
+		or [lymphoma](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455746965000117?scrollTo=%23hl0001298)
+	 </ul>
+</ul>
+</td>
+
+<td> <img src="./images/antiviral/hiv_untreated.png" width=90%> </td>
+
+</table>
 
 ---
-### HIV in the dental clinic
+## HIV in the dental clinic
 
-[ADA notes on HIV](https://www.ada.org/en/member-center/oral-health-topics/hiv)
+### [ADA notes on HIV](https://www.ada.org/en/member-center/oral-health-topics/hiv)
 
-* Infection with HIV predisposes people to certain oral health problems.  Oral leasions are among the earliest and most common clinical signs of HIV.  
-* Approx. 13% of HIV positive Americans are not aware of their condition.
+* Infection with HIV predisposes people to certain oral health problems. Oral leasions are among the earliest and most common clinical signs of HIV. 
 * HIV-positive patients can receive routine dental care.
+* Approx. 13% of HIV positive Americans are not aware of their condition.
 * Dentists and all staff with direct patient contact should follow Standard Precautions with all patients.
 
 ---
@@ -162,9 +166,9 @@ Last updated October 17, 2017
 
 * Integrase inhibitor-based regimens 	
 	* <span id="drug"> Dolutegravir / abacavir / lamivudine </span> only for HLA-B\*5701 negative patients 
-	* <span id="drug"> Dolutegravir / tenofovir / emtricitabine </span>  
-	* <span id="drug"> Elvitegravir / cobicistat / tenofovir / emtricitabine  </span> 
-	* <span id="drug"> Raltegravir / tenofovir / emtricitabine  </span>
+	* <span id="drug"> Dolutegravir / tenofovir / emtricitabine </span> 
+	* <span id="drug"> Elvitegravir / cobicistat / tenofovir / emtricitabine </span> 
+	* <span id="drug"> Raltegravir / tenofovir / emtricitabine </span>
 * Protease inhibitor-based regimens
 	* <span id="drug"> Darunavir / ritonavir / tenofovir /emtricitabine </span> 
 		
@@ -172,7 +176,7 @@ Last updated October 17, 2017
 
 <section id="pi">
 ### Protease Inhibitors, PIs
-<div id="left50">
+<table> <tr><td width=40%>
 [Ataza<u>navir</u> (Reyataz)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2795)
 <br>
 [Indi<u>navir</u> (Crixivan)](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001303?scrollTo=%23hl0001350)
@@ -188,12 +192,10 @@ Last updated October 17, 2017
 [<b>Daru<u>navir</u></b> (Prezista)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3515)
 
 <br>
-PIs can be peptidomimetic (structural similarities to the cleavage site of HIV polyproteins) or not (<span id="drug"> nelfinavir </span> ).
-</div>
-
-<div id="right50">
+PIs can be peptidomimetic (structural similarities to the cleavage site of HIV polyproteins) or not <span id="drug"> (nelfinavir) </span>.
+</td><td>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MK2r8J7SCSg?start=20&amp;stop=60" frameborder="0" allowfullscreen></iframe>
-</div>
+</td></tr></table>
 
 
 ---
@@ -222,7 +224,7 @@ PIs can be peptidomimetic (structural similarities to the cleavage site of HIV p
 		* No adjustments needed for renal dysfunctions
 	* Metabolized by cytochrome P-450 system
 		* Concurrent use of potent P-450 inducer (e.g. <span id="drug"> rifampin </span> ) leads to decreased PI concentration
-	* Potent inhibitors of CYP3A4
+	* <span style="background-color:yellow">Potent inhibitors of CYP3A4</span>
 		* <span id="drug"> Ritonavir </span> used to increase (i.e. "boost") plasma concentration of other PIs except <span id="drug"> nelfinavir </span> (CYP2C19) 
 		* Toxic adverse effects related to drug accumulation due to PI-mediated inhibition of hepatic P450 system
 		 
@@ -293,7 +295,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 
 ---
 <section id="Darunavir">
-### Darunavir
+## Darunavir
 
 * Achieves faster virologic response than control PIs. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21692667) 
 * Can be used to treat patients resist to other PIs. 
@@ -323,7 +325,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* Fat wasting, reaccumulation, and redistribution -- lipodystropy
 * Drug interactions
 	* Can be severe due to effects on P450 enzymes
-  
+ 
 ---
 
 <section id="Integrase">
@@ -337,15 +339,15 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 <ul>
 <li>Mechanism of action
 <ul>
-  <li> Inhibits HIV-1 integrase enzyme <br>
+ <li> Inhibits HIV-1 integrase enzyme <br>
 
-  <li> Prevents insertion of viral DNA into host genome <p>
-  </ul>
+ <li> Prevents insertion of viral DNA into host genome <p>
+ </ul>
 
 <li> ADME
-  <ul>
-  <li> Oral
-  <li> Glucuronidation and by CYP3A<br>
+ <ul>
+ <li> Oral
+ <li> Glucuronidation and by CYP3A<br>
 	<li> <span id="drug"> Elvitegravir </span> is mainly metabolized by CYP3A4 <br>
 	<li> Eliminated in both feces and urine <p>
 </ul> 
@@ -362,14 +364,14 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 ### Integrase Inhibitor 
 
 * Indication
-  * <a href="#/recommend">Recommended</a> for naive patients as part of combination ART 
-  * Adverse effects
-    * Diarrhea, nausea, headache, and fever
-    * Hypersensitivity to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
-  * Drug interactions
-    * Not inducer, inhibitor or substrate of CYP3A4 (exeption: <span id="drug"> Elvitegravir </span> )
-    * Metabolized by UDP glucuronosyltransferase (UGT)
-    * <span id="drug"> Rifampin </span> (antibiotic) induces UGT, thus requires higher <span id="drug"> Raltegravir / Dolutegravir </span> dose
+ * <a href="#/recommend">Recommended</a> for naive patients as part of combination ART 
+ * Adverse effects
+ * Diarrhea, nausea, headache, and fever
+ * Hypersensitivity to <span id="drug"> Dolutegravir </span> include serious rash, blisters/peeling of skin, hepatitis, facial edema, angioedema, difficulty breathing, or eosinophilia.
+ * Drug interactions
+ * Not inducer, inhibitor or substrate of CYP3A4 (exeption: <span id="drug"> Elvitegravir </span> )
+ * Metabolized by UDP glucuronosyltransferase (UGT)
+ * <span id="drug"> Rifampin </span> (antibiotic) induces UGT, thus requires higher <span id="drug"> Raltegravir / Dolutegravir </span> dose
 ---
 
 <section id="tepk">
@@ -409,9 +411,10 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 ### Mechanisms of Action - NRTIs 
 * Analogs of naturally occurring [nucleosides](http://static.newworldencyclopedia.org/b/b9/Nucleotides.png)
 * NRTIS are converted to their active triphosphate metabolites (i.e. a nucleotide) by <span style="background-color:yellow">host cell </span>kinases
-* Competitive inhibitor of viral reverse transcriptase
-* Cause DNA chain termination 
-* Also inhibit host cell DNA polymerase
+* MoA
+  * Competitive inhibitor of viral reverse transcriptase
+  * Cause DNA chain termination 
+  * Also inhibit host cell DNA polymerase
 
 
 ---
@@ -437,7 +440,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* Prevent acute infection of susceptible cells
 	* Little effect on cells already infected by HIV
 	* <span id="drug"> Zidovudine </span> 
-		* **Only NRTI shown to reduce perinatal HIV transmission**
+		* <span style="background-color:yellow">Only NRTI shown to reduce perinatal HIV transmission</a>
 * Resistance
 	* Drugs select for different mutations of the reverse transcriptase gene at the level of specific codons 
 
@@ -552,15 +555,16 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 	* Lactic acidosis with hepatic steatosis due to mitochondrial toxicity 
 * Drug-Drug interactions
 	* Can be severe due to synergistic effects on myelosuppression and peripheral neuropathy
-  
+ 
 [Current Recommendations](#/recommend)
 
 ---
 <section id="Tenofovir">
 ### Nucleo<font color="darkorange">t</font>ide Reverse Transcriptase Inhibitor
 
-[Teno<font color="darkorange">fovir</font> disoproxil (Viread)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2477)
+[Teno<font color="darkorange">fo</font>vir disoproxil (Viread)](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2477)
 
+<span id="mem"> fo=pho=phosphate</mem>
 
 * Properties
 	* <span id="drug"> Tenofovir disoproxil </span> is a prodrug. It is hydrolyzed to release tenofovir
@@ -568,11 +572,11 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 	* Requires two intracellular phosphorylation steps for activation
 	* Weak inhibitor of mammalian DNA and mt polymerase
 	* Included in many <a href="#/recommend"> first-line ART regimens</a>
-	* Also indicated for hepatitis B 
+	* Also indicated for <span id="bg"> hepatitis B </span>
 * Mechanism of action
 	* Inhibits viral reverse transcriptase by chain termination
 * Resistance
-	* Does not tend to select new mutations [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23027713)
+	* <span id='bg'>Does not tend to select the K65R mutation when used with <span id="drug">Emtricitabine</span></span> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23027713)
 	* Cross resistance with preexisting <span id="drug"> zidovudine </span> associated mutations
 	* Not affected by <span id="drug"> lamivudine-abacavir </span> associated mutations
 
@@ -599,9 +603,9 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 #### (Truvada)
 
 * Better than Abacavir-Lamivudine for initial therapy 
-	* Extending time to  [virologic failure](https://aidsinfo.nih.gov/education-materials/glossary/879/virologic-failure)  [(details)](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/15/virologic-failure) and first adverse event 
+	* Extending time to [virologic failure](https://aidsinfo.nih.gov/education-materials/glossary/879/virologic-failure) [(details)](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/15/virologic-failure) and first adverse event 
 	* [NEJM Dec 3 2009](https://www.ncbi.nlm.nih.gov/pubmed/?term=19952143)
-* Effective as antiretroviral chemoprophylaxis before exposure
+* Effective as antiretroviral <span id='bg'>chemoprophylaxis </span>before exposure
 	* [NEJM Dec 30 2010](https://www.ncbi.nlm.nih.gov/pubmed/21091279)
 * <a href="#/recommend">Recommended for treatment naive patients</a>
 
@@ -795,7 +799,7 @@ Prevents virus from entering the host cell <br>
 	* CYP3A inhibitors or inducers
 		* Reduce dosage when <span id="drug"> ritonavir </span> or <span id="drug"> cobicistat </span> is coadministered 
 		* Increase dosage with <span id="drug"> efavirenz </span> 
-    
+ 
 ---
 
 ### Antiretroviral Drug Selectivity
@@ -816,10 +820,10 @@ Prevents virus from entering the host cell <br>
 
 * Integrase inhibitor-based regimens 	
 	* <span id="drug"> Dolutegravir / abacavir / lamivudine </span> only for HLA-B\*5701 negative patients 
-	* <span id="drug"> Dolutegravir / tenofovir / emtricitabine </span>  
-	* <span id="drug"> Elvitegravir / [cobicistat](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3929)  <a href="#/tepk">  <small>Why</small></a>
- / tenofovir / emtricitabine  </span> 
-	* <span id="drug"> Raltegravir / tenofovir / emtricitabine  </span>
+	* <span id="drug"> Dolutegravir / tenofovir / emtricitabine </span> 
+	* <span id="drug"> Elvitegravir / [cobicistat](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-3929) <a href="#/tepk"> <small>Why</small></a>
+ / tenofovir / emtricitabine </span> 
+	* <span id="drug"> Raltegravir / tenofovir / emtricitabine </span>
 * Protease inhibitor-based regimens
 	* <span id="drug"> Darunavir / ritonavir / tenofovir /emtricitabine </span> 
 		
@@ -837,15 +841,15 @@ Prevents virus from entering the host cell <br>
 * <a href="#/flu">Influenza Virus </a>
 	* Uncoating inhibitors <span id="drug"> [Amantadine, Rimantadine](#/fluuncoating)</span>
 	* Viral release inhibitors <span id="drug"> [Zanamivir, Oseltamivir](#/flurelease)</span>
-  
+ 
 ---
 
 ### Objectives 
 
-1. Understand the drug interactions involved in multidrug antiretroviral therapy and the effect of these antiviral agents on other concurrent drug therapies.
-2. Describe the common and unique adverse effects of the distinct classes of antiviral agents
-4. Describe the mechanisms of action for HSV, CMV, and HBV antiviral agents and mechanisms of viral resistance to these agents.
-5. Identify the significant characteristics of the anti-influenza drugs acting at viral uncoating and release
+1. For each virus, understand the major classes of available antiviral agents.
+2. Describe the mechanisms of action for HSV, CMV, and HBV antiviral agents and mechanisms of viral resistance to these agents.
+3. Describe the common and unique adverse effects of the distinct classes of antiviral agents
+4. Identify the significant characteristics of the anti-influenza drugs acting at viral uncoating and release
 
 ---
 
@@ -877,15 +881,15 @@ Double stranded DNA virus
 
 ---
 
-[Life cycle](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978145573984400124X?scrollTo=%23hl0000246) of HSV
+## [Life cycle](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978145573984400124X?scrollTo=%23hl0000246) of HSV
 
 <img src="./images/antiviral/dna_virus.png" width=70%>
 
 
 ---
-### Nucleoside Analogs
+### Nucleoside Analogs and others
 
-<div id="left50">
+<table><tr><td width=40%>
 
 <ul>
 <li><span id="drug">Acyclovir</span> (Zovirax)
@@ -898,38 +902,37 @@ Double stranded DNA virus
 <li><span id="drug">Valganciclovir</span> (Valcyte)
 <hr>
 <hr>
-<li><span id="drug">Cidofovir</span> (Vistide)
+<li><span id="drug">Cido<span id='bg'>fo</span>vir</span> (Vistide)
 <li><span id="drug">Foscarnet</span> (Foscavir)
 </ul>
-</div>
 
-<div id="right50">
+</td><td>
 <ul>
 <li> Mechanism of action 
 <ul><li> Inactivation of viral DNA polymerase through direct binding and competition for dNTPs.
 <li> Inducing viral DNA chain termination 
 </ul>
-</div>
+</td></tr></table>
 
 
 ---
 
 
-#### Mechanisms of Acitvation of Nucleoside Analogs
+## Mechanisms of Acitvation of Nucleoside Analogs
 
-<img src="./images/antiviral/nucleoside_activation.png" width=40%>
+<img src="./images/antiviral/nucleoside_activation2.png" width=40%>
 
 ---
 
 ### Nucleoside analogues
 
 * Drug selectivity:
-	* The virus in infected cells activates the drug to an active form
+	* The <span style="background-color:yellow">virus in infected cells activates the drug to an active form</span>
 		* Uninfected cell does not activate drug.
 	* Preferential affinity of acyclovir triphosphate for viral DNA polymerase rather than cellular enzyme. 
 * Resistance: 
 	* Altered viral thymidine kinase substrate specificity
-	* Absence of viral thymidine kinase  
+	* Absence of viral thymidine kinase 
 	* Mutated viral DNA polymerase 
 
 ---
@@ -969,7 +972,7 @@ Double stranded DNA virus
 	* Competitive inhibition of viral DNA polymerase
 * Indications
 	* Alternative to Acyclovir
-	* Infection of HSV, VZV.  
+	* Infection of HSV, VZV. 
 * Adverse effects
 	* Well tolerated
 	* Headaches, nausea, diarrhea
@@ -994,7 +997,7 @@ Double stranded DNA virus
 	* <span id="drug"> Valganciclovir </span> is hydrolyzed by esterases following oral administration to <span id="drug"> ganciclovir </span> 
 * Indications
 	* CMV retinitis in AIDS patients
-		* Activity 100 x greater than <span id="drug"> Acyclovir </span> 
+		* Activity 100 x greater than <span id="drug"> Acyclovir </span> <span id='mem'>Gangbuster drug for a gigantic virus</span> 
 	* CMV prophylaxis (e.g., liver transplant patients) 
 * <a href="#/adverse">Adverse effects</a>
 	* Bone marrow suppression, neutropenia, anemia, 
@@ -1004,7 +1007,9 @@ Double stranded DNA virus
 ---
 
 <section id="Cidofovir">
-### [Cido<font color="darkorange">fovir</font>](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-125)
+### [Cido<font color="darkorange">fo</font>vir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-125)
+
+<span id="mem">fo=pho=phospho=nucleotide</span>
 
 * Mechanism of action 
 	* Cytidine nucleo<font color="darkorange">t</font>ide analog
@@ -1097,6 +1102,7 @@ Partially double-stranded DNA virus
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=290" frameborder="0" allowfullscreen></iframe>
 
+partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</span> -> DNA (negative strand) -> DNA (positive strand)
 ---
 
 ### Anti-Hepatitis Agents
@@ -1115,13 +1121,12 @@ Partially double-stranded DNA virus
 * Mechanism of action 
 	* Nucleoside analog of <b>G</b>uanosine
 	* Inhibits all 3 activities of HBV polymerase
-		* Base priming ([GAA](https://youtu.be/sVpiXaEMs7I?t=6m12s)) [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4399241/)  
+		* Base priming ([GAA](https://youtu.be/sVpiXaEMs7I?t=6m12s)) [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4399241/) 
 		* Reverse transcription
 		* DNA synthesis of positive strand
 * Indication 
 	* Effective in treatment naive HBV patients
 	* Equally active against <span id="drug"> lamivudine</span>-resistant HBV
-	* Weak activity against HIV but not clinically relevant
 
 ---
 
@@ -1174,7 +1179,7 @@ Partially double-stranded DNA virus
 	* watch for hepatitis flare if discontinued in patients with chronic HBV infection.
 ---
 <section id="Adefovir">
-### [Ade<font color="darkorange">fovir</font>](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2233)(Hepsera)
+### [Ade<font color="darkorange">fo</font>vir](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2233)(Hepsera)
 
 * Mechanism of action 
 	* Nucleo<font color="darkorange">t</font>ide analog of deoxy<font color="darkorange">ade</font>nosine monophosphate
@@ -1221,7 +1226,7 @@ Partially double-stranded DNA virus
 
 ### Ribavirin
 * Indication 
-	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span>  
+	* Treat <u>Hepatitis C</u> in combination with <span id="drug"> peginterferon alpha </span> 
 	* Weight-based dosing results in a higher sustained virologic response 
 	* <u>Respiratory syncytial virus</u>: aerosolized form 
 	* <u>Hantaan virus</u>: intravenous 
@@ -1277,9 +1282,9 @@ Partially double-stranded DNA virus
 	* <span style="font-weight:normal; font-size: 0.6em"> adenovirus; coronavirus; encephalomyocarditis virus; hepatitis B virus; hepatitis C virus (HCV); hepatitis D virus; herpes simplex virus type 1; herpes simplex virus type 2; human immunodeficiency virus (HIV); papillomavirus; poliovirus; rhinovirus; vaccinia virus; varicella-zoster virus; vesicular stomatitis virus; human T-lymphotropic virus type I (HTLV-I).
 </span>
 
-* Induces immune responses, alter the expression of  genes, cell surface markers, phagocytic activity, cytotoxicity, etc. 
+* Induces immune responses, alter the expression of genes, cell surface markers, phagocytic activity, cytotoxicity, etc. 
 
-* Exact mechanism remain unclear, but may include the induction of enzymes that interfer with key steps in the HBV life cycle, include those that degrade foreign, but not host DNA ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=24557838))  
+* Exact mechanism remain unclear, but may include the induction of enzymes that interfer with key steps in the HBV life cycle, include those that degrade foreign, but not host DNA ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=24557838)) 
 ---
 
 <section id="Interferon">
@@ -1289,7 +1294,7 @@ Partially double-stranded DNA virus
 * Indications
 	* Chronic HBV, HPV and HH-V8 (Kaposi sarcoma)
 	* HCV 
-		* <span id="drug"> peginterferon </span> in combination with <span id="drug"> Ribavirin </span>
+		* <span id='bg'> <span id="drug"> peginterferon </span> in combination with <span id="drug"> Ribavirin </span></span>
 * ADME
 	* Administered i.m. or s.c.
 	* High bioavailability
@@ -1329,15 +1334,24 @@ Partially double-stranded DNA virus
 
 ---
 
+## Life cycle
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RMNwLdtRhw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Life cycle review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2794490/)
-
-[Youtube video](https://www.youtube.com/watch?v=7Omi0IPkNpY&t=34s)
-
 ---
+
 ### Mechanism of Action of Antiinfluenza Agents
 
-![](./images/antiviral/flu.png)
+<img src="./images/antiviral/flu.png" width=60%>
+
+* virus enter the cell via H spikes. In the endosome, low pH in the endosome trigger the fusion of membranes.
+* viral ribonucleoprotein and viral RNA enters the cell nucleus, replicate the viral genome. viral RNA is also made and exported into the cytoplasm.
+* viral protein is make and virus is packaged on cell surface
+* the N spikes cleave the H spikes and allows the virion to spread to another cell. 
+
+
 
 ---
 
