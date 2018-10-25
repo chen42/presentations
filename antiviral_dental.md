@@ -144,12 +144,18 @@ Last updated October 17, 2017
 ---
 ## HIV Life Cycle 
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/eS1GODinO8w" frameborder="0" allowfullscreen></iframe>
+<table> <tr><td 50%>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eS1GODinO8w" frameborder="0" allowfullscreen></iframe>
+</td><td>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GR9d9wrOl5E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</td></tr></table>
 
 ---
 ## [HIV Lifecycle](https://en.wikipedia.org/wiki/Discovery_and_development_of_HIV-protease_inhibitors#Life_cycle_of_HIV)
-<img src="./images/antiviral/hiv_replication_narrow.png"  width=70%>
+
+<img src="./images/antiviral/hiv_life_cycle_khan.png" width=70%> 
+
 1. *Initiation*: attachment, penetration, uncoating
 2. *Replication*: genome synthesis, RNA production, protein synthesis
 3. *Release*: assembly, maturation, exit from cell
