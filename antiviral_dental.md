@@ -12,7 +12,7 @@ URL: http://chen42.github.io/talks/antiviral.html
 
 Oct 25, 2018
 
-<small>Last modified: Thu Oct 25 07:54:57 CDT 2018</small>
+<span id='mem'>Last modified: Thu Oct 25 07:54:57 CDT 2018</span>
 
 ---
 
@@ -1417,8 +1417,9 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 	* The first medicine with a novel mechanism of action to treat the flu in nearly 20 years
 * ADME	
 	* Effective against influenza A and B viruses
-	* Only for those aged 12 or more for now
+  * Initiate treatment within 48 h of symptom onset
 	* A single oral dose
+	* Only for those aged 12 or more (for now)
 * MoA	
 	* Cellular mRNA has a 5' methylated cap and a polyA tail
 	* Cap-dependent endonuclease binds to the [5' methylated caps of cellular mRNAs](http://oregonstate.edu/instruction/bi314/fall11/figure_07_16a.jpg) and cleaves the cellular mRNAs' 10 to 15 nucleotides 3' to [the cap structure. This cellular capped RNA fragment is used by the viral polymerase to prime the synthesis of viral mRNA. 	
@@ -1430,18 +1431,17 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 ### Characteristics of Antiinfluenza Agents
 
-|Parameter|Amantadine|Rimantadine| Zanamivir|Oseltamivir|
-|---|---|---|---|---|
-|Spectrum| A|A|A,B|A,B|
-|Route|Oral|Oral|Inhaled|Oral|
-|Oral bioavailability|50-90%|>90%|<5%\*|~80%|
-|Effect of meals on AUC|Negligible| Negligible|Not applicable| Negligible|
-|Plasma T&frac12; h| 12-18|24-36|2.5-5|6-10|
-|Protein binding, %| 67|40|<10|3|
-|Metabolism|<10|~75|Negligible|Negligible|
-|Renal excretion, %| 50-90| ~25|100|95|
-|Does adjustment| CrCl <80%<br>Age>65years| CrCl <10<br>Age>65years|None|CrCl<30|
-||
+|Parameter|Amantadine|Rimantadine| Zanamivir|Oseltamivir|Baloxavir|
+|---|---|---|---|---|---|
+|Spectrum| A|A|A,B|A,B|A,B|
+|Route|Oral|Oral|Inhaled|Oral|Oral|
+|Oral bioavailability|50-90%|>90%|<5%\*|~80%||
+|Effect of meals on AUC|Negligible| Negligible|Not applicable| Negligible|decrease AUC by 36%|
+|Plasma T&frac12; h| 12-18|24-36|2.5-5|6-10|79|
+|Protein binding, %| 67|40|<10|3|93|
+|Metabolism|<10|~75|Negligible|Negligible|UGT1A3|
+|Renal excretion, %| 50-90| ~25|100|95||
+|Does adjustment| CrCl <80%<br>Age>65years| CrCl <10<br>Age>65years|None|CrCl<30||
 \* Systemic absorption 4% to 17% after inhalation
 
 
@@ -1459,7 +1459,6 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 ||||Indinavir |Ritonavir|Indinavir Nelfinavir Fosamprenavir Darunavir Ritonavir|||Indinavir|
 |Ganciclovir Cidofovir Foscarnet|||Cidofovir Foscarnet |||Foscarnet||Cidofovir|
 |Ribavirin Peginterferon alpha2a|||Adefovir|Entecavir Adefovir||Ribavirin Peginterferon alpha2a|Ribavirin|Peginterferon alpha2a|
-||
 
 
 [Abacavir](#/nrti)||
