@@ -1411,8 +1411,8 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 ### <span id="drug"> Baloxavir marboxil (Xofluza) </span> 
 
 * Approved by the FDA on October 24, 2018
-	* The first oral, single-dose Antiviral
-	* The first medicine with a novel proposed mechanism of action to treat the flu in nearly 20 years
+	* The first oral, single-dose antiviral
+	* The first medicine with a novel mechanism of action to treat the flu in nearly 20 years
 * ADME	
 	* Effective against influenza A and B viruses
 	* Only for those aged 12 or more for now
