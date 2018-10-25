@@ -1347,11 +1347,10 @@ partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</sp
 <img src="./images/antiviral/flu.png" width=60%>
 
 * virus enter the cell via H spikes. In the endosome, low pH in the endosome trigger the fusion of membranes.
-* viral ribonucleoprotein and viral RNA enters the cell nucleus, replicate the viral genome. viral RNA is also made and exported into the cytoplasm.
+* viral ribonucleoprotein and viral RNA enters the cell nucleus, replicate the viral genome. 
+* viral RNA is also made and exported into the cytoplasm. (more details below) 
 * viral protein is make and virus is packaged on cell surface
 * the N spikes cleave the H spikes and allows the virion to spread to another cell. 
-
-
 
 ---
 
@@ -1361,6 +1360,9 @@ partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</sp
 	* <span id="drug"> Amantadine</span> (Symadine, Symmetrel)
 	* <span id="drug"> Rimantadine</span> (Flumadine)
  
+* Cap-dependent endonuclease inhibitor
+	* <span id="drug"> Baloxavir </span> (Xofluza)
+
 * Virus release inhibitors
 	* <span id="drug"> Zanamivir</span> (Relenza)
 	* <span id="drug"> Oseltamivir</span> (Tamiflu)
@@ -1403,12 +1405,31 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 * Adverse effects: 
 	* Zanamivir is orally inhaled and causes nasal and throat discomfort. 
 	* Oseltamivir is taken orally and can cause nausea and vomiting.
+
+---
+
+### <span id="drug"> Baloxavir marboxil (Xofluza) </span> 
+
+* Approved by the FDA on October 24, 2018
+	* The first oral, single-dose Antiviral
+	* The first medicine with a novel proposed mechanism of action to treat the flu in nearly 20 years
+* ADME	
+	* Effective against influenza A and B viruses
+	* Only for those aged 12 or more for now
+	* A single oral dose
+* MoA	
+	* Cellular mRNA has a 5' methylated cap and a polyA tail
+	* Cap-dependent endonuclease binds to the 5' methylated caps of cellular mRNAs and cleaves the cellular mRNAs' 10 to 15 nucleotides 3' to the cap structure. This cellular capped RNA fragment is used by the viral polymerase to prime the synthesis of viral mRNA. 	
+	* Baloxavir is an inhibitor of this cap-dependent endonuclease
+* Adverse effects:
+	* headache, diarrhea, bronchitis
+
 ---
 
 ### Characteristics of Antiinfluenza Agents
 
 |Parameter|Amantadine|Rimantadine| Zanamivir|Oseltamivir|
-|---|---|---|---|--|
+|---|---|---|---|---|
 |Spectrum| A|A|A,B|A,B|
 |Route|Oral|Oral|Inhaled|Oral|
 |Oral bioavailability|50-90%|>90%|<5%\*|~80%|
