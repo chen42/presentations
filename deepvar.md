@@ -314,8 +314,10 @@ def make_pixel(red, green, blue, alpha):
 ### Training 
 
 * Using the Inception model with pre-trained weights
-* Last layer is a three class (hom-ref, het, hom-alt) [softmax ]
+* Last layer is a three class (hom-ref, het, hom-alt) softmax 
+
 <a href=https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d>  <img src="https://cdn-images-1.medium.com/max/1600/1*670CdxchunD-yAuUWdI7Bw.png" width=50%></a>
+
 * [DistBelief framework](https://research.google.com/pubs/pub40565.html?hl=no):  a method to use many CPUs cores, useful when RAM requirement is larger than what the GPU offer (e.g. 6GB).
 
 ---
