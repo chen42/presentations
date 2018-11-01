@@ -102,7 +102,11 @@ T110021221100310030120022032222111321022112223
 * Sequencing data contains errors (0.1-10%)
 * Error has many sources
 * Error is depend on technology used
-* GATK statistical models
+
+<img src="./images/deepvar/wmiwli_illumina_ion.png" width=70%>
+
+---
+## GATK statistical models
 	* logistic regression for base errors
 	* hidden Markov for read likelihood given the haplotypes
 	* naive Bayes classifier for variant calling
@@ -302,6 +306,17 @@ def make_pixel(red, green, blue, alpha):
 * Google colab: a cloud version of the ipython notebook
 
 [example](https://github.com/chen42/deepvariant)
+
+---
+
+## DeepVariant
+
+### Training 
+
+* Using the Inception model with pre-trained weights
+* Last layer is a three class (hom-ref, het, hom-alt) [softmax ]
+<a href=https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d>  <img src="https://cdn-images-1.medium.com/max/1600/1*670CdxchunD-yAuUWdI7Bw.png" width=50%></a>
+* [DistBelief framework](https://research.google.com/pubs/pub40565.html?hl=no):  a method to use many CPUs cores, useful when RAM requirement is larger than what the GPU offer (e.g. 6GB).
 
 ---
 
