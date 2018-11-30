@@ -22,7 +22,7 @@
 
 <img src="./images/ratGenome/bn_both_supernova_dot.png" width=100%>
 </td>
-<td>
+<td width=50%>
 <pre>
 INPUT
 - 1200.03 M  = READS            
