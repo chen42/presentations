@@ -76,6 +76,11 @@
 
 ---
 
+## heterogeneous stock rats 
+
+<img src="http://ratgenes.org/wp-content/uploads/2014/11/HSratsFig1.png" width=50%>
+
+---
 ## Socially acquired nicotine self-administration
 
 ### HS rats, pilot data
