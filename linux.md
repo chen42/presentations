@@ -7,7 +7,7 @@ hchen@uthsc.edu
 
 Department of Pharmacology, UTHSC
 
-Nov 7th, 2017
+December 13, 2018
 
 https://chen42.github.io/talks/linux.html
 
@@ -245,13 +245,11 @@ screen -RD # force reconnect to a running session
 ```
 
 ---
-### On to the cluster
+### On to the ACF 
 
-
-Cluster Architecture [hera](http://rhodes.uthsc.edu/index.php/Cluster_@_Hera)
-
-Cluster status [hera](http://hera.uthsc.edu/ganglia/)
-
+<a href="https://www.jics.utk.edu/acf">
+<img src="https://www.jics.utk.edu/files/images/ACFDiagram.png" width=60%>
+</a>
 
 
 ---
