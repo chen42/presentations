@@ -45,7 +45,7 @@ https://chen42.github.io/talks/behaut.html
 
 ## Raspberry Pi Family
 
-<a href="https://maker.pro/raspberry-pi/tutorial/how-to-get-started-with-your-first-raspberry-pi" ><img src="https://raspi.tv/wp-content/uploads/2018/03/Pi-Family-Photo-Master-Mar2018-1500-1-939x1024.jpg" width=50%></a>
+<a href="https://maker.pro/raspberry-pi/tutorial/how-to-get-started-with-your-first-raspberry-pi" ><img src="https://raspi.tv/wp-content/uploads/2018/03/Pi-Family-Photo-Master-Mar2018-1500-1-939x1024.jpg" width=50%, style="transform:rotate(270deg);"></a>
 
 ---
 
@@ -170,6 +170,8 @@ https://chen42.github.io/talks/behaut.html
 ---
 
 ## Example 1: RFID reader
+<a href="https://github.com/chen42/openbehavior/tree/master/RFID">
+<img src="./images/rpi_rfid_reader.jpg"></a>
 
 
 ---
@@ -188,7 +190,7 @@ https://chen42.github.io/talks/behaut.html
 ## Example 3: Operant Licking
 
 <a href="https://github.com/chen42/openbehavior/blob/master/operantLicking/Assembly.md"> 
-<img src="https://raw.githubusercontent.com/chen42/openbehavior/master/operantLicking/images/assembled.jpg" width=60%> 
+<img src="https://raw.githubusercontent.com/chen42/openbehavior/master/operantLicking/images/assembled.jpg" width=50%> 
 </a>
 
 <a href="https://peerj.com/articles/2981/"> Peer J Article </a>
@@ -206,15 +208,22 @@ https://chen42.github.io/talks/behaut.html
 
 ## Example 6. Tail Immersion
 
+<a href="https://github.com/chen42/openbehavior/tree/master/RFID">
+<img src="./images/rpi_tail_immersion.jpg">
+</a>
+
 ---
 ## Example 6: Record video
+
+<img src="./images/rpi_camera_tripod.jpg" width=60%>
 
 ---
 
 ## Example 7. Analyze social behavior
 
-### Use 3D printed ear tag with different colors to identify individual rats
+#### Use 3D printed ear tag with different colors to identify individual rats
 
+ <img src="./images/many_colorful_eartags.jpg" width=60%>
 
 ---
 
@@ -377,7 +386,7 @@ darknet detector train rat12class.data yolo_12_class.cfg darknet19_448.conv.23
 
 ## Putting everything together 
 
-<iframe width=80% height="550" src="https://www.youtube.com/embed/Lwfg2t9nXcI?start=45" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width=80% height="450" src="https://www.youtube.com/embed/Lwfg2t9nXcI?start=45" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
