@@ -99,7 +99,7 @@ https://chen42.github.io/talks/behaut.html
 ## Sensors: Temperature
 
 <a href="https://raspberrypi.stackexchange.com/questions/48357/connecting-ds18b20-temperature-sensor-with-rj45-connector">
-<img src="https://i.stack.imgur.com/5EKzW.png"></a>
+<img src="https://i.stack.imgur.com/5EKzW.png" width=70%></a>
 
 ---
 
@@ -111,6 +111,12 @@ https://chen42.github.io/talks/behaut.html
 
 ---
 
+## Infrared sensor and emitter
+#### "beam break"
+<a href="https://tutorials-raspberrypi.com/build-raspberry-pi-infrared-light-barrier-and-measure-speed/">
+<img src="https://tutorials-raspberrypi.com/wp-content/uploads/lichtschranke_Steckplatine-1024x789.png" width=60%></a>
+
+---
 ## Output: Buzzer 
 
 <a href="https://www.sunfounder.com/learn/sensor-kit-v2-0-for-raspberry-pi-b-plus/lesson-10-buzzer-module-sensor-kit-v2-0-for-b-plus.html">
@@ -137,6 +143,11 @@ https://chen42.github.io/talks/behaut.html
 <a href="https://projects.raspberrypi.org/en/projects/physical-computing/16">
 <img src="https://projects-static.raspberrypi.org/projects/physical-computing/0cb2cbd34292a05a668aeea3f291ceb3c7d9cd83/en/images/mcb-wiring.png"></a>
 
+---
+
+## Many many more 
+
+<a href="https://tutorials-raspberrypi.com/raspberry-pi-sensors-overview-50-important-components/"><img src=https://tutorials-raspberrypi.com/wp-content/uploads/2016/11/50-Raspberry-Pi-Sensors-and-Components.jpg width=50%> </a>
 ---
 
 ## Microcontrollers
@@ -209,7 +220,7 @@ https://chen42.github.io/talks/behaut.html
 ## Example 6. Tail Immersion
 
 <a href="https://github.com/chen42/openbehavior/tree/master/RFID">
-<img src="./images/rpi_tail_immersion.jpg">
+<img src="./images/rpi_tail_immersion.jpg" width=80%>
 </a>
 
 ---
