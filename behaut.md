@@ -122,7 +122,7 @@ https://chen42.github.io/talks/behaut.html
 
 <a href="https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins">
 
-<img src="https://cdn.shopify.com/s/files/1/0176/3274/files/LEDs-BB400-1LED_bb_grande.png?6398700510979146820" width=60% style="transform:rotate(270deg);"></a>
+<img src="https://cdn.shopify.com/s/files/1/0176/3274/files/LEDs-BB400-1LED_bb_grande.png?6398700510979146820" width=40% style="transform:rotate(270deg);"></a>
 
 ---
 
