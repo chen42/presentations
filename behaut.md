@@ -27,13 +27,13 @@ https://chen42.github.io/talks/behaut.html
 
 ## Typical rodent behavior experiments
 
-* Only visual observation 
+* Only visual observation --> camera 
   * Open field, plus maze, object interaction, social interaction
   * Video analysis
-* Measure a specific reaction
+* Measure a specific reaction --> sensor
   * Tail immersion
-  * Tremor  
-* Operant conditioning 
+  * Tremor
+* Operant conditioning  --> sensor + motor
   * Lever pressing
   * Nose poking
   * Licking
@@ -41,7 +41,7 @@ https://chen42.github.io/talks/behaut.html
 
 ---
 
-### Single board computers
+#### Single board computers
 
 ## Raspberry Pi Family
 
@@ -122,7 +122,7 @@ https://chen42.github.io/talks/behaut.html
 
 <a href="https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins">
 
-<img src="https://cdn.shopify.com/s/files/1/0176/3274/files/LEDs-BB400-1LED_bb_grande.png?6398700510979146820" width=40%></a>
+<img src="https://cdn.shopify.com/s/files/1/0176/3274/files/LEDs-BB400-1LED_bb_grande.png?6398700510979146820" width=60% style="transform:rotate(270deg);"></a>
 
 ---
 
