@@ -72,7 +72,7 @@ Total: 434 (26 on chr?_random)
 
 - <b>Plotting overlapping <font color="tomato">BARCODES</font><p></b>
 - Expecting a symetric image alone x = y <p>
-- Expecting lighter color away from the diagnal line<p>
+- Expecting lighter color away from the diagonal line<p>
 - <font color="royalblue">Highlighting the distance between genomic locations</font><p>
 
 </td></tr></table>
