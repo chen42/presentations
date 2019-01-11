@@ -33,13 +33,14 @@ Jan 13, 2019, IROC
 ## Advantages of Linked-Reads
 
 * Haplotype phasing
-* Improve the confidence of SV-calls 
+* Improve the confidence of SNP-calls 
 * Better mapping of repetitive regions 
 * <font color="tomato">Detect large structural variants </font>
 
 ---
 
 ## Summary statistics of 9 rat genomes 
+generated using LongRanger software ver 2.2.2
 
 <img src="./images/ratGenome/rat_genome_summary.png" width=100%>
 
@@ -61,16 +62,17 @@ Total: 434 (26 on chr?_random)
 
 ---
 
-## Matrix View of Linked-Reads
+## Matrix View 
+#### of Linked-Reads in Loupe
 
 <table><tr><td width=70%>
 <img src="./images/ratGenome/matrixview.png" width=100%>
 </td><td width=30%>
 
 - <b>Plotting overlapping <font color="tomato">BARCODES</font><p></b>
-- Expect a symetric image alone x = y <p>
-- Expect lighter color away from the diagnal line<p>
-- Expect color width = molecule length (50kb)<p>
+- Expecting a symetric image alone x = y <p>
+- Expecting lighter color away from the diagnal line<p>
+- <font color="royalblue">Highlighting the distance between genomic locations</font><p>
 
 </td></tr></table>
 
@@ -190,6 +192,7 @@ Total: 434 (26 on chr?_random)
 
 ---
 ## Phased de Novo Assembly of BN
+#### by supernova
 
 <table><tr><td width=70%>
 
@@ -238,9 +241,8 @@ OUTPUT
 
 ## Summary
 
-* Linked-reads identified many structural variants that are likely errors in rn6.
-* Structural variant calls for non-reference genome need to be cross referenced against BN data for now.
-* de novo assembly has the potential to fill in some missing pieces in rn6. 
+* Linked-reads identifies many structural variants that are likely errors in rn6.
+* De novo assembly has the potential to fill in some missing pieces in rn6. 
 
 ---
 ## Thanks to .. 
