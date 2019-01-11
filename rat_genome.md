@@ -78,7 +78,7 @@ Total: 434 (26 on chr?_random)
 
 ## Small deletions
 
-<img src="./images/ratGenome/loupe_deletion.png" width=100%>
+<img src="./images/ratGenome/loupe_deletion.png" width=60%>
 
 ---
 
@@ -91,7 +91,7 @@ Total: 434 (26 on chr?_random)
 ## Large Deletions
 #### Nine strains vs rn6
 
-<img src="./images/ratGenome/deletion.png" width=70%>
+<img src="./images/ratGenome/deletion.png" width=60%>
 
 ---
 
@@ -178,10 +178,16 @@ Total: 434 (26 on chr?_random)
 
 ---
 
-## Missing bases (N) on rn6 by chr
+## Missing bases (n) in chr20  
 
-<img src="./images/ratGenome/missing_base_by_chr.png">
+<img src="./images/ratGenome/chr20_n.png" width=100%>
 
+---
+
+
+## Total missing bases: 130.3 Mb 
+
+<img src="./images/ratGenome/missing_base_by_chr.png" width=80%>
 
 ---
 ## Phased de Novo Assembly of BN
@@ -225,20 +231,26 @@ OUTPUT
 
 ---
 
+## Filling the missing
+
+<img src="./images/ratGenome/filling_n_chr20.png" width=80%>
+
+---
+
 ## Summary
 
 * Linked-reads identified many structural variants that are likely errors in rn6.
 * Structural variant calls for non-reference genome need to be cross referenced against BN data for now.
-* de novo assembly and multiple alignment has the potential to fill in the missing pieces in rn6. 
+* de novo assembly has the potential to fill in some missing pieces in rn6. 
 
 ---
-## Team
+## Thanks to .. 
 
 * Mindy Dwinell (BN-Eve, BN-male)
 * Eva E Redei (WLI/WMI strains)
 * Victor Guryev (Genome alignment, SNP) 
 * Tristan de Jong (Genome analysis) 
 * Arthur Centeno (Data archive)
-* Robert W Williams (Mastermind)
+* Robert W Williams (Mastermind, and $)
 * Advanced Computing Facility, Joint Institute of Computational Sciences, UTK/Oak Ridge National Lab.
 
