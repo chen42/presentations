@@ -227,12 +227,6 @@ OUTPUT
 
 ---
 
-## Missing bases (n) in chr20  
-
-<img src="./images/ratGenome/chr20_n.png" width=100%>
-
----
-
 ## Filling the missing
 
 <img src="./images/ratGenome/filling_n_chr20.png" width=80%>
@@ -242,7 +236,7 @@ OUTPUT
 ## Summary
 
 * Linked-reads identifies many structural variants that are likely errors in rn6.
-* De novo assembly has the potential to fill in some missing pieces in rn6. 
+* De novo assembly will be useful for reorganizing regions with large number of errors and fill in some missing pieces in rn6. 
 
 ---
 ## Thanks to .. 
