@@ -221,17 +221,15 @@ OUTPUT
 </td></tr></table>
 
 ---
-
-## Missing bases (n) in chr20  
-
-<img src="./images/ratGenome/chr20_n.png" width=100%>
-
----
-
 ## Total missing bases: 130.3 Mb 
 
 <img src="./images/ratGenome/missing_base_by_chr.png" width=80%>
 
+---
+
+## Missing bases (n) in chr20  
+
+<img src="./images/ratGenome/chr20_n.png" width=100%>
 
 ---
 
