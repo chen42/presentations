@@ -180,18 +180,6 @@ Total: 434 (26 on chr?_random)
 <img src="./images/ratGenome/chr1_messy.png" width=60%>
 
 ---
-
-## Missing bases (n) in chr20  
-
-<img src="./images/ratGenome/chr20_n.png" width=100%>
-
----
-
-## Total missing bases: 130.3 Mb 
-
-<img src="./images/ratGenome/missing_base_by_chr.png" width=80%>
-
----
 ## Phased de Novo Assembly of BN
 #### by supernova
 
@@ -231,6 +219,19 @@ OUTPUT
 - 2.37 Gb = ASSEMBLY SIZE 
 </pre>
 </td></tr></table>
+
+---
+
+## Missing bases (n) in chr20  
+
+<img src="./images/ratGenome/chr20_n.png" width=100%>
+
+---
+
+## Total missing bases: 130.3 Mb 
+
+<img src="./images/ratGenome/missing_base_by_chr.png" width=80%>
+
 
 ---
 
