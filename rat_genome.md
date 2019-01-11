@@ -184,7 +184,6 @@ Total: 434 (26 on chr?_random)
 
 ---
 
-
 ## Total missing bases: 130.3 Mb 
 
 <img src="./images/ratGenome/missing_base_by_chr.png" width=80%>
