@@ -1,4 +1,4 @@
-# Whole Genome Sequencing of Nine Rats Using the 10x Chromium Linked-Reads Technology 
+# Whole Genome Sequencing of Nine Rats Using Linked-Reads Technology 
 
 <hr>
 
@@ -24,7 +24,8 @@ Jan 13, 2019, IROC
 
 ---
 
-## 10X Chromium Linked-Reads 
+## Chromium Linked-Reads 
+#### by 10X GENOMICS 
 
 <img src="./images/ratGenome/chromium_linkedReads.png">
 
