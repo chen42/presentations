@@ -36,7 +36,7 @@ Jan 13, 2019, IROC
 * Haplotype phasing
 * Improve the confidence of SNP-calls 
 * Better mapping of repetitive regions 
-* <font color="tomato">Detect large structural variants </font>
+* <font color="tomato">Detecting large structural variants </font>
 
 ---
 
@@ -48,12 +48,9 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## Common structural variants
-### shared between BN-eve and BN-male vs rn6
+## SV: (BN-eve vs rn6) & (BN-male vs rn6)
 
 <img src="./images/ratGenome/rn6_vs_bn_svs.png" width=70%>
-
-Total: 434 (26 on chr?_random)
 
 ---
 
@@ -63,16 +60,15 @@ Total: 434 (26 on chr?_random)
 
 ---
 
-## Matrix View 
-#### of Linked-Reads in Loupe
+## Matrix View of Linked-Reads 
 
 <table><tr><td width=70%>
 <img src="./images/ratGenome/matrixview.png" width=100%>
 </td><td width=30%>
-
+- Both axes are chromosomal locations<p>
 - <b>Plotting overlapping <font color="tomato">BARCODES</font><p></b>
-- Expecting a symetric image alone x = y <p>
-- Expecting lighter color away from the diagonal line<p>
+- Expecting a symmetric image alone x = y <p>
+- Expecting color fade away from the diagonal line<p>
 - <font color="royalblue">Highlighting the distance between genomic locations</font><p>
 
 </td></tr></table>
@@ -85,84 +81,81 @@ Total: 434 (26 on chr?_random)
 
 ---
 
-## Large Deletions
+## Large deletion
 #### BN (Eve + male) vs rn6
 <img src="./images/ratGenome/chr18_del_bn_both.png" width=50%>
 
 ---
 
-## Large Deletions
-#### Nine strains vs rn6
+## Same large deletion in nine strains?
+## rn6 has an erroneous insertion on chr18?
 
 <img src="./images/ratGenome/deletion.png" width=60%>
 
 ---
 
-## Duplications
+## Duplication
 #### BN (Eve + male) vs rn6 
 
 <img src="./images/ratGenome/chr16_dup_bn_both.png" width=50% >
 
 ---
 
-## Duplications
-#### Nine strains vs rn6 
+## Same large duplication in nine strains?
+## rn6 missed a duplication event on chr16? 
 
 <img src="./images/ratGenome/duplication.png" width=60%>
 
 ---
 
-## Inversions 
+## Inversion 
 #### BN (Eve + male) vs rn6
 
 <img src="./images/ratGenome/chr17_inv_bn_both.png" width=50%>
 
 ---
 
-## Inversions 
-#### Nine strains vs rn6
+## rn6 has a large inversion on chr17? 
+
 
 <img src="./images/ratGenome/inversion.png" width=60%>
 
 
 ---
 
-## Proximal vs Distal chr4
+## Proximal vs distal chr4
 #### BN (Eve + male) vs rn6
 
 <img src="./images/ratGenome/chr4_distal_bn_both.png" width=50%>
 
 ---
 
-## Proximal vs Distal chr4
-#### Nine strains vs rn6
+## Proximal to distal translocation on chr4 in rn6
 <img src="./images/ratGenome/distal_chr.png" width=60%>
 
 ---
 
-## Between chr4 and chr9 
+## chr4 vs chr9 
 #### BN (Eve + male) vs rn6
 
 <img src="./images/ratGenome/chr4_9_bn_both.png" width=50%>
 
 ---
 
-## Between chr4 and chr9 
-#### Nine strains vs rn6
+## Translocation between chr4 and chr9 in rn6 
 <img src="./images/ratGenome/between_chr4_9.png" width=60%>
 
 ---
 
 
-## Between chr4 and chrUn 
+## chr4 vs chrUn 
 #### BN (Eve + male) vs rn6
 
 <img src="./images/ratGenome/chrUn_chr4_bn_both.png" width=50%>
 
 ---
 
-## Between chr4 and chrUn 
-#### Nine strains vs rn6
+## Some sequences in chrUn belong to chr4 in rn6 
 <img src="./images/ratGenome/between_chr4_Un.png" width=60%>
 
 ---
@@ -174,14 +167,12 @@ Total: 434 (26 on chr?_random)
 
 ---
 
-## Messy beginning of chr1
-#### Nine strains vs rn6
+## How do we fix this in rn6?
 
 <img src="./images/ratGenome/chr1_messy.png" width=60%>
 
 ---
 ## Phased de Novo Assembly of BN
-#### by supernova
 
 <table><tr><td width=70%>
 
@@ -234,21 +225,62 @@ OUTPUT
 ---
 
 ## Summary
-
-* Linked-reads identifies many structural variants that are likely errors in rn6.
-* De novo assembly will be useful for reorganizing regions with large number of errors and fill in some missing pieces in rn6. 
+* Linked-reads  provide opportunities for improving rn6.
+	* Identifies many structural errors.
+	* De novo assembly can help when a large number of structural changes are needed.
+	* De novo assembly can recover unknown bases. 
+* Linked-reads also improve variant discovery for individual strains.
 
 ---
-## Thanks to .. 
 
-* Mindy Dwinell (BN-Eve, BN-male)
-* Eva E Redei (WLI/WMI strains)
-* Victor Guryev (Genome alignment, SNP) 
-* Tristan de Jong (Genome analysis) 
-* Arthur Centeno (Data archive)
-* Robert W Williams (Mastermind, and $)
-* Advanced Computing Facility, Joint Institute of Computational Sciences, UTK/Oak Ridge National Lab.
+<marquee behavior="alternate" scrolldelay="60" scrollamount="2">
+<font color="#c94c4c"><h2>Thanks to ..</h2></font> 
+</marquee>
+<ul>
+<marquee behavior="scroll" scrolldelay="200" direction="right">
+<font color="#bccad6">
+<li> Mindy Dwinell (BN-Eve, BN-male)</marquee>
+</font>
+</marquee>
+
+<marquee behavior="scroll" scrolldelay="200" direction="left">
+<font color="#f9ccac">
+<li> Eva E Redei (WLI/WMI strains)
+</font>
+</marquee>
+
+<marquee behavior="scroll" scrolldelay="200" direction="right">
+<font color="#8d9db6">
+<li> Victor Guryev (Genome alignment, SNP) 
+</font>
+</marquee>
+
+<marquee behavior="scroll" scrolldelay="200" direction="left">
+<font color="#f4a688">
+<li> Tristan de Jong (Genome analysis) 
+</font>
+</marquee>
+
+<marquee behavior="scroll" scrolldelay="200" direction="right">
+<font color="#667292">
+<li> Arthur Centeno (Data archive)
+</font>
+</marquee>
+
+<marquee behavior="scroll" scrolldelay="300" direction="left">
+<font color="#e0876a">
+<li> Robert W Williams (Mastermind, and $)
+</font>
+</marquee>
+
+<marquee behavior="alternate" scrolldelay="500" direction="right">
+<font color="#674d3c">
+<li> Advanced Computing Facility, JICS at UTK/Oak Ridge National Lab.
+</font>
+</marquee>
+
+</ul>
 
 <hr width=60%>
-### Data and results are available!
+<font color="darkred"><b> Data and results are available! </b></font>
 
