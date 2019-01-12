@@ -18,20 +18,20 @@ Jan 13, 2019, IROC
 ---
 
 
-## The Idea of Linked-Reads
+## The idea of linked-reads
 
 <img src="./images/ratGenome/mapping_uniq.png">
 
 ---
 
-## Chromium Linked-Reads 
+## Chromium linked-reads 
 #### by 10X GENOMICS 
 
 <img src="./images/ratGenome/chromium_linkedReads.png">
 
 ---
 
-## Advantages of Linked-Reads
+## Advantages of linked-reads
 
 * Haplotype phasing
 * Improve the confidence of SNP-calls 
@@ -48,7 +48,7 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## SV: (BN-eve vs rn6) & (BN-male vs rn6)
+## Distribution of SV found in both BN samples  
 
 <img src="./images/ratGenome/rn6_vs_bn_svs.png" width=70%>
 
@@ -60,7 +60,7 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## Matrix View of Linked-Reads 
+## Matrix view of linked-reads 
 
 <table><tr><td width=70%>
 <img src="./images/ratGenome/matrixview.png" width=100%>
@@ -77,7 +77,7 @@ generated using LongRanger software ver 2.2.2
 
 ## Small deletions
 
-<img src="./images/ratGenome/loupe_deletion.png" width=60%>
+<img src="./images/ratGenome/loupe_deletion.png" width=50%>
 
 ---
 
@@ -87,8 +87,8 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## Same large deletion in nine strains?
-## rn6 has an erroneous insertion on chr18?
+## Same large deletion in all nine samples?
+## An erroneous insertion on chr18 in rn6?
 
 <img src="./images/ratGenome/deletion.png" width=60%>
 
@@ -101,8 +101,7 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## Same large duplication in nine strains?
-## rn6 missed a duplication event on chr16? 
+## A missed duplication event on chr16 in rn6? 
 
 <img src="./images/ratGenome/duplication.png" width=60%>
 
@@ -115,7 +114,7 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## rn6 has a large inversion on chr17? 
+## A large inversion on chr17 in rn6? 
 
 
 <img src="./images/ratGenome/inversion.png" width=60%>
@@ -130,7 +129,7 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## Proximal to distal translocation on chr4 in rn6
+## A proximal to distal translocation on chr4 in rn6
 <img src="./images/ratGenome/distal_chr.png" width=60%>
 
 ---
@@ -142,7 +141,8 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## Translocation between chr4 and chr9 in rn6 
+## A translocation between chr4 and chr9 in rn6? 
+
 <img src="./images/ratGenome/between_chr4_9.png" width=60%>
 
 ---
@@ -155,7 +155,7 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## Some sequences in chrUn belong to chr4 in rn6 
+## A segment in chrUn belong to chr4 in rn6  
 <img src="./images/ratGenome/between_chr4_Un.png" width=60%>
 
 ---
@@ -234,7 +234,7 @@ OUTPUT
 ---
 
 <marquee behavior="alternate" scrolldelay="60" scrollamount="2">
-<font color="#c94c4c"><h2>Thanks to ..</h2></font> 
+<font color="#c94c4c"><h2>Many thanks to ..</h2></font> 
 </marquee>
 <ul>
 <marquee behavior="scroll" scrolldelay="200" direction="right">
@@ -263,13 +263,13 @@ OUTPUT
 
 <marquee behavior="scroll" scrolldelay="200" direction="right">
 <font color="#667292">
-<li> Arthur Centeno (Data archive)
+<li> Arthur Centeno (Data transfer and archive)
 </font>
 </marquee>
 
 <marquee behavior="scroll" scrolldelay="300" direction="left">
 <font color="#e0876a">
-<li> Robert W Williams (Mastermind, and $)
+<li> Robert W Williams (Mastermind, and $$$)
 </font>
 </marquee>
 
