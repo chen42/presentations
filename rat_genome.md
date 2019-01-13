@@ -1,4 +1,5 @@
-# Whole Genome Sequencing of Nine Rats Using Linked-Reads Technology 
+# Opportunities to Improve the Rat Reference Genome (rn6) 
+
 
 <hr>
 
@@ -34,7 +35,7 @@ Jan 13, 2019, IROC
 ## Advantages of linked-reads
 
 * Haplotype phasing
-* Improve the confidence of SNP-calls 
+* Improving the confidence of SNP-calls 
 * Better mapping of repetitive regions 
 * <font color="tomato">Detecting large structural variants </font>
 
@@ -54,11 +55,6 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## Large SV shared among three strains 
-
-<img src="./images/ratGenome/Venn.png" width=40%>
-
----
 
 ## Matrix view of linked-reads 
 
@@ -283,4 +279,11 @@ OUTPUT
 
 <hr width=60%>
 <font color="darkred"><b> Data and results are available! </b></font>
+
+---
+## Large SV shared among BN, F344, and LEW 
+
+<img src="./images/ratGenome/Venn.png" width=40%>
+
+---
 
