@@ -225,8 +225,6 @@ OUTPUT
 	* Identifies many structural errors.
 	* De novo assembly can help when a large number of structural changes are needed.
 	* De novo assembly can recover unknown bases. 
-* Linked-reads also improve variant discovery for individual strains.
-
 ---
 
 <marquee behavior="alternate" scrolldelay="60" scrollamount="2">
