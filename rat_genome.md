@@ -223,8 +223,8 @@ OUTPUT
 ## Summary
 * Linked-reads  provide opportunities for improving rn6.
 	* Identifies many structural errors.
-	* De novo assembly can help when a large number of structural changes are needed.
 	* De novo assembly can recover unknown bases. 
+	* De novo assembly can help when a large number of structural changes are needed.
 ---
 
 <marquee behavior="alternate" scrolldelay="60" scrollamount="2">
