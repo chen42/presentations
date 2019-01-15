@@ -11,12 +11,8 @@ hchen@uthsc.edu Dept. Pharmacology, UTHSC
 
 URL: http://chen42.github.io/talks/antiviral.html
 
-Oct 25, 2018
-
-<span id='mem'>Last modified:
-
-Mon Jan 14 22:23:49 CST 2019
-
+Jan 16, 2019 
+<span id='mem'>Last modified: Mon Jan 14 22:23:49 CST 2019 
 </span>
 
 ---
