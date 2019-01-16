@@ -94,8 +94,13 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 <ol> <li> <b>Primary infection.</b> About 90% of patients develop a flu-like illness, which coincides with [seroconversion](https://aidsinfo.nih.gov/education-materials/glossary/648/seroconversion), between 2 and 4 weeks post exposure. Symptoms include, fever, night sweats, sore throat, lymphadenopathy, diarrhea. The illness is **self-limiting**.
 
 <li> <b>Asymptomatic phase.</b> Of variable duration, from 2 to 10 years. Patients are clinically well, but infectious.
+</td>
 
-<li> <b>Acquired Immunodeficiency Syndrome (AIDS). </b>Features:
+<td> <img src="./images/antiviral/hiv_untreated.png" width=90%> </td>
+
+<tr><td colspan=2>
+
+<font size =+3><b>3. Acquired Immunodeficiency Syndrome (AIDS). </b>Features:</font>
 <ul><li> Constitutional disease: fever, diarrhea, weight loss, skin rashes.
 	<li> Immunodeficiency: increased susceptibility to [opportunistic infections](https://www.clinicalkey.com/#!/content/book/3-s2.0-B978141603618010044X?scrollTo=%23hl0002499)	
 	<li> Neurological disease: [dementia](https://www.ncbi.nlm.nih.gov/pubmed/24938216), [myelopathy](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323287821004329?scrollTo=%23hl0000547), [peripheral neuropathy](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323032759100121?scrollTo=%23hl0000789)	
@@ -103,11 +108,10 @@ HIV-1 widely distributed, more pathogenic | HIV-2 restricted to Central and West
 		 [Kaposi sarcoma](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001431?scrollTo=%23hl0000286), 
 		[oral hairy leukoplakia](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455750177003779?scrollTo=%23hl0000151), 
 		or [lymphoma](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455746965000117?scrollTo=%23hl0001298)
-</td>
 
-<td> <img src="./images/antiviral/hiv_untreated.png" width=90%> </td>
-
+</td></tr>
 </table>
+
 
 ---
 
