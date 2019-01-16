@@ -13,9 +13,6 @@ URL: http://chen42.github.io/talks/antiviral.html
 
 Jan 16, 2019 
 
-<span id='mem'>Last modified: Mon Jan 14 22:23:49 CST 2019 
-</span>
-
 ---
 
 ## Conventions 
@@ -301,7 +298,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 * Can be used to treat patients resist to other PIs. 
 	* <span id="drug"> darunavir </span> displays a < 10-fold decreased susceptibility against 90% of HIV-1 isolates resistant to <span id="drug"> amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, </span> and/or <span id="drug"> tipranavir </span> . 	
 * Must be used in combination in an antiviral regimen.
-	* Requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> or [cobicistat](https://www.ncbi.nlm.nih.gov/pubmed/26566368) )
+	* Requires an enhancer (i.e. low does <span id="drug"> ritonavir </span> or [cobicistat](https://www.ncbi.nlm.nih.gov/pubmed/26566368)) [but don't use both](https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv/12/what-not-to-use )
 * <a href="#/recommend">Recommended</a> for treatment-naive patients
 ---
 
@@ -441,6 +438,7 @@ Abbreviation: AUC, area under plasma concentration-time curve; T&frac12;elim, ha
 	* Little effect on cells already infected by HIV
 	* <span id="drug"> Zidovudine </span> 
 		* <span style="background-color:yellow">Only NRTI shown to reduce perinatal HIV transmission</a>
+    * recommendation on [ART during pregnancy](https://aidsinfo.nih.gov/guidelines/brief-html/3/perinatal/476/overview)
 * Resistance
 	* Drugs select for different mutations of the reverse transcriptase gene at the level of specific codons 
 
@@ -620,7 +618,7 @@ note: <span id="drug">Ganciclovir </span> increases plasma concentration; monito
 
 * Indications
 	* HIV-1 infections
-		* Do not have significant activity against HIV-2
+		* Do not have significant activity against [HIV-2](#/hiv)
 * Mechanism of action
 	* Bind directly to a hydrophobic pocket of the reverse transcriptase 
 	* Induce conformational change in active site and block enzyme activity
@@ -832,6 +830,7 @@ Prevents virus from entering the host cell <br>
 
 ## Agents for the treatment of virus infections 
 ### [Hour 2](#/hour2) 
+
 * <a href="#/hsv">Herpes Simplex Virus</a> and Varicella Zoster Virus
 	* <span id="drug">[Acyclovir, Valacyclovir](#/Acyclovir), [Tenofovir](#/Tenofovir2), [Famciclovir, Penciclovir](#/Penciclovir)</span>
 * <a href="#/cmv">Cytomegalovirus</a>
@@ -841,6 +840,7 @@ Prevents virus from entering the host cell <br>
 * <a href="#/flu">Influenza Virus </a>
 	* Uncoating inhibitors <span id="drug"> [Amantadine, Rimantadine](#/fluuncoating)</span>
 	* Viral release inhibitors <span id="drug"> [Zanamivir, Oseltamivir](#/flurelease)</span>
+	* Cap-dependent endonuclease inhibitor <span id="drug"> [Baloxavir](#/capendo)</span>
  
 ---
 
@@ -871,7 +871,7 @@ Prevents virus from entering the host cell <br>
 
 <section id="hsv">
 
-## Herpes Simplex virus
+## Herpes Simplex Virus
 
 <img src="./images/antiviral/shutterstock_hsv.png" width=60%>
 
@@ -909,7 +909,7 @@ Double stranded DNA virus
 </td><td>
 <ul>
 <li> Mechanism of action 
-<ul><li> Inactivation of viral DNA polymerase through direct binding and competition for dNTPs.
+<ul><li> Inactivation of <span id="bg">viral DNA polymerase</span> through direct binding and competition for dNTPs.
 <li> Inducing viral DNA chain termination 
 </ul>
 </td></tr></table>
@@ -1100,9 +1100,12 @@ Partially double-stranded DNA virus
 
 ## [HBV life cycle](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001480?scrollTo=%23hl0000906)
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=290" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/sVpiXaEMs7I?start=290" frameborder="0" allowfullscreen></iframe>
 
-partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</span> -> DNA (negative strand) -> DNA (positive strand)
+1. partial DNA enters nucleus + host enzyme-> covalently closed circular cccDNA (mini chr)
+2. mini chromosome + host enzyme -> mRNA -> <span id='bg'>HBV polymerase</span>
+3. HBV polymerase + pregenomic RNA (reverse transcribe) -> DNA (negative strand)
+4. HBV polymerase + DNA negative strand -> DNA (positive strand)
 ---
 
 ## Anti-Hepatitis Agents
@@ -1316,7 +1319,7 @@ partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</sp
 	* Injection site reaction
 	* Should not be administered during pregnancy
 * Drug interactions
-	* Increases in the level of many drugs:
+	* Increases the level of many drugs:
 		* <span id="drug"> theophylline </span> (for asthema) by 100% 
 		* <span id="drug"> zidovudine </span> by 93%. 
 	* Co-administration with <span id="drug"> didanosine </span> increases risk of hepatic failure
@@ -1351,7 +1354,7 @@ partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</sp
 <li> virus enter the cell via H spikes. In the endosome, low pH in the endosome trigger the <span id='bg'> fusion of membranes</span>.
 <li> viral ribonucleoprotein and viral RNA enters the cell nucleus, replicate the viral genome. 
 <li> viral RNA is also made with a <span id='bg'>sneaky trick </span>and exported into the cytoplasm.
-<li> viral protein is make and virus is packaged on cell surface
+<li> viral protein is made and virus is packaged on cell surface
 <li> the <span id='bg'>N spikes cleave the H spikes</span> and releases the viron.
 </ol>
 </td>
@@ -1412,6 +1415,8 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 
 ---
 
+<section id="capendo">
+
 ## <span id="drug"> Baloxavir marboxil (Xofluza) </span> 
 
 * Approved by the [FDA on October 24, 2018](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm624226.htm)
@@ -1424,7 +1429,7 @@ Sialic acid analog inhibitors of influenza A and B neuraminidase
 	* Only for those aged 12 or more (for now)
 * MoA	
 	* Cellular mRNA has a 5' methylated cap and a polyA tail
-	* Cap-dependent endonuclease binds to the [5' methylated caps of cellular mRNAs](http://oregonstate.edu/instruction/bi314/fall11/figure_07_16a.jpg) and cleaves the cellular mRNAs' 10 to 15 nucleotides 3' to [the cap structure. This cellular capped RNA fragment is used by the viral polymerase to prime the synthesis of viral mRNA. 	
+	* Cap-dependent endonuclease binds to the [5' methylated caps of cellular mRNAs](http://oregonstate.edu/instruction/bi314/fall11/figure_07_16a.jpg) and cleaves the cellular mRNAs' 10 to 15 nucleotides 3' to the cap structure. This cellular capped RNA fragment is used by the viral polymerase to prime the synthesis of viral mRNA. 	
 	* Baloxavir is an inhibitor of this cap-dependent endonuclease
 * Adverse effects:
 	* headache, diarrhea, bronchitis
