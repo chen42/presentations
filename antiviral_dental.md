@@ -858,13 +858,13 @@ Prevents virus from entering the host cell <br>
 ## Agents to treat HSV, VZV and CMV
 |Virus| Disease| 
 |---|---|
-|[Herpes simplex virus](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001388) | herpes genitalis | 
+|[Herpes simplex virus, human herpesvirus 1 and 2](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001388) | herpes genitalis | 
 || herpes labialis | 
 || herpetic keratoconjunctivitis |
 || herpetic encephalitis|
-|[Varicella-zoster virus](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455775668002532) | chickenpox (varicella)|
+|[Varicella-zoster virus, human herpesvirus-3](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9781455775668002532) | chickenpox (varicella)|
 || shingles (herpes zostr)|
-|[Cytomegalovirus](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001406) | retinitis &dagger;| 
+|[Cytomegalovirus, human herpesvirus-5](https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323401616001406) | retinitis &dagger;| 
 || esophagitis &dagger;| 
 ||
 &dagger; most often in immunocompromised (e.g. AIDS) patients.
@@ -1294,7 +1294,7 @@ partial DNA enters nucleus -> cccDNA -> mRNA -> <span id='bg'>HBV polymerase</sp
 ## [peginterferon alpha-2a](https://www.clinicalkey.com/#!/content/drug_monograph/6-s2.0-2634)
 
 * Indications
-	* Chronic HBV, HPV and HH-V8 (Kaposi sarcoma)
+	* Chronic HBV, HPV and (Kaposi sarcoma, human herpesvirus-8)
 	* HCV 
 		* <span id='bg'> <span id="drug"> peginterferon </span> in combination with <span id="drug"> Ribavirin </span></span>
 * ADME

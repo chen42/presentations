@@ -12,6 +12,7 @@ hchen@uthsc.edu Dept. Pharmacology, UTHSC
 URL: http://chen42.github.io/talks/antiviral.html
 
 Jan 16, 2019 
+
 <span id='mem'>Last modified: Mon Jan 14 22:23:49 CST 2019 
 </span>
 
@@ -65,13 +66,13 @@ Written using [Reveal.js](https://github.com/hakimel/reveal.js) and [markdown](h
 ---
 ## Objectives
 
-1. Identify the <span style="background-color:yellow">steps in the viral replication process</span> that provide targets for antiviral therapy.
+1. Identify the <span style="background-color:white">steps in the viral replication process</span> that provide targets for antiviral therapy.
 
-2. Understand the <span style="background-color:yellow">current guidline for HIV/AIDS treatment. </span>
+2. Understand the <span style="background-color:white">current guidline for HIV/AIDS treatment. </span>
 
-3. Understand the <span style="background-color:yellow">current Initial Combination Regimens</span> for drug Naive patent.
+3. Understand the <span style="background-color:white">current Initial Combination Regimens</span> for drug Naive patent.
 
-4. Describe the mechanism of action and significant pharmacological properties of the <span style="background-color:yellow">six major classes</span> of antiretroviral (anti-HIV) agents
+4. Describe the mechanism of action and significant pharmacological properties of the <span style="background-color:white">six major classes</span> of antiretroviral (anti-HIV) agents
 
 5. Recall the names of the drugs that act at each of the target steps in the replication process for both RNA and DNA viruses
 
