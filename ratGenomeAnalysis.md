@@ -187,6 +187,14 @@ OUTPUT
 
 * fixing SNPs and small indels 
 	* iCORN2 [software](http://icorn.sourceforge.net/)
+
+---
+
+## Moving forward: systematically
+<img src="./images/ratGenome/matrix_chr20_compiled.png" width=100%>
+
+---
+## Moving forward: systematically
 * take a chr, cut out the error-laden region, use the rest as scaffolds, use the de novo contigs to close the gap 
 	* may not always overlap 
 	* need paired-end or mate-pair data 
