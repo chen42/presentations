@@ -67,8 +67,10 @@ generated using LongRanger software ver 2.2.2
 - Expecting color fade away from the diagonal line<p>
 - <font color="royalblue">Highlighting the distance between genomic locations</font><p>
 
+
 </td></tr></table>
 
+[10x Genomics help page](https://support.10xgenomics.com/genome-exome/software/visualization/latest/structural-variants)
 ---
 
 ## Small deletions
@@ -181,15 +183,6 @@ OUTPUT
 
 ---
 
-## Moving forward: case-by-case
-
-* examining the large SV one by one, create tickets, fix ref, rerun longranger
-	* barcode overlap data can be exported from Loupe as csv
-	* labor intensive, error prone
-	* location in VCF is assigned to the nearest 10k for some CNV. 
-
----
-
 ## Moving forward: systematically
 
 * fixing SNPs and small indels 
@@ -205,6 +198,22 @@ OUTPUT
 	* Pilon: Genome assembly improvement [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963), [software](https://github.com/broadinstitute/pilon)
 * Annotation
 	* RATT: transfer annotation from one assembly to another [software](https://www.sanger.ac.uk/science/tools/pagit)
+
+---
+
+## Moving forward: case-by-case
+
+* examining the large SV one at a time 
+  * maybe working with one chr at a time 
+  * confirm with other strains
+    * https://github.com/chen42/save_loupe_matrixView
+	* barcode overlap data can be exported from Loupe as csv
+  * create a bug-tracking ticket
+  * fix ref, rerun longranger
+* pros vs cons  
+	* labor intensive
+	* location in VCF is assigned to the nearest 10k for some CNV. 
+  * manually inspected
 
 ---
 
