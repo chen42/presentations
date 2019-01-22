@@ -188,14 +188,14 @@ OUTPUT
 * fixing SNPs and small indels 
 	* iCORN2 [software](http://icorn.sourceforge.net/)
 * take a chr, cut out the error-laden region, use the rest as scaffolds, use the de novo contigs to close the gap 
-	* may not always overlap 
-	* need paired-end or mate-pair data 
-	* SGA assembler: conservative and high accuracy [paper](https://genome.cshlp.org/content/22/3/549.long),[comparison](https://www.ncbi.nlm.nih.gov/pubmed/24581555), [software](https://github.com/jts/sga)
+		* SGA assembler: conservative and high accuracy [paper](https://genome.cshlp.org/content/22/3/549.long),[comparison](https://www.ncbi.nlm.nih.gov/pubmed/24581555), [software](https://github.com/jts/sga)
 	* GapFiller [paper](https://www.pubmedgov/22731987), [software](https://sourceforge.net/projects/gapfiller/)
 	* ABACAS: contiguate contigs from a de novo assembly against a closely related reference. [software](https://www.sanger.ac.uk/science/tools/pagit)
 	* REAPR: genome assembly quality eval [paper](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-5-r47), [software](https://www.sanger.ac.uk/science/tools/reapr)
 	* QUAST: Quality assessment of genome [paper](https://academic.oup.com/bioinformatics/article/29/8/1072/228832), [software](http://quast.sourceforge.net/quast)
 	* Pilon: Genome assembly improvement [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963), [software](https://github.com/broadinstitute/pilon)
+  * may not always overlap 
+	* need paired-end or mate-pair data 
 * Annotation
 	* RATT: transfer annotation from one assembly to another [software](https://www.sanger.ac.uk/science/tools/pagit)
 
