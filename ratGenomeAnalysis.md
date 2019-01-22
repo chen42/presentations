@@ -200,6 +200,9 @@ OUTPUT
 ---
 
 ## Moving forward: systematically
+
+Chr20, window size:840kb
+
 <img src="./images/ratGenome/matrix_chr20_compiled.png" width=100%>
 
 ---
