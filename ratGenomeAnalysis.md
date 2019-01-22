@@ -187,14 +187,6 @@ OUTPUT
 
 * fixing SNPs and small indels 
 	* iCORN2 [software](http://icorn.sourceforge.net/)
-
----
-
-## Moving forward: systematically
-<img src="./images/ratGenome/matrix_chr20_compiled.png" width=100%>
-
----
-## Moving forward: systematically
 * take a chr, cut out the error-laden region, use the rest as scaffolds, use the de novo contigs to close the gap 
 	* may not always overlap 
 	* need paired-end or mate-pair data 
@@ -206,6 +198,11 @@ OUTPUT
 	* Pilon: Genome assembly improvement [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963), [software](https://github.com/broadinstitute/pilon)
 * Annotation
 	* RATT: transfer annotation from one assembly to another [software](https://www.sanger.ac.uk/science/tools/pagit)
+
+---
+
+## Moving forward: systematically
+<img src="./images/ratGenome/matrix_chr20_compiled.png" width=100%>
 
 ---
 
