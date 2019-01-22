@@ -1,10 +1,16 @@
-# Improving rn6 using linked-reads data
+# Improving rn6
+
+Jan 22 2019, Zoom meeting
+
+* recap goals discussed at IROC
+* recent activity of reaching other groups 
+* brief review of existing data
+* discuss technical approaches for moving forward and participation 
 
 ---
 
 ## Short term goals
 
-* join the [Genome Reference Consortium](https://www.ncbi.nlm.nih.gov/grc)
 * fixing base-level and structural variants
 * annotate genes that are affected
 * document the changes in a paper 
@@ -21,6 +27,13 @@
 
 ---
 
+## Working with other groups
+
+* [Vertebrate Genome Project](https://vertebrategenomesproject.org/)
+* [Genome Reference Consortium](https://www.ncbi.nlm.nih.gov/grc)
+* [European Variant Archive](https://www.ebi.ac.uk/eva/)
+
+---
 
 ## Chromium linked-reads 
 #### by 10X GENOMICS 
@@ -64,55 +77,53 @@ generated using LongRanger software ver 2.2.2
 
 ---
 
-## Large deletion
+## Large deletion on chr18
 #### BN (Eve + male) vs rn6
 <img src="./images/ratGenome/chr18_del_bn_both.png" width=50%>
 
 ---
 
-## An erroneous insertion on chr18 in rn6
+## An erroneous <font color="red">insertion</font> on chr18 in rn6
 
 <img src="./images/ratGenome/deletion.png" width=60%>
 
 ---
 
-## Duplication
+## Duplication & Inversion
 #### BN (Eve + male) vs rn6 
 
-<img src="./images/ratGenome/chr16_dup_bn_both.png" width=50% >
+<table><tr><td>
+
+<img src="./images/ratGenome/chr16_dup_bn_both.png" width=100% >
+
+</td>
+<td>
+
+<img src="./images/ratGenome/chr17_inv_bn_both.png" width=100%>
+</td><tr></table>
 
 ---
 
-
-## Inversion 
+## Translocation
 #### BN (Eve + male) vs rn6
 
-<img src="./images/ratGenome/chr17_inv_bn_both.png" width=50%>
+<table><tr><td width=33%>
+<b> chr4: proximal vs distal </b><p>
+<img src="./images/ratGenome/chr4_distal_bn_both.png" width=100%>
+</td>
+<td width=33%>
 
----
+<b> chr4 vs chr9 </b> <p>
 
+<img src="./images/ratGenome/chr4_9_bn_both.png" width=100%>
+</td>
 
-## Proximal vs distal chr4
-#### BN (Eve + male) vs rn6
+<td width=33%>
 
-<img src="./images/ratGenome/chr4_distal_bn_both.png" width=50%>
+<b> chr4 vs chrUn </b><p>
 
----
-
-
-
-## chr4 vs chr9 
-#### BN (Eve + male) vs rn6
-
-<img src="./images/ratGenome/chr4_9_bn_both.png" width=50%>
-
----
-
-
-## chr4 vs chrUn 
-#### BN (Eve + male) vs rn6
-
-<img src="./images/ratGenome/chrUn_chr4_bn_both.png" width=50%>
+<img src="./images/ratGenome/chrUn_chr4_bn_both.png" width=100%>
+</td></tr></table>
 
 ---
 
