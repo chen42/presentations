@@ -1,8 +1,8 @@
 ## White Station High School 
 ----
-# Team 5045  
+# Team 5045 
 ----
-## Python Programming  
+## Python Programming 
 
 Advisor: Hao Chen 
 
@@ -34,18 +34,18 @@ http://getpython3.com/diveintopython3/table-of-contents.html
 
 
 * Basic syntax
-  * indentation (i.e. space) has meaning
+ * indentation (i.e. space) has meaning
 * Data types 
-  * numbers and basic math operation (addition, substraction)
-  * strings and basic string operation (concatenation) 
-  * lists, dictionaries
+ * numbers and basic math operation (addition, substraction)
+ * strings and basic string operation (concatenation) 
+ * lists, dictionaries
 * Programming logic
-  * follow the flow of the code execution
-  * if  .. else
-  * for loops
-  * while loops
-* Test yourself    
-  * https://www.w3schools.com/python/exercise.asp
+ * follow the flow of the code execution
+ * if .. else
+ * for loops
+ * while loops
+* Test yourself
+ * https://www.w3schools.com/python/exercise.asp
 
 
 ---
@@ -57,26 +57,26 @@ https://medium.com/@abhishekj/an-intro-to-git-and-github-1a0e2c7e3a2f
 * Install https://desktop.github.com/
 
 * Purpose: add version to your code
-  * once added, you never lose it, even if you delete it (using the regular method) 
-  * you can compare the differences between versions
+ * once added, you never lose it, even if you delete it (using the regular method) 
+ * you can compare the differences between versions
 * basic concepts 
-  * branch: master/testing/experimenting
-  * **fork**: copy other people's code and make that *your own* 
-    * for the purpose of  **modify** it 
-    * usually done on github.com
-  * **clone**: copy remote code to your local computer  
-    * for the purpose of **using** it 
-    * usually done on your computer
+ * branch: master/testing/experimenting
+ * **fork**: copy other people's code and make that *your own* 
+ * for the purpose of **modify** it 
+ * usually done on github.com
+ * **clone**: copy remote code to your local computer
+ * for the purpose of **using** it 
+ * usually done on your computer
 ---
 ## Git commands
 
 ```
-   git init ## starting a new repo
-   git clone ## get someone else's code
-   git add this_file # I changed this_file, or I want to save a new file
-   git commit -m "I am just starting" # I am saving this with a comment
-   git push origin master # up to the cloud
-   git pull # get the latest from the cloud
+ git init ## starting a new repo
+ git clone ## get someone else's code
+ git add this_file # I changed this_file, or I want to save a new file
+ git commit -m "I am just starting" # I am saving this with a comment
+ git push origin master # up to the cloud
+ git pull # get the latest from the cloud
 ```
 
 
@@ -92,7 +92,7 @@ https://medium.com/@abhishekj/an-intro-to-git-and-github-1a0e2c7e3a2f
 
 ```
 def myFun(fname):
-	print("Hello " + fname + ",\n" + "How are you today? I have a long line of text I want to print, and every time I print it I want to embed a different name\n")  
+	print("Hello " + fname + ",\n" + "How are you today? I have a long line of text I want to print, and every time I print it I want to embed a different name\n") 
 	return(fname.upper())
 	
 upper=myFun("hao")
@@ -122,36 +122,36 @@ How are you today? I have a long line of text I want to print, and every time I 
 ## Try your python skills
 
 * Can you write a program to print the following diamond?
-	* You can start with a diamond with only one symbol (all **x** or **o**)  
-	* Can you write your code so that you can also produce a similar diamond with  5 or 9 layers?
+	* You can start with a diamond with only one symbol (all **x** or **o**) 
+	* Can you write your code so that you can also produce a similar diamond with 5 or 9 layers?
 	
 
 ```
-     x
-    xox
-   xoxox
-  xoxoxox 
-   xoxox
-    xox
-     x
+    x
+   xox
+  xoxox
+ xoxoxox 
+  xoxox
+   xox
+    x
 
 ```
- 
+---
 <section id="week3">
 ## Python Class
 ```
 class cleverName:
-  def __init__(self, x,y,z):
-    self.X=x
-    self.Y=y
-    self.Z=z
+ def __init__(self, x,y,z):
+ self.X=x
+ self.Y=y
+ self.Z=z
 
-  def sum(self):
-    self.sum=self.X+self.Y+self.Z
-    return self.sum
-  def mean(self):
-    self.mean=(self.X+self.Y+self.Z)/3
-    return self.mean
+ def sum(self):
+ self.sum=self.X+self.Y+self.Z
+ return self.sum
+ def mean(self):
+ self.mean=(self.X+self.Y+self.Z)/3
+ return self.mean
 
 new=cleverName(1,2,3)
 print (new.sum())
