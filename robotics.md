@@ -156,10 +156,8 @@ class cleverName:
 new=cleverName(1,2,3)
 print (new.sum())
 ```
---- 
+---
 ## Python class reading material
 * [W3C school](https://www.w3schools.com/python/python_classes.asp)
 * [Python class Exercise with answers](https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/content/classes/exercisesclasses.html)
-
-
 
