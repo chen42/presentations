@@ -10,7 +10,12 @@
 Feb 19, 2019
 
 ---
+## Motivation
 
+* improve the rn6 for the short run
+* de novo assembly of other strains
+
+---
 ## Matrix view of linked-reads 
 
 <table><tr><td width=70%>
@@ -56,6 +61,12 @@ Overlay of structural variants from all nine samples. Each strain is set at 20% 
 </section>
 
 ---
+
+## Tigmint
+
+<iframe src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204047/pdf/12859_2018_Article_2425.pdf" width="100%" height=600px>
+
+---
 ## Tigmint
 
 <img src="./images/ratGenome/before_after_tigmint.png">
@@ -70,7 +81,15 @@ n       n:500   L50     min     N75     N50     N25     E-size  max     name
 </small>
 
 ---
-## Arcs
+
+## ARCS
+
+<iframe src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030987/pdf/btx675.pdf" width="100%" height=600px>
+
+---
+
+## ARCS
+
 ```
 # first round with BN male data
 n       n:500   L50     N75     N50     N25     E-size  max     name
@@ -98,6 +117,11 @@ n       n:500   L50     N75     N50     N25     E-size  max     name
 <small>
 **n**: Total number of sequences, **n:500**: Number of sequences at least 500 bp, **L50**: Number of sequences at least the N50 size, **LG50**: Number of sequences at least the NG50 size, **NG50**: Half the genome is in sequences of the NG50 size or larger, **min**: The size of the smallest sequence, **N80**: At least 80% of the assembly is in sequences of the N80 size or larger, **N50**: At least half the assembly is in sequences of the N50 size or larger, **N20**: At least 20% of the assembly is in sequences of the N20 size or larger, **E-size**: The sum of the square of the sequence sizes divided by the assembly size, **max**: The size of the largest sequence, **sum**: The sum of the sequence sizes, **name**: The file name of the assembly.
 </small>
+
+---
+## Sealer
+
+<iframe src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4515008/pdf/12859_2015_Article_663.pdf" width=100% height=600px>
 
 ---
 ## Sealer
