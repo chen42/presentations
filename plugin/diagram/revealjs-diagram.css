@@ -1,0 +1,17 @@
+.node {
+  cursor: pointer; }
+
+.node rect {
+  fill: #3e4444;
+  stroke: #bdcebe;
+  stroke-width: 1.5px; }
+
+.node text {
+  font: 10px sans-serif;
+  text-transform:lowercase;
+  fill: #fff; }
+
+.link, .link-alone {
+  fill: none;
+  stroke: #bdecbe;
+  stroke-width: 1.5px; }

@@ -25,7 +25,7 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-			<section data-markdown="rat_genome.md"  
+			<section data-markdown="rat_genome_zoom2.md"  
 				 data-separator="^---\n"  
 				 data-separator-notes="^Note:"  
 				 data-charset="iso-8859-15">
@@ -40,6 +40,7 @@
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
 				history: true,
+                progress: true,
 				slideNumber: true,
 				width:1100,
 				height:800,
@@ -54,9 +55,30 @@
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
+    				{ src: 'https://d3js.org/d3.v4.min.js' },
+                    { src: 'plugin/d3js/d3js.js' },
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
 				]
 			});
 		</script>
 	</body>
 </html>
+
+
+        <script>
+
+            // Full list of configuration options available at:
+            // https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+                controls: false,
+                history: true,
+                center: true,
+
+                // transition options: none/fade/slide/convex/concave/zoom
+                transition: 'fade',
+
+                // Optional reveal.js plugins
+                dependencies: [
+                                ]
+            });
+
