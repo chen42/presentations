@@ -1,22 +1,45 @@
-# Progress of using linked-reads to improve rn6
+## Updates on  using linked-reads to improve rn6
 
 <hr>
 
 ## Hao Chen
+## 0219, 2019
 
-### Department of Pharmacology
-### University of Tennessee Health Science Center
+#### Department of Pharmacology
+#### University of Tennessee Health Science Center
 
-Feb 19, 2019
-
----
-## Motivation
-
-* improve the rn6 for the short run
-* de novo assembly of other strains
 
 ---
-## Matrix view of linked-reads 
+## Outline
+
+1. Sequencing
+2. Identifying assembly errors using Matrix View
+3. Attempting to fix assembly errors using the Tigmint/ARCS/Sealer pipeline
+
+---
+## Section 1. Sequencing 
+* Rat genome in the Sanger Darwin Tree of Life Project
+  - Sanger (Kerstin Howe) / MCW (Mary Shimoyama)
+  - 60x PacBio sequencing
+  - 10x Genomics linked-reads
+  - BioNano 
+  - HiC
+* New Linked read data
+  - DSS/Mcwi
+  - FHH/Mcwi
+* TAGC
+  - BN Eve HudsonAlpha library
+  - BN male kidney
+
+---
+
+## Main motivations for the analysis
+  * Improve the rn6 in the short run
+  * Establish a pipeline for de novo assembly of other strains
+
+---
+
+## Section 2. Matrix view of linked-reads 
 
 <table><tr><td width=70%>
 <img src="./images/ratGenome/matrixview.png" width=100%>
@@ -28,6 +51,13 @@ Feb 19, 2019
 - <font color="royalblue">Highlighting the distance between genomic locations</font><p>
 
 </td></tr></table>
+
+---
+
+## SV of BN indicate assembly errors in rn6
+### (shared with other strains)
+
+<img src="./images/ratGenome/deletion.png" width=50%>
 
 ---
 
@@ -47,11 +77,12 @@ Overlay of structural variants from all nine samples. Each strain is set at 20% 
 
 ## Rotated matrix view
 
-<a href="https://drive.google.com/drive/folders/1UmUlWdmmF0ZWbJlugug_6TDUxulKXei4?usp=sharing">All Chromosomes</a>
+###  <a href="https://drive.google.com/drive/folders/1UmUlWdmmF0ZWbJlugug_6TDUxulKXei4?usp=sharing">All Chromosomes</a>
+
+Maybe publish this as a <a href="https://www.nature.com/sdata/"> Scientific Data </a> paper
 
 ---
-
-<h2 style="color:white"> Workflow of correcting assembly errors</h2>
+<h2 style="color:white">Section 3. Workflow of correcting assembly errors</h2>
 <section class="fig-container"
 		 data-fig-id="fig-diagram2"
 		 data-file="workflow.html"
@@ -67,6 +98,13 @@ Overlay of structural variants from all nine samples. Each strain is set at 20% 
 <iframe src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204047/pdf/12859_2018_Article_2425.pdf" width="100%" height=600px>
 
 ---
+
+## Jupiter plot
+
+<img src="https://github.com/JustinChu/JupiterPlot/raw/master/dm.svg?sanitize=true", width=60%>
+
+---
+
 ## Tigmint
 
 <img src="./images/ratGenome/before_after_tigmint.png">
@@ -77,7 +115,7 @@ n       n:500   L50     min     N75     N50     N25     E-size  max     name
 10513   9587    295     500     1168797 2842496 4794530 3297760 11.5e6  rn6.tigmint.n5.fa
 ```
 <small>
-**n**: Total number of sequences, **n:500**: Number of sequences at least 500 bp, **L50**: Number of sequences at least the N50 size, **LG50**: Number of sequences at least the NG50 size, **NG50**: Half the genome is in sequences of the NG50 size or larger, **min**: The size of the smallest sequence, **N80**: At least 80% of the assembly is in sequences of the N80 size or larger, **N50**: At least half the assembly is in sequences of the N50 size or larger, **N20**: At least 20% of the assembly is in sequences of the N20 size or larger, **E-size**: The sum of the square of the sequence sizes divided by the assembly size, **max**: The size of the largest sequence, **sum**: The sum of the sequence sizes, **name**: The file name of the assembly.
+**n**: Total number of sequences, **n:500**: Number of sequences at least 500 bp, **L50**: Number of sequences at least the N50 size, **min**: The size of the smallest sequence, **N75**: At least 75% of the assembly is in sequences of the N75 size or larger, **N50**: At least half the assembly is in sequences of the N50 size or larger, **N20**: At least 20% of the assembly is in sequences of the N20 size or larger, **E-size**: The sum of the square of the sequence sizes divided by the assembly size, **max**: The size of the largest sequence,  **name**: The file name of the assembly.
 </small>
 
 ---
@@ -105,18 +143,19 @@ n       n:500   L50     N75     N50     N25     E-size  max     name
 9384    8458    105     3054903 7191172 13.43e6 9813238 54.55e6 rn6_tigmint_n5_c5_m50-3000_e300000_a0.9
 9455    8529    108     2838875 7196867 13.09e6 8995813 41.66e6 rn6_tigmint_n5_c5_m50-3000_e400000_a0.9
 9549    8623    116     2566031 6641320 12.39e6 8408902 30.19e6 rn6_tigmint_n5_c5_m50-3000_e500000_a0.9
-# second round with BN eve using the largest N50 as input
+# second round with BN Eve using the largest N50 as input
 9267    8341    55      4513636 12.09e6 26.37e6 18.69e6 69.18e6 rn6_arc_stage1_c5_m50-3000_e600000_a0.9
 9276    8350    51      4337565 12.75e6 27.35e6 20.51e6 87.46e6 rn6_arc_stage1_c5_m50-3000_e700000_a0.9
 9316    8390    63      3943546 10.64e6 22.13e6 17.97e6 107.5e6 rn6_arc_stage1_c5_m50-3000_e800000_a0.9
-# second round with BN eve using the default setting as input
+# second round with BN Eve using the default setting as input
 9568    8642    143     2564965 5706095 9522946 6867201 23.96e6 rn6_arc_stage1_c5_m50-3000_e30000_a0.7
 9568    8642    143     2564965 5706095 9522946 6867201 23.96e6 rn6_arc_stage1_c5_m50-3000_e30000_a0.9
 
 ```
-<small>
-**n**: Total number of sequences, **n:500**: Number of sequences at least 500 bp, **L50**: Number of sequences at least the N50 size, **LG50**: Number of sequences at least the NG50 size, **NG50**: Half the genome is in sequences of the NG50 size or larger, **min**: The size of the smallest sequence, **N80**: At least 80% of the assembly is in sequences of the N80 size or larger, **N50**: At least half the assembly is in sequences of the N50 size or larger, **N20**: At least 20% of the assembly is in sequences of the N20 size or larger, **E-size**: The sum of the square of the sequence sizes divided by the assembly size, **max**: The size of the largest sequence, **sum**: The sum of the sequence sizes, **name**: The file name of the assembly.
-</small>
+
+ARCS parameters: **c**: number of read pairs aligned between two sequences; **m**: range for multiplicity (i.e. frequency of barcode); **e**: window size on the sequences used in the analysis
+**a**: ratio of barcode links of the second-most to top-most supported edge.
+
 
 ---
 ## Sealer
@@ -132,7 +171,7 @@ n       n:500   L50     N75     N50     N25     E-size  max     name
 Gaps closed = 16806
 11.4556%
 
-# round 2 using BN eve data
+# round 2 using BN Eve data
 129900 gaps found
 Gaps closed = 2644
 2.03541%
@@ -140,19 +179,40 @@ Gaps closed = 2644
 ---
 ## Chromonomer
 
+<img src="./images/ratGenome/chromonomer_chr20.png" width=40%>
+
+---
+
+## Chromonomer assembled genome 
+
 <img src="./images/ratGenome/rn6_chr_size.png" width=70%>
 
 ---
 
-## Dot plots
+## Skipping ARCS in the pipeline
+#### Y-axis: rn6_Tigmint_n5 -->Chromonomer with 10k markers 
+#### X-axis: rn6 
 
+<img src="./images/ratGenome/tigmint_n5_chromonomer_M10k.png" width=70%>
+
+---
+
+## rn6_Tigmint_n5_ARCSx2_Sealerx2_Chromonomer
 ### 10k or 283k markers
 
 <img src="./images/ratGenome/chromonomer_dotplots.png">
 
 ---
 
-## Jupiter plots
+## Skipping ARCS in the pipeline
+### vs BN de novo
+
+<img src="./images/ratGenome/jupiters_tigmint_no_arcs.png">
+
+---
+
+## rn6_Tigmint_n5_ARCSx2_Sealerx2_Chromonomer 
+### vs BN de novo
 
 <img src="./images/ratGenome/chromonomer_markersetsize.png">
 
@@ -160,8 +220,8 @@ Gaps closed = 2644
 
 ## Next steps
 
-* Additional data 
-	* BN eve library and BN male tissue shipped to TAGC
-* iCORN2 to fix small indels and SNPs
+* Generate a marker set with varying density 
 * Run LongRanger of rn6 alternates vs 10x chromium BN data
+* Use iCORN2 to fix small indels and SNPs
+* Additional data from TAGC
 
