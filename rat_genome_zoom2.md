@@ -67,7 +67,7 @@ Overlay of structural variants from all nine samples. Each strain is set at 20% 
 
 ## Rotated matrix view, chromosome 20
 
-<iframe src="./rotated_matrixView_chr20.pdf" width="100%" height=600px>
+<iframe src="./pdf/rotated_matrixView_chr20.pdf" width="100%" height=600px>
 
 ---
 
@@ -221,19 +221,34 @@ Gaps closed = 2644
 
 ---
 
+## Re-run LongRanger on rn6_alt 
+
+### chr19
+
+<iframe src="./pdf/compiled_chr19_side_by_side.pdf" width=100% height=600px>
+
+---
+
+## Re-run LongRanger on rn6_alt 
+
+### chr20
+
+<iframe src="./pdf/compiled_chr20_side_by_side.pdf" width=100% height=600px>
+
+---
 ## Summary
 
-* Matrix View plus SV calls from LongRanger indicate rn6 has many assembly errors
-* Tigmint/ARCS/Sealer/Chromonomer apperas to be able to fix some of the assembly errors.
-* Dense marker set will force SV to reappear in the final assembly 
-* Sparse marker set will cause some contigs to be excluded in the final assembly
+* Matrix View plus SV calls from LongRanger indicate rn6 has many assembly errors.
+* Tigmint/ARCS/Sealer/Chromonomer appears to be able to fix some of the assembly errors.
+* Dense marker set will force SV to reappear in the final assembly. 
+* Highly repetitive regions are likely excluded from the final assembly with lower marker density
 
 ---
 
 ## Next steps
 
 * Generate a marker set with varying density 
-* Run LongRanger of rn6 alternates vs 10x chromium BN data
+* Examine the LongRanger of rn6 alternates vs 10x chromium BN data
 * Use iCORN2 to fix small indels and SNPs
 * Additional data from TAGC
 * Maybe write a software for local re-assembly based on the idea of minimizing barcode spread.
