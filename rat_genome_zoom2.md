@@ -1,4 +1,4 @@
-## Updates on  using linked-reads to improve rn6
+# Updates on  using linked-reads to improve rn6
 
 <hr>
 
@@ -18,28 +18,24 @@
 
 ---
 ## Section 1. Sequencing 
-* Rat genome in the Sanger Darwin Tree of Life Project
+* Rat genome included in the Sanger Darwin Tree of Life Project
   - Sanger (Kerstin Howe) / MCW (Mary Shimoyama)
   - 60x PacBio sequencing
   - 10x Genomics linked-reads
   - BioNano 
   - HiC
-* New Linked read data
+* New linked read data from HudsonAlpha
   - DSS/Mcwi
   - FHH/Mcwi
-* TAGC
-  - BN Eve HudsonAlpha library
+* Samples shipped to TAGC
+  - BN Eve 10x library by HudsonAlpha 
   - BN male kidney
 
 ---
 
-## Main motivations for the analysis
-  * Improve the rn6 in the short run
-  * Establish a pipeline for de novo assembly of other strains
+##  Section 2.  Identify assembly errors in rn6 assembly
 
----
-
-## Section 2. Matrix view of linked-reads 
+#### Matrix view of linked-reads 
 
 <table><tr><td width=70%>
 <img src="./images/ratGenome/matrixview.png" width=100%>
@@ -48,16 +44,16 @@
 - <b>Plotting overlapping <font color="tomato">BARCODES</font><p></b>
 - Expecting a symmetric image alone x = y <p>
 - Expecting color fade away from the diagonal line<p>
-- <font color="royalblue">Highlighting the distance between genomic locations</font><p>
+- <font color="royalblue">Highlighting the physical proximity between genomic locations</font><p>
 
 </td></tr></table>
 
 ---
 
-## SV of BN indicate assembly errors in rn6
+## SV of BN indicates assembly errors in rn6
 ### (shared with other strains)
 
-<img src="./images/ratGenome/deletion.png" width=50%>
+<img src="./images/ratGenome/deletion.png" width=60%>
 
 ---
 
@@ -183,6 +179,13 @@ Gaps closed = 2644
 
 ---
 
+## Rat genetic markers
+
+
+<iframe src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027877/pdf/2241.pdf" width=100% height=600px>
+
+---
+
 ## Chromonomer assembled genome 
 
 <img src="./images/ratGenome/rn6_chr_size.png" width=70%>
@@ -218,10 +221,20 @@ Gaps closed = 2644
 
 ---
 
+## Summary
+
+* Matrix View plus SV calls from LongRanger indicates there are many assembly errors in rn6
+* Tigmint/ARCS/Sealer/Chromonomer apperas to be able to fix some of the assembly errors.
+* Dense marker set will force SV to reappear in the final assembly 
+* Sparse marker set will cause some contigs to be excluded in the final assembly
+
+---
+
 ## Next steps
 
 * Generate a marker set with varying density 
 * Run LongRanger of rn6 alternates vs 10x chromium BN data
 * Use iCORN2 to fix small indels and SNPs
 * Additional data from TAGC
+* Maybe write a software for local re-assembly based on the idea of minimizing barcode spread.
 
