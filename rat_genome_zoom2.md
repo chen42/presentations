@@ -33,7 +33,7 @@
 
 ---
 
-##  Section 2.  Identify assembly errors in rn6 assembly
+##  Section 2.  Identifying assembly errors in rn6 assembly
 
 #### Matrix view of linked-reads 
 
@@ -223,7 +223,7 @@ Gaps closed = 2644
 
 ## Summary
 
-* Matrix View plus SV calls from LongRanger indicates there are many assembly errors in rn6
+* Matrix View plus SV calls from LongRanger indicate rn6 has many assembly errors
 * Tigmint/ARCS/Sealer/Chromonomer apperas to be able to fix some of the assembly errors.
 * Dense marker set will force SV to reappear in the final assembly 
 * Sparse marker set will cause some contigs to be excluded in the final assembly
