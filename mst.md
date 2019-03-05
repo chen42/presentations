@@ -7,17 +7,16 @@ hchen@uthsc.edu
 
 March 5th 2019
 
-https://chen42.github.io/talks/ml.html
 
 ---
 
 
 ## Outline
 
-* Data, Big data
+* What makes data Big?
 * Unsupervised learning
-	* Dimension reduction (e.g., Principal component analysis)
-	* Clustering (e.g., Hierarchical clustering) 	
+	* Dimension reduction (e.g., principal component analysis)
+	* Clustering (e.g., hierarchical clustering) 	
 * Supervised learning
 	* Regression
 	* Deep neural networks	
@@ -42,6 +41,8 @@ https://chen42.github.io/talks/ml.html
 		* sensors can have millisecond resolutions
 	* Variety
 		* geospatial, audio, video
+	* High Dimension !! 
+  
 * Major difference between "Big" data and "small" data 
 	* analysis methods 
 	* analysis objective  
@@ -109,6 +110,12 @@ What kind of inherent structure can an algorithm discover?
 
 
 ---
+## t-SNE 
+
+<img src="https://lvdmaaten.github.io/tsne/examples/mnist_tsne.jpg" width=50% height=40%>
+
+
+---
 
 ## Data for Hierarchical clustering
 
@@ -153,12 +160,6 @@ The distribution is somewhat different between brain regions.
 
 Label of the sample is not part of the input data for clustering. And yet the samples from the same brain region stayed right next to each other.  
 
-
----
-
-## t-SNE 
-
-<img src="https://lvdmaaten.github.io/tsne/examples/mnist_tsne.jpg" width=50% height=40%>
 
 ---
 
@@ -298,9 +299,48 @@ print(p)
 ---
 ## A toy neural network 
 
-<a href="http://www.emergentmind.com/neural-network" target=_new>
+<a href="https://lecture-demo.ira.uka.de/neural-network-demo/?preset=Binary%20Classifier%20for%20circular%20data" target=_new>
 <img src="./images/deep_learning/toy.png">
 </a>
+
+---
+
+##  Convolutional Neural Networks
+
+<a href="http://scs.ryerson.ca/~aharley/vis/conv/">
+
+<img src="https://ujwlkarn.files.wordpress.com/2016/08/conv_all.png"></a>
+
+
+---
+
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/28117445">
+<img src="./images/deep_learning/dermatologist.png">
+</a>
+![](./images/deep_learning/skin_cnn.png)
+
+---
+
+##  Dimension reduction on the last hidden layer 
+
+![](./images/deep_learning/tSNE.png)
+
+---
+
+## Detecting Rodent Social Interaction Using a CNN
+
+### Labeling the data
+<img src="./images/deep_learning/labelRatBodyParts.png" width=50% height=70%>
+
+---
+
+<img src="./images/deep_learning/training_progression.png" width=70%>
+
+---
+
+## Object detection and reconstruction of behavior 
+
+<iframe width="1080" height="630" src="https://www.youtube.com/embed/9cmLqHrcnQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
@@ -344,49 +384,8 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 ---
 
-##  Convolutional Neural Networks
-
-<a href="http://scs.ryerson.ca/~aharley/vis/conv/">
-
-<img src="https://ujwlkarn.files.wordpress.com/2016/08/conv_all.png"></a>
-
-
----
-
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/28117445">
-<img src="./images/deep_learning/dermatologist.png">
-</a>
-![](./images/deep_learning/skin_cnn.png)
-
----
-
-##  Dimension reduction on the last hidden layer 
-
-![](./images/deep_learning/tSNE.png)
-
-
----
-
 <iframe src="pdf/deep_learning_genetics.pdf" width=100% height =600px>
 
----
-
-## Detecting Rodent Social Interaction Using a CNN
-
-### Labeling the data
-<img src="./images/deep_learning/labelRatBodyParts.png" width=50% height=70%>
-
----
-
-<img src="./images/deep_learning/training_progression.png" width=70%>
-
----
-
-## Object detection and reconstruction of behavior 
-
-<iframe width="1080" height="630" src="https://www.youtube.com/embed/9cmLqHrcnQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
 
 # ?
 
