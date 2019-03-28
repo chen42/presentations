@@ -3,7 +3,7 @@
 <hr>
 
 ## Hao Chen
-## March 28, 2019
+### March 28, 2019
 
 #### Department of Pharmacology
 #### University of Tennessee Health Science Center
@@ -39,14 +39,14 @@
 
 ## Rotated matrix view
 #### chromosome 19, mouse genome  (C57BL/6)
-
+David Ashbrook
 <iframe src="./pdf/compiled_chr19_B6.pdf" width="100%" height=600px>
 
 ---
 
 ## Overlapping of SV with genes and exons
 (SV = assembly error in this context)
-#### High quality calls
+#### High quality calls (1,133)
 
 
 <img src="./images/ratGenome/rn6_gene_exon_overlap_with_highQC_SV.png" width=90%>
@@ -55,7 +55,7 @@
 
 ## Overlapping of SV with genes and exons
 (SV = assembly error in this context)
-#### All calls
+#### All calls (17,288)
 
 <img src="./images/ratGenome/rn6_gene_exon_overlap_with_SV.png" width=90%>
 
@@ -75,6 +75,7 @@ https://chen42.shinyapps.io/shiny/
 ---
 
 ## cis- vs trans- eQTLs
+### five brain regions
 
 <img src="./images/ratGenome/five_regions_gemma_loco_all_eqtl.png" width=60%>
 
@@ -112,7 +113,6 @@ https://chen42.shinyapps.io/shiny/
   * BN eve and BN male 10X chromium data (joint calling SV is supported)
 * Run time: Feb 21 -- March 11 on ACF using one node with up to 80 threads (with several interruptions) 
 * Results
-  * Identified 
   * Assembled 3217 SVS, most with multiple contigs
   
 ```
