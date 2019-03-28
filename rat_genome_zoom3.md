@@ -31,16 +31,16 @@
 ---
 
 ##  Section 2. Estimate the impact of potential rn6 assembly 
-
 #### Rotated matrix view, chromosome 20, rn6
 
 <iframe src="./pdf/rotated_matrixView_chr20.pdf" width="100%" height=600px>
 
 ---
 
-## Rotated matrix view, chromosome 20, mouse genome 
+## Rotated matrix view
+#### chromosome 19, mouse genome  (C57BL/6)
 
-<iframe src="./pdf/rotated_matrixView_mm_chr20.pdf" width="100%" height=600px>
+<iframe src="./pdf/compiled_chr19_B6.pdf" width="100%" height=600px>
 
 ---
 
@@ -79,27 +79,67 @@ https://chen42.shinyapps.io/shiny/
 <img src="./images/ratGenome/five_regions_gemma_loco_all_eqtl.png" width=60%>
 
 ---
- 
-## Distribution of p values for cis- vs trans- eQTL
+## Distribution of the distance between SNP and TSS 
 
-<img src="./images/ratGenome/five_regions_gemma_loco_eqtl_density_of_logp.png" width=70%>
+<img src="./images/ratGenome/distribution_dist_snp_gstart_logp.png">
+
+
+---
+## Summary
+
+* rn6 assembly error does seem to affect analysis results.
+* but the scope appear to be limited based on High Quality SV calls and eQTL results.
+* it will be useful to compare mouse eQTL (especially brain) data.
 
 ---
 
-## Summary
+##  Section 3. Correcting Assembly Errors
 
-* Matrix View plus SV calls from LongRanger indicate rn6 has many assembly errors.
-* Tigmint/ARCS/Sealer/Chromonomer appears to be able to fix some of the assembly errors.
-* Dense marker set will force SV to reappear in the final assembly. 
-* Highly repetitive regions are likely excluded from the final assembly with lower marker density
+* Genome-wide approach
+  * Tigmint-ARCS-Sealer--
+* Local approach
+  * identify SV
+  * extract reads associated with the SV
+  * reconstruct region using de novo assembly  
+  * assess quality
+  * <a href="https://github.com/grocsvs/grocsvs">GROC-SVs</a> (<a href="https://www.nature.com/articles/nmeth.4366">Nature Methods 2017</a>) 
 
+---
+
+## GROC-SVs  analysis
+
+* Input  data
+  * BN eve and BN male 10X chromium data (joint calling SV is supported)
+* Run time: Feb 21 -- March 11 on ACF using one node with up to 80 threads (with several interruptions) 
+* Results
+  * Identified 
+  * Assembled 3217 SVS, most with multiple contigs
+  
+```
+total breakpoints       3713
+breakpoints
+               n=1      3484
+               n=2      99
+               n=3      5
+               n=4      4
+assembled       93 (3%)
+intrachromosomal        3110 (84%)
+ - median distance      111 kb
+ -    min distance      16 kb
+ -    max distance      231,298 kb
+private 641 (17%)
+ - pintrachromosomal    450 (70%)
+shared  3072 (83%)
+ - sintrachromosomal    2660 (87%)
+BN_eve  3398
+BN_son  3387
+```
 ---
 
 ## Next steps
 
-* Generate a marker set with varying density 
-* Examine the LongRanger of rn6 alternates vs 10x chromium BN data
-* Use iCORN2 to fix small indels and SNPs
-* Additional data from TAGC
-* Maybe write a software for local re-assembly based on the idea of minimizing barcode spread.
+* Generate a high density genetic marker set from HS data  (Tristan, Hao)
+* Examine GROC-SVS results (Hao)
+* Fix GC bias then try tigmint-arcs-pipeline again (Tristan) 
+* Working on manuscript describing rn6 assembly issues (Tristan, Hao, team)
 
