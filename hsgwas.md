@@ -44,6 +44,18 @@
 <cite> Chen, et al., Neuropsychopharmacology, 2011</cite>
 
 ---
+<section id="lickratio">
+
+## Measuring Subjective value 
+
+<img src="images/menthol/fig_lickRatio.png" width=50%>
+
+<hr align="left" width=15%>
+<p align=left>
+<cite> Wang, et al., Front Behav Neurosci, 2014</cite>
+
+---
+
 
 ## Does social environment play a role in tobacco addiction?
 
@@ -117,9 +129,16 @@
 
 ---
 
+## How does genetic association study work
+
+<img src="images/UoM/genetic_association.png" width=100%>
+
+
+---
+
 ## Heterogeneous stock rats 
 
-<img src="http://ratgenes.org/wp-content/uploads/2014/11/HSratsFig1.png" width=60%>
+<img src="images/UoM/hs_population.png" width=40%>
 
 ---
 ## Socially acquired nicotine self-administration
@@ -174,9 +193,6 @@
 			<tr style="border-bottom:1px solid #000;"><td>50-58</td><td>Extinction, Reinstatement </td></tr>
 </table>
 
-
-
-
 ---
 
 ##  Open field test
@@ -189,6 +205,13 @@
 
 ![](./images/p50/retreat2018/ms_social.png)
 ---
+
+## New social interaction test
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/Lwfg2t9nXcI?start=64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## Elevated plus maze
 ![](./images/p50/retreat2018/ms_plusmaze.png)
 
@@ -279,47 +302,73 @@ Loading of PCA
 
 ## Preliminary GWAS
 
-<table width=90%><tr><td with=33%>
-<h3> Infusion first 3 sessions </h3>
-<img width=85% src="images/p50/retreat2018/infusion_first3d.png">
-</td> <td width=33%>
-<h3> Infusion all sessions </h3>
-<img width=90% src="images/p50/retreat2018/infusion_alldays.png">
-</td><td width=33%>
-<h3> Prog. from session 1 to 10 </h3>
-<img width=90% src="images/p50/retreat2018/injectionSlop.png">
+###  <a href="#/lickratio"> Inactive lick </a> during progressive ratio test  
 
-</td>
-</tr>
-</table>
+<img width=90% src="images/UoM/round5_nicsa_nicsa_day11_inactivelick.png">
 
 ---
 
-## Progression of nicotine intake, locus zoom
+## Locus Zoom
 
-<img width=50% src="images/p50/ncam2.png">
+### Day 9, Inactive Lick
 
-<hr width=60%>
-
-Ncam2 cis-eQLT in orbitofrontal cortex: chr11	20230022 | adj. p = 4.73e-02
+<img width=70% src="images/UoM/nicsa_day9_inactivelick_chr16_5269449_190129_chr16_5269449.png">
 
 ---
 
-## Brain dissection for RNA purification
+## Locus Zoom 
 
-<img width=60% height="auto" src="images/p50retreat2017/RNAQuality.png">
+### Day 2, active lick
 
----
-## Gene expression as a trait for genome wide association  
-
-<img src="images/ratGenome/five_regions_gemma_loco_all_eqtl.png", width=50%>
-
-Total genes: 23,291 |  cis-eQLT: 3,606 | trans-eQTL: 1,656 
+<img width=70% src="images/UoM/nicsa_day2_activelick_chr8_22676236_190129_chr8_22676236.png">
 
 ---
 
+## Rab3d eQTL 
+
+<img class="stetch" src="images/UoM/rab3d_eqtl.png" >
+
+---
+
+## Locus Zoom
+
+### Progressive ratio, Inactive lick
+
+<img width=70% src="images/UoM/nicsa_day11_inactivelick_chr14_83803980_190129_chr14_83803980.png"> 
+
+---
+
+## Fgfr3 trans-eQTL
+
+<img class="stretch" src="images/UoM/fgfr3_trans-eqtl.png">
+
+---
+
+## Likely errors in the reference genome
+
+### chr14
+
+---
+
+## Likely errors in the reference genome
+
+### chr4
+
+---
+
+## eQTL mapping 
+
+#### Highly significant (red) spots away from the diagnal line indicate likely assembly error 
+
+<img src="images/ratGenome/five_regions_gemma_loco_all_eqtl.png" width=60%>
 
 
+---
+
+## Summary
+
+
+---
 ## Acknowledgements
 * Current lab members 
 	* **Tengfei Wang**, Research Associate 
