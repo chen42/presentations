@@ -44,18 +44,6 @@
 <cite> Chen, et al., Neuropsychopharmacology, 2011</cite>
 
 ---
-<section id="lickratio">
-
-## Measuring Subjective value 
-
-<img src="images/menthol/fig_lickRatio.png" width=50%>
-
-<hr align="left" width=15%>
-<p align=left>
-<cite> Wang, et al., Front Behav Neurosci, 2014</cite>
-
----
-
 
 <img src="images/titlepages/hoffman.png">
 
