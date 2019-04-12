@@ -15,7 +15,7 @@
 
 * A model of social learning enabled voluntary nicotine intake in rats
 * A genetic association study on this trait
-* A brief dive into the rat genome for a sanity check of our results
+* A brief dive into the rat genome while trying to understand the results 
 
 ---
 ## Tobacco use is the leading preventable cause of death 
@@ -29,7 +29,7 @@
 
 ## Does flavor play a role in tobacco addiction?
 
-<img src="images/natureamerican.jpeg">
+<img src="images/natureamerican.jpeg" width=60%>
 
 ---
 
@@ -56,8 +56,6 @@
 
 ---
 
-
-## Does social environment play a role in tobacco addiction?
 
 <img src="images/titlepages/hoffman.png">
 
@@ -126,13 +124,6 @@
 ## Rats adjust to dose change; strains differ 
 
 ![](./images/p50/retreat2018/inbred_intake_last3d.png)
-
----
-
-## How does genetic association study work
-
-<img src="images/UoM/genetic_association.png" width=100%>
-
 
 ---
 
@@ -300,25 +291,32 @@ Loading of PCA
 
 ---
 
-## Preliminary GWAS
+## How does genetic association study work
 
-###  <a href="#/lickratio"> Inactive lick </a> during progressive ratio test  
+<img src="images/UoM/genetic_association.png" width=100%>
 
-<img width=90% src="images/UoM/round5_nicsa_nicsa_day11_inactivelick.png">
 
 ---
 
-## Locus Zoom
+## Preliminary GWAS
 
-### Day 9, Inactive Lick
+###  Active lick </a> during a reinstatement test 
+
+<img width=90% src="images/UoM/round5_nicsa_nicsa_day20_activelick.png">
+
+---
+
+## Inactive Lick
+
+###  Locus Zoom
 
 <img width=70% src="images/UoM/nicsa_day9_inactivelick_chr16_5269449_190129_chr16_5269449.png">
 
 ---
 
-## Locus Zoom 
 
-### Day 2, active lick
+## Active lick
+### Locus Zoom 
 
 <img width=70% src="images/UoM/nicsa_day2_activelick_chr8_22676236_190129_chr8_22676236.png">
 
@@ -329,30 +327,67 @@ Loading of PCA
 <img class="stetch" src="images/UoM/rab3d_eqtl.png" >
 
 ---
+<section id="fgfr3">
 
-## Locus Zoom
+## Progressive ratio, Inactive lick
+### Locus Zoom
 
-### Progressive ratio, Inactive lick
-
+<a href="#/chr14">
 <img width=70% src="images/UoM/nicsa_day11_inactivelick_chr14_83803980_190129_chr14_83803980.png"> 
+</a>
 
 ---
 
 ## Fgfr3 trans-eQTL
 
+chr4, 103.5 Mb
+
 <img class="stretch" src="images/UoM/fgfr3_trans-eqtl.png">
 
 ---
 
-## Likely errors in the reference genome
+## Chromium linked-reads for whole genome sequencing
 
-### chr14
+<img src="images/ratGenome/chromium_linkedReads.png">
 
 ---
 
-## Likely errors in the reference genome
+## Matrix view of barcode overlap
 
-### chr4
+<img src="images/ratGenome/matrixview.png" width=60%>
+
+---
+
+## Data from BN-Eve indicate errors in rn6
+
+<img src="images/ratGenome/chr18_del_bn_both.png" width=60%>
+
+---
+
+## Especially the same SV is detected in other strains 
+
+<img src="images/ratGenome/deletion.png" width=50%>
+
+---
+<section id="chr14">
+## chr14, 82-83 Mb
+
+<table> <tr><td>
+
+<a href="#/fgfr3"><img src="images/UoM/sv_chr14_082000001-082500000_bn_both.png"> </a>
+</td><td>
+
+
+<a href="#/fgfr3"><img src="images/UoM/sv_chr14_082500001-083000000_bn_both.png">
+</a>
+</td></tr></table>
+---
+
+
+## chr4
+
+<img src="images/UoM/sv_chr4_00103000001-00103500000_bn_both.png" width=50%>
+
 
 ---
 
@@ -367,6 +402,15 @@ Loading of PCA
 
 ## Summary
 
+* Flavor cues affect nicotine self-administraton
+  *  taste and odor are associated with the aversive property of nicotine
+  *  cooling sensation is a conditioned reinforcer for nicotine
+* Social learning between rats facilitate nicotine self-administration  
+* Anxiety, novelty seeking  and social traits predict nicotine self-administration in a population of outbred rats 
+* GWAS can find genes associated nicotine phenotypes in outbred rats 
+* Linked-read sequencing data indicates errors in rat reference genome
+  * trans-eQTL can help identify some of these errors
+
 
 ---
 ## Acknowledgements
@@ -378,12 +422,12 @@ Loading of PCA
 	* *Xia Hong* | *Jie Shen* | *Wenyan Han* | *Pawandeep Kaur* | *Yanyan Lin* | *Xinyu Fan* | *Guang Shi*
 * Summer students 
 	* Abigale Salinero (REHU 2015) | Cindy Tay (REHU 2016) | Raven David (REHU 2017) | Christian Hurt (REHU 2018) | Chiyu Zhang 
-* P50 collaborators 
+* NIDA P50 collaborators 
 	* Abraham Palmer (UCSD) | Oksana Polaskaya (UCSD) | Apurva Chitre (UCSD) | Leah-Solberg Woods (Wake Forest) 
-* P30 collaborators 
+* NIDA P30 collaborators 
 	* Rob Williams (UTHSC) | Saunak Sen (UTHSC) | Laura Saba (UC Denver) 
-* U01 collaborators 
-	* Rob Williams (UTHSC) | Saunak Sen (UTHSC) | Laura Saba (UC Denver) 
+* NIDA U01 collaborators 
+	* Rob Williams (UTHSC) | Saunak Sen (UTHSC) 
 
 ---
 
