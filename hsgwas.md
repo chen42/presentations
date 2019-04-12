@@ -386,7 +386,7 @@ chr4, 103.5 Mb
 
 ## chr4
 
-<img src="images/UoM/sv_chr4_00103000001-00103500000_bn_both.png" width=50%>
+<img src="images/UoM/sv_chr4_00103500001-00104000000_bn_both.png" width=50%>
 
 
 ---
