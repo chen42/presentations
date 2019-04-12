@@ -1,51 +1,86 @@
-#  GWAS on Socially acquired nicotine 
-# self-administration in  
-# adolescent heterogeneous stock rats
+# Searching for genes associated with socially acquired nicotine 
+# self-administration in rats
 <hr color=orange >
-##	Hao Chen
-### University of Tennessee Health Science center
+###	Hao Chen
 
+#### Department of Pharmacology
+
+#### University of Tennessee Health Science center
+
+<font color="blue">April 12, 2019 @ University of Memphis</font>
 
 ---
 
-## Flavor cue does <a href="#/stfp">not</a> support nicotine self-administration
+## Outline
+
+* A model of social learning enabled voluntary nicotine intake in rats
+* A genetic association study on this trait
+* A brief dive into the rat genome for a sanity check of our results
+
+---
+## Tobacco use is the leading preventable cause of death 
+
+<img src="images/death.png">
+
+* Cigarette smoking is responsible for 90% of all lung cancers. 
+* On average, smokers die 10 years earlier than nonsmokers.
+
+---
+
+## Does flavor play a role in tobacco addiction?
+
+<img src="images/natureamerican.jpeg">
+
+---
+
+<section id ="cta">
+## Flavor cue does <u>not</u> support nicotine self-administration
+<a href="#/stfp">
 <img height:auto width=90% src="images/p50/retreat2018/flavorcue.png">
+</a>
 
 <hr align="left" width=15%>
 <p align=left>
 <cite> Chen, et al., Neuropsychopharmacology, 2011</cite>
+
+---
+
+## Does social environment play a role in tobacco addiction?
+
+<img src="images/titlepages/hoffman.png">
+
 
 
 ---
 
 ## Modeling social learning in rats
 
-<div id="left50">
-<img height:auto width=80% src="images/galef.protocol.narrower.png"> 
-<br>
-
+<table><tr><td width=50%>
+<img width=100% src="images/galef.protocol.narrower.png"> 
 
 <hr align="left" width=15%>
 <p align=left>
 <cite>Galef, Dev Psychobiol., 1982 </cite>
 </div>
 
-<div id="right50">
-<img height:auto width=80% src="images/Fig1.social.rats.withdemo.svg">
-	<br>
-	<hr align="left" width=15%>
-	<p align=left>
-	<cite> Wang, et al., Gene Brain Behav 2014 </cite>
-	</p>
+</td><td width=50%>
+<img width=100% src="images/Fig1.social.rats.withdemo.svg">
+<hr align="left" width=15%>
+<p align=left>
+<cite> Wang, et al., Gene Brain Behav 2014 </cite>
+</p>
 
-</div>
+</td></tr></table>
+
 
 ---
-
+<section id="stfp">
 
 ## Social learning induces nicotine 
 ## self-administration
+<a href="#/cta">
 <img height:auto width=90% src="images/npp/fig2.demo.dose2.png">
+</a>
 <hr align="left" width=15%>
 <p align=left>
 <cite> Chen, et al., Neuropsychopharmacology, 2011 </cite>
@@ -54,31 +89,37 @@
 
 ## Nicotine intake with appetitive vs aversive cues
 
+<table width=100%><td width=50%>
 
-<div id="left50">
 	<img width=90% src="images/quinine/pres.sacc_quinine.png" class="plain">
 	<br>
 	<hr align="left" width=15%>
 	<p align=left>
 	<cite> Wang, et al., Psychopharmacology, 2016 </cite>
 	</p>
-</div>
+	</td>
+<td width=50%>
+	<img width=100% src="images/Fig1.social.rats.withdemo.svg" class="plain">
 
-<div id="right50">
-	<img width=90% height=90% src="images/Fig1.social.rats.withdemo.svg" class="plain">
-</div>
+</td></table>
 
 ---
 
-## Socially acquired nicotine self-administration in 12 isogenic strains of rats
+## Familiar peers are more effective  
+
+<img src="images/npp/fig7.familiarPeer.eps.png">
+
+---
+
+## Rats adjust to dose change; strains differ 
 
 ![](./images/p50/retreat2018/inbred_intake_last3d.png)
 
 ---
 
-## heterogeneous stock rats 
+## Heterogeneous stock rats 
 
-<img src="http://ratgenes.org/wp-content/uploads/2014/11/HSratsFig1.png" width=50%>
+<img src="http://ratgenes.org/wp-content/uploads/2014/11/HSratsFig1.png" width=60%>
 
 ---
 ## Socially acquired nicotine self-administration
@@ -170,7 +211,7 @@
 
 <hr align="left" width=15%>
 <p align=left>
-<cite>Wang, et al., Sci Rep, accepted</cite>
+<cite>Wang, et al., Sci Rep, 2018</cite>
 </p>
 
 
@@ -184,7 +225,7 @@
 
 <hr align="left" width=15%>
 <p align=left>
-<cite>Wang, et al., Sci Rep, accepted</cite>
+<cite>Wang, et al., Sci Rep, 2018</cite>
 </p>
 
 
@@ -192,11 +233,11 @@
 
 ## Interesting insights
 
-![](./images/p50/retreat2018/correlation_scatters.png)
+<img src="images/p50/retreat2018/correlation_scatters.png" width=70%>
 
 <hr align="left" width=15%>
 <p align=left>
-<cite>Wang, et al., Sci Rep, accepted</cite>
+<cite>Wang, et al., Sci Rep, 2018</cite>
 </p>
 
 
@@ -209,7 +250,7 @@ Loading of PCA
 
 <hr align="left" width=15%>
 <p align=left>
-<cite>Wang, et al., Sci Rep, accepted</cite>
+<cite>Wang, et al., Sci Rep, 2018</cite>
 </p>
 
 
@@ -218,19 +259,19 @@ Loading of PCA
 
 |Phenotype | Sex| Variance Explained| 
 |---|---|---|---|
-|Infusion, first 3 d| F| 0.18| 
-|Infusion, first 3 d| M| 0.17| 
-|Infusion, last 3 d | F | 0.12| 
-|Infusion, last 3 d | M | 0.20| 
-|Infusion, progressive ratio | F | 0.14| 
-|Infusion, progressive ratio | M | 0.18| 
-|Active spout lick, reinstatement | F | 0.08| 
-|Active spout lick, reinstatement | F | 0.19| 
+|Infusion, first 3 d| F| 0.16| 
+|Infusion, first 3 d| M| 0.14| 
+|Infusion, last 3 d | F | 0.09| 
+|Infusion, last 3 d | M | 0.19| 
+|Infusion, progressive ratio | F | 0.16| 
+|Infusion, progressive ratio | M | 0.19| 
+|Active spout lick, reinstatement | F | 0.10| 
+|Active spout lick, reinstatement | F | 0.17| 
 |||||
 
 <hr align="left" width=15%>
 <p align=left>
-<cite>Wang, et al., Sci Rep, accepted</cite>
+<cite>Wang, et al., Sci Rep, 2018</cite>
 </p>
 
 
@@ -269,25 +310,31 @@ Ncam2 cis-eQLT in orbitofrontal cortex: chr11	20230022 | adj. p = 4.73e-02
 <img width=60% height="auto" src="images/p50retreat2017/RNAQuality.png">
 
 ---
+## Gene expression as a trait for genome wide association  
 
+<img src="images/ratGenome/five_regions_gemma_loco_all_eqtl.png", width=50%>
 
-<img src="./images/p50/OF_gemma_loco_eqtl_rmpc1_5_all_genes_eigenMT.png", width=50%>
-
-total genes: 23,291 |  cis-eQLT: 3,606 | trans-eQTL: 1,656 
+Total genes: 23,291 |  cis-eQLT: 3,606 | trans-eQTL: 1,656 
 
 ---
+
+
 
 ## Acknowledgements
 * Current lab members 
 	* **Tengfei Wang**, Research Associate 
 	* **Angel Garcia Martinez**, Research Assistant 
+	* **Hongyan Zhu**, Visiting Scholar
 * Past lab members 
-	* *Xia Hong* | *Jie Shen* | *Wenyan Han* | *Pawandeep Kaur* | *Yanyan Lin* | *Xinyu Fan*  
+	* *Xia Hong* | *Jie Shen* | *Wenyan Han* | *Pawandeep Kaur* | *Yanyan Lin* | *Xinyu Fan* | *Guang Shi*
 * Summer students 
-	* Abigale Salinero (REHU 2015) | Cindy Tay (REHU 2016) | Raven David (REHU 2017) | Christian Hurt (REHU 2018) 
+	* Abigale Salinero (REHU 2015) | Cindy Tay (REHU 2016) | Raven David (REHU 2017) | Christian Hurt (REHU 2018) | Chiyu Zhang 
 * P50 collaborators 
-	* Abraham Palmer | Oksana Polaskaya | Apurva Chitre | Leah-Solberg Woods  | Rob Williams | Laura Saba |
-
+	* Abraham Palmer (UCSD) | Oksana Polaskaya (UCSD) | Apurva Chitre (UCSD) | Leah-Solberg Woods (Wake Forest) 
+* P30 collaborators 
+	* Rob Williams (UTHSC) | Saunak Sen (UTHSC) | Laura Saba (UC Denver) 
+* U01 collaborators 
+	* Rob Williams (UTHSC) | Saunak Sen (UTHSC) | Laura Saba (UC Denver) 
 
 ---
 
