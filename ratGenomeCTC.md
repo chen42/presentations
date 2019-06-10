@@ -1,5 +1,4 @@
-# Opportunities to Improve the Rat Reference Genome (rn6) 
-
+# Identifying assembly errors in the rat reference genome (rn6) 
 
 <hr>
 
@@ -10,9 +9,12 @@
 
 CTC, Rat Genomics 2019  
 
+* [rn6err.opar.io](http://rn6err.opar.io)
+
 ---
 
 ## History of Rat Reference Genome
+
 <table><tr><td><img src="images/ratGenome/nature-rat_genome_cover_v428-n6982.jpeg"></td><td>
 <table>
 <tr><td>	rn6	</td><td> Jul. 2014 </td><td> 	RGSC Rnor_6.0  (6X WGS, 10X PacBio, BAC clone)</td></tr>
@@ -24,6 +26,7 @@ CTC, Rat Genomics 2019
 </table>
 
 </td></tr><table>
+
 ---
 
 ## Chromium linked-reads 
@@ -152,9 +155,9 @@ Overlay of structural variants from all nine samples. Each strain is set at 20% 
 ---
 
 ## In comprison,  a mouse chromosome 
+Courtesy of David Ashbrook
 <iframe src="./pdf/compiled_chr19_B6.pdf" width="100%" height=600px>
 
-Courtesy of David Ashbrook
 
 ---
 
@@ -179,12 +182,6 @@ Courtesy of David Ashbrook
 ### five brain regions
 
 <img src="./images/ratGenome/five_regions_gemma_loco_all_eqtl.png" width=60%>
-
----
-
-## Distribution of the distance between SNP and TSS 
-
-<img src="./images/ratGenome/distribution_dist_snp_gstart_logp.png">
 
 ---
 
@@ -249,67 +246,51 @@ OUTPUT
 
 ---
 
+### Limitations
+
+* Dense marker set based on rn6 will force SV to reappear in the final assembly. 
+* Highly repetitive regions are likely excluded from the final assembly with lower marker density
+* Highly repetitive regions are not easily solved. 
+* LongRanger does not report all SV (e.g. insersions)
+
+---
+
 ## Summary
 
 * Matrix View plus SV calls from LongRanger indicate rn6 has many assembly errors.
 * Tigmint/ARCS/Sealer/Chromonomer appears to be able to fix some of the assembly errors.
-* Dense marker set will force SV to reappear in the final assembly. 
-* Highly repetitive regions are likely excluded from the final assembly with lower marker density
-
----
-## Summary
-
 * rn6 assembly error does seem to affect analysis results.
 * but the scope appear to be limited based on High Quality SV calls and eQTL results.
-* it will be useful to compare mouse eQTL (especially brain) data.
 
----
-
-##  Section 3. Correcting Assembly Errors
-
-* Genome-wide approach
-  * Tigmint-ARCS-Sealer--
-* Local approach
-  * identify SV
-  * extract reads associated with the SV
-  * reconstruct region using de novo assembly  
-  * assess quality
-  * <a href="https://github.com/grocsvs/grocsvs">GROC-SVs</a> (<a href="https://www.nature.com/articles/nmeth.4366">Nature Methods 2017</a>) 
+<font size=20><a href="http://rn6err.opar.io">http://rn6err.opar.io</a>
 
 ---
 
 ## On going work
 
-* Generate a high density genetic marker set from HS data  (Tristan, Hao)
-* Fix GC bias then try tigmint-arcs-pipeline again (Tristan) 
-* Generate a marker set with varying density 
-* Examine the LongRanger of rn6 alternates vs 10x chromium BN data
+* Generate a high density genetic marker set from HS data 
+* Fix GC bias then try tigmint-arcs-pipeline  
+* Reconstruct structural variant for generating strain specific genome  
 
 ---
 
 ## People involved
 
-<li> Mindy Dwinell (BN-Eve, BN-male)
+* Robert Williams, Pjotr Prins (UTHSC)
+* Mindy Dwinell (MCW) 
+* Tristan de Jong, Victor Guryev (University of Groningen) 
+* Pasi Rastas (University of Helsinki)  
+* Abaraham Palmer and Jianjun Gao (UCSD)
+* Special thanks to Jonathan Pollock (NIDA)
 
-<li> Eva E Redei (WLI/WMI strains)
+<strong>Source of funding:</strong>  Williams (CITG, UTHSC) | Williams/Saba/Sen (NIDA P30) | Dwinell (P24)  | Chen/Williams (U01) | Palmer (NIDA P50) | Mattson/Liang/Cowley/Geurts (NLHBI P1) | Akil/Li (NIDA U01) 
 
-<li> Victor Guryev (Genome alignment, SNP) 
+<p>
 
-<li> Tristan de Jong (Genome analysis) 
+<font color="darkred"><b> Data and results are available!  email: hchen@uthsc.edu</b></font>
 
-<li> Arthur Centeno (Data transfer and archive)
+<br>
 
-<li> Robert W Williams (Mastermind, and $$$)
-
-<li> Advanced Computing Facility, JICS at UTK/Oak Ridge National Lab.
-
-
-<font color="darkred"><b> Data and results are available! </b></font>
-
----
-## Large SV shared among BN, F344, and LEW 
-
-<img src="./images/ratGenome/Venn.png" width=40%>
 
 ---
 
