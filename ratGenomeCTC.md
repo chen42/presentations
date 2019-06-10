@@ -4,12 +4,23 @@
 
 ## Hao Chen, Ph.D.
 
-### Department of Pharmacology
 ### University of Tennessee Health Science Center, Memphis, TN
 
-CTC, Rat Genomics 2019  
+CTC / Rat Genomics 2019  
 
-* [rn6err.opar.io](http://rn6err.opar.io)
+---
+
+## Outline
+
+* motivation
+* 10X chromium library prep 
+* matrix view
+* there are errors in rn6
+* evaluate the impact of these errors
+* attempts to fix these errors
+* a website for looking up potential errors
+
+<font size=20><a href="http://rn6err.opar.io">http://rn6err.opar.io</a>
 
 ---
 
@@ -30,11 +41,10 @@ CTC, Rat Genomics 2019
 ---
 
 ## Chromium linked-reads 
-#### by 10X GENOMICS 
+ <font color="tomato">Detect large (thousand - million bases) structural variants </font>
 
 <img src="./images/ratGenome/chromium_linkedReads.png">
 
-* <font color="tomato">Detecting large structural variants </font>
 
 ---
 
@@ -42,25 +52,32 @@ CTC, Rat Genomics 2019
 
 <table>
 <thead>
-<tr><th>Strain</th><th>Sex</th><th>Mapped %</th><th>Mean Depth(X) </th><th>Short Deletion Calls</th><th>Large SV</th></tr>
-</thead>
-<tr><td>BN_Eve</td><td>female</td><td>93.8</td><td>34.9</td><td>15,181</td><td>1,699</td></tr>
-<tr><td>BN_Male</td><td>male</td><td>94.8</td><td>40.5</td><td>16,894</td><td>1,740</td></tr>
-<tr><td>BN_Both</td><td>mix</td><td>94.4</td><td>75.5</td><td>17,277</td><td>1,176</td></tr>
-<tr><td>LewCrl</td><td>male</td><td>93.2</td><td>38.7</td><td>33,814</td><td>2,501</td></tr>
-<tr><td>LewNHSd</td><td>male</td><td>92.8</td><td>37.7</td><td>32,220</td><td>2,361</td></tr>
-<tr><td>F344DuCrl</td><td>male</td><td>95.0</td><td>40.0</td><td>36,270</td><td>2,096</td></tr>
-<tr><td>F344NCrl</td><td>male</td><td>94.8</td><td>39.9</td><td>36,233</td><td>2,002</td></tr>
-<tr><td>F344NHSd</td><td>male</td><td>91.4</td><td>34.7</td><td>32,718</td><td>1,919</td></tr>
-<tr><td>WMI</td><td>male</td><td>93.6</td><td>35.1</td><td>35,475</td><td>2,712</td></tr>
-<tr><td>WLI</td><td>male</td><td>92.7</td><td>29.1</td><td>29,397</td><td>2,778</td></tr>
-<tr><td>DSS_multi</td><td>male</td><td>93.1</td><td>68.4</td><td>26,558</td><td>1,728</td></tr>
-<tr><td>FHH_multi</td><td>male</td><td>94.6</td><td>71.3</td><td>29,841</td><td>1,648</td></tr>
+<tr><th>Strain</th><th>Sex</th><th>>20kb %	</th>	<th>Mapped %</th><th>Mean Depth(X) </th><th>Short Deletion Calls</th><th>Large SV</th></tr> </thead>
+<tr><td>BN_Eve</td><td>female</td><td>84.5</td>	<td>93.8</td><td>34.9</td><td>15,181</td><td><b>1,699</b></td></tr>
+<tr><td>BN_Male</td><td>male</td><td>72.3</td>	<td>94.8</td><td>40.5</td><td>16,894</td><td><b>1,740</b></td></tr>
+<tr><td>BN_Both</td><td>mix</td><td>78.1</td>	<td>94.4</td><td>75.5</td><td>17,277</td><td><b>1,176</b></td></tr>
+<tr><td>LewCrl</td><td>male</td><td>68.0</td>	<td>93.2</td><td>38.7</td><td>33,814</td><td>2,501</td></tr>
+<tr><td>LewNHSd</td><td>male</td><td>61.3</td>	<td>92.8</td><td>37.7</td><td>32,220</td><td>2,361</td></tr>
+<tr><td>F344DuCrl</td><td>male</td><td>77.6</td>	<td>95.0</td><td>40.0</td><td>36,270</td><td>2,096</td></tr>
+<tr><td>F344NCrl</td><td>male</td><td>80.0</td>	<td>94.8</td><td>39.9</td><td>36,233</td><td>2,002</td></tr>
+<tr><td>F344NHSd</td><td>male</td><td>68.4</td>	<td>91.4</td><td>34.7</td><td>32,718</td><td>1,919</td></tr>
+<tr><td>WMI</td><td>male</td><td>61.4</td> 	<td>93.6</td><td>35.1</td><td>35,475</td><td>2,712</td></tr>
+<tr><td>WLI</td><td>male</td><td>48.9</td>	<td>92.7</td><td>29.1</td><td>29,397</td><td>2,778</td></tr>
+<tr><td>DSS_multi</td><td>male</td><td>36.6</td>	<td>93.1</td><td>68.4</td><td>26,558</td><td>1,728</td></tr>
+<tr><td>FHH_multi</td><td>male</td><td>39.3</td>	<td>94.6</td><td>71.3</td><td>29,841</td><td>1,648</td></tr>
 <table>
+
 
  Generated using LongRanger software ver 2.2.2
 
 ---
+
+## Barcode overlap depends on genomic distance
+
+<img src="images/ratGenome/barcode_overlap.png" width=70%>
+
+---
+
 
 ## Matrix view of linked-reads 
 
@@ -246,12 +263,12 @@ OUTPUT
 
 ---
 
-### Limitations
+## Limitations
 
-* Dense marker set based on rn6 will force SV to reappear in the final assembly. 
-* Highly repetitive regions are likely excluded from the final assembly with lower marker density
-* Highly repetitive regions are not easily solved. 
-* LongRanger does not report all SV (e.g. insersions)
+* LongRanger does not report all structural variants 
+* A genetic map is needed to arrange scaffolds into chromosomes
+	* Highly repetitive regions are likely excluded from the final assembly with lower marker density
+	* Dense marker set based on rn6 will force mistakes to reappear in the new assembly. 
 
 ---
 
@@ -261,16 +278,9 @@ OUTPUT
 * Tigmint/ARCS/Sealer/Chromonomer appears to be able to fix some of the assembly errors.
 * rn6 assembly error does seem to affect analysis results.
 * but the scope appear to be limited based on High Quality SV calls and eQTL results.
+* We need to include other sequencing technologies
 
 <font size=20><a href="http://rn6err.opar.io">http://rn6err.opar.io</a>
-
----
-
-## On going work
-
-* Generate a high density genetic marker set from HS data 
-* Fix GC bias then try tigmint-arcs-pipeline  
-* Reconstruct structural variant for generating strain specific genome  
 
 ---
 
@@ -290,7 +300,4 @@ OUTPUT
 <font color="darkred"><b> Data and results are available!  email: hchen@uthsc.edu</b></font>
 
 <br>
-
-
----
 
