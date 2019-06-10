@@ -274,10 +274,9 @@ OUTPUT
 
 ## Summary
 
-* Matrix View plus SV calls from LongRanger indicate rn6 has many assembly errors.
-* Tigmint/ARCS/Sealer/Chromonomer appears to be able to fix some of the assembly errors.
-* rn6 assembly error does seem to affect analysis results.
-* but the scope appear to be limited based on High Quality SV calls and eQTL results.
+* Matrix View plus SV calls from LongRanger indicate rn6 has many errors.
+* rn6 errors do seem to affect some analysis results
+* *but* the scope appear to be limited based on High Quality SV calls and eQTL results.
 * We need to include other sequencing technologies
 
 <font size=20><a href="http://rn6err.opar.io">http://rn6err.opar.io</a>
